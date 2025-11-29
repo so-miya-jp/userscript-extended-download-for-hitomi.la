@@ -459,7 +459,7 @@ if (typeof download_gallery != 'undefined') {
                     sex = "female";
                     n = t.slice(0, -1).trimEnd();
 
-                } else if (v.endsWith("♂")) {
+                } else if (t.endsWith("♂")) {
                     sex = "male";
                     n = t.slice(0, -1).trimEnd();
 
@@ -742,9 +742,7 @@ if (typeof limitLists !== 'undefined') {
 		}
 	}
 
-	limitLists = function() {
-		original_limitLists();
-
+    function replace_node() {
 		//検索一覧
 		$(".relatedtags li a").each(add_tags_title);
 		$(".artist-list li a").each(add_artists_title);
@@ -762,5 +760,12 @@ if (typeof limitLists !== 'undefined') {
 		$(".relatedtags li a").each(add_tags_title);
 		$(".artist-list li a").each(add_artists_title);
 		$(".dj-desc td:contains('Series') ~ td li a").each(add_series_title);
+    }
+
+	limitLists = function() {
+		original_limitLists();
+        replace_node();
 	};
+
+    setTimeout(replace_node, 200);
 }
