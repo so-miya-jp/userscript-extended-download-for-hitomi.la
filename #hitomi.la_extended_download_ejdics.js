@@ -22,6 +22,7 @@ var artist_ejdic = {
 ,"abbb" : "ABBB"
 ,"abu" : "ABU"
 ,"acid.909" : "Acid・909"
+,"agape" : "Agape"
 ,"akr" : "AKR"
 ,"alber" : "Alber"
 ,"am-dvl" : "AM-DVL"
@@ -98,8 +99,10 @@ var artist_ejdic = {
 ,"kat" : "KAT"
 ,"katzeh" : "Katzeh"
 ,"kdash" : ["K/DASH", "K／DASH"]
+,"kinn" : "KINN"
 ,"kloah" : "Kloah"
 ,"niwa yukari" : ["KOALA", "生皮ＫＯＡＬＡ"]
+,"koi nobori" : "Koiのぼり"
 ,"ks" : "KS"
 ,"kumasteam" : "KumaSteam"
 ,"k-ko" : "K子"
@@ -209,6 +212,7 @@ var artist_ejdic = {
 ,"r-ex" : "R-Ex"
 ,"reys" : ["REY’s.", "REY'S."]
 ,"re shimashima" : "Re:しましま"
+,"rhasta" : "Rhasta"
 ,"ribyuhki" : ["Rib:y[uhki]", "リブユウキ"]
 ,"rin-45 degrees celsius" : ["Rin-45C", "Rin-45℃"]
 ,"rinrin" : "RINRIN"
@@ -228,6 +232,7 @@ var artist_ejdic = {
 ,"saipaco." : "SAIPACo."
 ,"sas" : "SAS"
 ,"sasar" : "sasaR"
+,"sayika" : "Sayika"
 ,"sgk" : ["SGK", "えすじーけー"]
 ,"shock-art" : "Shock-Art"
 ,"shuko" : "SHUKO"
@@ -499,6 +504,7 @@ var artist_ejdic = {
 ,"aoyama reo" : "青山怜央"
 ,"akabon" : "あかBON"
 ,"aka marl" : ["赤Marl", "赤丸"]
+,"akaiguppy" : "赤いグッピー"
 ,"akaishi shiroishi" : "あかいししろいし"
 ,"akai suisei" : "あかいすいせい"
 ,"akai nibura" : "赤井にぶら"
@@ -511,6 +517,7 @@ var artist_ejdic = {
 ,"akausu ko" : "赤薄紅"
 ,"akaume" : "あかうめ"
 ,"akae shirou" : "朱江士朗"
+,"akae neo" : "赤絵ねお"
 ,"akao" : "朱尾"
 ,"akaou" : "赤王"
 ,"akaozaka" : "朱尾坂"
@@ -638,6 +645,7 @@ var artist_ejdic = {
 ,"akutsu shun" : "阿久津俊"
 ,"akutenkou" : "悪天候"
 ,"aguni" : "あぐに"
+,"akuno toujou" : "悪の東杖"
 ,"akubinium" : "あくびにうむ"
 ,"akubine kokoro" : "阿久美寝心"
 ,"acbins" : "あくびんす"
@@ -650,6 +658,7 @@ var artist_ejdic = {
 ,"ako" : "アコ"
 ,"akow kazumi" : "亜神和美"
 ,"akoko." : "あここ。"
+,"akosuke" : "あこ助"
 ,"agobitch nee-san" : "アゴビッチ姉さん"
 ,"asai ichiko" : ["あさいいちこ", "浅井市子"]
 ,"asai neno" : "あさい寧乃"
@@ -1063,6 +1072,7 @@ var artist_ejdic = {
 ,"aruma" : "あるま"
 ,"arumajiki" : "或真じき"
 ,"arumajiro" : ["あるまじろう", "安藤慈朗"]
+,"arumamai ayuka plus" : ["あるま", "在誠舞あゆか＋"]
 ,"arumi" : "アルミ"
 ,"aru ra une" : "アル・ラ・ウネ"
 ,"arurumo" : "あるるも"
@@ -1231,6 +1241,7 @@ var artist_ejdic = {
 ,"izumi yuujiro" : "泉ゆうじろ～"
 ,"izumi yukiru" : "和泉ゆきる"
 ,"izumi yuhina" : "いずみゆひな"
+,"izumi rion" : "和泉リオン"
 ,"izumi rin" : "和泉凛"
 ,"izumi rei" : "いずみれい"
 ,"izumo ayuka" : "出雲アユカ"
@@ -1509,6 +1520,7 @@ var artist_ejdic = {
 ,"wolf" : "うぉるふ"
 ,"ukita tougo" : "宇岐多冬梧"
 ,"ukita tomoru" : "浮田ともる"
+,"uguisu" : "うぐいす"
 ,"uguis anco" : "鶯あんこ"
 ,"uguisu kagura" : "鶯神楽"
 ,"ugetsu" : "ウゲツ"
@@ -1566,6 +1578,7 @@ var artist_ejdic = {
 ,"utamiya" : "歌宮"
 ,"uchi-uchi keyaki" : ["内々けやき", "内々欅"]
 ,"uchigawa" : "ウチガワ"
+,"uchikubi gokumon" : "浮乳首極悶"
 ,"uchida koneri" : "内田こねり"
 ,"uchino bungo" : "うちの文吾"
 ,"uchi mikitaka" : "ウチミキタカ"
@@ -1597,6 +1610,7 @@ var artist_ejdic = {
 ,"unikura" : "うに蔵"
 ,"unisuke" : "うにすけ"
 ,"uni toshiki" : "ウニトシキ"
+,"unini seven" : "うにに☆せぶん"
 ,"unimaru" : "uni:maru"
 ,"unou" : "右脳"
 ,"uno katsumi" : "宇野かつみ"
@@ -1617,6 +1631,7 @@ var artist_ejdic = {
 ,"umi suzume" : "雨美すずめ"
 ,"umida ei" : "海田泳"
 ,"umi tamako" : "うみたまこ"
+,"umineko akira" : "海猫明"
 ,"umineko kamome" : "海猫かもめ"
 ,"umi no kyuuban" : "海の吸盤"
 ,"umino sachi" : "海野幸"
@@ -1811,6 +1826,7 @@ var artist_ejdic = {
 ,"erocchi" : "エロッチ"
 ,"ero no teishokuya" : "エロの定食屋"
 ,"ero murasaki" : "エロムラサキ"
+,"eroya chaos" : "絵ろ屋かおす"
 ,"engawa suguru" : "エンガワ卓"
 ,"enji" : "エンジ"
 ,"enzo enzou" : "エンゾ円蔵"
@@ -2332,6 +2348,7 @@ var artist_ejdic = {
 ,"kaji-chan" : "かじちゃん"
 ,"kaji naoki" : "梶なおき"
 ,"kashiba toshizou" : "樫葉歳三"
+,"kaji makoto" : "カジマコト"
 ,"kashimada shiki" : "鹿島田しき"
 ,"kashi michinoku" : "KASHIみちのく"
 ,"kajimura kajima" : "咲村kajima"
@@ -2459,6 +2476,7 @@ var artist_ejdic = {
 ,"gudl" : "Gudl"
 ,"quatraise" : "カトレーゼ"
 ,"kana" : ["華名+1", "カナ"]
+,"kana c" : "かなＣ"
 ,"kanaisei jitenshasougyou" : "家内制自転車操業。"
 ,"kanakura waka" : "七々倉和香"
 ,"kanaguri" : "かなぐり"
@@ -2754,6 +2772,7 @@ var artist_ejdic = {
 ,"kisaki noah" : "希咲のあ"
 ,"kizakuradou donkichi" : "黄櫻堂ドン吉"
 ,"kisara ai" : "きさら藍"
+,"kisaragi otu" : "如月02"
 ,"kisaragi gunma" : "如月群真"
 ,"jirou kisaragi" : "如月次郎"
 ,"kisaragi natsumi" : "如月夏水"
@@ -3042,6 +3061,7 @@ var artist_ejdic = {
 ,"kusakabe rei" : "草壁レイ"
 ,"kusakami akira" : "草上明"
 ,"kusatsu terunyo" : "草津てるにょ"
+,"kurikura kuro" : "久里鞍くろ"
 ,"kusanagi tonbo" : ["草凪蜻蛉", "草凪とんぼ"]
 ,"kusano kouichi" : ["草野紅壱", "草薙紅"]
 ,"kusano takayuki" : "草野たかゆき"
@@ -3100,6 +3120,7 @@ var artist_ejdic = {
 ,"kunel" : "く～ねる"
 ,"kuno touya" : "九野十弥"
 ,"kuba yodomu" : "紅端よどむ"
+,"nikurotsuchi hoshi" : "くびなが"
 ,"kubukurin" : "九部玖凛"
 ,"kubo shiyun" : "久保しゆん"
 ,"kubota chihiro" : "久保田チヒロ"
@@ -3539,6 +3560,7 @@ var artist_ejdic = {
 ,"kotomaro" : "ことまろ"
 ,"kotomi yo-ji" : "ことみようじ"
 ,"kotoyoshi yumisuke" : "琴義弓介"
+,"kotora" : "ことら"
 ,"kotori ran" : "琴李蘭"
 ,"kotowari" : "理～ことわり～"
 ,"konakoma" : "粉駒"
@@ -4498,6 +4520,7 @@ var artist_ejdic = {
 ,"shironeko sanbou" : "白猫参謀"
 ,"shirono jia" : "白野ジア"
 ,"takaku tubby" : ["シロノマヒロ", "高句タビー"]
+,"shiro paka" : "シロパカ"
 ,"shiro hatori" : "白ハトリ"
 ,"shiroha reba" : "白羽れば"
 ,"sirofugu" : "白フグ"
@@ -4544,6 +4567,7 @@ var artist_ejdic = {
 ,"shindou naoto" : "新堂なおと"
 ,"shindou nobumichi" : "新藤ノブミチ"
 ,"shindou hajime" : "新道一"
+,"shindou mayumi" : "シンドウマユミ"
 ,"shindou michihiro" : "新堂道弘"
 ,"sindoll" : "シンドール"
 ,"jinnai" : "ジンナイ"
@@ -4585,6 +4609,7 @@ var artist_ejdic = {
 ,"suehirogari" : ["すえひろがり", "末広雅里"]
 ,"suemitsu dicca" : "すえみつぢっか"
 ,"sueyuu" : "すえゆう"
+,"sugai" : "スガイ"
 ,"sugaishi" : "すがいし"
 ,"sukage" : "須影"
 ,"sugane fleen" : "スガネフリーン"
@@ -4625,6 +4650,7 @@ var artist_ejdic = {
 ,"suzukake koromo" : ["篠懸ころも", "鈴懸ころも"]
 ,"suzuka sakito" : "涼加早希兎"
 ,"suzugami" : "スズガミ"
+,"suzukawa rino" : "鈴川梨乃"
 ,"suzuki akoni" : "鈴月あこに"
 ,"suzuki address" : "鈴木あどれす"
 ,"suzuki amaharu" : "涼樹天晴"
@@ -5015,6 +5041,7 @@ var artist_ejdic = {
 ,"takahama tarou" : "高浜太郎"
 ,"takaba momo" : "高羽もも"
 ,"takaharu" : "タカハル"
+,"takahan" : "タカはん"
 ,"takapi" : "たかぴ"
 ,"takahiko" : "たかひこ"
 ,"takahisa kunihiro" : "鷹久邦弘"
@@ -5167,7 +5194,7 @@ var artist_ejdic = {
 ,"dush" : "Dush"
 ,"tatsuse yumino" : "龍瀬弓乃"
 ,"tatsu tairagi" : "燵成"
-,"tatteinu" : "たっていぬ"
+,"tatteinu" : "たってぃぬ"
 ,"tatsunami youtoku" : "辰波要徳"
 ,"tatsuneko" : "たつねこ"
 ,"tappa suzuki" : "タッパー鈴木"
@@ -5244,6 +5271,7 @@ var artist_ejdic = {
 ,"tamaki kurou" : ["環九朗", "鐶九朗"]
 ,"tamaki satoshi" : ["たまき聖", "たまきさとし"]
 ,"tamaki tamao" : "玉木たまお"
+,"tamakichi. jirou" : "たまきち。次郎"
 ,"tamaki nozomu" : "環望"
 ,"tamaki maki" : ["たまきまき", "蒔田真記"]
 ,"tamaki misao" : "たまきみさお"
@@ -5386,8 +5414,10 @@ var artist_ejdic = {
 ,"charlie nishinaka" : "チャーリーにしなか"
 ,"china" : "茶否"
 ,"chairo" : "チャイロ"
+,"chagata" : "ちゃがた"
 ,"chagata yuu" : "ちゃがた悠"
 ,"tyagama" : "茶釜"
+,"chagama tarou" : "茶釜太郎"
 ,"chakura kazuhiko" : "茶倉和彦"
 ,"chako" : ["チャコ", "CHACO"]
 ,"chasaracha" : "茶皿茶"
@@ -5508,6 +5538,7 @@ var artist_ejdic = {
 ,"tsujisaki sou" : "辻崎そう"
 ,"tsuji santa" : "津路参汰"
 ,"tsujimori kuniwo" : "つじもりくにを"
+,"dusu" : "づす"
 ,"zutako" : "づ蛸"
 ,"tsuda nanafushi" : "津田七節"
 ,"tsutaya honmirin" : "蔦屋ほんみりん"
@@ -5699,6 +5730,7 @@ var artist_ejdic = {
 ,"tou" : "トウ"
 ,"tokaidow micty" : "東海道みっちい"
 ,"tohgarashi hideyu" : "唐辛子ひでゆ"
+,"doukutsu tamago" : "洞窟たまご"
 ,"touge hiro" : "峠比呂"
 ,"tohzai" : "東西"
 ,"tousaki shiina" : "凍咲しいな"
@@ -6098,6 +6130,7 @@ var artist_ejdic = {
 ,"nasukichi" : "なすきち"
 ,"nasukon" : "なすこん"
 ,"nazuna" : ["ナズナ", "なずな"]
+,"nasu hanahana" : "那須花花"
 ,"nusmusbim" : "ナスムスビム"
 ,"nazen shikana" : "菜然しかな"
 ,"nada akurou" : "なだあくろう"
@@ -6118,6 +6151,7 @@ var artist_ejdic = {
 ,"knuckle curve" : "ナックルカーブ"
 ,"natsuzame" : "ナツザメ"
 ,"natsuzora haduki" : "夏空葉月"
+,"natto shiruko" : "納豆汁粉"
 ,"natsuno io" : "夏野イオ"
 ,"natsu no oyatsu" : "夏のおやつ"
 ,"natsu no koucha" : "夏の紅茶"
@@ -6296,6 +6330,7 @@ var artist_ejdic = {
 ,"neet" : "にぃと"
 ,"niimaru yuu" : "ニイマルユウ"
 ,"niiruma kenji" : "にいるまけんじ"
+,"nieta mago" : "にえたまご"
 ,"nikaidou mitsuki" : "二階堂みつき"
 ,"nikawa yuki" : "にかわ柚生"
 ,"nigiri usagi" : "にぎりうさぎ"
@@ -6626,6 +6661,7 @@ var artist_ejdic = {
 ,"hagi tsukimitsu" : "萩月光"
 ,"hagiya masakage" : "はぎやまさかげ"
 ,"hagiyoshi" : "はぎよし"
+,"hagiwara emirio" : "萩原エミリオ"
 ,"hagiwara onsen" : "萩原音泉"
 ,"hagiwara kazushi" : "萩原一至"
 ,"hagiwara yutarou" : "萩原雄太郎"
@@ -6668,6 +6704,7 @@ var artist_ejdic = {
 ,"hashimo yuki" : "羽霜ゆき"
 ,"paja" : "破邪"
 ,"bajou takurou" : "馬乗拓郎"
+,"basyosyo" : "ばしょたろう"
 ,"hasuno" : "蓮野"
 ,"hasunoue baitsu" : "はすの上梅津"
 ,"hasblow cream" : ["はすぶろ", "はすぶろくりーむ"]
@@ -6795,6 +6832,7 @@ var artist_ejdic = {
 ,"hamada kinnosuke" : "はまだ金之介"
 ,"hamada yutaka" : "ハマダユタカ"
 ,"hamada yoshikadu" : "浜田よしかづ"
+,"hamachi" : "ハマチ"
 ,"hamatyonn" : "ハマちょん"
 ,"hamamura toshikiri" : "はまむらとしきり"
 ,"hamamoto ryuusuke" : "濱元隆輔"
@@ -7019,6 +7057,7 @@ var artist_ejdic = {
 ,"hiduki mai" : ["ひづきまい", "飛月まい"]
 ,"hiduki yayoi" : "ひづき夜宵"
 ,"bigshine" : "ビッグシャイン"
+,"big house" : "ビックハウス"
 ,"hissatsukun" : "ひっさつくん"
 ,"hitsujiko" : ["羊子", "佐倉小枝"]
 ,"hitsuji takako" : "ひつじたかこ"
@@ -7156,6 +7195,7 @@ var artist_ejdic = {
 ,"hiryuu ran" : "飛龍乱"
 ,"piririnegi" : "ぴりりねぎ"
 ,"hiru okita" : "昼沖太"
+,"pirukusu" : "ぴるくす"
 ,"hirune" : "昼寝"
 ,"hiruma kouji" : "ひるまこうじ"
 ,"hirekatsu" : "ヒレカツ"
@@ -7171,6 +7211,7 @@ var artist_ejdic = {
 ,"hiroshi" : "HIROSHI"
 ,"hiroshiki" : "宏式"
 ,"hirosue maron" : "広末まろん"
+,"hirose kaito" : "広瀬海斗"
 ,"hirose madoka" : "広瀬まどか"
 ,"hirose miho" : "ひろせみほ"
 ,"hirota" : "ひろた"
@@ -7301,6 +7342,7 @@ var artist_ejdic = {
 ,"fujita naoya" : "藤田直哉"
 ,"fujita hidetoshi" : "フジタヒデトシ"
 ,"fujitsuna" : "フジツナ"
+,"bujidearu" : "ぶじである"
 ,"fujito" : "藤渡"
 ,"fuji dokoro" : "藤処"
 ,"fujinaga eri" : "Fujinaga Eri"
@@ -7459,6 +7501,7 @@ var artist_ejdic = {
 ,"fred kelly" : ["フレッド・ケリー", "フレッドケリー", "FRED KELLY"]
 ,"protohotel" : "プロトホテル"
 ,"protonsaurus" : "プロトンザウルス"
+,"prophecy" : "ぷろへしぃ"
 ,"furomochi" : "フロモチ"
 ,"fuwa satoru" : "不破悟"
 ,"fuwa shinri" : "不破慎理"
@@ -7565,6 +7608,7 @@ var artist_ejdic = {
 ,"hoshiai hilo" : "星逢ひろ"
 ,"hoshi akira" : "星明"
 ,"hoshii nasake" : "星井情"
+,"hoshika" : "ほしか"
 ,"hoshikawa danpa" : "星河でんぱ"
 ,"hoshisaka ami" : "星坂網"
 ,"hoshizaki hikaru" : "星崎ひかる"
@@ -7625,6 +7669,7 @@ var artist_ejdic = {
 ,"bob r" : ["暴武(R)", "暴武R"]
 ,"bobobo" : "ボボボ"
 ,"homare" : "誉"
+,"pomita" : "ぽみ太"
 ,"pomimiko" : "ぽみみ子"
 ,"homura subaru" : "焔すばる"
 ,"homurano teruki" : "炎輝樹"
@@ -8023,6 +8068,7 @@ var artist_ejdic = {
 ,"manzou" : ["まんぞう", "萬蔵"]
 ,"manta" : "男太"
 ,"manda ringo" : "まんだ林檎"
+,"uminou rin" : ["万太郎", "海納りん"]
 ,"manno" : "まんの"
 ,"manno rikyuu" : ["万利休", "桜木HAL", "ツインテール"]
 ,"manmaru" : "漫丸"
@@ -8153,6 +8199,8 @@ var artist_ejdic = {
 ,"mizusaki." : "みずさき。"
 ,"mizusaki serisu" : "水咲せりす"
 ,"mizusawa mimori" : "水沢深森"
+,"rayze" : "瑞氏"
+,"mizushima irohasu" : "水嶋イロハス"
 ,"mizushima eri" : "未津島えり"
 ,"mizushima oonari" : "水島☆多也"
 ,"mizushima sei" : "みずしま聖"
@@ -8315,6 +8363,7 @@ var artist_ejdic = {
 ,"minamino marin" : "南野まりん"
 ,"minamihama yoriko" : "南浜よりこ"
 ,"minami haruka" : "みなみ遥"
+,"minami fumika" : "南文夏"
 ,"minami yuuko" : "みなみゆうこ"
 ,"minami rin" : "美波リン"
 ,"minamoon" : "みなむーん"
@@ -8603,6 +8652,7 @@ var artist_ejdic = {
 ,"mo" : "も"
 ,"moai tentyou" : "モアイ店長"
 ,"mos" : "モアス"
+,"kokemozuku" : "もいや"
 ,"mou" : "もう"
 ,"moegi" : "萌黄おじさん"
 ,"moegi oji-san" : "萌黄おじさん"
@@ -8673,6 +8723,7 @@ var artist_ejdic = {
 ,"momio" : "もみお"
 ,"momico" : "もみ子"
 ,"momiji" : "もみじ"
+,"momiji mimo" : "紅葉みも"
 ,"momiyama" : "もみやま"
 ,"momoi comomo" : "桃飴こもも"
 ,"momoi nanabei" : "桃井奈々兵衛"
@@ -8768,6 +8819,7 @@ var artist_ejdic = {
 ,"moroi ai" : "諸井愛"
 ,"morooka kimiko" : "もろおか紀美子"
 ,"morota shigetaka" : "諸汰鎮孝"
+,"morodashi zen" : "モロ出汁膳"
 ,"moroha" : ["乙", "二式鋏"]
 ,"monkey ni-gou" : "悶鬼威弐号"
 ,"monji" : "もんじ"
@@ -8786,6 +8838,7 @@ var artist_ejdic = {
 ,"yaemugura" : "やえむぐら"
 ,"yaoichou narimasu" : "矢追町成増"
 ,"yaotetsu" : "八百鉄"
+,"yaomai" : "やおまい"
 ,"yagami ken" : ["八神健", "八神けん"]
 ,"yagami sai" : "夜神紗衣"
 ,"yagami shiino" : "矢神しいの"
@@ -8837,6 +8890,7 @@ var artist_ejdic = {
 ,"yasu rintarou" : "安鱗太郎"
 ,"yasohachi ryo" : "八十八良"
 ,"yatanukikey" : "やたぬき圭"
+,"yachan" : "やちゃん"
 ,"yatsuashi matomo" : "ヤツアシマトモ"
 ,"yatsuashimatomo" : "ヤツアシマトモ"
 ,"yatsuki akehisa" : "八月明久"
@@ -9228,6 +9282,7 @@ var artist_ejdic = {
 ,"yozakura sakyou" : "夜桜左京"
 ,"yozakura souki" : "夜桜ソウキ"
 ,"yoshiama renzou" : ["吉天レンゾー", "吉天レンゾウ"]
+,"yoshiie" : "由家"
 ,"yoshiura kazuya" : "由浦カズヤ"
 ,"yoshio akira" : "吉尾アキラ"
 ,"yoshio ereki" : "よしおエレキ"
@@ -9325,6 +9380,7 @@ var artist_ejdic = {
 ,"yoruda neyo" : "夜田ねよ"
 ,"yoru no oto" : "夜の音"
 ,"yoruno tsubasa" : "よるのつばさ"
+,"yabai yuu" : "夜灰ゆう"
 ,"yorumo" : "ヨルモ"
 ,"yorozu ichi" : "よろず壱"
 ,"yorozu" : "よろづ"
@@ -9538,6 +9594,7 @@ var artist_ejdic = {
 ,"rollei" : "ローライ"
 ,"rollpan2" : "ろーるぱんつ"
 ,"roga" : "Ro・Ga"
+,"rokita" : "ろきた"
 ,"rokuichi" : "六壱"
 ,"rokusyou kokuu" : "緑青黒羽"
 ,"rokujou mugi" : "六条麦"
@@ -9653,8086 +9710,8072 @@ var artist_ejdic = {
 ,"nbo" : "んぼ"
 ,"nmasse" : "ンマッセ"
 ,"nme" : "んめ"
-,"bujidearu" : "ぶじである"
-,"rayze" : "瑞氏"
-,"rokita" : "ろきた"
-,"akaiguppy" : "赤いグッピー"
-,"kinn" : "KINN"
-,"shindou mayumi" : "シンドウマユミ"
-,"umineko akira" : "海猫明"
-,"nasu hanahana" : "那須花花"
-,"akae neo" : "赤絵ねお"
-,"koi nobori" : "Koiのぼり"
-,"suzukawa rino" : "鈴川梨乃"
-,"prophecy" : "ぷろへしぃ"
-,"takahan" : "タカはん"
-,"uminou rin" : ["万太郎", "海納りん"]
-,"sayika" : "Sayika"
-,"unini seven" : "うにに☆せぶん"
-,"chagata" : "ちゃがた"
-,"yachan" : "やちゃん"
-,"pomita" : "ぽみ太"
-,"kotora" : "ことら"
-,"mizushima irohasu" : "水嶋イロハス"
-,"rhasta" : "Rhasta"
-,"yoshiie" : "由家"
-,"yaomai" : "やおまい"
-,"akuno toujou" : "悪の東杖"
-,"sugai" : "スガイ"
-,"arumamai ayuka plus" : ["あるま", "在誠舞あゆか＋"]
-,"nikurotsuchi hoshi" : "くびなが"
-,"morodashi zen" : "モロ出汁膳"
-,"hirose kaito" : "広瀬海斗"
-,"kana c" : "かなＣ"
-,"yabai yuu" : "夜灰ゆう"
-,"pirukusu" : "ぴるくす"
-,"akosuke" : "あこ助"
-,"kurikura kuro" : "久里鞍くろ"
-,"shiro paka" : "シロパカ"
-,"agape" : "Agape"
-,"tamakichi. jirou" : "たまきち。次郎"
-,"chagama tarou" : "茶釜太郎"
-,"doukutsu tamago" : "洞窟たまご"
-,"hamachi" : "ハマチ"
-,"momiji mimo" : "紅葉みも"
-,"basyosyo" : "ばしょたろう"
-,"kisaragi otu" : "如月02"
-,"uguisu" : "うぐいす"
-,"kokemozuku" : "もいや"
-,"natto shiruko" : "納豆汁粉"
-,"eroya chaos" : "絵ろ屋かおす"
-,"uchikubi gokumon" : "浮乳首極悶"
-,"big house" : "ビックハウス"
-,"hoshika" : "ほしか"
-,"nieta mago" : "にえたまご"
-,"dusu" : "づす"
-,"hagiwara emirio" : "萩原エミリオ"
 };
 var group_ejdic = {
- "crimson" : "クリムゾン"
-,"digital lover" : "Digital Lover"
-,"dmm.com" : "DMM.com"
-,"clesta" : "クレスタ"
-,"akumu no takuhaibin" : "悪夢の宅配便"
-,"noraneko-no-tama" : "ノラネコノタマ"
-,"alice no takarabako" : "ありすの宝箱"
-,"saigado" : "彩画堂"
-,"cyclone" : "CYCLONE"
-,"naruho-dou" : "NARUHO堂"
-,"yamamoto" : "山本同人"
-,"black dog" : ["ぶらっくどっぐ", "BLACK DOG"]
-,"mayoineko" : ["迷い猫", "MAYOINEKO"]
-,"studio wallaby" : "スタジオワラビー"
-,"amuai okashi seisakusho" : "あむぁいおかし製作所"
-,"kinokonomi" : "きのこのみ"
-,"akatsuki souken" : "サークル暁創圏"
-,"warabimochi" : "ワラビモチー"
-,"u.r.c" : "U.R.C"
-,"karakishi youhei-dan" : "からきし傭兵団"
-,"orangemaru" : "OrangeMaru"
-,"nagiyamasugi" : "ナギヤマスギ"
-,"axz" : "サークルAXZ (アクシヅ)"
-,"tsurikichi doumei" : "釣りキチ同盟"
-,"popochichi" : "ぽぽちち"
-,"number2" : "Number2"
-,"crazy9" : "Crazy9"
-,"shoot the moon" : "シュート ザ ムーン"
-,"rpg company 2" : "RPGカンパニー2"
-,"raijinkai" : "雷神会"
-,"shimoyakedou" : "しもやけ堂"
-,"nyuu koubou" : "にゅう工房"
-,"mitarashi club" : "みたらし倶楽部"
-,"behind moon" : "Behind Moon"
-,"dl mate" : "DLメイト"
-,"gambler club" : "ギャンブラー倶楽部"
-,"funi funi lab" : "フニフニラボ"
-,"23.4do" : "23.4ド"
-,"kouchaya" : "紅茶屋"
-,"tsf no f" : "TSFのF"
-,"kamikadou" : "かみか堂"
-,"diogenes club" : "ディオゲネスクラブ"
-,"saz" : "SAZ"
-,"bluemage" : "BlueMage"
-,"shinjugai" : "真珠貝"
-,"nisemididoronokai" : "偽MIDI泥の会"
-,"ringoya" : "リンゴヤ"
-,"hellabunna" : ["HELLABUNNA", "へらぶな"]
-,"ncp" : "NCP"
-,"angyadow" : "行脚堂"
-,"xration" : "Xration"
-,"circle taihei-tengoku" : "サークル太平天国"
-,"nanimoshinai" : "NANIMOSHINAI"
-,"majimeya" : "真面目屋"
-,"yadokugaeru" : "ヤドクガエル"
-,"nakayohi mogudan" : "なかよひモグダン"
-,"squeeze candy heaven" : "SqueezeCandyHeaven"
-,"misaki" : "MISAKI COMICS"
-,"nekomataya" : "ねこまた屋"
-,"eromazun" : "エロマズン"
-,"circle anco" : "サークルアンコ"
-,"studio kimigabuchi" : "スタジオKIMIGABUCHI"
-,"c.rs nest" : "C.R's NEST"
-,"chinchintei" : "ちんちん亭"
-,"lolitachannel" : "LolitaChannel"
-,"studio pal" : "STUDIO PAL"
-,"nagaredamaya" : "流弾屋"
-,"jack-pot" : "JACK-POT"
-,"yuzuponz" : "ゆずぽん酢"
-,"erect touch" : ["ERECT TOUCH", "G-ZONE"]
-,"acid-head" : "ACID-HEAD"
-,"alicesoft" : "AliceSoft"
-,"i-raf-you" : "I-Raf-you"
-,"kensoh ogawa" : "ケンソウオガワ"
-,"marked-two" : "Marked-two"
-,"kohakutei" : ["琥珀亭", "kohakutei"]
-,"stapspats" : "Stapspats"
-,"tiramisu tart" : "てぃらみすたると"
-,"takumi na muchi" : ["たくみなむち", "たくみな無知"]
-,"hi-per pinch" : ["ハイパーピンチ", "Hi-per PINCH"]
-,"toko-ya" : "床子屋"
-,"antyuumosaku" : "暗中模索"
-,"niku ringo" : "肉りんご"
-,"st. rio" : "聖リオ"
-,"kansai orange" : ["関西オレンジ", "Kansai Orange"]
-,"chijoku an" : "恥辱庵"
-,"miel" : "Miel"
-,"amp" : "AMP"
-,"plant" : "PLANT"
-,"honey qp" : "HONEY QP"
-,"tora machine" : "虎マシーン"
-,"youkai tamanokoshi" : "ようかい玉の輿"
-,"nama cream biyori" : "生クリームびより"
-,"kamogawaya" : "鴨川屋"
-,"kurione-sha" : "くりおね社"
-,"studio huan" : ["STUDIOふあん", "STUDIO HUAN"]
-,"akutensoushin" : "悪転奏進"
-,"appetite" : "Appetite"
-,"40010 1-go" : "40010壱号"
-,"ash wing" : "Ash wing"
-,"maidoll" : "MAIDOLL"
-,"haitokukan" : "背徳漢"
-,"furaipan daimaou" : "ふらいぱん大魔王"
-,"aodouhu" : "青豆腐"
-,"in the sky" : "In The Sky"
-,"sankaku apron" : "さんかくエプロン"
-,"zenmai kourogi" : "ぜんまいこうろぎ"
-,"udon-ya" : "うどんや"
-,"pintsize" : "ぱいんとさいず"
-,"ninokoya" : "にのこや"
-,"purple haze" : "PURPLE HAZE"
-,"eroquis" : "EROQUIS!"
-,"shigunyan" : "しぐにゃん"
-,"oving" : "Oving"
-,"team shuffle" : "TEAM SHUFFLE"
-,"tiba-santi" : "千葉産地"
-,"manga super" : "マンガスーパー"
-,"algolagnia" : "アルゴラグニア"
-,"hitsuji kikaku" : "ヒツジ企画"
-,"archives" : "アーカイブ"
-,"18master" : "18マスター"
-,"gust" : "GUST"
-,"kirintei" : "木鈴亭"
-,"ties" : "TIES"
-,"sanbaizu" : "三杯酢"
-,"laminaria" : "LAMINARIA"
-,"part k" : "Part K"
-,"aerodog" : "AERODOG"
-,"kaiki nisshoku" : "怪奇日蝕"
-,"leaz koubou" : "りーず工房"
-,"kabayakiya" : "蒲焼屋"
-,"musashi-dou" : "武蔵堂"
-,"seki sabato" : "関サバト"
-,"pochi-goya." : "ぽち小屋。"
-,"shin hijiridou honpo" : "真・聖堂☆本舗"
-,"kaientai" : "絵援隊"
-,"bishop" : "BISHOP"
-,"mtsp" : "MTSP"
-,"mc" : "MC"
-,"modae tei" : "悶亭"
-,"mugenkidou a" : "無限軌道A"
-,"bakunyu fullnerson" : "爆乳フルネルソン"
-,"wata 120 percent" : "綿120パーセント"
-,"secret society m" : "秘密結社M"
-,"ajisaidenden" : "アジサイデンデン"
-,"bronco hitoritabi" : "ブロンコ一人旅"
-,"jack to nicholson" : "ジャックとニコルソン"
-,"darabuchidou" : "だらぶち堂"
-,"redrop" : "ReDrop"
-,"50on" : "50ON!"
-,"goromenz" : "ゴロメンツ"
-,"alpha to yukaina nakamatachi" : "有葉と愉快な仲間たち"
-,"sago-jou" : "沙悟荘"
-,"spiral brain" : "SPIRAL BRAIN"
-,"kedama gyuunyuu" : "毛玉牛乳"
-,"an-arc" : "アンアーク"
-,"studio katsudon" : "スタジオかつ丼"
-,"kenja time" : "けんじゃたいむ"
-,"type-g" : "Type-G"
-,"otaku beam" : "オタクビーム"
-,"french letter" : "French letter"
-,"mentaiko" : "MENたいこ"
-,"shounen zoom" : "少年ズーム"
-,"moon ruler" : "むうんるうらあ"
-,"circle outerworld" : "サークルOUTERWORLD"
-,"daihonei" : "大本営"
-,"yashiya" : "やし屋"
-,"studio tar" : ["スタジオた～", "STUDIO TAR"]
-,"cannabis" : "カンナビス"
-,"celluloid-acme" : "CELLULOID ACME"
-,"aigamodou" : "あいがも堂"
-,"freehand tamashii" : "フリーハンド魂"
-,"kyockchokyock" : "きょくちょ局"
-,"kurosawa pict" : "黒澤pict"
-,"studio big-x" : "スタジオBIG-X"
-,"da hootch" : "DA HOOTCH"
-,"kurono taitsu" : "黒野タイツ"
-,"circle-fiore" : "circle-FiORE"
-,"gerupin" : "ゲルピン"
-,"atelier kaguya" : "アトリエかぐや"
-,"imomuya honpo" : "いもむや本舗"
-,"kakumei seifu kouhoushitsu" : "革命政府広報室"
-,"mosquitone." : "もすきーと音。"
-,"higuma-ya" : "ひぐま屋"
-,"hito no fundoshi" : "ひとのふんどし"
-,"sugar berry syrup" : "Sugar*Berry*Syrup"
-,"maniac street" : "ManiacStreet"
-,"pecan" : "ピーカン"
-,"666protect" : ["666PROTECT", "666プロテクト"]
-,"doza village" : "Doza Village"
-,"p.p" : "P:P"
-,"seika kairaku shoten" : "聖華快楽書店"
-,"askray" : "AskRay"
-,"g-panda" : "Gぱんだ"
-,"d.n.a.lab." : "D.N.A.Lab."
-,"yosutebito na mangakaki" : "世捨人な漫画描き"
-,"fuka fuka" : "不可不可"
-,"kurimomo" : "くりもも"
-,"otomekibun" : "乙女気分"
-,"circle eden" : "CircleEden"
-,"karomix" : "KAROMIX"
-,"memeya" : "メメ屋"
-,"mix fry" : "みっくすふらい"
-,"otabe dynamites" : "おたべ★ダイナマイツ"
-,"sumomo dou" : "すもも堂"
-,"neko wa manma ga utsukushii" : "ねこはまんまが美しい"
-,"heavy bunny addiction" : ["H.B.A", "Heavy Bunny Addiction"]
-,"puu no puupuupuu" : "ぷぅのぷぅぷぅぷぅ"
-,"maruarai" : ["まるあらい", "MARUARAI"]
-,"corori" : "CORORI"
-,"high risk revolution" : "HIGH RISK REVOLUTION"
-,"frac" : "FRAC"
-,"royal bitch" : "ROYALBITCH"
-,"otonano do-wa" : "大人の童話"
-,"bakuretsu fusen" : "爆裂風船"
-,"insert" : "INSERT"
-,"cior" : "Cior"
-,"yami ni ugomeku" : "闇に蠢く"
-,"triangle" : "Triangle"
-,"fujiya" : "ふじ家"
-,"zettai shoujo" : "絶対少女"
-,"mugen at works" : "MUGEN@WORKS"
-,"shimajiya" : "しまじや"
-,"arakureta monotachi" : "あらくれた者たち"
-,"oneekyou" : "御姉狂"
-,"akys honpo" : "akys本舗"
-,"labomagi" : "らぼまじ"
-,"helldevice" : "HellDevice"
-,"ameshoo" : "あめしょー"
-,"akapenguin" : "アカペンギン"
-,"hannama" : "はんなま"
-,"tetrodotoxin" : "TETRODOTOXIN"
-,"itou life" : "伊東ライフ"
-,"alemateorema" : "アレマテオレマ"
-,"twinbox" : "TwinBox"
-,"sazameki dori" : "さざめき通り"
-,"konnyaku nabe" : "蒟蒻鍋"
-,"homuraya" : "ほむら屋"
-,"oneone1" : "ONEONE1"
-,"circle ohigetan" : "尾髭丹"
-,"yuunagi gaibutai" : "夕凪の戦力外部隊"
-,"tamagou" : "多摩豪"
-,"jouji mujoh" : "常時無常"
-,"hyoco road" : "ひょこ道"
-,"ryuukakusan nodoame" : "りゅうかくさんのどあめ"
-,"gold rush" : "GOLD RUSH"
-,"arsenothelus" : "アルセノテリス"
-,"muchakai" : "夢茶会"
-,"rbooks" : "浪漫書店"
-,"magono-tei" : "まごの亭"
-,"sweettaboo" : "SWEET TABOO"
-,"nakayohi" : "なかよひ"
-,"aquadrop" : "アクアドロップ"
-,"ebitendon" : "えびてん丼"
-,"pianiishimo" : "ピアニッシモ"
-,"basutei shower" : "バス停シャワー"
-,"renai mangaka" : "恋愛漫画家"
-,"dot eito" : "ドットエイト"
-,"aomizuan" : "青水庵"
-,"granada sky" : "グラナダの空"
-,"fukurou naru tori" : "フクロウなる鳥"
-,"dieselmine" : "ディーゼルマイン"
-,"soft circle courreges" : "ソフトさ～くるクレージュ"
-,"kitsuneyane" : "きつね屋根"
-,"nihon dandy" : "日本ダンディ"
-,"ohkura bekkan" : "大蔵別館"
-,"futanarun" : "ふたなるん"
-,"akusei-shinseibutsu" : ["悪性新生物", "アクセイシンセイブツ"]
-,"enokoro kurage" : "えのころくらげ"
-,"gff" : "GFF"
-,"nosebleed" : "NOSEBLEED"
-,"mieow" : "MIEOW"
-,"waffle doumeiken" : "ワッフル同盟犬"
-,"kaniya" : "かに家"
-,"lune" : "ルネ"
-,"p-forest" : "P-FOREST"
-,"rip at lip" : "Rip@Lip"
-,"himeya" : "姫屋"
-,"jelly fish" : "Jelly fish"
-,"thirty saver street 2d shooting" : "サーティセイバーストリート 2dシューティング"
-,"shimekiri sanpunmae" : "〆切3分前"
-,"kemokomoya" : "けもこも屋"
-,"chibikko kingdom" : "CHIBIKKO KINGDOM"
-,"choujikuu yousai kachuusha" : "超時空要塞カチューシャ"
-,"meltdown comet" : "MeltdoWNCOmet"
-,"mofumofuen" : "もふもふ苑"
-,"kitaku jikan" : "帰宅時間"
-,"shironegiya" : "白ネギ屋"
-,"tga" : "TGA"
-,"horizontal world" : "Horizontal World"
-,"sweet pea" : "Sweet Pea"
-,"amazake hatosyo-ten" : "甘酒鳩商店"
-,"digital accel works" : ["DAW", "DIGITAL ACCEL WORKS"]
-,"studio a" : "studio A"
-,"kashiwa-ya" : "かしわ屋"
-,"studio rakkyou" : "スタジオらっきょう"
-,"netorare no tami" : "ネトラレの民"
-,"hbo" : "HBO"
-,"essentia" : "ESSENTIA"
-,"execio" : "Execio"
-,"vpans extasy" : "Vパン’sエクスタシー"
-,"waffle" : "Waffle"
-,"uroboros" : "UROBOROS"
-,"yukijirushi nyuugyou" : "逝印乳業"
-,"kitsune to budou" : "きつねとぶどう"
-,"m" : "M"
-,"anmitsuyomogitei" : "あんみつよもぎ亭"
-,"box" : "BOX"
-,"hakueki shobou" : "白液書房"
-,"dashigara 100" : "ダシガラ100%"
-,"rubbish selecting squad" : "RUBBISH選別隊"
-,"windarteam" : "風藝WindArTeam"
-,"doushoku" : "どうしょく"
-,"guilty" : "Guilty"
-,"nekonokone" : "ねこのこね"
-,"sorairo march" : "空色まーち"
-,"micro page" : "みくろぺえじ"
-,"hibon" : "非凡"
-,"rkaffy" : "R*kaffy"
-,"s" : "S"
-,"hyoui lover" : ["憑依ラヴァー", "憑依好きの人"]
-,"asanoya" : ["浅野屋", "浅廼屋"]
-,"service heaven" : "サービスヘブン"
-,"studio mizuyokan" : ["スタジオみずよーかん", "MIZUYOKAN BRAND"]
-,"majimadou" : "眞嶋堂"
-,"giga" : "戯画"
-,"oshiruko kan" : "おしるこ缶"
-,"katamari-ya" : "かたまり屋"
-,"nicchi sangyou" : "にっちさんぎょう"
-,"deep rising" : "DEEPRISING"
-,"puppukupu" : "ぷっぷくぷー"
-,"naya" : "納屋"
-,"showa saishuu sensen" : "昭和最終戦戦"
-,"shinnihon pepsitou" : "新日本ペプシ党"
-,"temparing" : "テンパりんぐ"
-,"saihate-kukan" : "最果て空間"
-,"arekusa thunder" : "アレクササンダー"
-,"cuniculus" : "CUNICULUS"
-,"great canyon" : "グレートキャニオン"
-,"rotary engine" : "ろ～たり～Engine"
-,"shoujo kishidan" : "少女騎士団"
-,"mata ashita." : "また明日。"
-,"aimaitei" : "愛昧亭"
-,"inbou no teikoku" : "陰謀の帝国"
-,"110-groove" : "110-GROOVE"
-,"motchie kingdom" : "もっちー王国"
-,"pinvise" : "Pinvise"
-,"roubai-tei" : "狼狽亭"
-,"supe" : "すぺ"
-,"puchi-ya" : "ぷち屋"
-,"rinjuu circus" : "臨終サーカス"
-,"busou megami" : "武装女神"
-,"usotsukiya" : "嘘つき屋"
-,"human high-light film" : "ヒューマン・ハイライト・フィルム"
-,"attendance number 26" : "出席番号26"
-,"inuteikoku" : ["犬帝国", "いぬていこく"]
-,"wireframe" : "WIREFRAME"
-,"the nation of head scissors" : "The Nation of Head  Scissores"
-,"tenkirin" : "天気輪"
-,"morning star" : "モーニングスター"
-,"dodo fuguri" : "百々ふぐり"
-,"sakura no tomoru hie" : "桜の灯る日へ"
-,"hakuginmokusei" : "白銀木犀"
-,"yusaritsukata" : "ゆうさりつかた"
-,"fantasy wind" : "FANTASY WIND"
-,"sage" : "Sage サージュ"
-,"akkan-bi project" : "Akkan-Bi PROJECT"
-,"butagoya" : "ぶた小屋"
-,"volvox" : "VOLVOX"
-,"rycanthropy" : "RYCANTHROPY"
-,"cocoa holic" : "Cocoa Holic"
-,"jenoa cake" : "じぇのばけーき"
-,"plum" : "PLUM"
-,"kaminendo.corporation" : "かみねんど"
-,"byousatsu tanukidan" : "秒殺狸団"
-,"mokusei zaijuu" : "木星在住"
-,"happy birthday" : "Happy Birthday"
-,"misty isle" : "misty Isle"
-,"madoromi andon" : "まどろみ行灯"
-,"shotaian" : "所帯庵"
-,"singleton" : "Singleton"
-,"wakamaker" : "WAKAMAKER"
-,"yuriru-rarika" : "ユリルラリカ"
-,"tinkerbell" : "TinkerBell"
-,"d-raw 2" : "土狼弐"
-,"imitation moon" : "Imitation Moon"
-,"zetsubou shiromuji" : "絶望しろむじ"
-,"zenra qq" : "全裸QQ"
-,"lyricbox" : "リリックボックス"
-,"shinsei lolishota" : "新生ロリショタ"
-,"kacchuu musume" : "甲冑娘"
-,"norn" : "Norn"
-,"doronuma kyoudai" : "泥沼兄弟"
-,"kansai gyogyou kyoudou kumiai" : "関西漁業協同組合"
-,"dr.vermilion" : "Dr.VERMILION"
-,"shouchuu mac" : "焼酎MAC"
-,"aoba q madou" : "青葉Ｑ魔洞"
-,"meshikutteneru." : "飯食って寝る。"
-,"okina keikaku" : "翁計画"
-,"sigma-arts" : "Σ-Arts"
-,"kikurage-ya" : "きくらげ屋"
-,"g-scan corp." : "G-SCAN Corp"
-,"kemono ekaki no kousoku 2" : "ケモノ絵描きの光速２"
-,"oretachi misnon ikka" : "俺たちミスノン一家"
-,"esuesu" : "EsuEsu"
-,"l5ex" : "L5EX"
-,"haguruman" : "はぐるまん"
-,"mochi-ya" : ["餅屋", "もち屋"]
-,"mousou bijutsubu" : "妄想美術部"
-,"come through" : "ComeThrough"
-,"hirojuu renshuuchou" : "広十練習帖"
-,"amagami dou" : "あまがみ堂"
-,"pulin nabe" : "PULIN鍋"
-,"kimuchi-tei" : "キムチ亭"
-,"fugudoku" : "川豚毒"
-,"t2 art works" : "T2 Art Works"
-,"handsome aniki" : "ハンサム兄貴"
-,"nounai kanojo" : "脳内彼女"
-,"nanbou hitogakushiki" : "南方ヒトガクシキ"
-,"chotto dake aruyo." : "チョットだけアルヨ。"
-,"t.4.p" : "T.4.P"
-,"go go heaven" : "Go! Go! Heaven!!"
-,"kaname" : "要"
-,"takotsuboya" : "蛸壺屋"
-,"seishimentai" : "せいしめんたい"
-,"ribons nights" : "リボーンズナイツ"
-,"a matures" : "ア・マチュアズ"
-,"fuzume" : "ふずめ"
-,"nul neverland" : "ヌルネバーランド"
-,"testa kitchen" : "てすた厨房"
-,"hisagoya" : "ヒサゴヤ"
-,"chikashitsu" : "地下室"
-,"ryu-seki-do" : "流石堂"
-,"butakoma 300g" : "ぶたコマ300g"
-,"semakute kurai" : "狭くて暗い"
-,"senpenbankashiki" : "千変万化式"
-,"marialite" : "Marialite"
-,"ame nochi yuki" : "あめ のち ゆき"
-,"p-collection" : "P-COLLECTION"
-,"studio parm" : "studio Parm"
-,"atelier gons" : "アトリエGONS"
-,"acid eaters" : "ACID EATERS"
-,"studio tiamat" : "STUDIO TIAMAT"
-,"kitsuneya" : "きつね屋"
-,"kazeuma" : "かぜうま"
-,"chocolate latte" : "ショコラテ"
-,"f taku" : "F宅"
-,"nyankone" : "にゃんこね"
-,"mist night" : "Mist Night"
-,"drops" : "RIP-comic"
-,"kaze no gotoku" : "風のごとく！"
-,"water drop" : "うぉーたーどろっぷ"
-,"hy-dou" : "灰同"
-,"mannen dokodoko dondodoko" : "まんねんドコドコドンドドコ"
-,"nanatsu no kagiana" : "七つの鍵穴"
-,"hgh" : "HGH"
-,"momonga club" : "モモンガ倶楽部"
-,"yoru no benkyoukai" : "夜の勉強会"
-,"yuki-iro" : "YuKi-IRo"
-,"wakuwaku doubutsuen" : "わくわく動物園"
-,"studio triumph" : "STUDIO TRIUMPH"
-,"uran-factory" : "URAN FACTORY"
-,"niratama" : "にらたま"
-,"ranshi to kimi to." : "乱視と君と。"
-,"chimee house" : "ちみはうす"
-,"takanaedoko" : "高苗床"
-,"project harakiri" : "PROJECTハラキリ"
-,"armadillo" : "Armadillo"
-,"pyramid house" : "ピラミッドハウス"
-,"fruitsjam" : "FRUITS JUM"
-,"kikyakudou" : ["鬼脚堂", "KIKYAKUDOU"]
-,"morningstar rush" : "モニスタラッシュ"
-,"satellites" : "Satellites"
-,"juicebox koujou" : "ジュースボックス工場"
-,"mikezoutei" : "三毛蔵亭"
-,"toraya" : "トラ屋"
-,"kuromahou kenkyuujo" : "黒魔法研究所"
-,"piyokorota" : "ぴよころた"
-,"akausagi" : "赤兎"
-,"atelier maso" : "アトリエマゾ"
-,"chinjao girl." : "ちんじゃお娘。"
-,"doll play" : "サークルDOLL PLAY"
-,"zensoku rider" : "漸速ライダー"
-,"kurubusi-kai" : "踝会"
-,"studio aruta" : "Studio Aruta"
-,"efuya" : "エフ屋"
-,"zero-sen" : "zero戦"
-,"bergamot" : "Bergamot"
-,"gamushara" : "がむしゃら"
-,"kamaboko koubou" : "カマボコ工房"
-,"okina flying factory" : "OKINA FLYING FACTORY"
-,"craft" : "CRAFT"
-,"kawaraya honpo" : "瓦屋本舗"
-,"otukimi koubo" : "おつきみ工房"
-,"anim" : "ANIM"
-,"akuochisukii kyoushitsu" : "アクオチスキー教室"
-,"lilith" : "Lilith"
-,"odin" : "オーディン"
-,"a gokuburi" : "A極振り"
-,"blitzkrieg" : "ブリッツクリーク"
-,"metabocafe offensive smell uproar" : "メタボ喫茶異臭騒ぎ"
-,"fuzukikai" : "文月会"
-,"telomerena" : "テロメアナ"
-,"s.s.l" : "S.S.L"
-,"jido-hikki" : "じどー筆記"
-,"lonely church" : "Lonely Church"
-,"q doujin" : "QDOUJIN"
-,"shichiten battou" : "シチテンバットウ"
-,"uousaohkoku" : "魚ウサ王国"
-,"san se fang" : "三色坊"
-,"global one" : "Global One"
-,"ltm." : "LTM."
-,"primal gym" : "Primal Gym"
-,"clockup" : ["CLOCKUP", "クロックアップ"]
-,"lemonmaiden" : "Lemon Maiden"
-,"parupunte" : "ぱるぷんて"
-,"studio n.ball" : "スタジオN.BALL"
-,"tear drop" : "TEAR DROP"
-,"odenden" : "おでんでん"
-,"jingai makyou" : "ジンガイマキョウ"
-,"route1" : "ROUTE1"
-,"maltese" : "まるち～ズ"
-,"twilight dusk" : "TWILIGHT DUSK"
-,"haitoku sensei" : "はいとく先生"
-,"f.w.zholic" : "F.W.Zholic"
-,"tanuking sleep" : "たぬきんぐすりーぷ"
-,"ponkotsu works" : "ぽんこつわーくす"
-,"ssb" : "SSB"
-,"gokusaishiki" : "極彩色"
-,"aramaa" : "あらまあ"
-,"nejimaki kougen" : "ねじまきこうげん"
-,"digital wife project" : ["デジタルワイフProject", "熟女神の黒穴"]
-,"irotenya" : "色点屋"
-,"gomuhachi" : "ごむはち"
-,"azarashisoft" : "あざらしそふと"
-,"hakutamayu" : "白玉湯"
-,"amisawa kenkyuujo" : "網澤研究所"
-,"raiden labo" : "らいでんらぼ"
-,"watakubi" : "わたくび"
-,"sweet taste" : "Sweet Taste"
-,"chokudoukan" : "直道館"
-,"teruterugirl" : "てるてるがーる"
-,"freaks" : ["フリークス", "FREAKS"]
-,"rippadou" : "立派堂"
-,"tanmatsu ijou" : "端末異常"
-,"kuma-tan flash" : ["くまたんFlash!", "熊尾もふもふ"]
-,"null mayu" : "NULLまゆ"
-,"candy paddle" : "Candy Paddle"
-,"harugoya" : "はるごや"
-,"hikawado" : "火川堂"
-,"eight beat" : "エイトビート"
-,"morimiyakan" : "森宮缶"
-,"70 nenshiki yuukyuu kikan" : "70年式悠久機関"
-,"mahjong yugen co.ltd 58" : "麻雀有限会社58"
-,"zenra restaurant" : "全裸レストラン"
-,"circle energy" : "CIRCLE ENERGY"
-,"slime kikaku" : "スライム企画"
-,"azasuke wind" : "AZASUKEWIND"
-,"shiawase kyouwakoku" : "幸せ共和国"
-,"senya sabou" : "千夜茶房"
-,"chinzuri bop" : "CHINZURIBOP"
-,"topgun" : "TOP GUN"
-,"junk center kameyoko bldg" : "JUNKセンター亀横ビル"
-,"kaiten sommelier" : "回転ソムリエ"
-,"kitsune" : ["RED FOX", "来つ寝"]
-,"bear hand" : "熊掌社"
-,"100yenmofa" : "100円外務省"
-,"zero byte" : "0byte"
-,"high-spirit" : "High-Spirit"
-,"motsu ryouri" : "もつ料理"
-,"horsetail" : "ほーすている"
-,"ichibocchi" : "ゐちぼっち"
-,"kuroni" : "クロニ"
-,"anchor" : "ANCHOR"
-,"hammer head" : "HAMMER_HEAD"
-,"fools art gallery" : "FOOL'S ART GALLERY"
-,"hinaprin" : "Hina-prin"
-,"night fuckers" : "夜☆FUCKERS"
-,"heatwave" : "HEATWAVE"
-,"tenzan koubou" : "天山工房"
-,"cool brain" : "COOL BRAIN"
-,"lezmoe" : "レズ萌え！"
-,"othello ice" : "オセロアイス"
-,"avion village" : "アビオン村"
-,"hoyoyodou" : "ほよよ堂"
-,"section-11" : "SECTION-11"
-,"shinenkan" : "新炎館"
-,"hapoi-dokoro" : "はぽい処"
-,"ph-bu" : "PH部"
-,"pietoro" : "ピエトロ"
-,"wancho-ke" : "わんちょ家"
-,"shota mangaya-san" : ["ショタ漫画屋さん", "アオクロ(AOQLO)"]
-,"kaki no tane" : "夏季のタネ"
-,"yorokobi no kuni" : "ヨロコビの国"
-,"jamboree" : "Jamboree!"
-,"chronolog" : "CHRONOLOG"
-,"ponpharse" : "ぽんふぁーず"
-,"chocolate synapse" : "ChocolateSynapse"
-,"kanten jigenryuu" : "寒天示現流"
-,"reverse noise" : "Reverse Noise"
-,"gadget" : ["ガジェット工房", "GADGET-FACT", "画ジェット"]
-,"pe theta" : "Peθ"
-,"kyougetsutei" : "共月亭"
-,"watosato" : "ワトサト"
-,"abarenbow tengu" : ["暴れん坊天狗", "ABARENBOW TENGU"]
-,"abradeli kami" : "油照紙"
-,"tanuki no rakugaki" : "たぬきの落書き"
-,"gachinko shobou" : "我チ○コ書房"
-,"garyuh-chitai" : "我流痴帯"
-,"haechaimu" : "ハエチャイム"
-,"dai 6 kichi" : "第６基地"
-,"studio himawari" : "スタジオ☆ひまわり"
-,"tokuda" : "とくだ"
-,"lv.x" : "Lv.X"
-,"a.o.i" : "A.O.I PROJECT"
-,"ohtado" : "おおた堂"
-,"camrism" : "カムリズム"
-,"hiiro no kenkyuushitsu" : "灯色の研究室"
-,"monaka udon" : "もなかうどん"
-,"muchi muchi seven" : "ムチムチ７"
-,"power slide" : "パワースライド"
-,"tsurumiku" : "つるみく"
-,"toybox" : "といぼっくす"
-,"setoran" : "せとらん"
-,"right away" : "Right Away"
-,"neko to hato" : "ねことはと"
-,"asgo" : "ASGO"
-,"yan-yam" : "Yan-Yam"
-,"mink" : "MINK"
-,"kuroyuki" : "黒雪"
-,"aneko no techo" : "あねこの手帖"
-,"waterwheel" : "water wheel"
-,"unknown" : "UNKNOWN"
-,"ruu kikaku" : "龍企画"
-,"omodume" : "想詰め"
-,"batten kariba" : "×仮歯"
-,"yomothuhirasaka" : "黄泉比良坂"
-,"takemasaya" : "たけまさ屋"
-,"yuzu soft" : "ゆずソフト"
-,"shiitake nouen" : "しいたけ農園"
-,"astras" : "ASTRA'S"
-,"purimomo" : "ぷり桃"
-,"uguisuya" : "うぐいす屋"
-,"uninigumi" : "うにに組"
-,"aspergillus" : "Aspergillus"
-,"fakestar" : "FAKE STAR"
-,"clochette" : "クロシェット"
-,"derlanger" : "D'ERLANGER"
-,"todd special" : "トッドスペシャル"
-,"nozarashi" : "のざらし"
-,"pink" : "PINK"
-,"yakiniku teikoku" : "焼肉帝国"
-,"nylon 100" : "ナイロン100%"
-,"pypyworks" : "PYPYworks"
-,"paranoia cat" : "PARANOIA CAT"
-,"titokara 2nd branch" : "千歳烏山第2出張所"
-,"54burger" : "54BURGER"
-,"mean machine" : "MEAN MACHINE"
-,"studio kyawn" : "スタジオきゃうん"
-,"p.a. project" : "P.A. Project"
-,"k plus w" : "K＋W"
-,"hikiwari nattou" : "ひきわり納豆"
-,"pixel cot." : "Pixel Cot."
-,"kuronisiki" : "黒錦"
-,"watsukiya" : "わつき屋"
-,"liquid" : "Liquid"
-,"red ribbon revenger" : "RED RIBBON REVENGER"
-,"g-power" : "G-Power!"
-,"activa" : "ACTIVA"
-,"ya-zy" : "YA-ZY"
-,"the dungeon in yarn" : "The Dungeon In Yarn"
-,"rat tail" : "RAT TAIL"
-,"suzuya" : "涼屋"
-,"toriaezu kari" : "とりあえず(仮)"
-,"sheepfold" : "羊小屋"
-,"super flat lolinitron" : "超平板小娘電視台"
-,"rico-ba" : ["Rico-ba", "Pico-ba"]
-,"awatake" : "あわたけ"
-,"pandagaippiki." : "パンダが一匹。"
-,"okosama lunch" : "お子様ランチ"
-,"korisuya" : "こりすや"
-,"mekongdelta" : "MEKONGDELTA"
-,"ame usagi" : "あめうさぎ"
-,"hachiouji kaipan totsugeki kiheitai" : "八王子海パン突撃騎兵隊"
-,"wicked heart" : "WICKED HEART"
-,"dorepooru" : "ドレポール"
-,"amakuchi syoujo" : "AMAKUCHI SYOUJO"
-,"fujiya honten" : "藤屋本店"
-,"turtle.fish.paint" : ["龜魚派", "Turtle.Fish.Paint", "T.F.P"]
-,"shishamo house" : "ししゃもハウス"
-,"aohimo familia" : "アオヒモファミリア"
-,"drop dead" : "DROP DEAD!!"
-,"achromic" : "Achromic"
-,"k2 tomo no kai" : "K2友の怪"
-,"fukunoren" : "福のれん"
-,"youmusya" : "遥夢社"
-,"fountains square" : "FOUNTAIN'S SQUARE"
-,"intoku.info" : "いんとくいんふぉ"
-,"take out" : "Take Out"
-,"silkys" : "シルキーズ"
-,"redlight" : "REDLIGHT"
-,"article 60 of criminal code" : "Article 60 of criminal code"
-,"izumo gasshuukoku" : "いづも合衆国"
-,"urakata honpo" : "裏方本舗"
-,"takoyaki-batake" : "たこ焼き畑"
-,"ichiokumangenjaya" : "一億万軒茶屋"
-,"gs studio" : "G's studio"
-,"metal" : "METAL"
-,"shallot coco" : "シャルロット・ココ"
-,"aroma gaeru" : "あろまガエル"
-,"alps" : "ALPS"
-,"heisei chachamaru dou" : "平成茶々丸堂"
-,"pastel wing" : "PASTEL WING"
-,"kinbou sokai" : "近傍租界"
-,"yokoshimanchi." : "横島んち。"
-,"sukapon-do" : "スカポン堂"
-,"yumesaki annai kairanban" : "夢先案内回覧板"
-,"sarurururu" : "サルルルル"
-,"jikahatsudensho" : "自家発電処"
-,"tsunken" : "ツン研"
-,"shioya" : "塩屋"
-,"kokikko" : "KOKIKKO"
-,"oboro and tempo gensui dou" : "朧と天蓬元帥堂"
-,"ribi dou" : "RIBI堂"
-,"infinity drive" : "INFINITY DRIVE"
-,"takane no hanazono" : "たかねの花園"
-,"touyoko surfrider" : "東横サーフライダー"
-,"atelier sakura team.ntr" : "アトリエさくら Team.NTR"
-,"yuugai tosho kikaku" : "有害図書企画"
-,"makuu gundan" : "魔空軍団"
-,"activemover" : "ActiveMover"
-,"jibaku-system" : "自爆システム"
-,"erotic fantasy larvaturs" : "らばた工房"
-,"bakuhatsu brs." : "ばくはつBRS"
-,"irodori" : "彩～IRODORI～"
-,"ororiya enpitsudo" : "オロリヤ鉛筆堂"
-,"private garden" : "プライベートガーデン"
-,"yudokuya" : "友毒屋"
-,"kisou d koubou" : "奇想D工房"
-,"moe hime rengou" : "萌姫連合"
-,"brave heart petit" : "BRAVE HEART petit"
-,"l.p.e.g." : "L.P.E.G."
-,"idenshi no fune" : "遺伝子の舟"
-,"coffee maker" : "こーひーめーかー"
-,"syunichi kansuu" : "しゅにち関数"
-,"calm white" : "カームホワイト"
-,"fairytale" : "フェアリーテール"
-,"akiyama production" : "アキヤマ興行"
-,"hatena-box" : "HATENA-BOX"
-,"hobukuro" : "ほおぶくろっ！"
-,"kokusan jk" : "国産JK"
-,"chinpudo" : "珍譜堂"
-,"garakuta-ya" : "GARAKUTA-YA"
-,"shd" : "SHD"
-,"kujira logic" : "くぢらろじっく"
-,"pink chuchu" : "PINK CHUCHU"
-,"yamo7" : "ヤモセブン"
-,"king revolver" : "キングリボルバー"
-,"milk pudding" : "ミルクプリン"
-,"koniro kajitsu" : "紺色果実"
-,"niikyuu" : "にーきゅー"
-,"f and c" : "F&C"
-,"gasayabu" : "がさやぶ"
-,"henreikai" : "片励会"
-,"seafox" : "SeaFox"
-,"sendouya" : "千堂屋"
-,"deltaforce" : "DELTAFORCE"
-,"mimizu thousand" : "ミミズサウザンド"
-,"agoitei" : "AGOI亭"
-,"harthnir" : "ハースニール"
-,"astronomy" : "ASTRONOMY"
-,"sanazura doujinshi hakkoujo" : "さなづら同人誌発行所"
-,"shiawase kanmiryou" : "しあわせ甘味料"
-,"whirlpool" : "Whirlpool"
-,"nounanka sedai" : "nounanka"
-,"cybele" : "Cybele"
-,"longhorntrain" : "LongHornTrain"
-,"yukan high zakura" : "有閑High桜"
-,"blue garnet" : "BLUE GARNET"
-,"kindandowa" : "禁断童話"
-,"fullmetal madness" : "FULLMETAL MADNESS"
-,"lunatique" : "LUNATIQUE"
-,"ginjou maggots" : "吟醸マゴッツ"
-,"atelier kaguya honky-tonk pumpkin" : "アトリエかぐや Honky-Tonk Pumpkin"
-,"arestica" : "ARESTICA"
-,"mothman" : "もすまん"
-,"sprechchor" : "シュプレヒコール"
-,"pno group" : "PNOグループ"
-,"mimoneland" : "ミモネランド"
-,"brio" : "Brio"
-,"65535th avenue" : "65535あべぬー。"
-,"ai wa kurayami" : "愛は暗闇"
-,"ofuton de suyaa" : "おふとんでスヤァ"
-,"tozan bu" : "TOZAN・BU"
-,"orc soft" : "ORCSOFT"
-,"hinemosuan" : "終日庵"
-,"paradise city" : "ぱらだいすCITY"
-,"kabushikigaisha toranoana" : "とらのあな"
-,"mikandensya" : "蜜柑電車"
-,"poison gray" : "Poison Gray"
-,"akabei soft" : "アカベイソフト"
-,"akatama" : "アカタマ"
-,"studio q" : "すたじおQ"
-,"yakiniku tabetai" : "焼肉食べたい"
-,"samurai ninja greentea" : "サムライ忍者GREEN TEA"
-,"beat-pop" : "BEAT POP"
-,"aa aishiteru" : "ああ愛してる"
-,"venom" : "VENOM"
-,"vista" : "VISTA"
-,"yamaguchirou" : "やまぐち楼"
-,"munchengraph" : "MunchenGraph"
-,"escargot club" : ["えすかるご倶楽部", "ESCARGOT CLUB"]
-,"skirt tsuki" : "スカートつき"
-,"kyokutou koumuten" : "極東工務店"
-,"akatukiya" : "赤月屋"
-,"yamanashi musume." : "やまなし娘。"
-,"tempest" : "Tempest"
-,"ichigosize" : "いちごさいず"
-,"kokonokiya" : "ここのき屋"
-,"wagamama dou" : ["我儘堂", "わがまま堂"]
-,"ura fmo" : "裏FMO"
-,"momoiro-rip" : "MOMOIRO-RIP"
-,"kenix" : "KENIX"
-,"steel mayonnaise" : "鋼のマヨネーズ"
-,"kirei na oneesan" : "紀霊なお姉さん"
-,"miyanchi" : "みやんち"
-,"guilty hearts" : "GUILTY HEARTS"
-,"suitekiya" : "水滴屋"
-,"notone" : "NOTONE"
-,"abalone soft" : "Abalone Soft"
-,"double typhoon" : "ダブルタイフーン"
-,"tengu no tsuzura" : "天狗のつづら"
-,"mgw" : ["MG works", "MGW"]
-,"great acta" : "GREAT芥"
-,"taikan kyohougumi" : "大艦巨砲組"
-,"shoujo gesshoku" : "少女月蝕"
-,"crazy clover club" : "Crazy Clover Club"
-,"akikaze asparagus" : "秋風アスパラガス"
-,"circle heron" : "サークルヘロン"
-,"interheart" : "INTERHEART"
-,"ruki ruki exiss" : "るきるきEXISS"
-,"big boss" : "BIG BOSS"
-,"andorogynous" : "ANDOROGYNOUS"
-,"kyomu no uta" : "虚無の歌"
-,"shoujo kousaku" : "少女交錯"
-,"blue syndrome" : "青色症候群"
-,"zombie to yukaina nakamatachi" : "ぞんびと愉快な仲間たち"
-,"golden bazooka" : "ゴールデンバズーカ"
-,"ikkizuka" : "いっきづか"
-,"digital flyer" : "Digital Flyer"
-,"leo-circle" : "LEO-CIRCLE"
-,"syunkan saidaihusoku" : "瞬間最大風速"
-,"transistor baby" : "トランジスタベイビィ"
-,"sekai kakumei club" : "世界革命倶楽部"
-,"escude" : "Escu：de"
-,"kawaisounako" : "かわいそうな子"
-,"koudansha" : "幸田ん舎"
-,"magic private eye" : ["魔法探偵社", "MAGIC PRIVATE EYE"]
-,"etoile zamurai" : ["エトワール侍", "エトワールザムライ"]
-,"kaiyuu kikaku" : "回遊企画"
-,"valkyria" : "わるきゅ～れ"
-,"h.b" : "H.B"
-,"glamour works" : "GLAMOUR WORKS"
-,"flat" : "FLAT"
-,"bizensiki roroppu" : "備前式ロロップ"
-,"luck and pluck co." : "LUCK & PLUCK!"
-,"ua daisakusen" : "U・A大作戦"
-,"gos to vi" : "-gos to vi-"
-,"include" : "#include"
-,"pico pico labyrinth" : "ピコピコ★ラビリンス"
-,"nanairo no neribukuro" : "七色のねりぶくろ"
-,"jikansa-kougeki" : "時間差攻撃"
-,"makino jimusho" : "マキノ事務所"
-,"matsumoto drill kenkyuujo" : "松本ドリル研究所"
-,"sumi kara sumi made" : "スミカラスミマデ"
-,"debonosu works" : "でぼの巣製作所"
-,"usacastle" : "Usacastle"
-,"wasuraruru tegami" : "忘らるる手紙"
-,"hotel california" : "HOTEL CALIFORNIA"
-,"okadatei" : "おかだ亭"
-,"union of the snake" : "UNION OF THE SNAKE"
-,"mamekura" : "豆蔵"
-,"junpuumanpandou" : "順風満帆堂"
-,"shinohara heavy industry" : ["篠原重工", "SHINOHARA HEAVY INDUSTRY"]
-,"knockout" : "KNOCKOUT"
-,"anmonkan" : "闇夢館"
-,"flicker10" : "Flicker10"
-,"breeze" : "Breeze"
-,"konoha" : "このは"
-,"mahirutei" : "まひる亭"
-,"mono x chro" : "モノ×クロ"
-,"shichiyou souryuujin" : "七曜蒼龍陣"
-,"tololinco" : "とろりんこ"
-,"dragon kitchen" : "Dragon Kitchen"
-,"04u" : "04U"
-,"nf121" : "NF121"
-,"toluene ittokan" : "トルエン一斗缶"
-,"z-tabukuroneko house" : "Zた袋猫ハウス"
-,"d.o." : "D.O."
-,"cocktail soft" : "カクテルソフト"
-,"shimoboard" : ["SHIMOBOARD", "シモボード"]
-,"koito sousakusho" : "小糸創作所"
-,"kuusou monochrome" : "空想モノクローム"
-,"gessyu" : "げっしゅ"
-,"happy water" : "HAPPY WATER"
-,"noraya" : "のら屋"
-,"sotikoti" : "ソチコチ"
-,"team kihara" : "チームキハラ"
-,"uropyon" : "うろぴょん☆"
-,"honey bump" : "HONEY BUMP"
-,"kurohonyasan" : "くろほんやさん"
-,"2stroke" : "2STROKE"
-,"chagashi saiban" : "茶菓子裁判"
-,"chrono mail" : "Chrono Mail"
-,"seitokaishitsu" : "生徒会室"
-,"sniff dogs" : "Sniff Dogs"
-,"alem-gakan" : "亜嶺夢画館"
-,"pale scarlet" : "Pale Scarlet"
-,"cheese company" : "チーズカンパニー"
-,"toyatei" : "とやてい"
-,"nitroplus" : "NitroPlus"
-,"circle credit" : "くれじっと"
-,"grace" : "GRACE"
-,"zyx" : "Zyx"
-,"mainichi kenkou seikatsu" : "毎日健康生活"
-,"sogna" : "SOGNA"
-,"u-me soft" : "U・Me SOFT"
-,"yagisaki ginza" : "八木崎銀座"
-,"yuriai kojinshi kai" : "悠理愛個人誌会"
-,"tomoshibiya koubou" : "灯夜工房"
-,"chuuka mantou" : "中華饅頭"
-,"chandora" : "ちゃんどら"
-,"radical dream" : "Radical Dream"
-,"izumiya" : "いずみ屋"
-,"dagashiya" : "駄菓子屋"
-,"aratoya" : "あらと屋"
-,"high thrust" : "ハイスラスト"
-,"ashima sandou" : "芦間山道"
-,"timtim machine" : "TIMTIMマシン"
-,"lunch box" : "ランチBOX"
-,"konoshiro shinko" : "コノシロしんこ"
-,"shining" : "SHINING"
-,"chronicle" : "くろにくる"
-,"palepink" : "PalePink!"
-,"senbon knock zadankai" : "千本ノック座談会"
-,"takatobiya" : ["高飛屋", "タカトビヤ"]
-,"t.cop" : "T.cop"
-,"marchen box" : "メルヘンBOX"
-,"rehabilitation" : "リハビリテーション"
-,"akari blast" : "Akari Blast!"
-,"mangana" : "漫画な"
-,"orange peels" : "オレンジピールズ"
-,"pannacotta" : "パンナコッタ"
-,"ph" : "PH"
-,"neko-bus tei" : ["ねこバス停", "ネコバステイ", "A CAT BUS STOP"]
-,"tex-mex" : "TEX-MEX"
-,"omocha kaden" : "玩具家電"
-,"free style" : "FREE STYLE"
-,"aries" : "Aries"
-,"geiwamiwosukuu" : "芸は身を救う！！"
-,"baseson" : "BaseSon"
-,"akatsuki works hibiki" : ["暁WORKS-響-", "響 works"]
-,"jumbomax" : "JUMBOMAX"
-,"perceptron" : "ぱーせぷとろん"
-,"mutsuya" : "陸奥屋"
-,"active" : "Active"
-,"purple software" : "Purple software"
-,"galley" : "画嶺"
-,"ovacas" : ["OVACAS", "おばかーず"]
-,"tonpuuratei" : "とんぷぅら亭"
-,"trinity kyoudan" : "トリニティ教団"
-,"red crown" : "RED CROWN"
-,"shimapan" : ["しまぱん", "SHIMAPAN"]
-,"trap" : "TRAP"
-,"eushully" : "エウシュリー"
-,"aihara otome" : "相原乙女"
-,"countack" : "カウンタック"
-,"frontwing" : "FrontWing"
-,"semedain g" : "セメダインG"
-,"ukkaridou" : "うっかり堂"
-,"shikishima guntool" : "敷島贋具"
-,"ichinichi sanjou" : "一日三錠"
-,"furansowa" : "ふらんそわ"
-,"do well" : "Do well !!!"
-,"milk factory" : "みるくふぁくとりー"
-,"nikopondo" : "NIKOPONDO"
-,"turning point" : "Turning point"
-,"mushimusume aikoukai" : "蟲娘愛好会"
-,"studio tapa tapa" : "すたじお☆たぱたぱ"
-,"circus" : "CIRCUS"
-,"newton no ringo" : "ニュートンの林檎"
-,"dai-kotetsu dan" : "ダイコテツ団"
-,"overdose" : "オーバードーズ"
-,"delayder" : "でぃれ～だ～"
-,"jack-o-lantern" : ["ぢゃっからんたん", "JACK-O-LANTERN"]
-,"samidaregiri" : "五月雨斬り"
-,"newtype kenkyuujo" : "にゅうたいぷ研究所"
-,"crimson ground" : "Crimson Ground"
-,"elhearts" : "ELHEART'S"
-,"yuunabe shinkouchuu" : "夕鍋進行中"
-,"peach candy" : "Peach Candy"
-,"azure" : "AZURE"
-,"caza mayor" : "CAZA MAYOR"
-,"datendou" : "堕天堂"
-,"ikebukuro dpc" : ["池袋DPC", "Dynamite Pussy Cat"]
-,"narumiya" : "成宮"
-,"atsuya kougyou" : "篤屋工業"
-,"dieppe factory" : ["DIEPPE FACTORY", "でぃえっぷ工房"]
-,"cube" : "CUBE"
-,"bluemonday" : "BLUEMONDAY"
-,"f.a" : "F・A"
-,"from japan" : ["ふろむじゃぱん", "FROM JAPAN"]
-,"otafukutei" : "おたふく亭"
-,"orange-soft" : "ORANGE☆SOFT"
-,"lusterise" : "Lusterise"
-,"middly" : "MIDDLY"
-,"girigiri nijiiro" : "ギリギリ虹色"
-,"r-works" : ["R-works", "Rothmans workstation"]
-,"studio e.go" : "Studio e.go!"
-,"hiyori hamster" : "ひよりハムスター"
-,"kemono no koshikake" : "けもののこしかけ"
-,"ayashii bochi" : "あやしい墓地"
-,"chimeishou" : "致命傷"
-,"unagiyasan" : "うなぎやさん"
-,"iiwake-gaisya" : "いいわけ会社"
-,"nipopo crisis" : "ニポポクライシス"
-,"takitate" : ["炊きたて", "TAKITATE"]
-,"yorimichi" : "よりみち"
-,"kinokomushin" : "きのこむ神"
-,"yomosue doukoukai" : "ヨモスエ同好会"
-,"can do now" : "キャンドゥーなう！"
-,"murderhouse" : "マーダーハウス"
-,"murasakiiro no yoru" : "むらさきいろのよる"
-,"ngmyu" : "NGMYU"
-,"futsu-no-tapioca-yasan" : "ふつうのタピオカ屋さん"
-,"henry plaza" : "半里プラザー"
-,"shirukke no ooi zakuro" : "汁っけの多い柘榴"
-,"kazemichiya" : "風道屋"
-,"manitou" : "MANITOU"
-,"zattou keshiki" : "雑踏景色"
-,"goberazzo" : "ごべらっつぉ"
-,"house of karsea" : "ハウス オブ KARSEA"
-,"dogyear" : "DOGYEAR"
-,"naitou2" : "NAITOU2"
-,"greenhouse" : "ぐりいん野はうす"
-,"ray-raw" : "玲瓏"
-,"heavens gate" : "Heaven's Gate"
-,"penpengusa club" : "ペンペン草倶楽部"
-,"wanton land kumiai" : "わんとんランド組合"
-,"tamaranchi" : "たまらんち"
-,"yuugen jikkou" : "有言実行"
-,"mamiana hanten" : "狸穴飯店"
-,"machednia" : "まけどに屋"
-,"daitoutaku" : "大菫卓"
-,"may-be soft" : "May-Be Soft"
-,"yaya hinata-ya" : "梢日向屋"
-,"zigzag" : "ZIGZAG"
-,"akacia" : "AKACIA"
-,"deastim" : "でぃあすちーむ"
-,"kongarin" : "金画輪"
-,"candy pop" : "Candy Pop"
-,"totsugeki wolf" : ["突撃ウルフ", "おしおきウルフで突撃タッチ"]
-,"pritannia" : "ぷりたにあ"
-,"akanagi" : "あかなぎ"
-,"silver dog" : "シルバードッグ"
-,"kopikura" : "こぴくら"
-,"crank.in" : "CRANK.IN"
-,"devil-seal" : "Devil-seal"
-,"nas-on-ch" : "NAS-ON-CH"
-,"juicy fruits" : "Juicy Fruits"
-,"takeya" : "たけ屋"
-,"aheazif" : "アヘアジフ"
-,"dogstyle" : "DogStyle"
-,"noritama-gozen" : "のりたま御膳"
-,"schwester" : "しゅべすた"
-,"suzune rai chikashitsu" : "鈴根らい地下室"
-,"tetsu no otoshigo" : "てつのおとしご"
-,"yumemigokoti" : "夢見ごこち"
-,"rei no tokoro" : "例の所"
-,"ramen rice" : ["らーめんらいす", "RAMENrice"]
-,"poison" : "POISON"
-,"bousou fuhatsudan" : "暴走!!不発団"
-,"kouhuku shigen" : "幸福資源"
-,"oshaban" : "オシャバン"
-,"tri-moon" : "TRI-MOON"
-,"uzigaya" : "氏賀屋"
-,"maraparte" : "Maraparte"
-,"uso seisakusho" : "うそ製作所"
-,"hook" : ["HOOK", "HOOKSOFT"]
-,"tamakakeya" : "たまかけ屋"
-,"tsujimo ga machi ni yattekita" : "つじもが町に殺ってきた!!!"
-,"ue ni aru mikan" : "うえにあるみかん"
-,"hellter skelter" : "HELLTER SKELTER"
-,"ashitakara-ganbaru" : "あしたから頑張る"
-,"l.l. milk" : "L.L.MILK"
-,"tange kentou club" : "丹下拳闘倶楽部"
-,"ail soft" : "アイル"
-,"blue gale" : "BLUE GALE"
-,"tori no ya" : "鳥の屋"
-,"rtd" : "RTD"
-,"archetype" : "ARCHETYPE"
-,"bbg" : "BBG"
-,"blaze" : "BLAZE!"
-,"dangerous thoughts" : ["危険思想", "Dangerous Toughts"]
-,"windtone" : "うぃんどと～ん"
-,"zvizva-dan" : "ズビズバ団"
-,"from nou kanja no kai" : "フロム脳患者の会"
-,"poyopacho" : "ぽよぱちょ"
-,"seniman kartun" : "セニマンカルタン"
-,"coin toss" : "こいんとす"
-,"esora note" : "エソラnote"
-,"zip" : "ZiP"
-,"momokan" : "ももかん"
-,"ringo no naru ki" : "林檎のなる木"
-,"momo no tsubomi" : "モモのつぼみ"
-,"beelzebub" : "ベルゼブブ"
-,"dotechin tengoku" : "どてちん天国"
-,"im" : "I'm"
-,"maika" : "MAIKA"
-,"pumpkin" : "パンプキン"
-,"riroland" : "RIROLAND"
-,"nanairo koubou" : ["七色工房", "なないろ工房"]
-,"riku no kotoutei" : "陸の孤島亭"
-,"takurowo-dou" : "タクロヲ堂"
-,"candysoft" : "きゃんでぃそふと"
-,"circle kuusou zikken" : ["Circle KUUSOU ZIKKEN", "サークル空想実験"]
-,"studio z-agnam" : "スタジオZ-AGNAM"
-,"yume yori suteki na" : "夢よりすてきな"
-,"keumaya" : "希有馬屋"
-,"liar-soft" : "Liar-soft"
-,"uni no tane" : "うにの種"
-,"hikakuteki simple na panty" : "比較的シンプルなパンティ"
-,"hiyorimi no sora" : "ひよりみのソラ"
-,"arch" : "ARCH"
-,"courreges ace" : "クレージュA"
-,"skk" : "SKK"
-,"izumi gakuen" : "いずみ学園"
-,"jiyuugaoka shoutengai" : "自由が丘商店会"
-,"jyaraya" : "JYARAYA"
-,"miyabi tsuzuru bu" : "みやびつづる部"
-,"purin yokochou" : "ぷりん横丁"
-,"shimanto seiryuu" : "四万十清流"
-,"ss-brain" : "SS-BRAIN"
-,"will tame" : ["ウィルテイム", "WINGLAY SOFT"]
-,"marine" : "マリン"
-,"ushikani gassen" : "牛蟹合戦"
-,"wagarashiya" : "和がらし屋"
-,"ginmomodou" : "銀桃堂"
-,"kenrou koubo" : "けんろー工房"
-,"luciferhood" : "Luciferhood"
-,"nanatsugumi" : "ななつ組"
-,"unagi no nedoko" : "うなぎの寝床"
-,"hirusuta" : "ヒルスタ"
-,"pururun estate" : "プルルンエステ"
-,"omoshiro burger" : "おもしろバーガー"
-,"m.macabre" : "M.Macabre"
-,"kantou usagi gumi" : "関東うさぎ組"
-,"dark water" : "DARK WATER"
-,"gainamon" : "がいなもん"
-,"kfc" : "KFC"
-,"megami kyouten" : "女神経典"
-,"okachimentaiko" : "おかちめんたいこ"
-,"palette enterprise" : "Palette Enterprise"
-,"akai marlboro" : "赤いマルボロ"
-,"yuusha-sama go-ikkou" : "勇者様御一行"
-,"cocon" : "cocon!"
-,"gin no hoshitei" : "銀の星亭"
-,"sleepwatch.ex" : "寝ヲチEX"
-,"mentsukidou" : "眼ん月堂"
-,"futotta obasan" : "太ったおばさん"
-,"fusuma goten" : "ふすま御殿"
-,"knights" : "KNIGHTS"
-,"nagasaki-inter" : "長崎インター"
-,"yukimi honpo" : "ゆきみ本舗"
-,"zankirow" : "斬鬼楼"
-,"maruta-dojo" : "丸田道場"
-,"status doku" : "ステータスどく"
-,"tryset" : "TRYSET"
-,"nouzui majutsu" : ["脳髄魔術", "NoZui-Magic"]
-,"erectlip" : "エレクトリップ"
-,"raid slash" : "RAID SLASH"
-,"dualtail" : ["DualTail", "DualMage"]
-,"dynamite honey" : "Dynamite☆Honey"
-,"ed" : "サークルED"
-,"quick kick lee" : "QUICK KICK LEE"
-,"sound sticker" : "サウンドステッカー"
-,"jam kingdom" : ["ジャム王国", "JAM KINGDOM"]
-,"sailor q2" : "SAILOR Q2"
-,"potato house" : "Potato house"
-,"chirigami goya" : "ちり紙小屋"
-,"kaguradou" : "かぐら堂"
-,"katsuobushi" : "かつおぶし"
-,"okinawa taieki gunjinkai" : "沖縄体液軍人会"
-,"west vision" : "West Vision"
-,"zero" : "ZERO"
-,"zion" : "ZION"
-,"hearts and crusts" : "HEARTS & CRUSTS"
-,"urayoroduya" : "Ura Yoroduya"
-,"ashinoie" : "あしの家"
-,"homuras r comics" : "Homura's R Comics"
-,"march" : "MARCH"
-,"rodiura." : "ろぢうら。"
-,"navel" : "Navel"
-,"akabei soft3" : "あかべぇそふとすりぃ"
-,"astro creep" : "ASTRO CREEP"
-,"brilliant thunder" : "Brilliant Thunder"
-,"cha cha cha brothers" : "ちゃちゃちゃぶらざーず"
-,"hqs" : "HQ's Soft"
-,"murakami suigun no yakata" : "村上水軍の館"
-,"omega 2-d" : "OMEGA 2-D"
-,"piggstar" : "PIGGSTAR"
-,"public bath" : "Public Bath"
-,"qp flapper" : "Q.P. FLAPPER"
-,"speed" : "SPEED"
-,"lili marleen" : "リリーマルレーン"
-,"kamukamu" : "かむかむっ！"
-,"bananajam" : "BANANA JAM"
-,"black package" : "BLACK PACKAGE"
-,"tomikadou" : "tomika堂"
-,"saga planets" : "SAGA PLANETS"
-,"mukousharan" : "無口遮欄"
-,"shiroganeya" : ["白銀屋", "しろがね屋"]
-,"takakuya" : ["TAKAKUya", "高久屋"]
-,"teruo haruo" : "てるおはるお"
-,"yamaguchi print" : "やまぐちぷりんと"
-,"mushiringo" : "むしりんご"
-,"slw" : "SLW"
-,"kaitoushinshidan" : "怪盗紳士団"
-,"unizo" : "うに蔵"
-,"lump of sugar" : "Lump of Sugar"
-,"so-matou" : "そーま党"
-,"hadashi shoujo" : "裸足少女"
-,"neko works" : "NEKO WORKs"
-,"chimatsuriya honpo" : "血祭屋本舗"
-,"chuuni" : "ちゅうに"
-,"cool palace" : "Cool Palace"
-,"kaki no boo" : "柿ノ房"
-,"parthenon" : "Parthenon"
-,"urahyakkiyakou" : "裏百鬼夜行"
-,"white elephant" : "WHITE ELEPHANT"
-,"gokudou daigensui" : "極道大元帥"
-,"aeba no mori" : "喘葉の森"
-,"shiritsu sakuranbo shougakkou" : "私立さくらんぼ小学校"
-,"nekousa pudding" : "ねこうさプリン"
-,"nanashiki" : "七式"
-,"ambivalence" : "AMBIVALENCE"
-,"fukurou no yuubinya san" : "梟の郵便屋さん"
-,"dokumushi shokeitai" : "毒虫処刑隊"
-,"kouzukitei" : "香月亭"
-,"mental specialist" : "めんたるスペシャリスト"
-,"needle garden" : "NEEDLE GARDEN"
-,"nekoya kaigetsudou" : "猫屋懐月堂"
-,"urasazan" : "うらさざん"
-,"fuguriya" : "ふぐり屋"
-,"mengerekun" : "めんげれくん"
-,"key trash" : "KEY TRASH"
-,"ameya." : "飴屋。"
-,"hanzai tengoku" : "犯罪天国"
-,"jet-black baselarde" : "漆黒のBaselard"
-,"k.f.d." : "K.F.D"
-,"second cry" : "SECOND CRY"
-,"st. different" : ["DIFFERENT", "ST.DIFFERENT"]
-,"staccato squirrel" : "Staccato・Squirrel"
-,"synthetic garden" : "Synthetic Garden"
-,"yabougumi" : "野望組"
-,"ohsaka spirits" : ["大坂魂", "Oh!SAKA SPIRITS"]
-,"search-light" : "サーチライト"
-,"megasoundorchestra" : "MegaSoundOrchestra"
-,"milk standard" : "MILK STANDARD"
-,"squeez" : "SQUEEZ"
-,"cs ware" : "C's Ware"
-,"infinity-force" : "INFINITY FORCE"
-,"mutekei-fire" : "むてけいファイヤー"
-,"n.s craft" : "N.S craft"
-,"rorie-do" : "ろり絵堂"
-,"studio retake" : "STUDIO RETAKE"
-,"takotsubo club" : "たこつぼ倶楽部"
-,"wendybell" : "Wendy Bell"
-,"bottomress pit" : "BOTTOMRESS PIT"
-,"libido" : ["LIBIDO", "裏媚堂"]
-,"mouko mouretsu hasai dan" : "蒙古猛烈破砕団"
-,"shiawase manjuu" : "しあわせまんじゅう"
-,"mugichoko store" : "むぎちょこストア"
-,"nameless" : "Nameless"
-,"dasshifunnyuu" : "脱脂粉乳"
-,"delta box" : "DELTA BOX"
-,"discovery" : "DISCOVERY"
-,"hacchakesou" : "はっちゃけ荘"
-,"hisuitei" : "翡翠亭"
-,"jereheim garden" : "Jereheim Garden"
-,"studio skb" : "STUDIO SKB"
-,"the saturn" : "THE SATURN"
-,"momo9" : "ももきゅー"
-,"otogiya" : "御伽屋"
-,"afj" : "AFJ"
-,"digiel" : "DiGiEL"
-,"d-lovers" : "D-LOVERS"
-,"gaikotsu no spare rib" : "骸骨のスペアリブ"
-,"kesson shoujo" : "欠損少女"
-,"koakuma sageha" : "小悪魔sage派"
-,"nihon waru waru doumei" : "日本ワルワル同盟"
-,"sepia" : "SEPIA"
-,"takimoto doujou" : "滝本道場"
-,"toufuya" : "とーふ屋"
-,"penetrate" : "Penetrate"
-,"tail of nearly" : ["tail of nearly", "てーるおぶにやりー"]
-,"memoria" : "Memoria"
-,"apricot" : ["APRICOT", "applicot"]
-,"mochinchi" : "もちんち"
-,"tsukuten" : "つくてん"
-,"windmill oasis" : "ういんどみるOasis"
-,"black package try" : "BLACK PACKAGE TRY"
-,"heta no yoko zuki" : "ヘタの横好き"
-,"mbs truth" : "MBS TRUTH"
-,"milksoft" : ["牛乳ソフト", "みるくそふと"]
-,"team tanabe" : "田辺組"
-,"paper hearts" : "PAPER HEARTS"
-,"carnelian" : "CARNELIAN"
-,"tamatamasanmyaku" : "たまたま山脈"
-,"sarpaccio" : "サルパッチョ"
-,"bible" : "BIBLE"
-,"... mou ii desu." : "・・・もういいです。"
-,"2h" : "2H"
-,"art equals theater" : "ART=THEATER"
-,"frill" : "Frill"
-,"game dome" : "GAME DOME"
-,"g-spot" : "じぃすぽっと"
-,"zi" : "Zi"
-,"simasima system" : "しましましすてむ"
-,"arc" : "ARC"
-,"momoiro toiki" : "桃色吐息"
-,"petite x cerisier" : "Petite*Cerisier"
-,"nanacan" : "NANACAN"
-,"heart manju mania" : "はぁと饅頭マニア"
-,"bootup" : "bootUP!"
-,"dedepoppo" : "DEDEPOPPO"
-,"hana to ribon" : "華とりぼん"
-,"joshinzoku" : "女真族"
-,"rabbit company" : "ラビット・カンパニー"
-,"s-force" : "S-FORCE"
-,"studio implant" : "Studio Implant"
-,"takadoya-tei" : "たかどや亭"
-,"xuse" : "ザウス"
-,"graf zeppelin" : "GRAF ZEPPELIN"
-,"msize" : ["エムサイズ", "MSIZE"]
-,"ttt" : "TTT"
-,"urainutei" : "裏イヌ亭"
-,"vivido" : "ヴィヴィ堂"
-,"douwa-kensetsu" : "童話建設"
-,"einsatz gruppe" : "EINSATZ GRUPPE"
-,"hanjuku yude tamago" : "半熟茹で卵"
-,"ki-software" : "KI-SofTWarE"
-,"kyoubou jouchotai" : "凶暴情緒帯"
-,"lucretia" : "LUCRETIA"
-,"out of sight" : "OUT OF SIGHT"
-,"polorinken" : "ポロリン軒"
-,"shiko neru mix" : "しこ寝るミックス"
-,"studio vanguard" : "STUDIO VANGUARD"
-,"t-north" : "T-NORTH"
-,"youkai ankake" : "妖怪あんかけ"
-,"avion village f" : "アビオン村F"
-,"abbey load" : "ABBEY LOAD"
-,"prettydolls" : "PRETTY DOLLS"
-,"moonstone cherry" : "MOONSTONE Cherry"
-,"american kenpou" : "アメリカン拳法"
-,"combat mon-mon" : "コンバットモンモン"
-,"eve" : "EVE"
-,"gekidan kinmirai" : "劇團近未来"
-,"hatogoya" : "鳩小屋"
-,"kuroshikatei" : "黒鹿亭"
-,"moehina kagaku" : "萌雛化学"
-,"pussy cat" : "Pussy-CAT"
-,"qross" : "QRoss"
-,"sanketsushuu" : "酸欠集"
-,"spt" : "SPT"
-,"studio boxer" : "STUDIO BOXER"
-,"sugiura-ke" : "杉浦家"
-,"suika dokei" : "すいか時計"
-,"lovely pretty chou aishiteru" : "ラブリープリチー超愛してる"
-,"knife edge" : "ナイフエッジ"
-,"studio neo black" : "studio NEO BLACK"
-,"babel" : "BABEL"
-,"bbb-extra" : "BBBえくすとら"
-,"mizumo club" : "みずも倶楽部"
-,"kinoko allstars" : "キノコallstars"
-,"ajisaihuumitei" : "紫陽花風味亭"
-,"lilim" : "LiLiM"
-,"marukane teikoku" : "丸金帝国"
-,"mechanical code" : "メカニカルコード"
-,"neko neko soft" : "ねこねこソフト"
-,"phantomcross" : "PHANTOM CROSS"
-,"sakuradou" : "桜堂"
-,"softhouse chara" : "ソフトハウスキャラ"
-,"ahm" : "AHM"
-,"shirando" : ["SHIRANDO", "熾鸞堂"]
-,"palette" : "ぱれっと"
-,"akabei soft2" : "あかべぇそふとつぅ"
-,"asa project" : "ASa Project"
-,"atelier sakura" : "アトリエさくら"
-,"pulltop" : "PULLTOP"
-,"chaos-l" : "CHAOS-L"
-,"moonstone" : "MOONSTONE"
-,"apple pie" : "Apple Pie"
-,"atelier pinpoint" : "アトリエ ピンポイント"
-,"bijutsubu" : "美術部"
-,"extage" : "Extage"
-,"h and k" : "H and K"
-,"hitori tower bridge" : "ヒトリタワーブリッジ"
-,"metsuki warui kyoudan" : "目つき悪い教団"
-,"mystic chord" : "ミスティック・コード"
-,"pleco" : "PLECO"
-,"sakura koubou" : "さくら工房"
-,"twin tail" : "TWIN TAIL"
-,"ga fake" : "GA FAKE"
-,"ryuutai rikigaku" : "流体力学"
-,"nodomaru biyori" : "のどまる日和"
-,"the latest engine" : "The Latest Engine"
-,"leaf" : "Leaf"
-,"gyuutan teishoku e no koi" : "牛タン定食への恋"
-,"hakutoutei" : "白桃亭"
-,"aruku denpatou no kai" : "歩く電波塔の会"
-,"bakugeki monkeys" : "爆撃モンキーズ"
-,"cdpa" : "CDPA"
-,"cool kyou dai san shibu" : "クール教第三支部"
-,"dennou fuyu mikan" : "電脳冬蜜柑"
-,"doku pepper" : ["doku-pepper", "毒胡椒"]
-,"janis" : "JANIS"
-,"kikkaya" : "橘花屋"
-,"magudara kaihou doumei" : "マグダラ解放同盟"
-,"news" : "NEWS"
-,"ruku-pusyu" : "るくーぷしゅ"
-,"umenomi gahou" : "梅の実画報"
-,"mcnail koubou" : "まくねいる工房"
-,"sandglass" : "Sandglass"
-,"tohosanhun" : "徒歩三分"
-,"unisonshift" : "UNiSONSHIFT"
-,"makura" : ["枕", "けろ枕"]
-,"0000" : "0000 (クアドラプルゼロ)"
-,"dish up" : "Dish up"
-,"imakaya" : "いまか屋"
-,"kakohimenoutuwa" : "KAKOHIMENOUTUWA"
-,"nikomark" : "にこまあく"
-,"sangenshokudou" : "三原色堂"
-,"trabulance" : "Trabulance"
-,"variable" : "VARIABLE？"
-,"pit" : "Pit"
-,"tenny le tai" : "テニーレ隊"
-,"red-zone" : "RED-ZONE"
-,"clutch shot king" : "CLUTCH SHOT KING"
-,"omega star" : "ωstar"
-,"tekireiki ni shokuchuudoku" : "適齢期に食中毒"
-,"16kenme" : "16軒目"
-,"applemint" : "あっぷるみんと"
-,"elephant.giraffe" : "ELE.GIRA"
-,"garyuuya" : "我龍屋"
-,"giroutei" : "妓楼亭"
-,"kieyza cmp" : "喜栄座cmp"
-,"lovers" : ["Lover's", "studio A side B “Lover's”"]
-,"nyagos" : "にゃごズ"
-,"oden-ya" : "おでんや"
-,"seventh heaven maxion" : "セブンスヘブンMAXION"
-,"smee" : "SMEE"
-,"touchable" : "TOUCHABLE"
-,"voltcompany." : "VOLTCOMPANY."
-,"koutarou with t" : "KOUTAROU with T"
-,"minshuku inarimushi" : "民宿いなりむし"
-,"nisiarea" : "にしえりあ"
-,"brave chicken" : "BRAVE CHICKEN"
-,"tsutsumorien" : "筒森園"
-,"b5 doumei" : "B5同盟"
-,"shiitake" : "椎茸"
-,"shishunki" : "思春棄"
-,"echizen bugyousho" : "越前奉行所"
-,"jellyfish" : "JellyFish"
-,"maho-shinsengumi" : "魔法新選組"
-,"neko kinryouku" : "猫禁猟区"
-,"sweet candle" : "SweetCandle"
-,"tsk" : ["TSK", "天使館"]
-,"upagoya" : "うぱ小屋"
-,"ammolite" : "アンモライト"
-,"abura katabura" : ["あぶらかたぶら", "ABURAKATABURA"]
-,"group 601" : "グループ601"
-,"age" : "AGE"
-,"kuronekokan-monpetit" : "黒猫館モンプチ"
-,"tridisaster" : "Tridisaster"
-,"momonomi plus" : "もものみプラス"
-,"tanabata milky way" : "タナバタミルキーウェイ"
-,"babybed" : "ベビーベッド"
-,"cyclet" : "CYCLET"
-,"anzen daiichi" : "安全第一"
-,"canvas garden" : "CANVAS+GARDEN"
-,"festa." : "ふぇすた。"
-,"gokufero" : "極フェロ"
-,"heat-soft" : "HEAT-SOFT"
-,"intendou" : "淫天堂"
-,"jingai makyou club" : "人外魔境倶楽部"
-,"mimasaka direct" : "ミマサカダイレクト"
-,"mizuiro zenmai" : "みずいろぜんまい"
-,"nazonokai" : "謎の会"
-,"skyfish" : "SkyFish"
-,"sumire club" : "スミレ倶楽部"
-,"swan mania" : "スワンマニア"
-,"tarots" : "TAROTS"
-,"the flyers" : "THE FLYERS"
-,"karumaya" : "かるま屋"
-,"shounen byoukan" : "少年病監"
-,"black cyc" : "ブラックサイク"
-,"hijouguchi" : "ひじょうぐち"
-,"mofumanjuu" : "もふまんじゅう"
-,"umemoto seisaku iinkai" : "梅本制作委員会"
-,"atelier kaguya cheshirecat" : "アトリエかぐや CheshireCat"
-,"4h" : "4H"
-,"akachi" : "あかち"
-,"cut a dash" : "Cut a Dash!!"
-,"era feel" : "ERA FEEL"
-,"genki no mizu no wakutokoro" : "げんきのみずのわくところ"
-,"gesen18" : "げーせん18"
-,"guy-ya" : ["男屋", "GUY-YA"]
-,"houkago paradise" : "放課後パラダイス"
-,"kanmidokoro usb" : "甘味処USB"
-,"kigeki banzai" : "喜劇万歳"
-,"manamagu" : "まなまぐ"
-,"milk gohan" : "みるくごはん"
-,"samurai" : "侍"
-,"tougesakuraya" : "峠桜屋"
-,"yokoshimaya" : "邪屋。"
-,"vitamin gohan" : ["ビタミンごはん", "Vitamin rice!"]
-,"pajamas soft" : "ぱじゃまソフト"
-,"furuya" : "ふる屋"
-,"tecchitecchi" : "テッチテッチ"
-,"tuned by aiu" : "Tuned by AIU"
-,"blackrainbow" : "BLACKRAINBOW"
-,"black angel" : "BLACK ANGEL"
-,"cartagra" : "骨牌倉"
-,"curry berg dish" : "Curry Berg Dish"
-,"ice coffin" : "ICE・COFFIN"
-,"inudrill lolita engine" : "イヌドリルロリータエンジン"
-,"kurohina" : "黒雛"
-,"marmalade" : "ま～まれぇど"
-,"miraiya" : "MIRAIYA"
-,"nagisawaya" : "なぎさわ屋"
-,"nonoya" : "のの屋"
-,"peperoncino" : "ぺぺろんちーの"
-,"pham" : "PHAM!"
-,"studio-sakura" : "Studio Sakura"
-,"takaradamashii" : "宝魂"
-,"yanasegawabeya" : "柳瀬川部屋"
-,"joji panchu uriba" : "女児ぱんちゅ売場"
-,"ronpaia" : "ろんぱいあ"
-,"august" : "August"
-,"hamham soft" : "はむはむソフト"
-,"nekoyashiki" : "猫屋敷"
-,"tamakiya" : "環屋"
-,"dorayakiya" : "どらやきや"
-,"pazzo s.p." : "Pazzo S.P."
-,"crowd" : "CROWD"
-,"arctic pan" : ["北極鍋", "ARCTIC-PAN"]
-,"dark battery" : ["黒電池", "Dark Battery"]
-,"digital g power" : "デジタルGパワー"
-,"flyingshine" : "FlyingShine"
-,"heart work" : "HEART WORK"
-,"j.d.world" : "J.D.World"
-,"may no tenshi" : ["メイの天使", "An angel for May"]
-,"mekakushi musume" : "目隠し娘"
-,"monte carlo-ya" : "もんてかるろ屋"
-,"moriisan-tokono" : "森井さんとこの"
-,"nippon teikoku toshokan" : "日本帝國図書館"
-,"onomatope" : "onomatope＊"
-,"r2" : "R2"
-,"reak" : "Reak"
-,"ricecandy" : "RiceCandy"
-,"rupinasu touzokudan" : "るぴなす盗賊団"
-,"scoop" : "ScooP"
-,"shikkokuno j.p.s." : ["漆黒のJ.P.S.", "J.P.S. OF BLACK BEAUTY"]
-,"soreya" : "其レ屋"
-,"studio c-take" : ["studio C-TAKE", "DARK STARS", "BLACk STAR"]
-,"studio sharaku" : "STUDIO SHARAKU"
-,"yasyokutei" : "夜食亭"
-,"secreder" : "SECREDER"
-,"tone works" : "tone work's"
-,"acidsea" : "ACIDSEA"
-,"mamagult" : "ママグル徒"
-,"side effects" : "SIDE EFFECTS"
-,"torii-za" : "鳥居座"
-,"piropiro-go" : "ぴろぴろごー"
-,"alice-do" : ["ありす堂", "アリス堂"]
-,"c.a.t" : "CAT Creative Art Team"
-,"caramel box" : "Caramel Box"
-,"chuable soft" : "チュアブルソフト"
-,"d-heaven" : "D-heaven"
-,"dual beat" : "DUAL BEAT"
-,"elle-murakami" : "elle-叢神"
-,"g.j" : "G.J？"
-,"gekka bijin" : "月下美刃"
-,"heroes factory" : ["HF", "HEROES FACTORY"]
-,"nekomarudow." : "猫丸堂"
-,"nilitsu haihan" : "ニリツハイハン"
-,"simple house" : "SIMPLE HOUSE"
-,"softhouse-seal grandee" : "softhouse-seal GRANDEE"
-,"atsuatsu muchimuchi" : "あつあつむちむち"
-,"windmill" : "ういんどみる"
-,"utanone dou" : "うたのね堂"
-,"pisces" : "PISCES"
-,"aion" : "AION"
-,"applecat" : "あっぷるきゃっと"
-,"b-crews" : "B-Crews"
-,"cross-do" : "黒酢堂"
-,"cshouse" : "しーずはうす"
-,"eroliya" : "えろり屋"
-,"foster" : "FOSTER"
-,"fukumaden" : "伏魔殿"
-,"guchokuya" : "愚直屋"
-,"haisui no jin" : "ハイスイノ陣"
-,"k.a.d" : "K.A.D"
-,"kaede no harawata" : "楓のはらわた"
-,"milk crown" : "MILK CROWN"
-,"nnz dan" : "NNZ団"
-,"noriajou" : "のりあ城"
-,"ootsuku shouji" : ["大津久屋", "大津久商事(有)"]
-,"parasol" : "Parasol"
-,"peppy angel" : "PEPPY ANGEL"
-,"rune" : "RUNE"
-,"sairo publishing" : "SAIRO PUBLISHING"
-,"shinba oolong cha" : "神葉烏龍茶"
-,"sledgehammerout" : "SledgehammerOut!"
-,"spec-r" : "Spec-R"
-,"spermation" : "スペルメーション"
-,"sugarspot" : "SUGAR(S)POT"
-,"tenjikuya" : "天軸屋"
-,"terios" : "Terios"
-,"clover kai" : "くろーヴァー会"
-,"utataneyashiki" : "転寝屋敷"
-,"grand lemon" : "Grand lemon"
-,"koori ame" : "こおりあめ"
-,"alcot" : "ALcot"
-,"tanuki soft" : "たぬきそふと"
-,"broad smile" : "Broad smile"
-,"atelier bord" : "Atelier Bord"
-,"studio zuburi" : "スタジオ ズブリ"
-,"solo play" : "そろぷれい"
-,"are." : "あれ。"
-,"black list" : "BLACK LIST"
-,"ekakigoya notesystem" : "EKAKIGOYA NOTESYSTEM"
-,"fetish children" : "Fetish Children"
-,"gakuen hanimokuo" : "学園はにもくお"
-,"gutenberg no musume" : "グーテンベルグの娘"
-,"kitkaters" : "KITKATERS"
-,"leaf party" : "リーフパーティー"
-,"luft forst" : "Luft Forst"
-,"pil" : "PIL"
-,"planet porno" : "PLANET PORNO"
-,"pyonpyororin" : "ぴょんぴょろりん"
-,"salvage kouboh" : "サルヴェージ工房"
-,"takumiya" : "TAKUMIYA"
-,"wanwandoh" : "わんわん堂"
-,"znn" : "ZNN"
-,"royal crown" : "ROYAL CROWN"
-,"selen" : "Selen"
-,"js style" : "J's STYLE"
-,"fastest lap" : "FASTEST LAP"
-,"sakura suishou" : "桜水晶"
-,"konatuiro" : "来夏色"
-,"1st.ms" : "1st.M's"
-,"acid noel" : "Acid Noel"
-,"anorak post" : "AnorakPost"
-,"c.r.c" : "C.R.C"
-,"casket" : "Casket"
-,"cotojikan" : "琴慈館"
-,"dennou denpa hatsureisho" : "電脳電波発令所"
-,"group hinoran" : "ぐる～ぷひのらん"
-,"gyara cter" : "ギャラ☆クター"
-,"hacca candy" : "Hacca Candy"
-,"igyouha club" : "異形波倶楽部"
-,"kimpotsu" : "きムぽつ"
-,"medical berry" : "Medical Berry"
-,"miyumiyu project" : "みゆみゆproject"
-,"next" : "NEXT"
-,"one-seven" : "ONE-SEVEN"
-,"pleiades fortune" : "PLEIADES☆FORTUNE"
-,"sangatsu no lion" : "三月のライオン"
-,"shinobi no yakata" : "忍ノ館"
-,"st. armadel ch." : "聖アルマデル教会"
-,"yakan hikou" : "夜間飛行"
-,"astronauts sirius" : "アストロノーツ・シリウス"
-,"kouyadou" : "こうや堂"
-,"nekojarasare" : "猫じゃらされ"
-,"toraisix" : "とらいしっくす"
-,"nanao heavy industries" : ["七尾重工", "七緒重工"]
-,"mizutaniya" : "水谷屋"
-,"anemone" : "アネモネ"
-,"bumsign" : "BUMSIGN"
-,"chill-out" : "CHILL OUT"
-,"manoou noguchi eigyou nika" : "魔の王野口営業二課"
-,"matsuri kikaku" : "祭企画"
-,"missing park" : "MISSING PARK"
-,"neko saffron" : "ネコサフラン"
-,"neu" : "NEU"
-,"nomad" : "Nomad"
-,"oldwiseman" : "Old wiseman"
-,"studio sitomi" : "STUDIO-SITOMI"
-,"sunset dreamer" : "Sunset Dreamer"
-,"tennenseki" : "天然石"
-,"wasre kaban" : "忘れカバン"
-,"genki honpo" : ["元気本舗", "GENKIHOMPO"]
-,"on-show" : "怨床"
-,"edge" : "サークルED"
-,"10pasec no kanata" : "拾八secの彼方"
-,"av" : "Team AV"
-,"buffalow propaganda" : "BUFFALOW PROPAGANDA"
-,"cafeteria watermelon" : "CAFETERIA WATERMELON"
-,"courmet-nyankichi" : "くるめにゃん吉"
-,"egonokatamari" : "エゴノカタマリ"
-,"eroitto" : "エロイット"
-,"geboku shuppan" : "下僕出版"
-,"hiyotama goten" : "ひよたま御殿"
-,"hogero kikaku" : "ほげろー企画"
-,"kaiteisinden" : "海底神殿"
-,"korokoro koronp" : "ころころころんぴ"
-,"light pink" : "ライトピンク"
-,"magic machinery" : "MAGIC MACHINERY"
-,"mugendai" : "無限大"
-,"noa" : "NOA"
-,"ocarina" : ["おかりな", "OCARINA"]
-,"p.s." : "P.S."
-,"pokopen-honpo" : "ぽこぺん本舗"
-,"saikyou anaheim" : "蔡京アナハイム"
-,"shin nanka tou" : "新なんか党"
-,"shoryutei" : "昇竜亭"
-,"shungabu" : "春画部"
-,"tamashii max" : "魂MAX"
-,"overflow" : "Overflow"
-,"yakiyama line" : "YAKIYAMA LINE"
-,"favorite" : "FAVORITE"
-,"nikka" : "NIKKA"
-,"oiwaidou" : "御祝堂"
-,"morelia standard" : "もれりあすたんだーど"
-,"absolute" : "Absolute"
-,"akatsuki works" : "暁WORKS"
-,"ambivalenz" : "Ambivalenz"
-,"ankoku-bousougumi" : "暗黒暴走組"
-,"blue metal" : "BLUE METAL"
-,"breakin bakery" : "Breakin Bakery"
-,"chesha neko no yakata" : "チェシャ猫の館"
-,"colt" : "Colt"
-,"fangs" : "FANGS"
-,"ikibata 49ers" : "いきばた49ERS"
-,"kaicho-maniax" : "カイチョーマニアックス"
-,"kotori jimusho" : "小鳥事務所"
-,"lass" : "Lass"
-,"mix-ism" : "MIX-ISM"
-,"neo frontier" : "Neo Frontier"
-,"piyo project" : "ぴよぷろじぇくと"
-,"precious heart" : "Precious HEART"
-,"rootnuko" : "√nuko"
-,"sexual khorosho" : "セクシャルハラショー"
-,"subsonic factor" : "SUBSONIC FACTOR"
-,"tasomorera" : "たそもれら"
-,"tougenkyo" : "桃源郷"
-,"tribo" : "TRIBO"
-,"bell-da" : "BELL-DA"
-,"kinmekki damashii" : "金メッキ魂"
-,"yukisizuku" : "ゆきしずく"
-,"blue blood" : "BLUE BLOOD"
-,"mirukuseiki" : "みるく世紀"
-,"alfa300" : "ALFA300"
-,"butter cookie" : ["ばたぁくっきぃ", "BUTTER COOKIE"]
-,"cu-little2" : ["くりとる", "くりとるりとる"]
-,"hachigo" : "ハチゴ"
-,"light garden" : "LIGHT GARDEN"
-,"m no violet" : "M no VIOLET"
-,"neko pantsu" : "ねこぱんつ"
-,"ole-m" : "OLE-M"
-,"points" : "Points"
-,"puni-douraku" : "ぷに道楽"
-,"shikitenshi" : "色天使"
-,"studio runaway wolf" : "studio RUNAWAY WOLF"
-,"survive" : "Survive"
-,"the knight of the pants" : "パンツ騎士団"
-,"tougechaya" : "峠茶屋"
-,"usaneri island" : "Usaneri★IsLand"
-,"veto" : "VETO"
-,"vitamin soft" : "ビタミン"
-,"ylang-ylang" : ["YLANG-YLANG", "イランイラン"]
-,"asstaro-san" : "アスタローサン"
-,"loverevo" : "ラブレボ"
-,"yururuka-dou" : "ゆるるか堂"
-,"cuffs" : "CUFFS"
-,"ballistic onahole" : "Ballistic onahole"
-,"fetish" : "ふぇちっしゅ"
-,"actress" : "アクトレス"
-,"banana saruen" : ["ばななサル園", "BANANA MONKY PARK"]
-,"booblian" : "Booblian"
-,"chika sekai" : "地下世界"
-,"chocolate shop" : "CHOCOLATE SHOP"
-,"danger equals zone" : "DANGER=ZONE"
-,"gurumepoppo" : "ぐるめポッポ"
-,"inkpot" : "INKPOT"
-,"koala kikaku" : "コアラ企画"
-,"koala machine" : ["コアラマシン", "KOALA MACHINE"]
-,"l-gauge sha" : ["L.GAUGE", "Lゲージ社"]
-,"machwing" : "マッハウイング"
-,"przm star" : "Przm Star"
-,"rolling star" : "Rolling Star"
-,"sion" : ["SION Graphic Works", "紫音-SION-"]
-,"sky lounge garden" : "Sky Lounge Garden"
-,"suzunaridou" : "鈴鳴堂"
-,"swaneye" : "スワンアイ"
-,"wild kingdom" : "WILD KINGDOM"
-,"youki m.k.c." : "優希M.K.C."
-,"yumemisou" : "夢見奏"
-,"act.direction" : "ACT.DIRECTION"
-,"anim teammm" : ["ANIM Mother&Wife", "ANIM.teamMM"]
-,"catwalknero" : "catwalkNERO"
-,"koubai gekka" : "紅梅月下"
-,"nyan nyan nyan" : "にゃんにゃんにゃん！"
-,"ana" : "ANA"
-,"atelier kaguya berkshire yorkshire" : "アトリエかぐや Berkshire Yorkshire"
-,"2b" : "2B"
-,"apadash" : "アパダッシュ"
-,"black fly" : "BLACK FLY"
-,"casmania" : "CASMANIA"
-,"ciel" : "CIEL"
-,"coconutbless" : "COCONUT BLESS"
-,"fairy dust" : "フェアリーダスト"
-,"hime club" : "姫倶楽部"
-,"ikaruganomiya" : "斑鳩宮"
-,"ikka risan" : "一家離散"
-,"komedokoro" : "KOMEDOKORO"
-,"konno seisakubou" : "紺野制作坊"
-,"kuroneko-kan" : "クロネコ缶"
-,"milk pai" : "みるくぱい"
-,"nijutteya" : "弐十手屋"
-,"poashara" : "ポアシャラ"
-,"r1" : "r;1"
-,"radical dash" : "RADICAL DASH"
-,"rasen" : "RaSeN"
-,"shinanoya" : "信濃屋"
-,"tounantou" : "東＊南＊東"
-,"tryset break" : "TRYSET Break"
-,"underlip" : "アンダーリップ"
-,"innocent grey" : "Innocent Grey"
-,"moe moe cafe" : "モエモエカフェ"
-,"atelier kaguya team heartbeat" : "アトリエかぐや TEAM HEARTBEAT"
-,"macv-sog" : "MACV-SOG"
-,"que sera sera" : "Que sera sera"
-,"sakida shoten" : "咲田書店"
-,"areya" : "あれ屋"
-,"ark emerald" : "ArkEmerald"
-,"choki no kamisama" : "ちょきの神さま"
-,"circle bob" : "サークルボブ"
-,"erogos" : "Erogos"
-,"eroro" : "Eroro"
-,"fuguri" : "ふぐり"
-,"galette" : "Galette"
-,"hikarito mahou koubou" : "光と魔法工房"
-,"hispano-suiza" : "Hispano-Suiza"
-,"houruri" : "蓬瑠璃"
-,"mint blue" : "MINT BLUE"
-,"momoiro kageboushi" : "桜色影法師"
-,"otokonoko soft" : "男の娘ソフト"
-,"p kikaku" : "P企画"
-,"rintoneko" : "りんとねこ"
-,"shis laboratory" : "SHi's Laboratory"
-,"tactics" : "Tactics"
-,"type punishment" : "罰式"
-,"studio mebius" : "Studio Mebius"
-,"itaba tatamiten" : "板場畳店"
-,"socha-ya" : "そちゃ屋"
-,"reds" : "Reds!"
-,"alice syndrome" : "アリスシンドローム"
-,"aruto-ya" : "あると屋"
-,"astronauts" : "アストロノーツ"
-,"blue devil" : "Blue Devil"
-,"chikuwano kimochi" : "ちくわの気持ち"
-,"derolian" : "デロリアン"
-,"dokuritsu gurentai" : "独立愚連隊"
-,"fuusen club kuroshiki" : "風船クラブ 黒式！"
-,"hanshi x hanshow" : "半死半生"
-,"itsukidou" : "itsukidoh"
-,"joker type" : "JOKER TYPE"
-,"neko iri bako dairi" : "猫入り箱代理"
-,"oregun" : "OREGUN"
-,"otaku no youjinbou" : "オタクの用心棒"
-,"potage" : "Potage"
-,"studio kame" : "スタジオカメ"
-,"timest" : "TIMEST"
-,"tiny feather" : "Tiny Feather"
-,"vanadis" : "Vanadis"
-,"yakouyousei" : "夜光幼性"
-,"yojouhan" : "四畳半"
-,"hayonipo" : "はよにぽ"
-,"onomatopoeia" : "Onomatopoeia"
-,"yoru no hitsuji" : "夜のひつじ"
-,"log house" : "Log House"
-,"gyokusaijima" : "玉砕島"
-,"leonat koubou" : "レオナト工房"
-,"girls software" : "GIRL'S SOFTWARE"
-,"harugakita" : "Harugakita"
-,"sphere" : "Sphere"
-,"qruppo" : "Qruppo	"
-,"all-time" : "ALL-TiME"
-,"cla cla clala" : "Cla Cla Clala"
-,"crepe" : "Crepe"
-,"flavor graphics" : "Flavor Graphics"
-,"genocidou" : "ジェノサイ堂"
-,"haikara cafe" : ["はいから喫茶", "ハイカラ喫茶"]
-,"heavens unit" : "HEAVEN'S UNIT"
-,"hellfragrance" : "HELLFRAGRANCE"
-,"hyper brand" : "HYPER BRAND"
-,"jigen bakudan" : "時限爆弾"
-,"kousoku kaiten" : "高速回転"
-,"kurage no candume" : "くらげのかんづめ"
-,"meromerofactory xl" : "メロメロファクトリーXL"
-,"milk bar" : "MILK BAR"
-,"momoiro-gekijyou" : "桃色劇場"
-,"nagiya honpo" : "なぎや本舗"
-,"nawanoren" : "縄のれん"
-,"nekoranbu" : "猫乱舞"
-,"otentomaru" : "オテント丸"
-,"ponchees kari" : "ぽんちーず(仮)"
-,"puriori-soft" : "ぶりおりソフト"
-,"rapapuru" : "らぱぷる"
-,"ryuu no kinyoubi" : "龍の金曜日"
-,"silmaril" : "しるまりる"
-,"sonic winter" : "SONIC WINTER"
-,"sukaradog" : "SUKARADOG"
-,"toumei tsuushin" : "透明通信"
-,"ucky labo" : "ウッキーラボ"
-,"mado soft" : "まどそふと"
-,"ugeman" : ["うげ漫", "UGE-MAN"]
-,"arukaseya" : "歩かせ屋"
-,"fukashigi" : "不可思議"
-,"dessert soft" : "DESSERT Soft"
-,"utaneya" : "うたね屋"
-,"starworks" : "STARWORKS"
-,"rikudoukan" : "六道館"
-,"tomato kanzume" : "TOMATO缶詰"
-,"nanawind" : "NanaWind"
-,"isotonix" : "アイソトニクス"
-,"aphrodite" : "あふろでぃ～て"
-,"chakapoko honpo" : "ちゃかぽこ本舗"
-,"coburamenman" : "コブラーメンマン"
-,"daizu azuki" : ["DAIZU-AZUKI", "大豆小豆"]
-,"dakimakuma" : "だきまくま"
-,"double branch" : "だぶるぼらんち"
-,"frapper spirits" : "FRAPPER SPIRITS"
-,"girls empire" : "娘。帝国"
-,"guruguru honpo" : "グルグル本舗"
-,"happy paranoia" : "ハッピーパラノイア"
-,"houenken" : "方円軒"
-,"iyou" : "iYou"
-,"kuuronziyou" : "九龍城"
-,"mirukomi" : "Mirukomi"
-,"overdrive" : "OVERDRIVE"
-,"paopaship" : "PAOPASHIP"
-,"romantic sintai-kensa." : "ロマンティック身体検査"
-,"runners high" : "RUNNERS HIGH"
-,"tenchuugumi" : "天誅組"
-,"usausa" : "うさうさ"
-,"zinzin" : "ジンジン"
-,"c drive" : "C：Drive"
-,"kikka-shurou" : "菊花酒楼"
-,"pinpai" : "Pinpai"
-,"uotatsu18kinshiten" : "魚辰一八金支店"
-,"microbit" : "Microbit"
-,"workstation r" : "ワークステーションR"
-,"eyebrows born" : "アイブロウズボーン"
-,"n7747" : "N7747"
-,"a.l.c" : ["A.L.C", "ALC"]
-,"aaru" : "アアル"
-,"absolute fantasy" : "ABSOLUTE FANTASY"
-,"akane makes revolution" : "サークルAMR"
-,"alcot honey comb" : "ALcotハニカム"
-,"argonauts" : "Argonauts"
-,"blazer one" : "BLAZER ONE"
-,"cherry soft" : "ちぇりーそふと"
-,"clip craft" : "CLIP☆CRAFT"
-,"happo ryuu" : "HAPPO流"
-,"hulotte" : "Hulotte"
-,"kannazuki seisakusho" : "神無月製作所"
-,"konbuni" : "こんぶに"
-,"m-10" : "M-10"
-,"magnolia" : "マグノリア"
-,"manganiku" : "マンガ肉"
-,"marcys" : "MARCY'S"
-,"neko masshigura" : "ねこまっしぐら"
-,"otona star" : "大人スター"
-,"riki" : "RIKI"
-,"rusk" : "RusK"
-,"score" : "SCORE"
-,"software circle mercure" : "Software circle Mercure"
-,"studio nama" : "スタジオ生"
-,"terra drive" : "TERRA DRIVE"
-,"tougall kai" : "東ガル会"
-,"undermoon" : "アンダームーン"
-,"windy wing" : "WiNDY_WiNG"
-,"witchflame" : "WitchFlame"
-,"wolkenkratzer" : "WOLKENKRATZER"
-,"zettai kanzen rippoutai" : "絶対完全立方体"
-,"blue shachi" : "ブルーシャッチー"
-,"youseimangasya" : "妖精漫画社"
-,"rabbits foot" : "ラビッツフット"
-,"eternal" : "ETERNAL"
-,"keroq" : "ケロQ"
-,"gebokudou" : "下僕堂"
-,"lilim darkness" : "LiLiM DARKNESS"
-,"applique" : "あっぷりけ"
-,"team sazandora" : "チームサザンドラ"
-,"teikuu ms combo" : "低空MSコンボ"
-,"anago pie" : "あなごぱい"
-,"anime brothers" : "アニメブラザーズ"
-,"black shadow" : ["ぶらっくしゃどー", "black shadow"]
-,"bm dan" : "BM団"
-,"electromagneticwave" : "ElectroMagneticWave"
-,"f-graphics" : "F・Graphics"
-,"haoh" : "覇王"
-,"homunculus" : "ホムンクルス"
-,"je taime" : "濡鼎夢"
-,"jushoku to sono ichimi" : "住職とその一味"
-,"keepon" : "keepON"
-,"marine heart" : "マリンハート"
-,"mr.outside" : "Mr.OUTSIDE"
-,"muzin syoujo" : "無人少女"
-,"nirvana soft" : "Nirvana Soft"
-,"nita ken" : "ニタ研"
-,"parameter" : "パラミター"
-,"patricide" : "Patricide"
-,"pinata party" : "ぴにゃたぱ～てぃ"
-,"purple sky" : "PURPLE SKY"
-,"queen soft" : "クイーンソフト"
-,"ricotta" : "Ricotta"
-,"riddle soft" : "Riddle Soft"
-,"sakusakusakuchan" : "さくさくさくちゃん"
-,"studio aqa" : "studioAQA"
-,"t2 unit" : "T2UNIT"
-,"tenkaichi babys" : "天下一ベイビーズ"
-,"toumei kousoku" : "透明光速"
-,"winters" : "WINTERS"
-,"yggdrasil" : ["yGGDRASIL", "イグドラシル"]
-,"yuuhodou" : ["遊歩堂(てくてく)", "遊甫堂(telemark)"]
-,"pag-pag-magu" : "ぱぐぱぐまぐぅ"
-,"funa time" : "ふなたいむ"
-,"armored ginkakuji" : ["ARMORED銀閣寺", "アーマードギンカクジ"]
-,"ashuraya" : "阿修羅屋"
-,"authoring heaven" : "オーサリングヘヴン"
-,"axl" : "AXL"
-,"azumaya matsukaze" : ["Azumaya MATSUKAZE", "あずまや松風", "アズマヤ マツカゼ"]
-,"badon" : "BADON"
-,"banana king" : "バナナキング"
-,"cotton software" : "コットンソフト"
-,"crystalia" : "CRYSTALiA"
-,"date wa gorgeous ni" : "デートはゴージャスに"
-,"flyingshine black" : "FlyingShine黒"
-,"funanori house" : "ふなのりはうす"
-,"hagane koubou" : "鋼工房"
-,"hakudakukei" : "白濁系"
-,"halopack" : "HALOぱっく"
-,"himura nyuugyou" : "比村乳業"
-,"i and i" : "I&I"
-,"ice pink" : "ICE PINK"
-,"kijirushi ryouhin" : "キ印良品"
-,"kotatsuya" : "こたつ屋"
-,"kumikae dna" : "組換DNA"
-,"liz" : "Liz"
-,"lune team bitters" : "ルネ Team Bitters"
-,"marry bell" : "Marry Bell"
-,"metal bunshitsu" : "METAL分室"
-,"metamorphose" : "Metamorphose"
-,"peace maker" : "Peace Maker"
-,"petica" : "ペチカ"
-,"pornostar" : "ポルノ★スター"
-,"prekano" : "プレカノ"
-,"pulltop latte" : "PULLTOP LATTE"
-,"se bone" : "背・骨"
-,"silkys sakura" : "シルキーズSAKURA"
-,"solex" : "SOLEX"
-,"studio ryokucha" : "すたじお緑茶"
-,"third brand" : "THIRD BRAND"
-,"tomato" : "TOMATO"
-,"whitemoor" : "WhiteMoor"
-,"x-bangbang" : "X-BANGBANG"
-,"crossnet" : "CROSSNET"
-,"ebizoridan" : "えびぞり団"
-,"robazoku" : "ROBAZOKU"
-,"ua" : "UA"
-,"studio ubai" : "スタジオ奪"
-,"studio hatake" : "スタジオ畑"
-,"koi tenshi doumei" : "恋☆天使同盟"
-,"tomahawk" : "とまほーく"
-,"naginata kikaku" : "なぎなたきかく"
-,"any wa sea" : "AnyはSea!!"
-,"kinakomochi" : "KINAKOMOCHI"
-,"18 monkeys" : "18モンキーズ"
-,"abel software" : "AbelSoftware"
-,"aniki teikoku" : "アニキテイコク"
-,"aodiso kankou" : "青ぢそ甘工"
-,"areyouhappy" : "AREYOUHAPPY"
-,"clover" : "CLOVER"
-,"didii temp" : "ぢぢぃTEMP"
-,"eau-rouge" : "eau-Rouge"
-,"evil aratame baroque store" : "EVIL改めBAROQUE STORE"
-,"fujidana" : "藤棚"
-,"graphicarossa" : "Graphicarossa"
-,"hanamaru mugen gym" : "はな丸無限ジム"
-,"hasuya" : "蓮屋"
-,"highway-senmu" : "HIGHWAY専務"
-,"hyoujououkoku" : "氷上王国"
-,"kanikieru" : "カニキエル"
-,"kotorikan" : "小鳥館"
-,"littlewitch" : "Littlewitch"
-,"lovejuice pink" : "LoveJuiceピンク"
-,"meisaku network" : ["名作ネットワーク", "Meisaku Network"]
-,"milky way" : "MilkyWay"
-,"mirin" : "ミリン"
-,"morimi-ya" : "森見屋"
-,"nanika no heya" : "何かの部屋"
-,"nippon h manga kyoukai" : "日本H漫画出版協会"
-,"osterei" : "OSTEREi"
-,"pitafeti" : "ぴたふぇち！"
-,"snack factory" : "スナック・ファクトリー"
-,"straymoon" : "StrayMoon"
-,"studio parfe" : "すたじお・ぱふぇ"
-,"sugiya" : "杉屋"
-,"titancolor brand" : ["チタンカラー ブランド", "TITANCOLOR BRAND"]
-,"umesuke" : "UMESUKE"
-,"candyman" : "CANDYMAN"
-,"studio fatality" : "STUDiO FATALITY"
-,"pa-pu-" : "PA-PU-"
-,"a" : "A"
-,"abogado powers" : "アボガドパワーズ"
-,"akahira kirin" : "あかひらきりん"
-,"alicegarden" : "AliceGarden"
-,"arkham" : "ああかむ"
-,"byakuya kisoukyoku" : "白夜綺想曲"
-,"colors" : "COLORS"
-,"genkin-dou souhonpo" : "げんきん堂総本舗"
-,"guilty plus" : "Guilty＋"
-,"himawari endan" : "ひまわり園団"
-,"izuya" : "IZU屋"
-,"ketsukaseya" : "けつかせ屋"
-,"kiss" : "KISS"
-,"m de pink" : "M de PINK"
-,"minato-soft" : "みなとそふと"
-,"mugen" : "夢幻"
-,"nekomiya" : "猫見屋"
-,"open book" : "OPEN BOOK"
-,"pajamas ex" : ["ぱじゃまエクスタシー", "POISONエクスタシー"]
-,"pakkuri paradise" : "ぱっくりパラダイス"
-,"personal color" : "PERSONAL COLOR"
-,"pink no chao" : "PINK NO CHAO!"
-,"rio grande" : "リオグランデ"
-,"rose tiara" : "ローズティアラ"
-,"saitouya" : "斉藤屋"
-,"studio jam" : "STUDIO JAM"
-,"studio rakugaki shachuu" : "スタジオ落柿舎中"
-,"sugar star" : "Sugar star"
-,"swan" : "スワン"
-,"system gzzy" : "SYSTEM GZZY"
-,"tabitoya" : "旅人屋"
-,"unaginobori" : "うなぎのぼり"
-,"vanilla-dou max" : "バニラ堂MAX"
-,"warp loop" : "WARP LOOP"
-,"zi0topia" : "ジ○トピア"
-,"getsusekai" : "月世界"
-,"nikukyuu" : "にくきゅう"
-,"puzzlebox" : "PUZZLEBOX"
-,"type-moon" : "TYPE-MOON"
-,"youtoujirushi" : "洋燈印"
-,"jigizagi" : "ジギザギ"
-,"grapefruit" : "GRAPEFRUIT"
-,"medical company" : ["めでぃかるカンパニー", "瑠璃とすそのの診察室"]
-,"inishie no nushi" : "いにしえのぬし"
-,"namekuzu" : "なめくず"
-,"katakuri house" : "カタクリハウス"
-,"praline" : "プラリネ"
-,"rockydou" : "ロッキー堂"
-,"abellcain" : ["ABELLCAIN", "アベルカイン"]
-,"afterschool of the 5th year" : "Afterschool Of The 5th Year"
-,"aiu show communication" : "A.I.U SHOW COMMUNICATION"
-,"angelbox" : "ANGELBOX"
-,"autobahn" : "Autobahn"
-,"ayashige dan" : ["あやしげ団", "ADAN"]
-,"beniya" : "紅屋"
-,"comic kingdom" : "コミックキングダム"
-,"desire" : "DESIRE"
-,"digital cute" : "Digital Cute"
-,"dress" : "DRESS"
-,"egoistic honey" : "Egoistic Honey"
-,"ende der welt" : "Ende der Welt"
-,"fukupukutei" : "福ぷく亭"
-,"greatest18club" : "GREATEST18CLUB"
-,"happy man" : "HAPPY MAN"
-,"hegurimurayakuba" : "へぐり村役場"
-,"hiland-studio" : "HILAND-STUDIO"
-,"jam" : "Jam"
-,"jon" : "JAPAN ONANY NETWORK"
-,"just-k" : "JUST-K"
-,"laurier" : "ろりえ～る"
-,"mahola" : "まほら"
-,"mastermind" : "MasterMind"
-,"mechanical pencil" : "メカニカルペンシル"
-,"mederukai" : "愛でる会"
-,"melody" : "Melody"
-,"muchimuchi neko" : "むちむちねこ"
-,"ogeretsu-dan" : ["おげれつ団", "PRODUCTION O.G"]
-,"oideyasu honpo" : "おいでやす本舗"
-,"peassoft" : "PeasSoft"
-,"retro" : "RETRO"
-,"rose water" : "ROSE WATER"
-,"ruby fruit" : "RUBY FRUIT"
-,"seinansei ni kagayakeru hoshi" : "西南西ニ輝ケル星"
-,"sherbet soft" : "SherbetSoft"
-,"skyfish poco" : "SkyFish poco"
-,"stratos" : "ストラトス"
-,"studio hamachigumi" : "STUDIOはまち組"
-,"takara no suzunari" : ["たからのすずなり", "TAKARANO SUZUNARI"]
-,"tubasa" : "翼"
-,"utamaru press" : "うたまるPress"
-,"yu-yu tei" : "YU-YU TEI"
-,"yuzupon" : "ゆずぽん"
-,"iwashi" : "サークル鰯"
-,"atelier-g" : "Atelier-G"
-,"haigoku ryodan" : "廃獄旅団"
-,"patisserie" : "パティスリー"
-,"standard azarashi" : "スタンダードアザラシ"
-,"ruri ruri kikaku" : "瑠璃瑠璃企画"
-,"shigureya" : "時雨屋"
-,"family affair" : "Family Affair"
-,"mentaipark" : "めんたいぱぁく"
-,"jitaku studio" : "自宅すたじお"
-,"nanika-modoki" : "なにかもどき"
-,"crossover" : "CrossOver"
-,"alice digital factory" : "Alice Digital Factory"
-,"aypio" : "AYPIO"
-,"bindume syojo." : "瓶詰少女。"
-,"blue catty" : "BLUE CATTY"
-,"blue topaz" : "Blue Topaz"
-,"bonusshop" : "BONUSSHOP"
-,"campus" : "Campus"
-,"double-h" : "DOUBLE-H"
-,"f4-company" : "F4 COMPANY"
-,"gensyokuhakoniwa" : "原色箱庭"
-,"hagakure" : "ハガクレ"
-,"haiboku kamen" : "敗北仮面"
-,"hakuhakukan" : "白々館"
-,"harumankai" : "はるまん会"
-,"hatahata factory" : "ハタハタ工房"
-,"hending" : "Hending"
-,"ico-ba" : "Ico-ba"
-,"j-m-box" : "J-M-BOX"
-,"kagishippo" : "かぎしっぽ"
-,"karashi mentaiko" : "からしめんたいこ"
-,"koorigoya" : "氷小屋"
-,"mikekodou" : "みけこ堂"
-,"milimili amuse craft erotica" : "milimili：AMUSE CRAFT EROTICA"
-,"minors escort" : "マイナーズ・エスコート"
-,"nagumoya" : "なぐも屋"
-,"poo and momodenbu" : "Poo&ももでんぶ"
-,"rasa house" : "らさはうす"
-,"red label" : "Red Label"
-,"rocket kyoudai" : "ロケット兄弟"
-,"shadows" : "Shadows"
-,"soba udon" : "そばうどん"
-,"strikes" : "STRIKES"
-,"studio jaren" : "Studio 邪恋"
-,"studio oguma" : "すたじおおぐま"
-,"tarako koubou" : "たらこ工房"
-,"thultwul" : "トュルトュル"
-,"circle meimitei" : "サークル冥魅亭"
-,"indico lite" : "Indico lite"
-,"inu no sekai" : "いぬのせかい"
-,"yours-wow" : "YOUR'S-WOW!!"
-,"torihamu holic" : "とりはむほりっく"
-,"yatagarasu" : ["Yatagarasu", "八咫鴉"]
-,"harimaya" : "播磨屋"
-,"modae shine" : "悶え死ね！！！"
-,"crayon arts" : "くれよんあーつ"
-,"hinakan" : "ヒナ缶"
-,"mikeneko" : "みけねこ"
-,"prison" : "プリズン"
-,"2cv.ss" : "2CV.SS"
-,"akadama-ya" : "赤玉屋"
-,"ange" : "ANGE"
-,"a-office" : "A-Office"
-,"aquaplus" : "アクアプラス"
-,"ashita wa docchida" : "明日はどっちだ！"
-,"atelier kaguya team gassa-q" : "アトリエかぐや TEAM Gassa-Q"
-,"black onix" : "BLACK ONIX"
-,"chicken chicken machine" : "チキチキ☆マシーン"
-,"conezu step plus ziggurat" : "こねずステップ！+Ziggurat"
-,"counter attack" : "COUNTER ATTACK"
-,"custom" : "カスタム"
-,"fever lactic acid bacteria deluxe" : "フィーバー乳酸菌DX"
-,"fluorite" : "Fluorite"
-,"great dadan" : "ぐれいと・だだん"
-,"harvest" : "Harvest"
-,"kagero" : "カゲ路"
-,"key" : "Key"
-,"kimarinet" : "KIMARINET"
-,"koa" : "こあ"
-,"megami" : "MEGAMI"
-,"mizuki-chan club" : "みずきちゃんくらぶ"
-,"natsukon" : "なつこん"
-,"nine tail" : "NINE TAIL"
-,"office neko" : "Office猫"
-,"otokonoko club" : "おとこの娘倶楽部"
-,"papercrown" : "Paper Crawn"
-,"quarter view" : ["Quarter View", "くぉーたーびゅー"]
-,"rack and pinion" : "RACK & PINION"
-,"sasaduka" : "砂々塚"
-,"studio jikkenshitsu" : "すたじお実験室"
-,"taiyaki yaketa" : "たいやきやけた"
-,"tiare" : "TIARE"
-,"triple n" : "TriPLE“n”"
-,"tukamori club" : "TUKAMORI CLUB"
-,"yuuyami sabou" : "夕闇茶房"
-,"chanbara" : "CHANBARA!"
-,"suiren" : "翠憐"
-,"web knight" : "Web Knight"
-,"maskdo" : "ますく堂"
-,"aberyu" : "悪部流"
-,"amadeus no isan" : "アマデウスの遺産"
-,"aquamarine" : "あくあまりん"
-,"atelier m" : "アトリエM"
-,"beenyan" : "び～にゃん"
-,"berry lollipop" : "Berry Lollipop"
-,"blue gale light" : "ブルゲLIGHT"
-,"briest" : "BRIEST"
-,"doudantsutsujitomonokai" : "満天星友乃会"
-,"england peach" : "England Peach"
-,"esecool" : "エセクール"
-,"evoll" : "evoLL"
-,"fresnel lens" : "ふれぇねるれんず"
-,"fudegaki soft" : "筆柿そふと"
-,"gekidan gengorouza" : "劇団げんごろう座"
-,"g-r" : "G-R"
-,"inu no dan" : "犬の団"
-,"kaeri no kai 2" : "帰りの会２"
-,"komansha" : "講漫社"
-,"kumagaya hakushon kai" : "熊谷ハクション会"
-,"kyouken diners" : "狂犬ダイナース"
-,"lapiss" : "Lapiss"
-,"last eden" : "LAST EDEN"
-,"le.chocolat" : "Le.Chocolat"
-,"magical kagechousukashi" : "マジカル影蝶透"
-,"maxi" : "MAXI"
-,"medusa" : "メドゥーサ"
-,"mens equal k" : "MEN'S=K"
-,"million drops" : "MILLION＊DROPS"
-,"monna lisa over drive" : "Monna Lisa OVER DRIVE"
-,"monogram" : "Monogram"
-,"negimiso oden" : "ねぎみそおでん"
-,"niitakayama tozantai" : "新高山登山隊"
-,"nise-jyuusyofutei" : "偽住所不定"
-,"omiotsuke" : ["オミオツケ", "御御御付"]
-,"panda house" : "ぱんだはうす"
-,"ponytail soft" : "Ponytail Software"
-,"princess project" : "ぷりんせす☆ぷろじぇくと"
-,"q-bit" : "Q-bit"
-,"radiant" : "RADIANT"
-,"rengaworks" : "Rengaworks"
-,"rst slave" : "RST SLave"
-,"sae" : "SAE"
-,"sakuraya" : "さくら屋"
-,"sharp define" : "#define"
-,"shounen x shoujo" : ["Syounen×Syoujo", "少年×少女"]
-,"skirthike" : "すかーとはいく"
-,"studio ajinrui" : "STUDIO亜人類"
-,"studio miris" : "すたじおみりす"
-,"succubus" : "SUCCUBUS"
-,"t-press" : "T-press"
-,"tyatsune" : "茶常"
-,"otakulife japan" : "オタクライフJAPAN"
-,"kurohime" : "黒姫"
-,"kuro no omikuji" : "黒ノ御神籤"
-,"pachipachi soft" : "ぱちぱちそふと"
-,"mauve" : "Mauve"
-,"shisshin chuudoku" : "失神中毒"
-,"mono letter" : "モノ手紙"
-,"action mokei" : "アクション模型"
-,"ainos" : "AINOS"
-,"atelier gh" : "Atelier GH"
-,"atelier yang" : "あとりえ・ヤン"
-,"bonbee bonbon" : "ボンびいボンボン"
-,"busou yousei" : "武装妖精"
-,"chaotic arts" : "カオティック・アーツ"
-,"chikatetsu shokudou" : "地下鉄食堂"
-,"cobanzame" : "こばんざめ"
-,"cronus" : "Cronus"
-,"disabel" : "DisAbel"
-,"doujin hoops" : "DOUJIN HOOPS!!"
-,"dragon goya" : "ドラゴン小屋"
-,"finish" : "FINISH!"
-,"fragile" : "FragiLe"
-,"fujinomiya millenium" : "藤ノ宮ミレニアム"
-,"fukahire" : "フカヒレ"
-,"harukomachikan." : "はるこまちかん。"
-,"hearts" : "Hearts"
-,"hikodge beya" : "彦二部屋"
-,"himeya soft" : "姫屋ソフト"
-,"honeyking" : "蜜キング"
-,"inuburo" : "INUBURO"
-,"iyokan." : "いよかん。"
-,"jibaku mecha" : "自爆メカ"
-,"joukitei" : "蒸気亭"
-,"kaeru wa nani yatte mo erai" : "カエルは何やってもエライ！！"
-,"karen soft" : "可憐ソフト"
-,"kasakigumi" : "華咲組"
-,"kodomo ginkou" : "こどもぎんこう"
-,"lhezi" : ["LHEZI", "エルヘッジ"]
-,"lilim nama" : "LiLiM生"
-,"mozukuya" : "もずく屋"
-,"nigimitama no ya" : "和魂屋"
-,"nukowata" : "ぬこわた"
-,"okazu club" : "おかず倶楽部"
-,"oohashiya" : "大橋屋"
-,"platina blonde" : ["PLATINA BLONDE", "プラチナブロンド"]
-,"pretty well" : "Pretty Well"
-,"princess sugar" : "Princess Sugar"
-,"rosebleu" : "Rosebleu"
-,"ryokan hanamura" : "旅館はなむら"
-,"seacoxx" : "SEACOXX"
-,"shounen yuuichirou" : "少年ゆういちろう"
-,"studio room" : "STUDIO ROOM"
-,"studio t.r.c." : "STUDIO T.R.C."
-,"teriyaki nikuman" : "てりやきにくまん"
-,"trip dancer" : "TRIP DANCER"
-,"turquoise" : "ターコイズ"
-,"uk-works" : "UK-WORKS"
-,"wild flower" : "WILD FLOWER"
-,"yuubeno gakuensai" : "ユウベノ学園祭"
-,"yuuzen animal dou" : "友禅あにまる堂"
-,"yuzuriha" : "譲葉"
-,"zone" : "ZONE"
-,"zuukoku shoukai" : "ずぅこく商会"
-,"ensemble sweet" : "ensemble SWEET"
-,"shangrila" : "しゃんぐりら"
-,"loversoul" : "LOVER SOUL"
-,"omatsuri kibun" : "お祭り気分"
-,"digianime corporation" : "デジアニメ・コーポレイション"
-,"clock star" : "くろっくすたー"
-,"aniseed" : "AniSeed"
-,"baguri sangyou" : ["馬栗産業", "BAGURI SANGYOU"]
-,"bef" : "びいえふ"
-,"bunchindoh" : "ぶんちん堂"
-,"cabbage soft" : "きゃべつそふと"
-,"citrus" : "Citrus"
-,"ekitai no tomosha" : "液体の友社"
-,"fizz" : "Fizz"
-,"four-nine" : "フォア・ナイン"
-,"globe" : "GLOBE"
-,"h plus" : "H+"
-,"haa haa works" : "はぁはぁWorks"
-,"harukaze" : "HARUKAZE"
-,"hotateya" : "ホタテヤ"
-,"klein" : "KLEIN"
-,"lapis lazuli" : "Lapis lazuli"
-,"lapislazuli corporation" : "LapisLazuli=corporation"
-,"momochichi" : "ももちち"
-,"musasabidou" : "むささび堂"
-,"negative gang" : "相討ちネガティブギャング"
-,"nettaigyo club" : "熱帯魚倶楽部"
-,"noirsoft" : "ノアールソフト"
-,"off side" : "Off side"
-,"onnanoko himitsu seisan koujou" : "女の子秘密生産工場"
-,"physalis" : "PHYSALIS"
-,"psy-chs" : "Psy-chs"
-,"romance no neko ookami musume" : "猫狼娘"
-,"runrunrun pch" : "RUNRUNRUN PCH."
-,"sasha forest" : "サーシア・フォレスト"
-,"satsukidoh" : "サツキ堂"
-,"soul magic" : "そうるまぢっく"
-,"stellar" : "Stellar"
-,"studio b-room" : "STUDiO B-ROOM"
-,"studio charen" : "すたじおちゃれん"
-,"sumikko soft" : "すみっこソフト"
-,"tairikudoumeigun" : "大陸同盟軍"
-,"team phoenix" : "TEAMフェニックス"
-,"top" : "TOP"
-,"twinkle snows" : "TWINKLE SNOWS"
-,"under77" : "UNDER77"
-,"white out" : "WHITE OUT"
-,"yaroujidai" : "YAROUZIDAI"
-,"amato bu" : "あまとー部"
-,"phase" : "PHASE"
-,"ripe" : "Ripe"
-,"axis" : "アクシス"
-,"fururi." : "ふるり。"
-,"nyan-nyan-hanten" : "NYAN-NYAN-HANTEN"
-,"gummy-rise" : "ガミ・ライズ"
-,"ame-chan" : "アメチャン"
-,"akai tsubasa" : "赤い翼"
-,"allegro mistic" : "Allegro Mistic"
-,"art rakugaki" : "ARTラクガキ"
-,"bect" : "Bect"
-,"birdy soft" : "バーディーソフト"
-,"chain reaction" : "チェーンリアクション"
-,"chien" : "Chien"
-,"cosplay kissa nyan nyan" : "コスプレ喫茶娘々"
-,"cyc no-nos" : "CYC NO-NOS"
-,"d star g" : "Ｄ☆Ｇ"
-,"dark side" : "Dark Side"
-,"datsuryoku-shoutai" : "脱力小隊"
-,"digix" : "digiX"
-,"donburi beya" : "丼部屋"
-,"enmaya" : ["ENMAYA", "えんま屋"]
-,"etoiles" : "Etoiles"
-,"fish" : "FISH"
-,"flower crown" : "Flower Crown"
-,"garland" : "Garland"
-,"get you" : "GET YOU!"
-,"hirokaworld" : "ヒロカワールド"
-,"ishikari shake nabe doukoukai" : "石狩シャケ鍋同好会"
-,"ja no michi wa hebi soft" : "蛇ノ道ハ蛇ソフト"
-,"jishou seijunha" : "自称清純派"
-,"katsuma gokurakudou" : "かつま極楽堂"
-,"kokuchou" : "黒鳥"
-,"kurohige" : "黒髭"
-,"manekineko" : "まねきねこ"
-,"masulao maximum" : "MASULAO MAXIMUM"
-,"otoko no roman" : "OTOKO NO ROMAN"
-,"paradise d products" : "PARADISE“D”PRODUCTS"
-,"p-land" : "P-LAND"
-,"ponyori densetsu" : ["ポンヨリ伝説", "PONYORI LEGEND"]
-,"psy-walken" : "Psy-Walken"
-,"raiden yashiki" : "雷電屋敷"
-,"rocket nenryou 21" : "ロケット燃料★21"
-,"sasaki muu shouten" : "佐々木無宇商店"
-,"sashichigai-dan" : "挿し違い団"
-,"search and destroy" : "search&destroy"
-,"shiratama" : "しらたま"
-,"sirius soft" : "Sirius"
-,"slave" : "SLAVE"
-,"sodomutogomora" : "ソドムトゴモラ"
-,"studio koron" : "スタジオころん"
-,"studio momiji" : "すたじおもみじ"
-,"tachimukau" : "タチムカウ"
-,"tama center" : "たまセンター"
-,"tamamo studio" : "玉藻スタジオ"
-,"tokohana" : "とこはな"
-,"umon paradise" : "ウーモンパラダイス"
-,"windfall" : "WIND FALL"
-,"witch" : "Witch"
-,"wonder fool" : "Wonder Fool"
-,"yajuu kazoku" : "野獣家族"
-,"little cheat-ya" : "リトルチート屋"
-,"virginal" : "VIRGINAL"
-,"lillian" : "Lillian"
-,"root" : "ROOT"
-,"smile" : "スミレ"
-,"aardvark" : "AARDVARK"
-,"aji zukushi" : "鯵づくし"
-,"atelier sakura extra" : "アトリエさくら eXtra"
-,"basic champions" : "BASIC CHAMPIONS"
-,"beastics" : "Beastics"
-,"black currant" : "ブラックカラント"
-,"bloomhandle" : "ブルームハンドル"
-,"bousousuwanchika" : "暴走スワンチカ"
-,"bunbukudou" : "ぶんぶく堂"
-,"caligula" : "CALIGULA"
-,"capsule 29" : "カプセル29"
-,"chawanmushi" : "ちゃわんむし"
-,"cheap cheap" : "CHEAP CHEAP"
-,"cherry blossom" : "ちぇりーぶろっさむ"
-,"chiffon" : "シフォン"
-,"codepink" : ["CODEPINK", "コードピンク"]
-,"cosmic cute" : "COSMIC CUTE"
-,"dewdrop" : "DEWDROP"
-,"douyo saikin" : "どうよ、最近？"
-,"fuji sangou koubou" : "富士三號工房"
-,"fuzoku kugayama kindergarden" : "附属久我山キンダーガーデン"
-,"gadoujuku" : "我道塾"
-,"galaxy style" : "GALAXY STYLE"
-,"gardening bulldog" : "ガーデニング・ブルドッグ"
-,"genkotsu dan" : "げんこつ団"
-,"gensou kuukan" : "幻蒼空間"
-,"glassed concrete" : "ガラストコンクリート"
-,"guilty ex" : "Guilty eX"
-,"harakiri yakkyoku" : "腹切薬局"
-,"izumisou 5" : "いずみ荘５号室"
-,"jipohou" : "時ポ砲"
-,"junk arts" : "JUNK-ARTS"
-,"k.z.z. gundan" : "K.Z.Z.軍団"
-,"kaihatsushitsu" : "開発室"
-,"kaitei kaoku" : "海底家屋"
-,"kia no moribito" : "きあのもりびと"
-,"kichu" : "きちゅ"
-,"kotonoya" : "琴乃屋"
-,"lass pixy" : "Lass Pixy"
-,"love-gun" : "LOVE-GUN"
-,"lulu koubou" : "LULU工房"
-,"mirabilien fabrik" : "Mirabilien Fabrik"
-,"misty" : "Misty"
-,"mu soft" : "美遊"
-,"nakayama shiki kenkou tosho" : "中山式健康図書"
-,"nanairo momogumi" : "なないろもも組"
-,"neetest" : "nEetest"
-,"nekodotto" : "ネコドット"
-,"nekonin-so" : "猫忍荘"
-,"noesis" : "Noesis"
-,"noxious plant" : "noxious_plant"
-,"otokodama" : "男魂"
-,"perfect crime" : "PERFECT CRIME"
-,"piyokoya" : "ぴよこ屋"
-,"rinrin" : "RINRIN"
-,"ronno and kalus" : "RONNO&KALUS"
-,"senzankou" : "穿山甲"
-,"shanghai honey bee" : "上海蜜蜂"
-,"shibarism" : "SIBARISM"
-,"siesta" : "SIESTA"
-,"situation laboratory" : "シチュラボ"
-,"soy-darake" : "SOYだらけ"
-,"ss109" : "SS109"
-,"suzuki giken" : "鈴木技研"
-,"sweet basil" : "スィートバジル"
-,"team ibm" : "Team IBM"
-,"tinker bell" : ["Tinker Bell", "ティンカーベル"]
-,"tomatta tokei" : "とまった時計"
-,"totoya" : "兎々屋。"
-,"tsuchinoko kyoukai" : "ツチノコ協会"
-,"vega" : "VEGA"
-,"white drop" : "ホワイトドロップ"
-,"wougiya" : "をうぎや"
-,"yakata" : ["館-YAKATA-", "Yakata"]
-,"yamagarasu" : "やまガラス"
-,"yuiumiya" : "結海屋"
-,"yukirins" : "YUKIRINS"
-,"yume no niwatori goya" : "夢のニワトリ小屋"
-,"yuusei honpo" : "遊星本舗"
-,"zouni" : "雑煮"
-,"amuse craft erotica" : "アミューズクラフトエロチカ"
-,"niwakakamikiriyamodoki" : "ニワカカミキリヤモドキ"
-,"onikushop" : "OnikuShop"
-,"neko happyaku" : "ねこはっぴゃく"
-,"jidou hanbaiki" : "じどうはんばいき"
-,"sansuisha" : "散水社"
-,"garou kissa hapido" : "画廊喫茶はぴど"
-,"ab laboratory" : "ABラボラトリー"
-,"adel-heid" : "アーデルハイド"
-,"ankh" : "あんく"
-,"apricot cherry" : "Apricot Cherry"
-,"aqua house" : "AQUA HOUSE"
-,"artemis" : "あるてみす。"
-,"baby maniacs" : "BABY MANIACS"
-,"ballox" : "BalloX"
-,"bens works" : "Ben's Works"
-,"birobon" : "ビロボン"
-,"bonanza" : "Bonanza"
-,"calcite" : "Calcite"
-,"chemi-story" : "Chemi-Story"
-,"danbooru" : "ダンボール"
-,"dear" : ["DE@R", "でぃあ"]
-,"doudan tsutsuji" : "満天星"
-,"dreamsoft" : "ドリームソフト"
-,"eau rouge" : "eau-Rouge"
-,"engetsuten" : "遠月点"
-,"fairytale red-zone" : "フェアリーテールRED-ZONE"
-,"fan-na" : "ふぁんな"
-,"gesellschaft" : "ゲゼルシャフト"
-,"gunburrel" : "がんバレル"
-,"helmet ga naosemasen" : "ヘルメットが直せません"
-,"hexenhaus" : "HexenHaus"
-,"h-m" : "H・M"
-,"kai" : "KAI"
-,"kajishima onsen" : "梶島温泉"
-,"kamidake onsen" : "上竹温泉"
-,"karajishi" : "唐獅子"
-,"komekami kishi dan" : "こめかみ騎士団"
-,"komorebi-notebook" : "こもれびのーと"
-,"kudoki dancer" : "くどきダンサー"
-,"laplacian" : "Laplacian"
-,"libido soft" : "りびどーそふと"
-,"marble candy soft" : "マーブルCandySoft"
-,"melodiya" : "メロディ屋"
-,"mongoose studio" : "マングース・スタジオ"
-,"mousou pushon" : "妄想 PushOn"
-,"narashino kaitoudan" : "習志野海盗団"
-,"nearly equal zero" : ["Nearly Equal \"ZERO\"", "MADA ZERO JA NAI"]
-,"necotoxin" : "NECOTOXIN"
-,"nmadchen" : "N*MADCHEN"
-,"nodoame" : "のど雨"
-,"noppikiya" : "のっぴき屋"
-,"petit" : "ぷち"
-,"petit pajamas" : "ぷちぱじゃま"
-,"phase end" : "PHASE#END"
-,"ponpalas" : "PONPALAS"
-,"psycho" : "PSYCHO"
-,"regulus" : "Regulus"
-,"reien" : "黎en"
-,"ryuukisha" : "隆起社"
-,"sakuramochi" : "桜餅"
-,"sakuya17sai" : "咲耶17歳"
-,"samemaro party" : "サメマロ党"
-,"s-plus" : "S-Plus"
-,"studio artroom" : "STUDIO★ART ROOM"
-,"tabito" : "サークル旅人"
-,"takayashiki kaihatsu" : "高屋敷開発"
-,"tetratech" : "TETRATECH"
-,"tokyo glider" : "東京グライダー"
-,"toruneko chaya" : "獲る猫茶屋"
-,"u-bullet" : "U-BULLET"
-,"violence club" : ["VIOLENCE CLUB", "ばいおれんす倶楽部"]
-,"y no shokutaku" : "Yの食卓"
-,"youdou sakusen" : "陽動作戦"
-,"ax" : "サークルAX"
-,"oboro" : "朧"
-,"seven wonder" : "SEVEN WONDER"
-,"one hit wonder" : "ONE HIT WONDER"
-,"silver bullet" : "Silver Bullet"
-,"wafuu" : "わ風"
-,"dasshifunnyuu teishoku" : "脱脂粉乳定食"
-,"deliverance" : "Deliverance"
-,"aqua-brand" : "AQUA-BRAND"
-,"rabbits" : "らびっつ"
-,"tinkle position" : "Tinkle Position"
-,"amorphous" : "AMORPHOUS"
-,"aburasoba biyori" : "あぶらそば日和"
-,"advanced-ss" : "Advanced-SS"
-,"airyu" : "あいりゅ"
-,"angel smile" : "Angel Smile"
-,"anklet-girl" : "Anklet少女"
-,"artifact" : "アーティファクト"
-,"atelier sakura darkness" : "アトリエさくら DARKNESS"
-,"aya" : ["team-aya", "彩"]
-,"azurite" : "Azurite"
-,"bandit" : "BANDIT"
-,"budou bekkan" : "ブドウ別館"
-,"burning hammer" : "Burning Hammer"
-,"cacao" : "カカオ"
-,"chinasanchi" : "ちゃいなさんち"
-,"closet child" : "CLOSET CHILD"
-,"confiture soft" : "コンフィチュールソフト"
-,"cyc" : "Cyc"
-,"douwa club" : "童話クラブ"
-,"edo-ya" : "EDO屋"
-,"erotica peach" : "EROTICA PEACH"
-,"fairy pink" : "Fairy Pink"
-,"freedom tomy r" : "Freedom☆Tomy R"
-,"futoumei z" : "不透明Z"
-,"gedou shoukai" : "外道商会"
-,"gerumaru" : "ゲルマル"
-,"haikuo-soft" : "ハイクオソフト"
-,"haine club" : "灰猫倶楽部"
-,"hakattanakowappahzu" : "はかったなこわっぱーず"
-,"highway magician" : "HIGHWAY MAGICIAN"
-,"hohhe dan" : "ほっへ！団"
-,"hyperiyon" : "はいぺりよん"
-,"inre" : "インレ"
-,"kansai kemono rengou" : "関西けもの連合"
-,"kirisawa giken" : "桐沢技研"
-,"kojimashiki" : "コジマシキ"
-,"kouzuya" : "興津屋"
-,"kurono to kuroe" : "くろのとくろえ"
-,"kyuu" : "球"
-,"loveless" : "LOVELESS"
-,"m ni aqua" : "M ni AQUA"
-,"minayu" : "みなゆ"
-,"mintcube" : "MintCUBE"
-,"montage" : "モンタージュ"
-,"mugen honpo" : "むげん本舗"
-,"nejiya no hito" : "ねじやのひと"
-,"nekketsu project" : "熱血プロジェクト"
-,"nekotank" : "ねこタンク"
-,"nekoya-systemz" : "猫屋システムズ"
-,"nextwith" : "NEXTwith"
-,"nitroplus chiral" : "Nitro+CHiRAL"
-,"nobita jimetsu system" : "のび太自滅システム"
-,"nt confess" : "NTconfess"
-,"peach-pit" : ["PEACH-PIT", "もものたね"]
-,"ponbikiya" : "ポン引き屋"
-,"rinarina" : "RINARINA"
-,"ring a bell" : "RING A BELL"
-,"saomako" : "さおまこ"
-,"sekai no hate" : "世界のHATE"
-,"shiruzaru" : "汁・ザル"
-,"souzai soft" : "そうざいそふと"
-,"spiritguide" : "SpiritGuide"
-,"spread-pink" : "Spread-Pink"
-,"star genom" : "STAR☆GENOM"
-,"studio hammer rock" : "STUDIO HAMMER ROCK"
-,"studio honeyblade" : "STUDIO HONEYBLADE"
-,"studio loud in school" : "studio LOUD in SCHOOL"
-,"studio mukon" : "Studio MUKON"
-,"sweet heart" : "SweetHEART"
-,"takeda syouten" : "武田商店"
-,"tarte" : "Tarte"
-,"tenraiga" : "天雷芽"
-,"toto max" : "totoMAX"
-,"uchinon" : "うちのん"
-,"ungrofish" : ["地下魚！", "UNDER GROUND FISH!", "Ungrofish!"]
-,"v. hercules" : "V・ヘラクレス"
-,"virgin virus" : "Virgin Virus"
-,"visionnerz" : "VISIONNERZ"
-,"wakuwaku gochishiko land" : "わくわく！ごちシコランド"
-,"warheads" : "WARHEADS"
-,"yuushaya" : "勇者屋"
-,"meteor" : "Meteor"
-,"fantasy factory" : "FANTASY・FACTORY"
-,"pico martel" : "Pico Martel"
-,"nantoka narunaru." : "なんとかなるなる。"
-,"penguin works" : "ペンギンワークス"
-,"kiritanpo" : "桐たん舗"
-,"erondo" : "eRONDO"
-,"sumomo" : "すもも"
-,"parapluie" : ["parapluie", "パラプリュイ"]
-,"bouken koubou" : "冒険工房"
-,"pam" : "PAM"
-,"daijobi kenkyuujo" : "ダイジョビ研究所"
-,"102 goushitsu" : "102号室"
-,"4t" : "4T"
-,"a dash" : "A'"
-,"asgard" : "アースガルド"
-,"astronauts comet" : "アストロノーツ・コメット"
-,"atelier kaguya p-ch" : "アトリエかぐや P-ch"
-,"baby pink" : "BABY PINK!!"
-,"bloody hawk" : "BLOODY HAWK"
-,"bodley head" : "BODLEY HEAD"
-,"bone china" : "Bone★chinA"
-,"brough-superior" : "Brough-Superior"
-,"bullet ballet" : "Bullet Ballet"
-,"burugari-ya" : "ぶるがり屋"
-,"buzz buzz" : "Buzz Buzz"
-,"c.bjim" : "C.Bjim"
-,"carmine" : "Carmine"
-,"chibi chibi neko neko" : "ちびちびねこねこ"
-,"circle foundation" : "CIRCLE FOUNDATION"
-,"d drive" : "D：drive."
-,"deep blue" : "ディープブルー"
-,"ditama kikaku" : "ぢたま企画"
-,"dosukoi jinja" : ["どす恋☆神社", "どす恋♡八幡宮"]
-,"drill" : "DRILL"
-,"effordom soft" : "エフォルダムソフト"
-,"ego" : "イージーオー"
-,"face" : "Face"
-,"glace" : "GLace"
-,"gpx" : "GPX"
-,"gsoft" : "GSOFT"
-,"hi at skip" : "Hi@Skip"
-,"high-octane" : "廃屋譚"
-,"hobbs end" : "Hobb's End"
-,"hokahokashoten" : "ほかほか書店"
-,"huzinami koubou" : "藤波工房"
-,"hypnotic angel" : "Hypnotic Angel"
-,"indurain" : "INDURAIN"
-,"inohead studio" : "イノヘッドスタジオ"
-,"io lite" : "Io lite"
-,"kazami jinguu" : "風見神宮"
-,"kocher" : "KOCHER"
-,"kouga-dou" : "高画堂"
-,"limit cycle" : "LIMIT CYCLE"
-,"love cherry" : "ラブチェリー"
-,"lunatic" : "LUNATIC"
-,"magi" : "MAGI"
-,"maximum wind" : "MAXIMUM WIND"
-,"minato carnival" : "みなとカーニバル"
-,"minies club" : "MINIES CLUB"
-,"mink ego" : "Mink EGO"
-,"mita kazuo daihyakka" : "三田和夫大百科"
-,"mizukidou" : "観月堂"
-,"mizunekotei" : "水猫亭"
-,"mizutama shouboudan" : "みずたま消防団"
-,"moe" : "萌。"
-,"moe hina" : "萌雛"
-,"monkey adventure" : "モンキーアドベンチャー"
-,"moonshell" : "Moon Shell"
-,"morning" : "もーにんぐ"
-,"mugen no chikara" : "無限ノ力"
-,"nadorindou" : "ナドリン堂"
-,"negibouzu" : "ねぎ坊主"
-,"nichoume no denchuu" : "二丁目の電柱"
-,"nina" : "NINA"
-,"noel" : "のえる"
-,"ojou no yokushitsu" : "お嬢の浴室"
-,"one-up" : "ONE-UP"
-,"panoramakan" : "ぱのらま館"
-,"patoto" : "PATOTO"
-,"petit bunny" : "PETIT BUNNY"
-,"q-x" : "Q-X"
-,"reimei kikaku" : "黎明企画"
-,"renrendou" : "漣々堂"
-,"ris" : "ri：s"
-,"rushe museum" : "Rushe Museum"
-,"sakurairo" : "SAKURAIRO"
-,"shitsuren restaurant for men" : "失恋レストラン for MEN"
-,"slump life" : "すらんぷらいふ"
-,"soubi kenkyuujo" : "創美研究所"
-,"soul company" : "SOUL COMPANY"
-,"squadra d" : "SQUADRA D"
-,"touzoku tachi no rakuda no mure" : "盗賊達の駱駝の群"
-,"ulala" : "うらら"
-,"unisonshift blossom" : "UNiSONSHIFT：Blossom"
-,"usagi youchien" : "うさぎ幼稚園"
-,"vollmond" : "VOLLMOND"
-,"white cyc" : "WHITE CYC"
-,"yamamoto j.k" : "山本J・K"
-,"zangyaku koui teate" : ["残虐行為手当", "GENOCIDE BONUS"]
-,"absorb" : "アブそ～ぶ"
-,"hermit" : "HERMIT"
-,"tk-bros" : "TK-BROS"
-,"lacryma" : "La'cryma"
-,"unisonshift accent" : "UNiSONSHIFT Accent."
-,"onecoin" : "わんこ院"
-,"twinkle" : "Twinkle"
-,"neko work h" : "NEKO WORK H"
-,"red rebel" : "Red Rebel"
-,"20liquid" : "20LIQUID"
-,"3rdeye" : "3rdEye"
-,"akifumi-chan" : "あきふみちゃん"
-,"alumican" : "あるみかん"
-,"anesen" : "あねせん"
-,"apocrine." : "あぽくりん。"
-,"aquahouse" : "AQUA HOUSE"
-,"atuworks" : "あてゅ・わぁくす"
-,"azumaya shiten" : "アズマ屋支店"
-,"barbarossa" : "バルバロッサ"
-,"barricade" : "BARRICADE"
-,"cabbit" : "Cabbit"
-,"captain santa" : "Captain SANTA"
-,"carol works" : "Carol Works"
-,"chaho" : "ちゃほ"
-,"chara chara" : "CHARA CHARA"
-,"charm books" : "CHARM BOOKS"
-,"cho-jin hakaba" : "超人墓場"
-,"clockup team anise" : "CLOCKUP team.ANISE"
-,"club bacteria" : "くらぶ ばくてりあ"
-,"command plus z" : "COMMAND+Z"
-,"custard" : "かすたーど"
-,"dancing cat" : "ダンシングキャット"
-,"delta horse" : "でるたほーす"
-,"diva" : "DIVA"
-,"eroge honpo" : "エロゲーホンポ"
-,"ex-one" : "EX-ONE"
-,"extry" : "ExTry"
-,"fomalhaut" : "FOMALHAUT"
-,"fukuda sennen oukoku" : "福田千年王国"
-,"grand cru" : "Grand Cru"
-,"grand cru bourgeois" : "Grand Cru bourgeois"
-,"grateful dead" : "GRATEFUL DEAD"
-,"h.i.t. koubou" : "H.I.T.工房"
-,"hallenchi planet" : "HALLENCHI PLANET"
-,"haradaya" : "原田屋"
-,"harness" : "HARNESS"
-,"heppoko youchien" : "へっぽこ幼稚園"
-,"hi-b" : "Hi_b"
-,"hitomakase" : "ヒトまかせ"
-,"housoutou" : "放送塔"
-,"incarose" : "インカローズ"
-,"information high" : "INFORMATION-HIGH"
-,"kamiyan" : "サークルかみやん"
-,"kanchuumimai" : ["寒中見舞", "あかいくつ倶楽部"]
-,"kanzen dokusen" : "完全独占"
-,"kare-na lyric" : "Kare-na Lyric"
-,"keiji in cage" : "ケージインケージ"
-,"lilisyuka" : "麗麗酒家"
-,"lime" : "Lime"
-,"lucha libre" : "Lucha Libre"
-,"luckystripe" : "lucky stripe"
-,"lunar soft" : "Lunar Soft"
-,"marble candysoft" : "マーブルCandySoft"
-,"maruchuu seisaku" : "MARUCHU SEISAKU"
-,"matsurika" : "茉莉花"
-,"mercure" : "Mercure"
-,"mimimimi" : "みみみみ"
-,"misty midnight" : "MISTY MIDNIGHT"
-,"momiji oroshi" : "もみじおろし"
-,"momohina" : "桃雛"
-,"monoceros plus" : "monoceros+"
-,"moviendo" : "Moviendo"
-,"nansyu-koubow" : "南洲好房"
-,"nattou mania" : ["納豆☆マニア", "mania☆nattou"]
-,"neko no paraiso" : "猫のパライソ"
-,"nel" : "ネル"
-,"noir" : "NOIR"
-,"pao pao" : "PAO-PAO"
-,"parthenon zero" : "Parthenon ZERO"
-,"pastel white" : "Pastel White"
-,"pinsize inc." : "PINSIZE.Inc"
-,"plastic dreamer" : "PLASTIC DREAMER"
-,"prime-f" : "Prime-F"
-,"px-dan nihon shibu" : "PX団日本支部"
-,"r.a.n.software" : "R.A.N Software"
-,"raccoon" : "ラクーン"
-,"rail-soft" : "raiL-soft"
-,"rateblack" : "Rateblack"
-,"rokumen roppi" : "ろくめん★ろっぴ"
-,"rose crown" : "ローズクラウン"
-,"russian blue" : "RUSSIAN BLUE"
-,"ryuurei tennyo" : "龍麗天女"
-,"saiya gakuen" : "彩也学園"
-,"sashimi choco" : "さしみチョコ"
-,"sasuga shoukai" : "流石商会"
-,"shinchintaisha company" : "新陳代謝COMPANY"
-,"shyness over drive" : "SHYNESS OVER DRIVE"
-,"six shot" : "SixShot"
-,"soleil" : "Soleil"
-,"studio unbalance" : "すたぢお・あんばらんす"
-,"sugar pot" : "Sugar pot"
-,"sumicco." : "すみっこ。"
-,"t2000" : "T2000"
-,"tail up" : "TAIL UP!"
-,"taisaisoft" : "Taisaisoft"
-,"tatesima." : "タテシマ。"
-,"tigre soft" : "てぃ～ぐる"
-,"tokai oohashi" : "東海大橋(仮)"
-,"tokimigumi" : "時美組"
-,"tokinochaya" : "時乃茶屋"
-,"tokyo tomodachi kouen" : "東京友達公園"
-,"tonkatsu" : "サークル・とんかつ"
-,"trans" : "Trans"
-,"tsubuan doumei" : "TSUBUANDOUMEI"
-,"undel" : "あんでる"
-,"ura" : ["URA", "游有英"]
-,"uran" : "URAN"
-,"usa daioh" : "ウサ大王"
-,"violence asia team" : "猛烈アジア隊"
-,"whitesoft" : "WHITESOFT"
-,"xxx" : "XXX"
-,"miki house" : "Miki House"
-,"cyan" : "シアン"
-,"hizamakura" : "膝枕"
-,"ouun" : "桜雲"
-,"aiai" : "あいあい"
-,"ajala" : "戯(あじゃら)"
-,"alliance" : "アライアンス"
-,"anzen ekisu" : "anzenEkis"
-,"arkham products team ankoku baitai" : "アーカムプロダクツ／チーム暗黒媒体"
-,"astronauts spica" : "アストロノーツ・スピカ"
-,"atelier ms" : "atelier Ms"
-,"beaf emotion" : "びーふえもーしょん"
-,"boku no tampopo" : "ぼくのたんぽぽ"
-,"bug system" : "バグシステム"
-,"buki to bougu no mise" : "ぶきとぼうぐのみせ"
-,"ceramic heart" : "セラミックハート"
-,"circus fetish" : "サーカス・フェティッシュ"
-,"citron love" : "CITRON LOVE"
-,"crear mint" : "CREAR★MINT"
-,"dobuita street" : "DOBUITA STREET"
-,"dojinchi" : "どじんち"
-,"dolce" : "DOLCE"
-,"drakle-nekota perpetual motion" : "どらねこ永久機関"
-,"eternal-eclipse" : "ETERNAL - ECLIPSE"
-,"euphony production" : "Euphony Production"
-,"euphoria" : "ユーフォリア"
-,"evolution brand" : "EVOLUTION BRAND"
-,"foresight" : "フォーサイト"
-,"gaikotsu kenpo" : "ガイコツけんぽ"
-,"gash" : "Gash"
-,"gendai" : "GENDAI"
-,"gensyokukan" : "玄色館"
-,"gouriki hyakkaten" : "剛力百貨店"
-,"gt" : "GT"
-,"guiltyn" : "GuiltyN"
-,"gyuunyuuya" : "牛乳屋"
-,"hecate" : "Hecate"
-,"hiyoko soft" : "ひよこソフト"
-,"honda koumuten" : "本田工務店"
-,"honyo no uchi" : "ほにょのうち"
-,"ignition" : "イグニッション"
-,"image club" : "iMAGE CLUB"
-,"image craft" : "IMAGE CRAFT"
-,"iwasaki seihonsho" : "岩崎製本所"
-,"k.h.r" : "K.H.R"
-,"kagero studio" : "カゲロースタジオ"
-,"kairaku shuudan" : "快楽集団"
-,"kedamono soft" : "けだものソフト"
-,"kinema bambi" : "キネマ☆バンビ"
-,"koutatsu dennou koushi" : "高達電脳公司"
-,"kyodai kidou yousai kyoushuu" : "巨大機動要塞強襲"
-,"latte" : "Latte"
-,"l-calena" : "L-CALENA"
-,"lost heart" : "Lost Heart"
-,"marshmallow soft" : "ましゅまろそふと"
-,"mega-mix" : "MEGA-MIX"
-,"meikyoushisui" : ["明鏡止水", "明鏡止水Z"]
-,"melty" : "めるてぃ"
-,"merkmal" : "MERKMAL"
-,"miyamori" : "みやもり"
-,"mizutataki" : "みずたたき"
-,"mokushiroku" : "黙示録"
-,"momoiro settoudan" : "桃色窃盗団"
-,"mount position" : "マウントポジション"
-,"museifu kutsushita doumei" : "無政府靴下同盟"
-,"mutsukian" : "睦月庵"
-,"nanashi kissa" : "名無し喫茶"
-,"naniwa onsen tamago kumiai" : "浪花温泉たまご組合"
-,"neuromancer" : "NEUROMANCER"
-,"neuromancer." : "NEUROMANCER."
-,"noi-gren" : "NOI-GREN"
-,"nuku nuku dou" : "ヌクヌク堂"
-,"ochimusha." : "落武者。"
-,"one shot" : "One Shot"
-,"oops" : "OOPS!!"
-,"optim" : "OPTiM"
-,"orange crown" : "ORANGE CROWN"
-,"paranoia" : "PARANOIA"
-,"peach class" : "Peach Class"
-,"pink cats garden" : "PINK CAT'S GARDEN"
-,"plus" : "PL+US"
-,"power gradation" : "パワーグラデイション"
-,"psychiatric" : "PSYCHIATRIC"
-,"red sox" : "RED SOX"
-,"reverse" : "Re：verse"
-,"saihate no maria" : "最果てのマリア"
-,"sanso dousotaisha" : "酸素同素体舎"
-,"sekitou" : "赤橙"
-,"shagwell" : "SHAGWELL"
-,"shinpakusu teika" : "Shinpacsu Teika"
-,"shootouts" : "ShootOuts"
-,"slime inn" : ["スライム亭", "SLIME INN", "スライム村"]
-,"sorya annmarida" : "そりゃあんまりだ"
-,"souffle soft" : "すふれそふと"
-,"st ruger power" : "St RUGER POWER"
-,"staffing" : "スタッフィング"
-,"stargazer" : "STARGAZER"
-,"studio pastel" : "STUDIO PASTEL"
-,"sueya" : "末屋"
-,"swat" : "SWAT"
-,"talisman" : "Talisman"
-,"teufelwald" : "Teufelwald"
-,"times square" : "TIMES SQUARE"
-,"tukinon bunko" : "月音文庫"
-,"twin tail laboratory" : "TWIN TAIL LABORATORY"
-,"ume-nyan-tei" : "UME-NYAN-TEI"
-,"uni matrix one" : "UNI MATRIX ONE"
-,"ura-innosq" : "URA-innosq"
-,"usagi club" : "うさぎ倶楽部"
-,"wrench studio" : "WRENCH STUDIO"
-,"yuka house" : "YUKA HOUSE!!"
-,"zankoku ondo" : "残酷音頭"
-,"z-less" : "Z-Less"
-,"bebe" : "BEBE"
-,"nv3offline" : "NV3OFFLINE"
-,"tsurukiya" : "鶴喜屋"
-,"hiwatari honpo" : "樋渡本舗"
-,"curious" : "CURIOUS"
-,"arieroof" : "アリエルーフ"
-,"goku-raku" : "GOKU-RAKU"
-,"moonstone honey" : "MOONSTONE Honey"
-,"orange peel" : "Orange Peel"
-,"asakatsu" : "あさかつ"
-,"ivy girl" : "Ivy girl"
-,"catear" : "Catear"
-,"abelia" : "アベリア"
-,"abura stadium" : "あぶらスタジアム"
-,"air plants" : "エアプランツ"
-,"ark shell" : "アークシェル"
-,"astronauts alya" : "アストロノーツ・アリア"
-,"atelier d" : "アトリエD"
-,"atelier sakura mount position" : "アトリエさくら マウントポジション"
-,"atelier sava" : "Atelier Sava"
-,"black box" : "BLACK BOX"
-,"blood company" : "ブラッドカンパニー"
-,"bluewater" : "BLUEWATER"
-,"bokuto-kitan" : "墨東綺譚"
-,"bonbee" : "Bonbee!"
-,"chinnmokunogazinn" : "沈黙の牙人"
-,"coa" : "COA"
-,"dennougiwa" : "DENNOUGIWA"
-,"doropanda tours" : "どろぱんだTOURS"
-,"epi" : "EPI"
-,"erotica black" : "EROTICA BLACK"
-,"error" : "ERROR"
-,"examgames" : "エグザムゲームズ"
-,"fools works" : "FOOLS WORKS"
-,"forbidden city" : "Forbidden City"
-,"fukame takame" : "ふかめたかめ"
-,"fukufuku" : "FukuFuku!"
-,"gakuen yuushabu" : "学園勇者部"
-,"gazel form" : "GAZEL FORM"
-,"ge-shop" : "Ge-Shop"
-,"gewalt" : "GEWALT"
-,"heppoko housing" : "へっぽこはうじんぐ"
-,"honey soft" : "HONEY SOFT"
-,"imitation genome" : "イミテーションゲノム"
-,"interrupt voice" : "Interrupt Voice"
-,"inu-tv" : "いぬTV"
-,"invoice" : "インヴォイス"
-,"k-1" : "K-1"
-,"kanisky" : "カニスキー"
-,"kokesimuken" : "こけしム軒"
-,"kokuritsu shounen" : "国立少年"
-,"kosakunin retsuden" : "小作人列伝"
-,"kotonoha" : "コトノハ"
-,"kuronekodou" : "黒猫堂"
-,"lady vermilion" : "LADY VERMILION"
-,"lamia" : "Lamia"
-,"level-x" : "LEVEL-X"
-,"lipstar" : "LIPSTAR"
-,"lucha" : ["るチャ！", "LUCHA!"]
-,"m2unit" : "M2UNIT"
-,"magic bullet" : "Magic BulleT"
-,"maka-rakko" : "MAKA-RAKKO"
-,"manifla ent" : "マニフラエント"
-,"megaplus" : "MEGAPLUS"
-,"meikyuuden" : "迷宮殿"
-,"melty koubou" : "メルティ工房"
-,"metal delicious" : "メタルデリシャス"
-,"midoriiro cut in" : "緑色カットin"
-,"milkids" : "milKids"
-,"millenium-garage" : "ミレニアムガレージ"
-,"misssail" : "Miss-Sail"
-,"momoilock" : ["MOMOILOCK", "桃色っく。"]
-,"monako" : "MONAKO"
-,"mubimuchuu" : "夢寐夢中"
-,"munomeritei" : "むめのり亭"
-,"muteki chaya" : "むてきちゃや"
-,"nagehame" : "投げはめ"
-,"nagumo curry-bu" : "なぐもカレー部"
-,"nangchi-dou" : "難吃堂"
-,"ndemotte" : "んでもって"
-,"negative" : "NEGATIVE"
-,"nikuman aikoukai" : "肉まん愛好会"
-,"nyan nyan" : "娘娘"
-,"oba-q honpo qt" : "OBA-Q HONPO QT"
-,"omomuroni" : "おもむろに"
-,"paradigm conflict" : "PARADIGM CONFLICT"
-,"peco poco" : "ぺこぽこ"
-,"pika" : "ぴか"
-,"pocket" : "POCKET"
-,"pokopii" : "ぽこぴー"
-,"promised land" : "Promised land"
-,"red spec" : "REDすぺっく"
-,"ruirui kikaku" : "ミネミネ企画"
-,"shin tsuguru taisaku honbu" : ["シンツグル対策本部", "シンツグル対策委員会"]
-,"shuraba keikaku" : "修羅場計画"
-,"silkys plus" : "シルキーズプラス"
-,"sonohigurashi" : "そのひぐらし"
-,"splash" : "SPLASH"
-,"sponge empire" : "すぽんじ帝国"
-,"sputnik" : "Sputnik"
-,"stray rabbit" : "すとれいらびっと"
-,"sumechiru" : "スメチル"
-,"sumisumi dou" : "スミスミ堂"
-,"sweet" : "Sweet"
-,"syakunage" : "しゃくなげ"
-,"tail wind" : "TAIL WIND"
-,"taishikan" : "大志館"
-,"taishita shoten" : "太下書店"
-,"tartarosauce of the hell" : "地獄のタルタロソース"
-,"tsuji andon" : "辻行灯"
-,"unadondon" : "うな丼丼"
-,"unisex blend" : "UNISEX BLEND"
-,"uraryon kikaku" : "うらりょん企画"
-,"urawa anime festa" : "浦和アニメフェスタ"
-,"usagigoya" : "うさぎ小屋"
-,"waretama" : "われたま。"
-,"yu gp03" : "YU GP03"
-,"yuukari soft" : "ゆ～かりそふと"
-,"zoku" : "ZOKU"
-,"wheel" : "WHEEL"
-,"ajiyama" : "アジ山"
-,"bukimi no tanigoto aishitai" : "不気味の谷ごと愛したい"
-,"hot dog chuck" : "ホットドックチャック"
-,"akinasuya" : "秋茄子屋"
-,"chelseasoft" : "Chelseasoft"
-,"quince soft" : "QUINCE SOFT"
-,"studio gomasenbe" : "すたじおごませんべ"
-,"rinne" : "鈴音"
-,"nail" : "Nail"
-,"creampie" : "CreamPie"
-,"666 no oka" : "666の丘"
-,"abhar" : "ABHAR"
-,"ahaan" : "AHAAN"
-,"aji no hiraki" : "あじのひらき"
-,"akatsuki works black" : "暁WORKS-黒-"
-,"akitsu seisakujo" : "現津製作所"
-,"amazawa kingdom" : "AMAZAWA KINGDOM"
-,"anastasia" : "アナスタシア"
-,"animal ship" : "ANIMAL SHIP"
-,"apricot pie" : "あぷりこっとぱい"
-,"apsara project" : ["[apsara project];", "あぷさらPROJECT"]
-,"atelier kinta" : "あとりえKINTA"
-,"atomic buster" : "アトミックバスター"
-,"baha-chop" : "ばはちょっぷ"
-,"baseson light" : "BaseSon Light"
-,"bikkuri gyouten" : "びっくり仰天"
-,"blackglobe" : "BLACKGLOBE"
-,"bunny pro." : "Bunny Pro."
-,"carriere" : "Carriere"
-,"c-arts" : "C-ARTS"
-,"c-chaos.net" : "サークルChaos"
-,"chabashira-project" : "茶柱プロジェクト"
-,"chiri akuta" : "塵芥"
-,"chise" : "千世"
-,"chocolate banana ou lait" : "Chocolate Banana Ou lait"
-,"citron soft" : "しとろんソフト"
-,"concerto" : "Concerto"
-,"corkscrew" : "CORKSCREW"
-,"cowper" : "COWPER"
-,"dai 46 kishidan" : "第46騎士団"
-,"damage honpo" : "ダメージ本舗"
-,"dark swan" : "ダークスワン"
-,"ddt" : "DDT"
-,"denchuu rui" : "田中類"
-,"dennou rakuen" : "電脳楽園"
-,"dogorpanda" : "Dog or Panda"
-,"dragon rock" : "ドラゴンロック"
-,"d-side" : "D-side"
-,"e.b." : "E.B."
-,"elithheart" : "Elithheart"
-,"ex-it" : "Ex-iT"
-,"fetch" : "Fetch"
-,"fujitsubo-machine" : ["富士壺機械", "ふじつぼまっすぅい～ん"]
-,"futaburo" : "ふたブロ"
-,"gage" : "Gage"
-,"ginrinkyuu" : "銀鱗宮"
-,"glovety" : "GLOVETY"
-,"goutokuji konzern" : "豪徳寺コンツェルン"
-,"groover" : "GROOVER"
-,"g-work at mi" : "G-work@ミ"
-,"half time" : "HALF TIME"
-,"hayashigumi" : "林組"
-,"henshitsusya" : "変質社"
-,"himegami" : "姫神"
-,"hobikore" : "ホビコレ"
-,"i.d." : "I.D."
-,"ichijiku yogurt" : "いちじくよーぐると"
-,"ikayaki" : "いか焼き"
-,"inout" : "INOUT"
-,"jennys jimusho" : "JeNnys事務所"
-,"jet engine" : "JET ENGINE"
-,"jitsuyou tosho fukyuukai r" : ["実用図書普及会", "実用図書普及会R"]
-,"junk" : "JUNK"
-,"kaeru soft" : "かえるそふと"
-,"kiss cube" : "Kiss Cube"
-,"kitsch" : "KITSCH"
-,"koinu kantai" : "子犬艦隊"
-,"kur-mar-ter" : ["Kur-Mar-Ter", "クルマレテル"]
-,"kuroirodoru yomiji" : "黒彩黄泉路"
-,"l.s.d cicle" : "L.S.D・CIRCLE"
-,"la.bit soft" : "La.Bit Soft"
-,"level1" : "レベル1"
-,"libre" : "りぷる"
-,"lostscript" : "LOST SCRIPT"
-,"love and peace" : "ラブ＆ピース"
-,"magic creation" : "マジッククリエイション"
-,"magicaldelta dot com" : "MAGICAL DELTA.COM"
-,"mayfar soft" : "メイファーソフト"
-,"medicine compilation" : "MEDICINE COMPILATION"
-,"mercury lampe" : "MercuryLamp"
-,"meromero cute" : "めろめろキュート"
-,"mischievous" : "Mischievous"
-,"mist mysterisia" : "Mist Mysterisia"
-,"momoiro pocket" : "ももいろPocket"
-,"monmontei" : "悶亭"
-,"more" : "MORE"
-,"nagomi-chaya" : "なごみ茶屋"
-,"nakasatogumi" : "ナカサト組"
-,"nanamoya" : "ななも屋"
-,"narisawa hatsudensho" : ["NARISAWA HATUDENNSYO", "成沢発電所"]
-,"naschbe" : "Naschbe"
-,"ns radio show" : "N's Radio Show"
-,"nyandaber" : "にゃんだばー"
-,"o3zone works" : "O3zone works"
-,"osaru-san panic" : "おさるさんパニック"
-,"ota" : "OTA"
-,"over" : "OVER"
-,"over flows" : "オーバーフローズ"
-,"pastel color" : "PASTEL COLOR"
-,"pearl soft" : "PEARL SOFT"
-,"phantomsoft" : "ファントムソフト"
-,"pil slash" : "PIL／SLASH"
-,"pink rose" : "PINK ROSE"
-,"projectgs" : "Project GS"
-,"pure-liquid" : "Pure-Liquid"
-,"raindog" : "れいんどっぐ"
-,"roll" : "ロール"
-,"s.k." : "S.K."
-,"sangetsushi" : "山月誌"
-,"sankyaku rasen" : "三脚ラセン"
-,"sarang" : "SARANG"
-,"scramble egg" : "SCRAMBLE EGG"
-,"scramble house" : "ScrambleHOUSE"
-,"sendan" : "仙弾"
-,"serene" : "Serene"
-,"seventh door" : "Seventh Door"
-,"seventh heaven" : "SEVENTH HEAVEN"
-,"shikaper" : "シカパー"
-,"sister soft" : "しすたーそふと"
-,"space color" : "SPACE COLOR"
-,"special antlers" : "SPECIAL ANTLERS"
-,"squeeze all" : "SqueezeALL"
-,"studio araluma" : "STUDIO ARALUMA"
-,"studio pakira" : "Studio PAKIRA"
-,"style-c3" : "Style-C3"
-,"sugar beans" : "シュガービーンズ"
-,"sweet and tea" : "SWEET&TEA"
-,"sweet light" : "Sweet light"
-,"tablet" : "Tablet"
-,"tama-soft" : "たまソフト"
-,"teikiatu de ikou" : "低気圧で行こう"
-,"tetsunari doujou" : "鉄成道場"
-,"the world" : "The World"
-,"tryset mad" : "TRYSET MAD"
-,"twilightlyric" : "TwilightLyric"
-,"undead" : "UNDEAD"
-,"wonderful one" : "WONDERFUL ONE"
-,"xiguratt works" : "Xiguratt Works"
-,"yagi to sakana" : "山羊と魚"
-,"yasagure kitsuenjo" : "やさぐれ喫煙所"
-,"yellow tag" : "YELLOW TAG"
-,"yokohama lemonade" : "横濱レモネード"
-,"zenos" : "Zenos"
-,"zensekai yakenohara doumei" : "全世界焼野原同盟"
-,"jesus drug" : "JESUS DRUG"
-,"mystery clock" : "MYSTERY CLOCK"
-,"ryoushi ookami" : "量子オオカミ"
-,"kuromagedon" : "くろまげどん"
-,"melt downers" : "Melt Downers"
-,"merrymoon" : "MerryMoon"
-,"pure platinum" : "Pure Platinum"
-,"pannomimi" : ["ぱんのみみ", "ぱんみみそふと"]
-,"mint-nium" : "Mint-nium*"
-,"a10 booster unit" : "エー・テン・ブースター・ユニット"
-,"aeterna" : "Aeterna"
-,"aiko dot com" : ["AIKO.com", "ACO dot com"]
-,"akai suzume" : "AKAI SUZUME"
-,"alphaville" : "ALPHAVILLE"
-,"amaama-tei" : "甘々亭"
-,"ariel soft" : "ARIEL SOFT"
-,"arrow island" : "アローアイランド"
-,"arts graffiti" : "アーツグラフティ"
-,"asagayatei" : "Asagayatei"
-,"asaka sangyou" : "朝霞産業"
-,"ast" : "AST"
-,"axz-braziole" : "AXZ_ブラジオーレ"
-,"bakusou special" : "爆走スペシャル"
-,"basil" : "BasiL"
-,"batterken" : "BatterKen"
-,"beep-beep" : "BEEP-BEEP!"
-,"berkana" : "ベルカナ"
-,"biwa gakudan" : "琵琶楽団"
-,"bks studio" : "BKS STUDIO"
-,"blackrabbits" : "Black Rabbits"
-,"bolt-king" : "BOLT-KING"
-,"bonbon company" : "ボンボンカンパニー"
-,"chuugoku 12man" : "中国12万"
-,"clear" : "Clear"
-,"clearmana" : "クリアマナ"
-,"cs cheese" : "C's cheese"
-,"cubetype" : "CUBE TYPE"
-,"customer" : "CUSTOMER"
-,"cut works publishing" : "CUT WORKS PUBLISHING"
-,"dadacha" : "だだちゃ！"
-,"dasei seikatsu suishin iinkai" : "怠惰生活推進委員会"
-,"dendou kodomo" : "電動子供"
-,"dokudenpa kenkyuusho" : "毒電波研究所"
-,"dorian kanshokutai" : "ドリアン完食隊"
-,"eleonora" : "Eleonora -エレオノーラ-"
-,"erotic honeymoon" : "Erotic Honeymoon"
-,"etoile" : "Etoile"
-,"felicia" : "Felicia"
-,"fortune" : "ふぉ～ちゅん♪"
-,"foundation" : "FOUNDATION"
-,"futamura futon ten" : "ふたむらふとん店"
-,"galactica" : "GALACTICA"
-,"garage-talk" : "GARAGE-TALK"
-,"giant panda" : "大熊猫"
-,"gindokei" : "銀時計"
-,"girls kingdom" : "少女の王国"
-,"golden harvest" : ["GOLDEN HARVEST", "ゴールデンハーベスト"]
-,"gray zone" : "GRAY ZONE"
-,"gunp" : "GUNP"
-,"h.p.c. meirei denpa" : "H.P.C 命令電波"
-,"hachimitsu soft" : "はちみつそふと"
-,"hachimitsu syoujo" : "蜂蜜少女"
-,"hakka ame" : "薄荷飴"
-,"hard flogs" : "Hard Flogs"
-,"harmorise" : "Harmorise"
-,"heliodor" : "Heliodor"
-,"highrunning" : "HighRunning"
-,"hinatabokko club" : "ひなたぼっこ倶楽部"
-,"honey pot" : "はにぃぽっと"
-,"ill chou" : "I'LL調"
-,"jirai soft" : "地雷ソフト"
-,"joshiriron kai" : "女子理論会"
-,"k.s. ozaki" : "K.S.尾崎"
-,"kisaradudou" : "木更津堂"
-,"kitune" : "来つ寝"
-,"klein syrop" : "KLEINシロップ"
-,"ko nekoneko house" : "こねこねこはうス"
-,"komaya" : "駒屋"
-,"konekodamashi" : "コネコダマシ"
-,"kotobuki chop" : "寿ちょっぷ"
-,"krutta fan" : "Krutta Fan"
-,"kumatyu bokujou" : "クマチュウ牧場"
-,"kuzuryuu" : "九頭龍"
-,"lala studio" : "LALA STUDIO"
-,"lilac soft" : "Lilac Soft"
-,"little kinetic" : "LITTLE KINETIC"
-,"lively boys" : "LIVELY BOYS"
-,"lunatic wings" : "LUNATIC WINGS"
-,"lyco-z" : "Lyco-Z"
-,"mandoragora striker" : "まんどらごらすとらいかー"
-,"matilda kanmidokoro" : "まちるだ甘味処"
-,"matsutakeya honpo" : "まつたけ屋本舗"
-,"minemine kikaku" : "ルイルイ企画"
-,"minx" : "MINX"
-,"mischief" : "MISCHIEF"
-,"mizuiro koneko" : "水色仔猫"
-,"mlc design house" : "MLC DESIGN HOUSE"
-,"motion" : "MOTION"
-,"moyori no chi" : "最寄りの地"
-,"mugichoco club" : "麦チョコ倶楽部"
-,"musou tensei" : "夢想転生"
-,"nanairo no magatama" : "七色の勾玉"
-,"niko" : "NIKO"
-,"nononon kikaku" : "のののん企画"
-,"nonsugar" : "NONSUGAR"
-,"north river" : "NORTH RIVER"
-,"o-chu-gen" : "お中元"
-,"ohgetsu" : "桜月"
-,"ole" : "OLE"
-,"otaut-r" : "おたうT-R"
-,"pearl soft r" : "パールソフトR"
-,"peppy cherry" : "ペピーチェ"
-,"pink hatena" : "ぴんくはてな"
-,"pink vision" : "PINK VISION"
-,"pinkbell software" : "PINKBELL SOFTWARE"
-,"piyopiyo-gumi" : "ぴよぴよ組"
-,"plastic image" : "PLASTIC IMAGE"
-,"plumzero" : "PlumZERO"
-,"prima" : "PRIMA"
-,"question" : "Question"
-,"ran no sono" : "蘭の園"
-,"raspberry" : "らずべりー"
-,"red data book" : "RED DATA BOOK"
-,"reon" : "Reon"
-,"rolling zonbies" : "ローリングゾンビーズ"
-,"runrun soft" : "るんるんそふと"
-,"ruruie" : "るるいえ"
-,"s.m.l" : "S.M.L"
-,"sae honpo" : "SAE honpo"
-,"saikyo gakuen" : "最強学園"
-,"sakurara and cherry" : "桜羅＆Cherry"
-,"secret service" : "シークレット★サービス"
-,"shape shifter" : "Shape Shifter"
-,"shimahokke" : "しまほっけ"
-,"shiokonbu project" : "塩こんぶプロジェクト"
-,"sick boys" : "Sick Boys"
-,"silhouette" : "Silhouette"
-,"softhouse parsley" : "ソフトウェアハウスぱせり"
-,"sorahane" : "SORAHANE"
-,"soratobu mighty python" : "空飛ぶマイティ・パイソン"
-,"spirit speak" : "Spirit Speak"
-,"studio miki shinsha" : "StudioMIKI新社"
-,"studio saults-walt" : "スタジオ・ザルツウェルツ"
-,"sune girochin" : "すねぎろちん"
-,"sweethearts" : "SweetHEART"
-,"sweetpain" : "Sweetpain"
-,"symphony" : "Symphony"
-,"tail" : "Tail"
-,"tarutaru-ke" : "たるたる家"
-,"teikoku onanies" : "帝国オナニーズ"
-,"teishibou new" : "低脂肪乳"
-,"tenziku opera company" : "TENZIKU OPERA COMPANY"
-,"trancesoft" : "TranceSoft"
-,"trick a" : "Trick A'"
-,"uguisu kagura" : "ウグイスカグラ"
-,"unadon" : ["うな丼", "うなどぅーむ"]
-,"violet order" : "VIOLET ORDER"
-,"winger in mind" : "WINGER in MIND"
-,"xuse honjouzou" : "ザウス【本醸造】"
-,"yumemiru" : "ユメミル"
-,"yumeno-gotosi" : "夢ノ如シ"
-,"zero hour" : "ZERO HOUR"
-,"eclair" : "Eclair"
-,"nontan project" : "のんたんプロジェクト"
-,"pale lilac" : "PALE LILAC"
-,"uzo-muzo" : "UZO-MUZO"
-,"works-maruma" : "WORKS MARUMA"
-,"eunospress" : "ゆ～のす通信"
-,"sekirara" : "せ・き・ら・ら"
-,"utatte go" : "うたってゴー"
-,"kawamuraya honpo" : "かわむら屋本舗"
-,"yuunagi zakkaten" : "夕凪雑貨店"
-,"totomi ya" : "totomi屋"
-,"wonawonchi" : "ヲナヲんち"
-,"jewel box" : "JEWEL BOX"
-,"firstspear" : "Firstspear"
-,"a human a" : "人間アブラハム"
-,"a2" : "A2"
-,"acacia soft" : "AcaciaSoft"
-,"ai no terrorism" : "愛のテロリズム"
-,"akihabara chika kakutoujou" : "秋葉原地下格闘場"
-,"altycia" : "Altycia"
-,"angel red" : "Angel Red"
-,"angelhearts" : "AngelHearts"
-,"anzen na buffalo" : "安全なバッファロー"
-,"ao hana" : "青華"
-,"aramushadou" : "荒武者堂"
-,"atelier sakura konmai studio" : "アトリエさくら こんまいすたじお"
-,"atelier sakura roshutsu yuugi" : "アトリエさくら 露出遊戯"
-,"ather" : "Ater"
-,"aurora" : "AURORA"
-,"bakeda daigaku" : "バケダ大学"
-,"banana shu-shu" : "BANANA Shu-Shu"
-,"banten 69" : "蛮天69"
-,"berries" : "ベリーズ"
-,"black light" : "ブラックライト"
-,"blood elemental" : "Blood-Elemental"
-,"blue age" : "BLUE AGE"
-,"blue berry gum" : "BLUE BERRY GUM"
-,"brain soft" : "BRAIN SOFT"
-,"brownie" : "ブラウニー"
-,"bunta kikaku" : "BUN太企画"
-,"cable hogue unit" : "CABLEHOGUE UNIT"
-,"candy" : "CANDY"
-,"caprice" : "Caprice"
-,"category killer" : "カテゴリーキラー"
-,"cha-cha gumi" : "茶々組"
-,"chaingang" : "CHAINGANG"
-,"class of love girls" : "ふともも組"
-,"copy cat crime" : "COPY CAT CRIME"
-,"cream cider" : "Cream Cider"
-,"cross down" : "CROSS DOWN"
-,"cross place" : "CROSS PLACE"
-,"crossnet-pie" : "Crossnet-Pie"
-,"crystal candy" : "CRYSTAL☆CANDY"
-,"c-side" : "C-side"
-,"cube sugar" : "Cube Sugar"
-,"daigo wakusei koukyoukyoku" : "第五惑星交響曲"
-,"dangan densetsu" : "弾丸伝説"
-,"darknesspot" : "DarknessPot"
-,"d-club" : "D-くらぶ"
-,"death powder" : "DEATH POWDER"
-,"deriya" : "Deriya"
-,"doggymissile" : "Doggy Missile"
-,"dokkoi soft" : "どっ恋ソフト"
-,"ducky duck" : "DUCKY DUCK"
-,"easymode" : "EasyMode"
-,"elysion" : "Elysion"
-,"enogu shoujo" : "絵具少女"
-,"es-pot" : "Es-pot"
-,"examinee" : "イグザミニー"
-,"exclamation" : "EXCLAMATION"
-,"eye phon" : "eye★phon"
-,"fairytale hardcover" : "フェアリーテールHARDCOVER"
-,"fiancee" : "FIANCEE"
-,"fire dragon" : "FIRE DRAGON"
-,"flady" : "FLADY"
-,"funazushi bazooka" : "鮒鮨バズーカ"
-,"futurepack" : "FUTURE PACK!"
-,"gargoyle" : "Gargoyle"
-,"gby" : "GBY"
-,"gekkou-dou" : "月咬洞"
-,"gensou shoujo" : "幻捜少女"
-,"gerudochuu oukoku" : "げるどちゅう王国"
-,"gokuraku tengoku" : "極楽天国"
-,"gold lip" : "ゴールドリップ"
-,"grisedge" : "GRISEDGE"
-,"ground-zero" : "GROUND-Zero"
-,"hakka-ya" : "薄荷屋"
-,"hana x hana" : "HANA＊HANA"
-,"harmonia" : "Harmonia"
-,"hato no sushiki seisakusho" : "はとのす式製作所"
-,"heartbring" : "ハートブリング"
-,"hebameki" : "HEBAMEKI"
-,"hiasobi club" : "火遊び倶楽部"
-,"hikari no shinden" : "光の神殿"
-,"hime mania" : "姫まにあ"
-,"hitosuji nawa" : "ひとスジ縄"
-,"hokkaidou bussanten" : "北海道物産展"
-,"honey knuckle" : "Honey Knuckle"
-,"honeyboy" : "Honeyboy"
-,"hoshikariza" : "星狩座"
-,"hoshinohate" : "ほしのはて"
-,"houkaiseki." : "方解石。"
-,"huge eyes" : "Huge Eyes"
-,"ichigo jet" : "いちごじぇっと"
-,"ifdef" : "#ifdef"
-,"ikeda jun kikakushitsu" : ["池田淳企画室", "池田淳企画堂"]
-,"imonoan" : "芋ノ庵"
-,"jelly bean" : "JellyBean"
-,"jiyou-kyousou" : "滋養狂騒"
-,"joudan janai yo" : "冗談じゃないよっっ！"
-,"junk castle" : "ジャンクキャッスル"
-,"k.h.hanten" : "K.H.飯店"
-,"kabosu." : "かぼす。"
-,"kagura goten" : "神楽御殿"
-,"kaitaiya" : "解体屋"
-,"kamiyorozu" : "上万"
-,"kanmido" : "KANMIDO"
-,"kappa create" : "カッパくりえいと"
-,"karintou" : "かりん党"
-,"kawarajima kojinshi kai" : "かわらじま個人誌会"
-,"kaze no mori" : "風の森"
-,"kegareta tamashii" : "穢れた魂"
-,"kichiku yaro" : "鬼畜野郎"
-,"kids world" : "きっずわーるど"
-,"kokonoe" : "九重"
-,"konpal style" : "金春流"
-,"kujira club" : "くじら倶楽部"
-,"kurimokke" : "KURIMOKKE"
-,"l.s.p." : "L.S.P."
-,"lapis blue." : "LAPIS BLUe."
-,"lasagna club" : "らざにあくらぶ"
-,"lightplan" : "LightPlan"
-,"liquid-touchable" : "Liquid-Touchable"
-,"littlewitch velvet" : "Littlewitch velvet"
-,"l-letter" : "L-letter"
-,"lovemaster" : "LOVEMASTER"
-,"luna system" : "LunaSystem"
-,"madraid" : "マッドレイド"
-,"magi black" : "MAGI black"
-,"makotonet" : "MAKOTONET"
-,"manatsu8" : "MANATSU_8"
-,"manitic" : "まにてぃっく"
-,"marron" : "Marron"
-,"mattsuaya" : "まっつあ屋"
-,"megaki" : "メガキー"
-,"mercurius" : "Mercurius"
-,"milts chaya" : "みるつ茶屋"
-,"minatekishugi" : "御奈的主義"
-,"mirai seiki maruhi club" : "未来世紀マル秘倶楽部"
-,"mixwill soft" : "Mixwill Soft"
-,"mjgg" : "もりじおぎゅうぎゅう"
-,"moe osu" : "萌♂"
-,"molamola.software" : "Molamola.software"
-,"monaco meister" : "モナコマイスター"
-,"morningmoon merchandising products" : "MORNINGMOON MERCHANDISING PRODUCTS"
-,"ms is" : "M's I's"
-,"mutation" : "Mutation"
-,"nail sharp" : "Nail Sharp"
-,"nameco-soup" : "お澄ましなめこ"
-,"neco seiryuu" : "NECO青龍"
-,"necoanshin" : "猫安心"
-,"nekketsu kouenji housoukyoku" : "熱血高円寺放送局"
-,"neko gohan" : "ねこごはん"
-,"nekohigetei" : "ねこひげ亭"
-,"nendo jam" : "ねんどじゃむ"
-,"nephrite" : "Nephrite"
-,"nice and friendly" : "Nice and Friendly"
-,"ningyou gishou" : "人形技廠"
-,"no brand" : "NO_BRAND"
-,"norausagi" : "NORAUSAGI"
-,"nyannyan club" : "娘々倶楽部"
-,"omatsuri dragon" : "お祭りDRAGON"
-,"omega13" : "OMEGA13"
-,"one-site" : "おねして"
-,"oobae toudai" : "オオバエ灯台"
-,"oosaka gundan" : "大阪軍団"
-,"overall" : "OVERALL"
-,"paya paya mambo de u" : "パヤパヤ・マンボウでウッ！"
-,"peony" : "ピオニー"
-,"p-factory" : "P-FACTORY"
-,"pil-vamp" : "PIL-VAMP"
-,"pink typhoon" : "ピンクタイフーン"
-,"pixy-led" : "ピクシーレッド"
-,"plum hill dai ni kaihatsu shitsu" : "PLUM HILL 第弐開発室"
-,"power drug" : "POWER DRUG"
-,"powered" : "Powered"
-,"poyochinsen" : "ポヨちん線"
-,"precious..." : "Precious…"
-,"prelude" : "Prelude"
-,"p-rhythm star" : "P-rythm☆Star"
-,"pure milk" : "Pure☆Milk"
-,"purple software delight" : "Purple software delight"
-,"purplish" : "PURPLISH"
-,"quasar drive" : "クェーサードライブ"
-,"rainbow cyc" : "RAINBOW CYC"
-,"ram" : "RaM"
-,"rask" : "RASK"
-,"red dragon" : "RED DRAGON"
-,"reimeidou" : "黎明堂"
-,"renrakumou ami doujin section" : "連絡網AMI同人セクション"
-,"reverv." : "Reverv."
-,"s.cry.dou" : ["S.cry.DOU", "スク頼堂"]
-,"sakaniya factory" : "さかにや工房"
-,"samoyed smile" : "SAMOYED SMILE"
-,"sanryuu club" : "三流倶楽部"
-,"sequence" : "し～くえんす"
-,"shibasoft" : "しばそふと"
-,"shidendou" : "紫電堂"
-,"shimanto ryouri gakkou" : "四万十料理学校"
-,"shin shouryuu-ken" : "真昇竜軒"
-,"shin-chan" : "Shin-Chan"
-,"shinrin ryokuju" : "森林緑樹"
-,"shiroi pantsu" : "しろいぱんつ"
-,"sign" : "Sign"
-,"silica gel" : "シリカゲル"
-,"silkys connect" : "しるきーずこねくと"
-,"softhouse dew" : "ソフトハウスDew"
-,"soldier frog" : "SOLDIER FROG"
-,"s-rs" : "S-RS"
-,"steed enterprise" : "Steed Enterprise"
-,"strega" : "STREGA"
-,"studio anteros" : "スタジオ・アンテロス"
-,"studio black cats" : "STUDIO BLACK CATS"
-,"studio insane" : "Studio Insane"
-,"studio momoka" : "スタジオ桃華"
-,"studio r" : "STUDIO R"
-,"studio scan" : "STUDIO SCAN"
-,"sugar house" : "シュガーハウス"
-,"sugar soul drive" : "SugarSoulDrive"
-,"suginami mougyuu kai" : "杉並猛牛会"
-,"suirankaku" : "翠蘭郭"
-,"sukiiro sekai" : "スキイロセカイ"
-,"surumeya" : "するめ屋"
-,"swaneye plus" : "スワンアイ+"
-,"sweet sage" : "SweetSage"
-,"tachibanakan" : "TACHIBANAKAN"
-,"tachineko miya" : "タチネコ宮"
-,"tail skid" : "TAIL SKID"
-,"tamamo soft" : "玉藻ソフト"
-,"tamashiro" : "たましろ"
-,"tenko" : "天狐"
-,"tohonifun" : "徒歩二分"
-,"tokoroten" : "ところてん"
-,"tom tom" : "トムトム"
-,"triad" : "TRIAD"
-,"triple joker" : "トリプルジョーカー"
-,"trumple" : "TRUMPLE"
-,"turing game" : "Turing Game"
-,"twin heart" : "TWIN HEART"
-,"twinbunny" : "Twinbunny"
-,"ucyunekogundan" : "宇宙猫軍団"
-,"ugo" : "UGO"
-,"umitsuki seisakusho" : "海月製作所"
-,"undead world" : "UNDEAD WORLD"
-,"unfixed" : "UNFIXED"
-,"uniikuradon" : "うにいくら丼"
-,"wild rose" : "WILD ROSE"
-,"wind rhythm" : "WIND RHYTHM"
-,"xai" : "彩[Xai]"
-,"xanadu" : "キサナドゥ"
-,"yamitsuki koubou" : "闇憑キ工房"
-,"yoshizakiminesya" : "吉崎観音社"
-,"yumesenri" : "夢染理"
-,"yuugure koubou" : "夕暮向房"
-,"za da carjya" : "ZA DA CARJYA"
-,"z-vector" : "Z-VECTOR"
-,"kaneko" : "KANEKO"
-,"onikibitou" : "鬼きび党"
-,"oomune soft" : "概ソフト"
-,"sts" : "STS"
-,"tigers eye" : "Tiger's eye"
-,"missing link" : "Missing Link"
-,"negiumaya" : "ねぎうま屋"
-,"mo" : "MO"
-,"shirokuma dango" : "しろくまだんご"
+ "... mou ii desu." : "・・・もういいです。"
 ,".squirrel" : ".Squirrel"
+,"0000" : "0000 (クアドラプルゼロ)"
 ,"0422shop" : "0422SHOP"
+,"04u" : "04U"
+,"100yenmofa" : "100円外務省"
+,"102 goushitsu" : "102号室"
+,"10pasec no kanata" : "拾八secの彼方"
+,"110-groove" : "110-GROOVE"
+,"16kenme" : "16軒目"
 ,"16nights" : "16Nights"
+,"18 monkeys" : "18モンキーズ"
+,"18master" : "18マスター"
+,"1st.ms" : "1st.M's"
+,"20liquid" : "20LIQUID"
+,"23.4do" : "23.4ド"
+,"2b" : "2B"
+,"2cv.ss" : "2CV.SS"
+,"2h" : "2H"
+,"2stroke" : "2STROKE"
+,"3rdeye" : "3rdEye"
+,"40010 1-go" : "40010壱号"
+,"4h" : "4H"
+,"4t" : "4T"
+,"50on" : "50ON!"
+,"54burger" : "54BURGER"
+,"552 no yakata" : "午後煮の館"
+,"65535th avenue" : "65535あべぬー。"
+,"666 no oka" : "666の丘"
+,"666protect" : ["666PROTECT", "666プロテクト"]
+,"70 nenshiki yuukyuu kikan" : "70年式悠久機関"
+,"88 gou" : "88号"
+,"a" : "A"
+,"a dash" : "A'"
+,"a gokuburi" : "A極振り"
+,"a human a" : "人間アブラハム"
+,"a matures" : "ア・マチュアズ"
+,"a to z" : "A to Z"
+,"a.l.c" : ["A.L.C", "ALC"]
+,"a.o.i" : "A.O.I PROJECT"
 ,"a.s.t.a." : "A.S.T.A."
+,"a.w.p." : "A.W.P."
+,"a10 booster unit" : "エー・テン・ブースター・ユニット"
+,"a2" : "A2"
+,"aa aishiteru" : "ああ愛してる"
+,"aardvark" : "AARDVARK"
+,"a-arms" : "A-arms"
+,"aaru" : "アアル"
+,"ab laboratory" : "ABラボラトリー"
+,"abalone soft" : "Abalone Soft"
+,"abarenbow tengu" : ["暴れん坊天狗", "ABARENBOW TENGU"]
+,"abbey load" : "ABBEY LOAD"
+,"abel software" : "AbelSoftware"
+,"abelia" : "アベリア"
+,"abellcain" : ["ABELLCAIN", "アベルカイン"]
+,"aberyu" : "悪部流"
+,"abhar" : "ABHAR"
+,"abogado powers" : "アボガドパワーズ"
+,"aboshi-kensetsu" : "亜星建設"
+,"abradeli kami" : "油照紙"
+,"absolute" : "Absolute"
+,"absolute fantasy" : "ABSOLUTE FANTASY"
+,"absorb" : "アブそ～ぶ"
+,"abura katabura" : ["あぶらかたぶら", "ABURAKATABURA"]
+,"abura stadium" : "あぶらスタジアム"
+,"aburasoba biyori" : "あぶらそば日和"
 ,"abyssinia" : "あびしにあ"
+,"acacia soft" : "AcaciaSoft"
+,"accent" : "ACCENT"
+,"achromic" : "Achromic"
+,"acid eaters" : "ACID EATERS"
+,"acid noel" : "Acid Noel"
+,"acid-head" : "ACID-HEAD"
+,"acidsea" : "ACIDSEA"
+,"act.direction" : "ACT.DIRECTION"
+,"action mokei" : "アクション模型"
+,"activa" : "ACTIVA"
+,"active" : "Active"
+,"activemover" : "ActiveMover"
+,"actress" : "アクトレス"
+,"adel-heid" : "アーデルハイド"
+,"adnis" : "ADNiS"
+,"advanced-ss" : "Advanced-SS"
+,"aeba no mori" : "喘葉の森"
+,"aerodog" : "AERODOG"
+,"aeterna" : "Aeterna"
+,"afj" : "AFJ"
+,"aft seat" : "AFT SEAT"
+,"afterschool of the 5th year" : "Afterschool Of The 5th Year"
+,"age" : "AGE"
+,"agoitei" : "AGOI亭"
+,"ahaan" : "AHAAN"
+,"aheazif" : "アヘアジフ"
+,"ahm" : "AHM"
+,"ai no terrorism" : "愛のテロリズム"
+,"ai wa kurayami" : "愛は暗闇"
+,"aiai" : "あいあい"
 ,"aias" : "アイアス"
+,"aigamodou" : "あいがも堂"
+,"aihara otome" : "相原乙女"
+,"aiko dot com" : ["AIKO.com", "ACO dot com"]
+,"ail soft" : "アイル"
 ,"aile" : "Aile"
+,"aimaitei" : "愛昧亭"
+,"ainos" : "AINOS"
+,"aion" : "AION"
 ,"aion-heart" : "AION HEART"
+,"air plants" : "エアプランツ"
+,"airyu" : "あいりゅ"
+,"aiu show communication" : "A.I.U SHOW COMMUNICATION"
+,"ajala" : "戯(あじゃら)"
+,"aji no hiraki" : "あじのひらき"
+,"aji zukushi" : "鯵づくし"
+,"ajisaidenden" : "アジサイデンデン"
+,"ajisaihuumitei" : "紫陽花風味亭"
+,"ajiyama" : "アジ山"
+,"akabei soft" : "アカベイソフト"
+,"akabei soft2" : "あかべぇそふとつぅ"
+,"akabei soft2 try" : "あかべぇそふとつぅTRY"
+,"akabei soft3" : "あかべぇそふとすりぃ"
+,"akachi" : "あかち"
+,"akacia" : "AKACIA"
+,"akadama-ya" : "赤玉屋"
+,"akahira kirin" : "あかひらきりん"
+,"akai marlboro" : "赤いマルボロ"
+,"akai suzume" : "AKAI SUZUME"
+,"akai tsubasa" : "赤い翼"
+,"akanagi" : "あかなぎ"
+,"akane makes revolution" : "サークルAMR"
+,"akane soft" : "あかねそふと"
+,"akanenone" : "AKANENONE"
+,"akapenguin" : "アカペンギン"
+,"akari blast" : "Akari Blast!"
+,"akatama" : "アカタマ"
+,"akatonbo" : "あかとんぼ"
+,"akatsuki souken" : "サークル暁創圏"
+,"akatsuki works" : "暁WORKS"
+,"akatsuki works black" : "暁WORKS-黒-"
+,"akatsuki works hibiki" : ["暁WORKS-響-", "響 works"]
+,"akatukiya" : "赤月屋"
+,"akausagi" : "赤兎"
+,"aki beya" : "明部屋"
+,"akifumi-chan" : "あきふみちゃん"
+,"akihabara chika kakutoujou" : "秋葉原地下格闘場"
+,"akikaze asparagus" : "秋風アスパラガス"
+,"akinasuya" : "秋茄子屋"
+,"akitsu seisakujo" : "現津製作所"
+,"akiyama production" : "アキヤマ興行"
+,"akkan-bi project" : "Akkan-Bi PROJECT"
+,"akumu no takuhaibin" : "悪夢の宅配便"
+,"akuochisukii kyoushitsu" : "アクオチスキー教室"
+,"akusei-shinseibutsu" : ["悪性新生物", "アクセイシンセイブツ"]
+,"akutensoushin" : "悪転奏進"
+,"akys honpo" : "akys本舗"
 ,"alamode" : "あらもーど"
 ,"alaruma" : "アラルマ"
+,"alcot" : "ALcot"
+,"alcot honey comb" : "ALcotハニカム"
+,"alemateorema" : "アレマテオレマ"
+,"alem-gakan" : "亜嶺夢画館"
+,"alfa300" : "ALFA300"
+,"algolagnia" : "アルゴラグニア"
+,"alice digital factory" : "Alice Digital Factory"
+,"alice no takarabako" : "ありすの宝箱"
+,"alice syndrome" : "アリスシンドローム"
+,"alice-do" : ["ありす堂", "アリス堂"]
+,"alicegarden" : "AliceGarden"
+,"alicesoft" : "AliceSoft"
+,"allegro mistic" : "Allegro Mistic"
+,"alliance" : "アライアンス"
+,"all-time" : "ALL-TiME"
+,"alma" : "ALMA"
+,"alpha to yukaina nakamatachi" : "有葉と愉快な仲間たち"
+,"alphaville" : "ALPHAVILLE"
+,"alps" : "ALPS"
+,"alraune-batake" : "アルラウネ畑"
+,"altycia" : "Altycia"
 ,"alumi soft" : "あるみそふと"
+,"alumican" : "あるみかん"
+,"amaama-tei" : "甘々亭"
+,"amadeus no isan" : "アマデウスの遺産"
+,"amagami dou" : "あまがみ堂"
+,"amakuchi syoujo" : "AMAKUCHI SYOUJO"
+,"amato bu" : "あまとー部"
+,"amazake hatosyo-ten" : "甘酒鳩商店"
+,"amazawa kingdom" : "AMAZAWA KINGDOM"
+,"ambivalence" : "AMBIVALENCE"
+,"ambivalenz" : "Ambivalenz"
+,"ame nochi yuki" : "あめ のち ゆき"
+,"ame usagi" : "あめうさぎ"
+,"ame-chan" : "アメチャン"
+,"american kenpou" : "アメリカン拳法"
+,"ameshoo" : "あめしょー"
+,"ameya." : "飴屋。"
+,"amisawa kenkyuujo" : "網澤研究所"
+,"ammolite" : "アンモライト"
+,"amorphous" : "AMORPHOUS"
+,"amp" : "AMP"
+,"amuai okashi seisakusho" : "あむぁいおかし製作所"
+,"amuse craft erotica" : "アミューズクラフトエロチカ"
+,"ana" : "ANA"
+,"anago pie" : "あなごぱい"
+,"an-arc" : "アンアーク"
+,"anarchy sox" : "ANARCHY SOX"
+,"anastasia" : "アナスタシア"
+,"anc" : "A.N.C"
+,"anchor" : "ANCHOR"
+,"andorogynous" : "ANDOROGYNOUS"
+,"aneko chokudoukan" : "あねこ直道館"
+,"aneko no techo" : "あねこの手帖"
+,"anemone" : "アネモネ"
+,"anesen" : "あねせん"
+,"ange" : "ANGE"
+,"angel red" : "Angel Red"
+,"angel smile" : "Angel Smile"
+,"angelbox" : "ANGELBOX"
+,"angelhearts" : "AngelHearts"
+,"angyadow" : "行脚堂"
+,"aniki teikoku" : "アニキテイコク"
+,"anim" : "ANIM"
+,"anim teammm" : ["ANIM Mother&Wife", "ANIM.teamMM"]
+,"animal ship" : "ANIMAL SHIP"
+,"anime brothers" : "アニメブラザーズ"
+,"aniseed" : "AniSeed"
+,"ankh" : "あんく"
+,"anklet-girl" : "Anklet少女"
+,"ankoku-bousougumi" : "暗黒暴走組"
+,"anmitsuyomogitei" : "あんみつよもぎ亭"
+,"anmonkan" : "闇夢館"
+,"anorak post" : "AnorakPost"
 ,"another cellar" : "Another cellar"
 ,"another room" : "AnotherRoom"
+,"antyuumosaku" : "暗中模索"
+,"any wa sea" : "AnyはSea!!"
+,"anzen daiichi" : "安全第一"
+,"anzen ekisu" : "anzenEkis"
+,"anzen na buffalo" : "安全なバッファロー"
+,"ao hana" : "青華"
+,"aoba q madou" : "青葉Ｑ魔洞"
+,"aodiso kankou" : "青ぢそ甘工"
+,"aodouhu" : "青豆腐"
+,"a-office" : "A-Office"
+,"aohimo familia" : "アオヒモファミリア"
+,"aokihoshi" : "AOKIHOSHI"
+,"aomizuan" : "青水庵"
+,"aozora biscuit" : "青空ビスケット"
+,"apadash" : "アパダッシュ"
+,"aphrodite" : "あふろでぃ～て"
+,"apocrine." : "あぽくりん。"
 ,"appe-" : "アパダッシュ"
+,"appetite" : "Appetite"
+,"apple pie" : "Apple Pie"
+,"apple pie en" : "Apple Pie えん"
+,"applecat" : "あっぷるきゃっと"
+,"applemint" : "あっぷるみんと"
 ,"applemint black" : "あっぷるみんとBLACK"
+,"applique" : "あっぷりけ"
+,"apricot" : ["APRICOT", "applicot"]
+,"apricot cherry" : "Apricot Cherry"
+,"apricot pie" : "あぷりこっとぱい"
+,"apsara project" : ["[apsara project];", "あぷさらPROJECT"]
+,"aqua house" : "AQUA HOUSE"
+,"aqua-brand" : "AQUA-BRAND"
+,"aquadrop" : "アクアドロップ"
+,"aquahouse" : "AQUA HOUSE"
+,"aquamarine" : "あくあまりん"
+,"aquaplus" : "アクアプラス"
+,"arakureta monotachi" : "あらくれた者たち"
+,"aramaa" : "あらまあ"
+,"aramushadou" : "荒武者堂"
+,"aratoya" : "あらと屋"
+,"arc" : "ARC"
+,"arch" : "ARCH"
+,"archetype" : "ARCHETYPE"
+,"archives" : "アーカイブ"
+,"arctic pan" : ["北極鍋", "ARCTIC-PAN"]
+,"are." : "あれ。"
+,"arekusa thunder" : "アレクササンダー"
+,"arestica" : "ARESTICA"
+,"areya" : "あれ屋"
+,"areyouhappy" : "AREYOUHAPPY"
+,"argonauts" : "Argonauts"
+,"arianrhod" : "Arianrhod"
+,"ariel soft" : "ARIEL SOFT"
+,"arieroof" : "アリエルーフ"
+,"aries" : "Aries"
+,"ark emerald" : "ArkEmerald"
+,"ark shell" : "アークシェル"
+,"arkham" : "ああかむ"
+,"arkham products team ankoku baitai" : "アーカムプロダクツ／チーム暗黒媒体"
+,"armadillo" : "Armadillo"
+,"armonica" : "Armonica"
+,"armored ginkakuji" : ["ARMORED銀閣寺", "アーマードギンカクジ"]
+,"aroma gaeru" : "あろまガエル"
+,"arrow island" : "アローアイランド"
+,"arsenothelus" : "アルセノテリス"
+,"art craft" : "ART CRAFT"
+,"art equals theater" : "ART=THEATER"
+,"art rakugaki" : "ARTラクガキ"
+,"artemis" : "あるてみす。"
+,"article 60 of criminal code" : "Article 60 of criminal code"
+,"artifact" : "アーティファクト"
 ,"artificial eden" : "Artificial Eden"
+,"arts graffiti" : "アーツグラフティ"
+,"arukaseya" : "歩かせ屋"
+,"aruku denpatou no kai" : "歩く電波塔の会"
+,"aruto-ya" : "あると屋"
+,"as library" : "A's Library"
+,"asa project" : "ASa Project"
+,"asagayatei" : "Asagayatei"
+,"asaka sangyou" : "朝霞産業"
+,"asakatsu" : "あさかつ"
+,"asanoya" : ["浅野屋", "浅廼屋"]
+,"asgard" : "アースガルド"
+,"asgo" : "ASGO"
+,"ash wing" : "Ash wing"
+,"ashima sandou" : "芦間山道"
+,"ashinoie" : "あしの家"
+,"ashita o sakigakeru kyouki shuudan cog" : "明日を魁る狂気集団COG"
+,"ashita wa docchida" : "明日はどっちだ！"
+,"ashitakara-ganbaru" : "あしたから頑張る"
+,"ashuraya" : "阿修羅屋"
 ,"asihireya" : "あしひれや"
+,"askray" : "AskRay"
+,"aspergillus" : "Aspergillus"
+,"asstaro-san" : "アスタローサン"
+,"ast" : "AST"
+,"asteroid fish" : "Asteroid Fish"
+,"astras" : "ASTRA'S"
+,"astro creep" : "ASTRO CREEP"
+,"astrocleep" : "ASTROCLEEP"
+,"astronauts" : "アストロノーツ"
+,"astronauts alya" : "アストロノーツ・アリア"
+,"astronauts comet" : "アストロノーツ・コメット"
+,"astronauts sirius" : "アストロノーツ・シリウス"
+,"astronauts spica" : "アストロノーツ・スピカ"
+,"astronomy" : "ASTRONOMY"
+,"atelier bord" : "Atelier Bord"
+,"atelier d" : "アトリエD"
+,"atelier gh" : "Atelier GH"
+,"atelier gons" : "アトリエGONS"
+,"atelier kaguya" : "アトリエかぐや"
+,"atelier kaguya berkshire yorkshire" : "アトリエかぐや Berkshire Yorkshire"
+,"atelier kaguya cheshirecat" : "アトリエかぐや CheshireCat"
+,"atelier kaguya dreizehn" : "アトリエかぐや Dreizehn"
+,"atelier kaguya honky-tonk pumpkin" : "アトリエかぐや Honky-Tonk Pumpkin"
+,"atelier kaguya p-ch" : "アトリエかぐや P-ch"
+,"atelier kaguya team gassa-q" : "アトリエかぐや TEAM Gassa-Q"
+,"atelier kaguya team heartbeat" : "アトリエかぐや TEAM HEARTBEAT"
+,"atelier kinta" : "あとりえKINTA"
+,"atelier m" : "アトリエM"
+,"atelier maso" : "アトリエマゾ"
+,"atelier miyabi" : "あとりえ雅"
+,"atelier ms" : "atelier Ms"
+,"atelier pinpoint" : "アトリエ ピンポイント"
 ,"atelier ponyo2 heart" : "Atelier ponyo2 Heart"
+,"atelier sakura" : "アトリエさくら"
+,"atelier sakura darkness" : "アトリエさくら DARKNESS"
+,"atelier sakura extra" : "アトリエさくら eXtra"
+,"atelier sakura konmai studio" : "アトリエさくら こんまいすたじお"
+,"atelier sakura mount position" : "アトリエさくら マウントポジション"
+,"atelier sakura roshutsu yuugi" : "アトリエさくら 露出遊戯"
+,"atelier sakura team.ntr" : "アトリエさくら Team.NTR"
+,"atelier sava" : "Atelier Sava"
+,"atelier yang" : "あとりえ・ヤン"
+,"atelier yutanpo" : "アトリエゆたんぽ"
+,"atelier-g" : "Atelier-G"
+,"ather" : "Ater"
+,"atomic buster" : "アトミックバスター"
+,"atsuatsu muchimuchi" : "あつあつむちむち"
+,"atsuya kougyou" : "篤屋工業"
+,"attendance number 26" : "出席番号26"
+,"atuworks" : "あてゅ・わぁくす"
+,"august" : "August"
+,"aurora" : "AURORA"
+,"authoring heaven" : "オーサリングヘヴン"
+,"autobahn" : "Autobahn"
+,"autozoon" : "AUTOZOON"
+,"av" : "Team AV"
+,"avion village" : "アビオン村"
+,"avion village f" : "アビオン村F"
+,"awatake" : "あわたけ"
+,"ax" : "サークルAX"
+,"axis" : "アクシス"
+,"axl" : "AXL"
+,"axz" : "サークルAXZ (アクシヅ)"
+,"axz-braziole" : "AXZ_ブラジオーレ"
+,"aya" : ["team-aya", "彩"]
+,"ayashige dan" : ["あやしげ団", "ADAN"]
+,"ayashii bochi" : "あやしい墓地"
+,"ayashii kikaku" : "綾椎企画"
+,"aypio" : "AYPIO"
 ,"aza" : "AZA"
+,"azarashi factory" : "AZARASHI FACTORY"
+,"azarashisoft" : "あざらしそふと"
+,"azasuke wind" : "AZASUKEWIND"
+,"azumaya matsukaze" : ["Azumaya MATSUKAZE", "あずまや松風", "アズマヤ マツカゼ"]
+,"azumaya shiten" : "アズマ屋支店"
+,"azure" : "AZURE"
+,"azurite" : "Azurite"
 ,"b.i-project" : "B.I-PROJECT"
+,"b5 doumei" : "B5同盟"
+,"babel" : "BABEL"
+,"baby maniacs" : "BABY MANIACS"
+,"baby pink" : "BABY PINK!!"
+,"babybed" : "ベビーベッド"
 ,"babydoll" : "BABYDOLL"
+,"badon" : "BADON"
+,"baguri sangyou" : ["馬栗産業", "BAGURI SANGYOU"]
+,"baha-chop" : "ばはちょっぷ"
+,"bakeda daigaku" : "バケダ大学"
+,"bakugeki monkeys" : "爆撃モンキーズ"
+,"bakuhatsu brs." : "ばくはつBRS"
+,"bakunyu fullnerson" : "爆乳フルネルソン"
+,"bakuretsu fusen" : "爆裂風船"
+,"bakusou special" : "爆走スペシャル"
+,"ballistic onahole" : "Ballistic onahole"
+,"ballox" : "BalloX"
+,"banana king" : "バナナキング"
+,"banana musume" : "甘蕉小姐"
+,"banana sakana" : "バナナサカナ"
+,"banana saruen" : ["ばななサル園", "BANANA MONKY PARK"]
+,"banana shu-shu" : "BANANA Shu-Shu"
+,"bananajam" : "BANANA JAM"
+,"bandit" : "BANDIT"
+,"banten 69" : "蛮天69"
+,"barbarossa" : "バルバロッサ"
+,"barricade" : "BARRICADE"
+,"baseson" : "BaseSon"
+,"baseson light" : "BaseSon Light"
+,"basic champions" : "BASIC CHAMPIONS"
+,"basil" : "BasiL"
 ,"bassoon factory" : "ばっすん工房"
+,"basutei shower" : "バス停シャワー"
+,"batten kariba" : "×仮歯"
+,"batterken" : "BatterKen"
+,"battle fighters oretachi" : "バトルファイターズ俺たち！"
 ,"b-baba-s" : "B-BABA-S"
+,"bbb-extra" : "BBBえくすとら"
+,"bbg" : "BBG"
+,"b-crews" : "B-Crews"
+,"beaf emotion" : "びーふえもーしょん"
+,"bear hand" : "熊掌社"
+,"beastics" : "Beastics"
+,"beat-pop" : "BEAT POP"
+,"bebe" : "BEBE"
+,"bect" : "Bect"
+,"beelzebub" : "ベルゼブブ"
+,"beenyan" : "び～にゃん"
+,"beep-beep" : "BEEP-BEEP!"
+,"bef" : "びいえふ"
+,"behind moon" : "Behind Moon"
+,"being man" : "Being Man"
+,"bell-da" : "BELL-DA"
 ,"bellybell" : "ベリーベル"
+,"beniya" : "紅屋"
+,"bens works" : "Ben's Works"
+,"bergamot" : "Bergamot"
+,"berkana" : "ベルカナ"
+,"berries" : "ベリーズ"
+,"berry lollipop" : "Berry Lollipop"
+,"bible" : "BIBLE"
+,"big boss" : "BIG BOSS"
+,"bijutsubu" : "美術部"
+,"bikkuri gyouten" : "びっくり仰天"
+,"bindume syojo." : "瓶詰少女。"
+,"birdy soft" : "バーディーソフト"
+,"birobon" : "ビロボン"
 ,"bis" : "Bis"
+,"bishop" : "BISHOP"
+,"biwa gakudan" : "琵琶楽団"
+,"bizensiki roroppu" : "備前式ロロップ"
+,"bks studio" : "BKS STUDIO"
+,"black angel" : "BLACK ANGEL"
 ,"black art" : "BLACK ART"
+,"black box" : "BLACK BOX"
+,"black cats garage" : "BLACK CAT'S GARAGE"
+,"black currant" : "ブラックカラント"
+,"black cyc" : "ブラックサイク"
+,"black dog" : ["ぶらっくどっぐ", "BLACK DOG"]
+,"black fly" : "BLACK FLY"
+,"black light" : "ブラックライト"
+,"black list" : "BLACK LIST"
+,"black onix" : "BLACK ONIX"
+,"black package" : "BLACK PACKAGE"
+,"black package try" : "BLACK PACKAGE TRY"
+,"black shadow" : ["ぶらっくしゃどー", "black shadow"]
+,"blackglobe" : "BLACKGLOBE"
+,"blackrabbits" : "Black Rabbits"
+,"blackrainbow" : "BLACKRAINBOW"
+,"blaze" : "BLAZE!"
+,"blazer one" : "BLAZER ONE"
 ,"blip" : "BLIP"
+,"blitzkrieg" : "ブリッツクリーク"
+,"blood company" : "ブラッドカンパニー"
+,"blood elemental" : "Blood-Elemental"
+,"bloody hawk" : "BLOODY HAWK"
+,"bloomhandle" : "ブルームハンドル"
+,"blue age" : "BLUE AGE"
+,"blue berry gum" : "BLUE BERRY GUM"
+,"blue blood" : "BLUE BLOOD"
+,"blue catty" : "BLUE CATTY"
+,"blue devil" : "Blue Devil"
+,"blue gale" : "BLUE GALE"
+,"blue gale light" : "ブルゲLIGHT"
+,"blue garnet" : "BLUE GARNET"
 ,"blue impact" : "ブルーインパクト"
+,"blue metal" : "BLUE METAL"
+,"blue shachi" : "ブルーシャッチー"
+,"blue spiral" : "Blue Spiral"
+,"blue syndrome" : "青色症候群"
+,"blue topaz" : "Blue Topaz"
 ,"blue wind" : "BLUE☆WIND"
 ,"blueberry soft light" : "ぶる～べり～そふとLight"
 ,"bluegrass" : "Bluegrass"
+,"bluejelly" : "BLUEJELLY"
+,"bluemage" : "BlueMage"
+,"bluemonday" : "BLUEMONDAY"
+,"bluewater" : "BLUEWATER"
+,"bm dan" : "BM団"
+,"bodley head" : "BODLEY HEAD"
+,"boku no tampopo" : "ぼくのたんぽぽ"
+,"bokukko inma no soukutu" : "ボクっ娘淫魔の巣窟"
+,"bokusatsu shinzui" : "撲殺真髄"
+,"bokuto-kitan" : "墨東綺譚"
+,"bolt-king" : "BOLT-KING"
+,"bonanza" : "Bonanza"
+,"bonbee" : "Bonbee!"
+,"bonbee bonbon" : "ボンびいボンボン"
+,"bonbon company" : "ボンボンカンパニー"
+,"bone china" : "Bone★chinA"
+,"bonusshop" : "BONUSSHOP"
+,"booblian" : "Booblian"
+,"bootup" : "bootUP!"
+,"boru kikaku" : "ぼる企画"
+,"bottomress pit" : "BOTTOMRESS PIT"
+,"bouken koubou" : "冒険工房"
 ,"bounamitei" : "防波亭"
+,"bousou fuhatsudan" : "暴走!!不発団"
+,"bousousuwanchika" : "暴走スワンチカ"
+,"box" : "BOX"
+,"brain soft" : "BRAIN SOFT"
+,"brave chicken" : "BRAVE CHICKEN"
+,"brave heart" : "ブレイヴはぁと"
+,"brave heart petit" : "BRAVE HEART petit"
+,"braziole" : "ブラジオーレ"
+,"breakin bakery" : "Breakin Bakery"
+,"breeze" : "Breeze"
 ,"bridget goudou" : "ブリジット合同"
+,"briest" : "BRIEST"
+,"brilliant thunder" : "Brilliant Thunder"
+,"brio" : "Brio"
+,"broad smile" : "Broad smile"
+,"bronco hitoritabi" : "ブロンコ一人旅"
+,"brough-superior" : "Brough-Superior"
+,"brownie" : "ブラウニー"
+,"budou bekkan" : "ブドウ別館"
+,"buffalow propaganda" : "BUFFALOW PROPAGANDA"
+,"bug system" : "バグシステム"
+,"buki to bougu no mise" : "ぶきとぼうぐのみせ"
+,"bukimi no tanigoto aishitai" : "不気味の谷ごと愛したい"
+,"bulack okusan" : "BULACK OKUSAN"
+,"bullet ballet" : "Bullet Ballet"
+,"bumsign" : "BUMSIGN"
+,"bunbukudou" : "ぶんぶく堂"
+,"bunchindoh" : "ぶんちん堂"
+,"bunny pro." : "Bunny Pro."
+,"bunta kikaku" : "BUN太企画"
+,"burning hammer" : "Burning Hammer"
+,"burugari-ya" : "ぶるがり屋"
+,"busou megami" : "武装女神"
+,"busou yousei" : "武装妖精"
+,"butagoya" : "ぶた小屋"
+,"butakoma 300g" : "ぶたコマ300g"
+,"butter cookie" : ["ばたぁくっきぃ", "BUTTER COOKIE"]
+,"buzz buzz" : "Buzz Buzz"
+,"byakuya kisoukyoku" : "白夜綺想曲"
+,"byousatsu tanukidan" : "秒殺狸団"
 ,"bystander" : "BYSTANDER"
+,"c drive" : "C：Drive"
+,"c.a.t" : "CAT Creative Art Team"
+,"c.bjim" : "C.Bjim"
 ,"c.c. clockup" : "C.C. CLOCKUP"
+,"c.r.c" : "C.R.C"
+,"c.rs nest" : "C.R's NEST"
+,"cabbage soft" : "きゃべつそふと"
+,"cabbit" : "Cabbit"
+,"cable hogue unit" : "CABLEHOGUE UNIT"
+,"cacao" : "カカオ"
+,"cafeteria watermelon" : "CAFETERIA WATERMELON"
 ,"caitsith" : "Caitsith"
+,"calcite" : "Calcite"
+,"caligula" : "CALIGULA"
+,"call.a" : "CALL.A"
+,"calm white" : "カームホワイト"
 ,"calvary 13th" : "Calvary 13th"
+,"campus" : "Campus"
+,"camrism" : "カムリズム"
+,"can do now" : "キャンドゥーなう！"
+,"candy" : "CANDY"
+,"candy paddle" : "Candy Paddle"
+,"candy pop" : "Candy Pop"
 ,"candycastle" : "CANDYCASTLE"
+,"candyman" : "CANDYMAN"
+,"candysoft" : "きゃんでぃそふと"
+,"cannabis" : "カンナビス"
+,"canvas garden" : "CANVAS+GARDEN"
+,"caprice" : "Caprice"
+,"capsule 29" : "カプセル29"
+,"capsule29" : "カプセル29"
+,"captain santa" : "Captain SANTA"
+,"caramel box" : "Caramel Box"
+,"carmine" : "Carmine"
+,"carnelian" : "CARNELIAN"
+,"carol works" : "Carol Works"
+,"carriere" : "Carriere"
+,"cartagra" : "骨牌倉"
+,"c-arts" : "C-ARTS"
+,"casket" : "Casket"
+,"casmania" : "CASMANIA"
+,"catear" : "Catear"
+,"category killer" : "カテゴリーキラー"
+,"catwalknero" : "catwalkNERO"
 ,"caym" : "Caym"
+,"caza mayor" : "CAZA MAYOR"
+,"c-chaos.net" : "サークルChaos"
+,"cdpa" : "CDPA"
+,"celestial eden" : "CELESTIAL EDEN"
+,"celluloid-acme" : "CELLULOID ACME"
+,"ceramic heart" : "セラミックハート"
+,"cha cha cha brothers" : "ちゃちゃちゃぶらざーず"
+,"chabashira-project" : "茶柱プロジェクト"
+,"cha-cha gumi" : "茶々組"
+,"chagashi saiban" : "茶菓子裁判"
 ,"chagu chagu koubou" : "ちゃぐちゃぐ工房"
+,"chaho" : "ちゃほ"
+,"chain reaction" : "チェーンリアクション"
+,"chaingang" : "CHAINGANG"
+,"chakapoko honpo" : "ちゃかぽこ本舗"
+,"chanbara" : "CHANBARA!"
+,"chandora" : "ちゃんどら"
 ,"channel ubai" : "チャンネル奪"
+,"chaos-l" : "CHAOS-L"
+,"chaotic arts" : "カオティック・アーツ"
+,"chara chara" : "CHARA CHARA"
+,"charm books" : "CHARM BOOKS"
+,"chawanmushi" : "ちゃわんむし"
+,"cheap cheap" : "CHEAP CHEAP"
+,"cheese company" : "チーズカンパニー"
+,"chelsea lip" : "Chelsea lip"
+,"chelseasoft" : "Chelseasoft"
+,"chemi-story" : "Chemi-Story"
+,"cherry blossom" : "ちぇりーぶろっさむ"
+,"cherry palace" : "CHERRY PALACE"
+,"cherry soft" : "ちぇりーそふと"
+,"chesha neko no yakata" : "チェシャ猫の館"
+,"chevalerie" : "シュヴァルリ"
+,"chibi chibi neko neko" : "ちびちびねこねこ"
+,"chibikko kingdom" : "CHIBIKKO KINGDOM"
+,"chicken chicken machine" : "チキチキ☆マシーン"
+,"chicken knife" : "Chicken Knife"
+,"chien" : "Chien"
+,"chiffon" : "シフォン"
+,"chijoku an" : "恥辱庵"
+,"chika sekai" : "地下世界"
+,"chikashitsu" : "地下室"
+,"chikatetsu shokudou" : "地下鉄食堂"
 ,"chikauo yakkyoku" : "地下魚薬局"
+,"chikuwano kimochi" : "ちくわの気持ち"
+,"chill-out" : "CHILL OUT"
+,"chimatsuriya honpo" : "血祭屋本舗"
+,"chimee house" : "ちみはうす"
+,"chimeishou" : "致命傷"
+,"chinasanchi" : "ちゃいなさんち"
+,"chinchintei" : "ちんちん亭"
+,"chinjao girl." : "ちんじゃお娘。"
+,"chinnmokunogazinn" : "沈黙の牙人"
+,"chinpudo" : "珍譜堂"
+,"chinzuri bop" : "CHINZURIBOP"
+,"chiri akuta" : "塵芥"
+,"chirigami goya" : "ちり紙小屋"
+,"chise" : "千世"
+,"chocolate banana ou lait" : "Chocolate Banana Ou lait"
+,"chocolate kinema" : "Chocolate Kinema"
+,"chocolate latte" : "ショコラテ"
+,"chocolate shop" : "CHOCOLATE SHOP"
+,"chocolate synapse" : "ChocolateSynapse"
+,"cho-jin hakaba" : "超人墓場"
+,"choki no kamisama" : "ちょきの神さま"
 ,"chokore topafe" : "チョコレートパフェ"
+,"chokudoukan" : "直道館"
+,"chotto dake aruyo." : "チョットだけアルヨ。"
 ,"chou-cream-sunday" : "しゅーくりーむさんでー"
+,"choujikuu yousai kachuusha" : "超時空要塞カチューシャ"
+,"chronicle" : "くろにくる"
+,"chrono mail" : "Chrono Mail"
+,"chronolog" : "CHRONOLOG"
+,"chuable soft" : "チュアブルソフト"
+,"chuugoku 12man" : "中国12万"
+,"chuuka mantou" : "中華饅頭"
+,"chuuni" : "ちゅうに"
+,"cico" : "Cico"
+,"ciel" : "CIEL"
+,"cinematograph" : "CINEMATOGRAPH"
+,"cior" : "Cior"
+,"circle anco" : "サークルアンコ"
+,"circle billion" : "サークルBILLION"
+,"circle bob" : "サークルボブ"
+,"circle credit" : "くれじっと"
+,"circle eden" : "CircleEden"
+,"circle energy" : "CIRCLE ENERGY"
+,"circle foundation" : "CIRCLE FOUNDATION"
+,"circle heron" : "サークルヘロン"
+,"circle kuusou zikken" : ["Circle KUUSOU ZIKKEN", "サークル空想実験"]
+,"circle meimitei" : "サークル冥魅亭"
+,"circle ohigetan" : "尾髭丹"
+,"circle outerworld" : "サークルOUTERWORLD"
+,"circle taihei-tengoku" : "サークル太平天国"
+,"circle-fiore" : "circle-FiORE"
+,"circus" : "CIRCUS"
+,"circus fetish" : "サーカス・フェティッシュ"
+,"citron love" : "CITRON LOVE"
+,"citron soft" : "しとろんソフト"
+,"citrus" : "Citrus"
 ,"citrus air" : "Citrus Air"
+,"cla cla clala" : "Cla Cla Clala"
+,"clapworks" : "CLAPWORKS"
+,"class of love girls" : "ふともも組"
+,"clear" : "Clear"
+,"clearmana" : "クリアマナ"
+,"clesta" : "クレスタ"
+,"clip craft" : "CLIP☆CRAFT"
+,"clochette" : "クロシェット"
+,"clock star" : "くろっくすたー"
+,"clockup" : ["CLOCKUP", "クロックアップ"]
 ,"clockup kikaku" : "クロックアップ企画"
+,"clockup team anise" : "CLOCKUP team.ANISE"
+,"closet child" : "CLOSET CHILD"
+,"clover" : "CLOVER"
+,"clover kai" : "くろーヴァー会"
+,"club bacteria" : "くらぶ ばくてりあ"
+,"clutch shot king" : "CLUTCH SHOT KING"
+,"coa" : "COA"
+,"cobanzame" : "こばんざめ"
+,"coburamenman" : "コブラーメンマン"
+,"cocktail soft" : "カクテルソフト"
+,"cocoa holic" : "Cocoa Holic"
+,"cocon" : "cocon!"
+,"coconutbless" : "COCONUT BLESS"
 ,"codegia" : "CODEGiA"
+,"codepink" : ["CODEPINK", "コードピンク"]
+,"coffee maker" : "こーひーめーかー"
+,"coin toss" : "こいんとす"
 ,"coin-software" : "COIN-SOFTWARE"
+,"colon" : "：co／on"
+,"colors" : "COLORS"
+,"colt" : "Colt"
+,"combat mon-mon" : "コンバットモンモン"
+,"come through" : "ComeThrough"
+,"comic kingdom" : "コミックキングダム"
+,"comics way" : "Comics way"
+,"command plus z" : "COMMAND+Z"
+,"concerto" : "Concerto"
+,"conezu step plus ziggurat" : "こねずステップ！+Ziggurat"
+,"confiture soft" : "コンフィチュールソフト"
+,"cool brain" : "COOL BRAIN"
+,"cool kyou dai san shibu" : "クール教第三支部"
+,"cool palace" : "Cool Palace"
+,"copy cat crime" : "COPY CAT CRIME"
+,"corkscrew" : "CORKSCREW"
+,"corori" : "CORORI"
+,"cosmic cute" : "COSMIC CUTE"
+,"cosplay kissa nyan nyan" : "コスプレ喫茶娘々"
+,"cotojikan" : "琴慈館"
+,"cotton software" : "コットンソフト"
+,"countack" : "カウンタック"
+,"counter attack" : "COUNTER ATTACK"
+,"courmet-nyankichi" : "くるめにゃん吉"
+,"courreges ace" : "クレージュA"
+,"cowper" : "COWPER"
+,"craft" : "CRAFT"
+,"crank.in" : "CRANK.IN"
+,"crayon arts" : "くれよんあーつ"
+,"crazy clover club" : "Crazy Clover Club"
+,"crazy9" : "Crazy9"
+,"cream cider" : "Cream Cider"
+,"creampie" : "CreamPie"
+,"crear mint" : "CREAR★MINT"
+,"crepe" : "Crepe"
+,"crimson" : "クリムゾン"
+,"crimson ground" : "Crimson Ground"
+,"cronus" : "Cronus"
+,"cross down" : "CROSS DOWN"
+,"cross place" : "CROSS PLACE"
+,"cross-do" : "黒酢堂"
+,"crossnet" : "CROSSNET"
+,"crossnet-pie" : "Crossnet-Pie"
+,"crossover" : "CrossOver"
+,"crowd" : "CROWD"
+,"crystal candy" : "CRYSTAL☆CANDY"
+,"crystalia" : "CRYSTALiA"
+,"cs cheese" : "C's cheese"
+,"cs ware" : "C's Ware"
+,"cshouse" : "しーずはうす"
+,"c-side" : "C-side"
+,"cube" : "CUBE"
+,"cube sugar" : "Cube Sugar"
+,"cubetype" : "CUBE TYPE"
+,"cubic" : "CUBIC"
+,"cuffs" : "CUFFS"
+,"cu-little2" : ["くりとる", "くりとるりとる"]
+,"cuniculus" : "CUNICULUS"
+,"curecube" : "キュアキューブ"
+,"curefull base" : "Curefull Base"
+,"curious" : "CURIOUS"
+,"curry berg dish" : "Curry Berg Dish"
+,"custard" : "かすたーど"
+,"custom" : "カスタム"
+,"customer" : "CUSTOMER"
+,"cut a dash" : "Cut a Dash!!"
+,"cut works publishing" : "CUT WORKS PUBLISHING"
+,"cutie kids club" : "Cutie Kids Club"
+,"cyan" : "シアン"
+,"cybele" : "Cybele"
+,"cyberia" : "CYBERIA"
+,"cyc" : "Cyc"
+,"cyc no-nos" : "CYC NO-NOS"
+,"cyclet" : "CYCLET"
+,"cyclone" : "CYCLONE"
+,"d drive" : "D：drive."
+,"d star g" : "Ｄ☆Ｇ"
 ,"d.doll.house" : "D：DOLL：HOUSE"
+,"d.n.a.lab." : "D.N.A.Lab."
+,"d.o." : "D.O."
+,"da hootch" : "DA HOOTCH"
+,"dadacha" : "だだちゃ！"
+,"dagashiya" : "駄菓子屋"
+,"dai 14 dokritsu butai" : "第14独立部隊"
 ,"dai 14 dokuritsu butai" : "第14独立部隊"
+,"dai 46 kishidan" : "第46騎士団"
+,"dai 6 kichi" : "第６基地"
 ,"daigakuseikyou" : "大学性協"
+,"daigo wakusei koukyoukyoku" : "第五惑星交響曲"
+,"daihonei" : "大本営"
+,"daijobi kenkyuujo" : "ダイジョビ研究所"
+,"dai-kotetsu dan" : "ダイコテツ団"
+,"daisy feat. giga" : "daisy feat.戯画"
+,"daitoutaku" : "大菫卓"
+,"daizu azuki" : ["DAIZU-AZUKI", "大豆小豆"]
+,"dakimakuma" : "だきまくま"
+,"damage honpo" : "ダメージ本舗"
 ,"dame tamashii" : "ダメ魂"
+,"danbooru" : "ダンボール"
+,"dancing cat" : "ダンシングキャット"
+,"dangan densetsu" : "弾丸伝説"
 ,"dangan densetsu laser" : "弾丸伝説 LASER"
+,"danger equals zone" : "DANGER=ZONE"
+,"dangerous thoughts" : ["危険思想", "Dangerous Toughts"]
+,"darabuchidou" : "だらぶち堂"
+,"darai-blood" : "DARAI-BLOOD"
+,"dark battery" : ["黒電池", "Dark Battery"]
 ,"dark castle" : "DARK CASTLE"
 ,"dark rose" : "DARKROSE"
+,"dark side" : "Dark Side"
+,"dark swan" : "ダークスワン"
+,"dark water" : "DARK WATER"
+,"darknesspot" : "DarknessPot"
+,"dasei seikatsu suishin iinkai" : "怠惰生活推進委員会"
 ,"dash" : "Dash!"
+,"dashigara 100" : "ダシガラ100%"
+,"dasshifunnyuu" : "脱脂粉乳"
+,"dasshifunnyuu teishoku" : "脱脂粉乳定食"
+,"date wa gorgeous ni" : "デートはゴージャスに"
+,"datendou" : "堕天堂"
+,"datsuryoku-shoutai" : "脱力小隊"
+,"d-cave" : "D-CAVE"
+,"d-club" : "D-くらぶ"
+,"ddt" : "DDT"
+,"dear" : ["DE@R", "でぃあ"]
+,"deastim" : "でぃあすちーむ"
+,"death powder" : "DEATH POWDER"
+,"debonosu works" : "でぼの巣製作所"
+,"dedepoppo" : "DEDEPOPPO"
+,"dederantan" : "ででらんたん"
+,"deep blue" : "ディープブルー"
+,"deep rising" : "DEEPRISING"
+,"delayder" : "でぃれ～だ～"
+,"deliverance" : "Deliverance"
+,"delta box" : "DELTA BOX"
+,"delta horse" : "でるたほーす"
+,"deltaforce" : "DELTAFORCE"
+,"denchuu rui" : "田中類"
+,"dendou kodomo" : "電動子供"
+,"dennou denpa hatsureisho" : "電脳電波発令所"
+,"dennou fuyu mikan" : "電脳冬蜜柑"
+,"dennou rakuen" : "電脳楽園"
+,"dennougiwa" : "DENNOUGIWA"
 ,"denpatou" : "電波塔"
+,"denryokukei" : "電力計"
+,"deriya" : "Deriya"
+,"derlanger" : "D'ERLANGER"
+,"derolian" : "デロリアン"
+,"desire" : "DESIRE"
+,"dessert soft" : "DESSERT Soft"
+,"devil-seal" : "Devil-seal"
+,"dewdrop" : "DEWDROP"
+,"d-heaven" : "D-heaven"
+,"didii temp" : "ぢぢぃTEMP"
+,"dieppe factory" : ["DIEPPE FACTORY", "でぃえっぷ工房"]
+,"dieselmine" : "ディーゼルマイン"
+,"digianime corporation" : "デジアニメ・コーポレイション"
+,"digiel" : "DiGiEL"
+,"digital accel works" : ["DAW", "DIGITAL ACCEL WORKS"]
 ,"digital boys" : "DIGITAL BOYS"
+,"digital cute" : "Digital Cute"
+,"digital flyer" : "Digital Flyer"
+,"digital g power" : "デジタルGパワー"
+,"digital lover" : "Digital Lover"
+,"digital wife project" : ["デジタルワイフProject", "熟女神の黒穴"]
+,"digitalian cafe" : "Digitalian Cafe"
+,"digix" : "digiX"
+,"diogenes club" : "ディオゲネスクラブ"
+,"disabel" : "DisAbel"
+,"discovery" : "DISCOVERY"
+,"dish up" : "Dish up"
+,"diskdream" : "DISKDREAM"
+,"ditama kikaku" : "ぢたま企画"
+,"diva" : "DIVA"
+,"dl mate" : "DLメイト"
+,"d-lovers" : "D-LOVERS"
+,"dmm.com" : "DMM.com"
+,"do well" : "Do well !!!"
+,"dobuita street" : "DOBUITA STREET"
+,"dodo fuguri" : "百々ふぐり"
+,"dog and god" : "Dog&God"
+,"doggymissile" : "Doggy Missile"
+,"dogorpanda" : "Dog or Panda"
+,"dogstyle" : "DogStyle"
+,"dogyear" : "DOGYEAR"
+,"dojinchi" : "どじんち"
+,"dokkoi soft" : "どっ恋ソフト"
+,"doku pepper" : ["doku-pepper", "毒胡椒"]
+,"dokudenpa kenkyuusho" : "毒電波研究所"
+,"dokumushi shokeitai" : "毒虫処刑隊"
+,"dokuritsu gurentai" : "独立愚連隊"
+,"dolce" : "DOLCE"
+,"doll play" : "サークルDOLL PLAY"
+,"dolls sweets" : "Doll's Sweet's"
+,"donburi beya" : "丼部屋"
+,"dorayakiya" : "どらやきや"
+,"dorei mania" : "奴隷★MANIA"
+,"dorepooru" : "ドレポール"
+,"dorian kanshokutai" : "ドリアン完食隊"
+,"doronuma kyoudai" : "泥沼兄弟"
+,"doropanda tours" : "どろぱんだTOURS"
+,"dosukoi jinja" : ["どす恋☆神社", "どす恋♡八幡宮"]
+,"dot eito" : "ドットエイト"
+,"dotechin tengoku" : "どてちん天国"
 ,"dott plan" : "ドット企画"
+,"double branch" : "だぶるぼらんち"
+,"double typhoon" : "ダブルタイフーン"
+,"double-h" : "DOUBLE-H"
+,"doudan tsutsuji" : "満天星"
+,"doudantsutsujitomonokai" : "満天星友乃会"
+,"doujin arctic" : "同人アークティック"
+,"doujin hoops" : "DOUJIN HOOPS!!"
+,"doukou doukou kai" : "瞳孔同好会"
 ,"doushi hachimaki" : "同志ハチマキ"
+,"doushoku" : "どうしょく"
+,"douwa club" : "童話クラブ"
+,"douwa-kensetsu" : "童話建設"
+,"douyo saikin" : "どうよ、最近？"
+,"doza village" : "Doza Village"
 ,"d-power" : "ディーパワー"
+,"dr.vermilion" : "Dr.VERMILION"
+,"dragon goya" : "ドラゴン小屋"
+,"dragon kitchen" : "Dragon Kitchen"
+,"dragon rock" : "ドラゴンロック"
+,"drakle-nekota perpetual motion" : "どらねこ永久機関"
+,"d-raw 2" : "土狼弐"
+,"dreamsoft" : "ドリームソフト"
+,"dress" : "DRESS"
+,"drill" : "DRILL"
+,"drop dead" : "DROP DEAD!!"
+,"drops" : "RIP-comic"
+,"d-side" : "D-side"
+,"dual beat" : "DUAL BEAT"
+,"dualtail" : ["DualTail", "DualMage"]
+,"ducky duck" : "DUCKY DUCK"
+,"dynamite honey" : "Dynamite☆Honey"
+,"e.b." : "E.B."
 ,"e.m.i" : "E.M.I"
+,"e.m.i." : "E.M.I"
 ,"earthling chronicle" : "EARTHLING CHRONICLE"
+,"easymode" : "EasyMode"
+,"eau rouge" : "eau-Rouge"
+,"eau-rouge" : "eau-Rouge"
+,"ebitendon" : "えびてん丼"
+,"ebizoridan" : "えびぞり団"
+,"echizen bugyousho" : "越前奉行所"
+,"eclair" : "Eclair"
 ,"econokicks" : "ECONOKICKS"
+,"ed" : "サークルED"
+,"edge" : "サークルED"
+,"edo-ya" : "EDO屋"
+,"effordom soft" : "エフォルダムソフト"
 ,"effordom soft crown" : "エフォルダムソフトcrown"
+,"efuya" : "エフ屋"
+,"ego" : "イージーオー"
+,"egoistic honey" : "Egoistic Honey"
+,"egonokatamari" : "エゴノカタマリ"
+,"eight beat" : "エイトビート"
+,"eighth note" : "eighthnote"
+,"einsatz gruppe" : "EINSATZ GRUPPE"
+,"ekakigoya notesystem" : "EKAKIGOYA NOTESYSTEM"
 ,"ekesetene." : "えけせてね。"
+,"ekitai no tomosha" : "液体の友社"
+,"electromagneticwave" : "ElectroMagneticWave"
+,"eleonora" : "Eleonora -エレオノーラ-"
+,"elephant.giraffe" : "ELE.GIRA"
+,"elhearts" : "ELHEART'S"
+,"elithheart" : "Elithheart"
+,"elle-murakami" : "elle-叢神"
+,"elysion" : "Elysion"
+,"ende der welt" : "Ende der Welt"
+,"engetsuten" : "遠月点"
+,"england peach" : "England Peach"
+,"enmaya" : ["ENMAYA", "えんま屋"]
+,"enogu shoujo" : "絵具少女"
+,"enokoro kurage" : "えのころくらげ"
+,"ensemble sweet" : "ensemble SWEET"
 ,"en-sof" : "えんそふ"
 ,"entrance" : "ENTRANCE"
+,"epi" : "EPI"
+,"era feel" : "ERA FEEL"
+,"erect touch" : ["ERECT TOUCH", "G-ZONE"]
+,"erectlip" : "エレクトリップ"
+,"eroge honpo" : "エロゲーホンポ"
+,"erogos" : "Erogos"
+,"eroitto" : "エロイット"
+,"eroliya" : "えろり屋"
+,"eromazun" : "エロマズン"
+,"erondo" : "eRONDO"
+,"eroquis" : "EROQUIS!"
+,"eroro" : "Eroro"
+,"erotic fantasy larvaturs" : "らばた工房"
+,"erotic honeymoon" : "Erotic Honeymoon"
+,"erotica black" : "EROTICA BLACK"
+,"erotica peach" : "EROTICA PEACH"
+,"erotical combat" : "EROTICAL COMBAT"
+,"error" : "ERROR"
+,"escargot club" : ["えすかるご倶楽部", "ESCARGOT CLUB"]
+,"escude" : "Escu：de"
+,"esecool" : "エセクール"
+,"esora note" : "エソラnote"
+,"es-pot" : "Es-pot"
+,"essentia" : "ESSENTIA"
+,"esuesu" : "EsuEsu"
+,"eternal" : "ETERNAL"
+,"eternal-eclipse" : "ETERNAL - ECLIPSE"
+,"etoile" : "Etoile"
+,"etoile zamurai" : ["エトワール侍", "エトワールザムライ"]
+,"etoiles" : "Etoiles"
+,"eunospress" : "ゆ～のす通信"
+,"euphony production" : "Euphony Production"
+,"euphoria" : "ユーフォリア"
+,"eushully" : "エウシュリー"
+,"eve" : "EVE"
 ,"ever" : "ever."
+,"evil" : "EVIL"
+,"evil aratame baroque store" : "EVIL改めBAROQUE STORE"
+,"evoll" : "evoLL"
+,"evolution brand" : "EVOLUTION BRAND"
+,"examgames" : "エグザムゲームズ"
+,"examinee" : "イグザミニー"
+,"exclamation" : "EXCLAMATION"
+,"execio" : "Execio"
+,"ex-it" : "Ex-iT"
+,"ex-one" : "EX-ONE"
+,"extage" : "Extage"
+,"extry" : "ExTry"
+,"eye phon" : "eye★phon"
+,"eyebrows born" : "アイブロウズボーン"
 ,"eyes of dragon" : "Eyes of Dragon"
+,"f and c" : "F&C"
+,"f taku" : "F宅"
+,"f.a" : "F・A"
+,"f.w.zholic" : "F.W.Zholic"
+,"f4-company" : "F4 COMPANY"
+,"face" : "Face"
+,"fairy dust" : "フェアリーダスト"
+,"fairy pink" : "Fairy Pink"
+,"fairytale" : "フェアリーテール"
+,"fairytale hardcover" : "フェアリーテールHARDCOVER"
+,"fairytale red-zone" : "フェアリーテールRED-ZONE"
+,"fakestar" : "FAKE STAR"
+,"family affair" : "Family Affair"
+,"fangs" : "FANGS"
+,"fan-na" : "ふぁんな"
+,"fantasy factory" : "FANTASY・FACTORY"
+,"fantasy wind" : "FANTASY WIND"
+,"fastest lap" : "FASTEST LAP"
+,"favorite" : "FAVORITE"
+,"felicia" : "Felicia"
+,"fenrir" : "ふぇんりる"
+,"festa." : "ふぇすた。"
+,"fetch" : "Fetch"
+,"fetish" : "ふぇちっしゅ"
+,"fetish children" : "Fetish Children"
+,"fever lactic acid bacteria deluxe" : "フィーバー乳酸菌DX"
+,"f-graphics" : "F・Graphics"
+,"fiancee" : "FIANCEE"
+,"film software" : "FILM-SOFTWARE"
 ,"find up" : "Findup!"
+,"finish" : "FINISH!"
+,"fire dragon" : "FIRE DRAGON"
+,"fire witch" : "Fire Witch"
+,"firstspear" : "Firstspear"
+,"fish" : "FISH"
+,"fizz" : "Fizz"
+,"flady" : "FLADY"
+,"flat" : "FLAT"
+,"flat and slit racing" : "FLAT & SLIT RACING 66"
 ,"flat and slit racing 66" : "FLAT & SLIT RACING 66"
+,"flavor graphics" : "Flavor Graphics"
+,"flicker10" : "Flicker10"
+,"flicula machine" : "フリキュラマシーン"
 ,"flomox" : "FLOMOX"
+,"flower crown" : "Flower Crown"
+,"fluorite" : "Fluorite"
+,"flyingshine" : "FlyingShine"
+,"flyingshine black" : "FlyingShine黒"
 ,"flyingshine ken" : "FlyingShine犬"
+,"fomalhaut" : "FOMALHAUT"
+,"fonte" : "Fonte"
+,"fools art gallery" : "FOOL'S ART GALLERY"
+,"fools works" : "FOOLS WORKS"
+,"forbidden city" : "Forbidden City"
+,"foresight" : "フォーサイト"
+,"fortune" : "ふぉ～ちゅん♪"
+,"foster" : "FOSTER"
+,"foundation" : "FOUNDATION"
+,"fountains square" : "FOUNTAIN'S SQUARE"
+,"four-nine" : "フォア・ナイン"
+,"frac" : "FRAC"
+,"fragile" : "FragiLe"
+,"frapper spirits" : "FRAPPER SPIRITS"
+,"freaks" : ["フリークス", "FREAKS"]
+,"free style" : "FREE STYLE"
+,"freedom tomy r" : "Freedom☆Tomy R"
+,"freehand tamashii" : "フリーハンド魂"
+,"french letter" : "French letter"
+,"fresnel lens" : "ふれぇねるれんず"
+,"frill" : "Frill"
+,"from japan" : ["ふろむじゃぱん", "FROM JAPAN"]
+,"from nou kanja no kai" : "フロム脳患者の会"
+,"frontwing" : "FrontWing"
+,"fruitsjam" : "FRUITS JUM"
+,"fudegaki soft" : "筆柿そふと"
+,"fugudoku" : "川豚毒"
+,"fuguri" : "ふぐり"
+,"fuguriya" : "ふぐり屋"
+,"fuji sangou koubou" : "富士三號工房"
+,"fujidana" : "藤棚"
+,"fujinomiya millenium" : "藤ノ宮ミレニアム"
+,"fujitsubo-machine" : ["富士壺機械", "ふじつぼまっすぅい～ん"]
+,"fujiya" : "ふじ家"
+,"fujiya honten" : "藤屋本店"
+,"fuka fuka" : "不可不可"
+,"fukahire" : "フカヒレ"
+,"fukame takame" : "ふかめたかめ"
+,"fukashigi" : "不可思議"
+,"fukuda sennen oukoku" : "福田千年王国"
+,"fukufuku" : "FukuFuku!"
 ,"fukujin senrai" : "福神閃来"
+,"fukumaden" : "伏魔殿"
+,"fukunoren" : "福のれん"
+,"fukupukutei" : "福ぷく亭"
+,"fukurou naru tori" : "フクロウなる鳥"
+,"fukurou no yuubinya san" : "梟の郵便屋さん"
+,"fullmetal madness" : "FULLMETAL MADNESS"
+,"funa time" : "ふなたいむ"
+,"funanori house" : "ふなのりはうす"
+,"funazushi bazooka" : "鮒鮨バズーカ"
+,"funi funi lab" : "フニフニラボ"
+,"furaipan daimaou" : "ふらいぱん大魔王"
+,"furansowa" : "ふらんそわ"
+,"fururi." : "ふるり。"
+,"furuya" : "ふる屋"
+,"fusuma goten" : "ふすま御殿"
+,"futaburo" : "ふたブロ"
+,"futamura futon ten" : "ふたむらふとん店"
+,"futanarun" : "ふたなるん"
+,"futotta obasan" : "太ったおばさん"
+,"futoumei z" : "不透明Z"
+,"futsu-no-tapioca-yasan" : "ふつうのタピオカ屋さん"
+,"futurepack" : "FUTURE PACK!"
+,"fuusen club kuroshiki" : "風船クラブ 黒式！"
+,"fuyuchuu natsukusa" : "冬中夏草"
+,"fuzoku kugayama kindergarden" : "附属久我山キンダーガーデン"
+,"fuzukikai" : "文月会"
+,"fuzume" : "ふずめ"
+,"g.j" : "G.J？"
+,"ga fake" : "GA FAKE"
+,"gachinko shobou" : "我チ○コ書房"
+,"gadget" : ["ガジェット工房", "GADGET-FACT", "画ジェット"]
+,"gadoujuku" : "我道塾"
+,"gage" : "Gage"
+,"gaikotsu kenpo" : "ガイコツけんぽ"
+,"gaikotsu no spare rib" : "骸骨のスペアリブ"
+,"gainamon" : "がいなもん"
+,"gakuen hanimokuo" : "学園はにもくお"
+,"gakuen yuushabu" : "学園勇者部"
+,"galactica" : "GALACTICA"
+,"galaxy style" : "GALAXY STYLE"
+,"galette" : "Galette"
+,"gallery fake." : "ギャラリー・フェイク。"
+,"galley" : "画嶺"
+,"gambler club" : "ギャンブラー倶楽部"
+,"game dome" : "GAME DOME"
 ,"game dome ariake" : "GAME DOME 有明店"
+,"game dome hamamatsuchouten" : "GAME DOME 浜松町店"
+,"gamushara" : "がむしゃら"
+,"garage-talk" : "GARAGE-TALK"
+,"garakuta-ya" : "GARAKUTA-YA"
+,"garden" : "Garden"
+,"gardening bulldog" : "ガーデニング・ブルドッグ"
+,"gargoyle" : "Gargoyle"
+,"garland" : "Garland"
+,"garou kissa hapido" : "画廊喫茶はぴど"
+,"garyuh-chitai" : "我流痴帯"
+,"garyuuya" : "我龍屋"
+,"gasayabu" : "がさやぶ"
+,"gash" : "Gash"
+,"gazel form" : "GAZEL FORM"
 ,"gazelle" : "GAZELLE"
+,"gby" : "GBY"
+,"geboku shuppan" : "下僕出版"
+,"gebokudou" : "下僕堂"
+,"gedou shoukai" : "外道商会"
+,"geiwamiwosukuu" : "芸は身を救う！！"
+,"gekidan gengorouza" : "劇団げんごろう座"
+,"gekidan kinmirai" : "劇團近未来"
+,"gekka bijin" : "月下美刃"
+,"gekkou-dou" : "月咬洞"
+,"gendai" : "GENDAI"
+,"genei humanoid" : "幻影ヒューマノイド"
 ,"genei humanoid vb" : "幻影ヒューマノイドVB"
+,"genki honpo" : ["元気本舗", "GENKIHOMPO"]
+,"genki no mizu no wakutokoro" : "げんきのみずのわくところ"
+,"genkin-dou souhonpo" : "げんきん堂総本舗"
+,"genkotsu dan" : "げんこつ団"
 ,"genocidekiss" : "GENOCIDEKISS"
+,"genocidou" : "ジェノサイ堂"
 ,"genshokuya" : "原色屋"
+,"genshoudou" : "幻笙堂"
+,"gensou kuukan" : "幻蒼空間"
+,"gensou shoujo" : "幻捜少女"
+,"gensou toshi" : "幻想都市"
+,"gensyokuhakoniwa" : "原色箱庭"
+,"gensyokukan" : "玄色館"
+,"gentoukai" : "幻灯会"
 ,"genyukyo" : "幻遊郷"
+,"gerudochuu oukoku" : "げるどちゅう王国"
+,"gerumaru" : "ゲルマル"
+,"gerupin" : "ゲルピン"
+,"gesellschaft" : "ゲゼルシャフト"
+,"gesen18" : "げーせん18"
+,"ge-shop" : "Ge-Shop"
+,"gessyu" : "げっしゅ"
+,"get you" : "GET YOU!"
+,"getsusekai" : "月世界"
+,"gewalt" : "GEWALT"
+,"gff" : "GFF"
+,"giant panda" : "大熊猫"
+,"giftless" : "GiFTLESS"
+,"giga" : "戯画"
 ,"gimlet" : "Gimlet"
+,"gin no hoshitei" : "銀の星亭"
+,"gindokei" : "銀時計"
+,"ginjou maggots" : "吟醸マゴッツ"
+,"ginmomodou" : "銀桃堂"
+,"ginrinkyuu" : "銀鱗宮"
+,"giorama saga" : "Giorama Saga"
+,"gipsy" : "Gipsy"
+,"girigiri nijiiro" : "ギリギリ虹色"
 ,"girigiricombination." : "GiriGiriCombination."
+,"girls empire" : "娘。帝国"
+,"girls kingdom" : "少女の王国"
+,"girls software" : "GIRL'S SOFTWARE"
+,"giroutei" : "妓楼亭"
+,"glace" : "GLace"
+,"glamour works" : "GLAMOUR WORKS"
+,"glassed concrete" : "ガラストコンクリート"
+,"global one" : "Global One"
+,"globe" : "GLOBE"
+,"glovety" : "GLOVETY"
+,"go go heaven" : "Go! Go! Heaven!!"
+,"goberazzo" : "ごべらっつぉ"
+,"gokudou daigensui" : "極道大元帥"
+,"gokufero" : "極フェロ"
+,"goku-raku" : "GOKU-RAKU"
+,"gokuraku tengoku" : "極楽天国"
+,"gokurakuhihoukan" : "GOKURAKUHIHOUKAN"
+,"gokusaishiki" : "極彩色"
+,"gold lip" : "ゴールドリップ"
+,"gold rush" : "GOLD RUSH"
+,"golden bazooka" : "ゴールデンバズーカ"
+,"golden harvest" : ["GOLDEN HARVEST", "ゴールデンハーベスト"]
+,"golden nyannyan" : "ゴールデンニャンニャン"
+,"gomuhachi" : "ごむはち"
+,"goromenz" : "ゴロメンツ"
+,"gos to vi" : "-gos to vi-"
+,"gouriki hyakkaten" : "剛力百貨店"
+,"goutokuji konzern" : "豪徳寺コンツェルン"
+,"gozen sanji" : "午前三時"
+,"g-panda" : "Gぱんだ"
+,"g-power" : "G-Power!"
+,"gpx" : "GPX"
+,"g-r" : "G-R"
+,"grace" : "GRACE"
+,"graf zeppelin" : "GRAF ZEPPELIN"
+,"granada sky" : "グラナダの空"
+,"grand cru" : "Grand Cru"
+,"grand cru bourgeois" : "Grand Cru bourgeois"
 ,"grand cru noir" : "Grand Cru noir"
+,"grand lemon" : "Grand lemon"
+,"grapefruit" : "GRAPEFRUIT"
+,"graphicarossa" : "Graphicarossa"
+,"grateful dead" : "GRATEFUL DEAD"
+,"gray zone" : "GRAY ZONE"
+,"great acta" : "GREAT芥"
+,"great canyon" : "グレートキャニオン"
+,"great dadan" : "ぐれいと・だだん"
+,"greatest18club" : "GREATEST18CLUB"
+,"greenhouse" : "ぐりいん野はうす"
 ,"greyhound" : "Greyhound"
+,"grisedge" : "GRISEDGE"
+,"groover" : "GROOVER"
+,"ground-zero" : "GROUND-Zero"
+,"group 601" : "グループ601"
+,"group hinoran" : "ぐる～ぷひのらん"
+,"gs studio" : "G's studio"
+,"g-scan corp." : "G-SCAN Corp"
+,"gsoft" : "GSOFT"
+,"g-spot" : "じぃすぽっと"
+,"gt" : "GT"
+,"guchokuya" : "愚直屋"
+,"guilty" : "Guilty"
+,"guilty ex" : "Guilty eX"
+,"guilty hearts" : "GUILTY HEARTS"
+,"guilty plus" : "Guilty＋"
+,"guiltyn" : "GuiltyN"
+,"gummy-rise" : "ガミ・ライズ"
+,"gunburrel" : "がんバレル"
+,"gunp" : "GUNP"
+,"guruguru honpo" : "グルグル本舗"
+,"gurumepoppo" : "ぐるめポッポ"
+,"gust" : "GUST"
+,"guten tag" : "グーテンターク"
+,"gutenberg no musume" : "グーテンベルグの娘"
 ,"gutterflower" : "Gutterflower"
+,"guy-ya" : ["男屋", "GUY-YA"]
+,"g-work at mi" : "G-work@ミ"
+,"gyara cter" : "ギャラ☆クター"
+,"gyokusaijima" : "玉砕島"
+,"gyuunyuuya" : "牛乳屋"
+,"gyuutan teishoku e no koi" : "牛タン定食への恋"
+,"h and k" : "H and K"
+,"h plus" : "H+"
+,"h.b" : "H.B"
+,"h.i.t. koubou" : "H.I.T.工房"
+,"h.p.c. meirei denpa" : "H.P.C 命令電波"
+,"h.w.k.k" : ["H.W.K.K", "初音ちゃんの声をあてる声優はこおろぎさとみしかいない血盟"]
+,"haa haa works" : "はぁはぁWorks"
+,"hacca candy" : "Hacca Candy"
+,"hacchakesou" : "はっちゃけ荘"
+,"hacchoubori" : "八丁堀"
+,"hachigo" : "ハチゴ"
+,"hachimitsu kumasan" : "はちみつくまさん"
+,"hachimitsu soft" : "はちみつそふと"
+,"hachimitsu syoujo" : "蜂蜜少女"
+,"hachiouji kaipan totsugeki kiheitai" : "八王子海パン突撃騎兵隊"
+,"hadashi shoujo" : "裸足少女"
+,"haechaimu" : "ハエチャイム"
+,"hagakure" : "ハガクレ"
+,"hagane koubou" : "鋼工房"
+,"haguruman" : "はぐるまん"
+,"haiboku kamen" : "敗北仮面"
+,"haigoku ryodan" : "廃獄旅団"
+,"haikara cafe" : ["はいから喫茶", "ハイカラ喫茶"]
+,"haikuo-soft" : "ハイクオソフト"
+,"haine club" : "灰猫倶楽部"
+,"haisui no jin" : "ハイスイノ陣"
+,"haitoku sensei" : "はいとく先生"
+,"haitokukan" : "背徳漢"
+,"hakattanakowappahzu" : "はかったなこわっぱーず"
+,"hakka ame" : "薄荷飴"
+,"hakkaame" : "白花雨"
+,"hakka-ya" : "薄荷屋"
+,"hakke deneijyo" : "八卦電影城"
+,"hakudakukei" : "白濁系"
+,"hakueki shobou" : "白液書房"
+,"hakuginmokusei" : "白銀木犀"
+,"hakuhakukan" : "白々館"
+,"hakutamayu" : "白玉湯"
+,"hakutoutei" : "白桃亭"
+,"half time" : "HALF TIME"
+,"hallelujah" : "晴屋"
+,"hallenchi planet" : "HALLENCHI PLANET"
+,"halloween" : "Halloween"
+,"halopack" : "HALOぱっく"
+,"hamham soft" : "はむはむソフト"
+,"hammer head" : "HAMMER_HEAD"
+,"hammerheads" : "Hammerheads"
+,"hana to ribon" : "華とりぼん"
+,"hana x hana" : "HANA＊HANA"
+,"hanamaru mugen gym" : "はな丸無限ジム"
+,"handsome aniki" : "ハンサム兄貴"
+,"hanene no mori" : "はねねのもり"
+,"hanjuku yude tamago" : "半熟茹で卵"
+,"hannama" : "はんなま"
+,"hanshi x hanshow" : "半死半生"
+,"hanzai tengoku" : "犯罪天国"
+,"haoh" : "覇王"
+,"hapoi-dokoro" : "はぽい処"
+,"happies" : "ハピエス"
+,"happo ryuu" : "HAPPO流"
+,"happy birthday" : "Happy Birthday"
 ,"happy kamu kamu" : "はっぴーかむかむ"
+,"happy man" : "HAPPY MAN"
+,"happy paranoia" : "ハッピーパラノイア"
+,"happy water" : "HAPPY WATER"
+,"happyend" : "HappyEnd"
+,"happywest" : "ハッピー・ウエスト"
+,"haradaya" : "原田屋"
 ,"harakiri" : "HARAKIRI"
+,"harakiri yakkyoku" : "腹切薬局"
+,"hard" : "HARD"
+,"hard flogs" : "Hard Flogs"
+,"hard taco" : "HARD TACO"
+,"harimaya" : "播磨屋"
+,"harmonia" : "Harmonia"
+,"harmorise" : "Harmorise"
+,"harness" : "HARNESS"
+,"harthnir" : "ハースニール"
+,"harugakita" : "Harugakita"
+,"harugoya" : "はるごや"
+,"harukaze" : "HARUKAZE"
+,"harukomachikan." : "はるこまちかん。"
+,"harumankai" : "はるまん会"
+,"harvest" : "Harvest"
 ,"haryuu" : "破龍"
+,"hasuya" : "蓮屋"
+,"hatahata factory" : "ハタハタ工房"
+,"hatena-box" : "HATENA-BOX"
+,"hato no sushiki seisakusho" : "はとのす式製作所"
+,"hatogoya" : "鳩小屋"
+,"hayashigumi" : "林組"
+,"hayonipo" : "はよにぽ"
+,"hbo" : "HBO"
+,"heart manju mania" : "はぁと饅頭マニア"
+,"heart work" : "HEART WORK"
+,"heartbring" : "ハートブリング"
 ,"heartbringan" : "ハートブリガン"
+,"hearts" : "Hearts"
+,"hearts and crusts" : "HEARTS & CRUSTS"
+,"heat haze" : "Heat Haze"
+,"heat-soft" : "HEAT-SOFT"
+,"heatwave" : "HEATWAVE"
+,"heavens gate" : "Heaven's Gate"
+,"heavens unit" : "HEAVEN'S UNIT"
+,"heavy bunny addiction" : ["H.B.A", "Heavy Bunny Addiction"]
+,"hebameki" : "HEBAMEKI"
+,"hecate" : "Hecate"
+,"hegurimurayakuba" : "へぐり村役場"
+,"heisei chachamaru dou" : "平成茶々丸堂"
+,"heliodor" : "Heliodor"
+,"hellabunna" : ["HELLABUNNA", "へらぶな"]
+,"helldevice" : "HellDevice"
+,"hellfragrance" : "HELLFRAGRANCE"
+,"hellter skelter" : "HELLTER SKELTER"
+,"helmet ga naosemasen" : "ヘルメットが直せません"
+,"hending" : "Hending"
+,"henreikai" : "片励会"
+,"henry plaza" : "半里プラザー"
+,"henshitsusya" : "変質社"
+,"heppoko housing" : "へっぽこはうじんぐ"
+,"heppoko youchien" : "へっぽこ幼稚園"
+,"hermit" : "HERMIT"
+,"hero hero tei" : "へろへろてい"
+,"heroes factory" : ["HF", "HEROES FACTORY"]
 ,"heston world" : "HESTON WORLD"
+,"heta no yoko zuki" : "ヘタの横好き"
+,"hexenhaus" : "HexenHaus"
+,"hgh" : "HGH"
+,"hi at skip" : "Hi@Skip"
+,"hiasobi club" : "火遊び倶楽部"
+,"hi-b" : "Hi_b"
+,"hibon" : "非凡"
 ,"hide and seek" : "HIDE AND SEEK"
+,"high and low" : "HIGH&LOW"
+,"high risk revolution" : "HIGH RISK REVOLUTION"
+,"high thrust" : "ハイスラスト"
+,"high-octane" : "廃屋譚"
+,"highrunning" : "HighRunning"
+,"high-spirit" : "High-Spirit"
+,"highway magician" : "HIGHWAY MAGICIAN"
+,"highway-senmu" : "HIGHWAY専務"
+,"higuma-ya" : "ひぐま屋"
+,"hiiro no kenkyuushitsu" : "灯色の研究室"
+,"hijouguchi" : "ひじょうぐち"
+,"hikakuteki simple na panty" : "比較的シンプルなパンティ"
+,"hikari no shinden" : "光の神殿"
+,"hikarito mahou koubou" : "光と魔法工房"
 ,"hikaru no kobeya" : "ひかるの小部屋"
+,"hikawado" : "火川堂"
+,"hikiwari nattou" : "ひきわり納豆"
+,"hikodge beya" : "彦二部屋"
 ,"hikou dai 50 sentai" : "飛行第50戦隊"
+,"hiland-studio" : "HILAND-STUDIO"
+,"himawari endan" : "ひまわり園団"
+,"hime club" : "姫倶楽部"
+,"hime mania" : "姫まにあ"
+,"himegami" : "姫神"
+,"himeya" : "姫屋"
+,"himeya soft" : "姫屋ソフト"
+,"himitsu kessha love hunter" : "秘密結社愛狩人"
+,"himura nyuugyou" : "比村乳業"
+,"hinakan" : "ヒナ缶"
+,"hinaprin" : "Hina-prin"
+,"hinatabokko club" : "ひなたぼっこ倶楽部"
+,"hinemosuan" : "終日庵"
+,"hi-per pinch" : ["ハイパーピンチ", "Hi-per PINCH"]
+,"hirojuu renshuuchou" : "広十練習帖"
+,"hirokaworld" : "ヒロカワールド"
+,"hirusuta" : "ヒルスタ"
+,"hisagoya" : "ヒサゴヤ"
+,"hispano-suiza" : "Hispano-Suiza"
+,"hisuitei" : "翡翠亭"
+,"hito no fundoshi" : "ひとのふんどし"
+,"hitomakase" : "ヒトまかせ"
+,"hitori tower bridge" : "ヒトリタワーブリッジ"
+,"hitosuji nawa" : "ひとスジ縄"
+,"hitsuji kikaku" : "ヒツジ企画"
+,"hiwatari honpo" : "樋渡本舗"
+,"hiyoko no gekijoh" : "ひよこの劇場"
+,"hiyoko soft" : "ひよこソフト"
+,"hiyori hamster" : "ひよりハムスター"
+,"hiyorimi no sora" : "ひよりみのソラ"
+,"hiyotama goten" : "ひよたま御殿"
+,"hizamakura" : "膝枕"
 ,"hk syndicate" : "HKシンジケート"
+,"h-m" : "H・M"
+,"hmk" : "HMK"
+,"hobbs end" : "Hobb's End"
+,"hobikore" : "ホビコレ"
+,"hobukuro" : "ほおぶくろっ！"
+,"hogero kikaku" : "ほげろー企画"
+,"hohhe dan" : "ほっへ！団"
+,"hokahokashoten" : "ほかほか書店"
+,"hokkaidou bussanten" : "北海道物産展"
+,"holm viking" : "ほるむヴァイキング"
 ,"holymist" : "Holy Mist"
+,"homunculus" : "ホムンクルス"
+,"homuras r comics" : "Homura's R Comics"
+,"homuraya" : "ほむら屋"
+,"honda koumuten" : "本田工務店"
+,"honey bump" : "HONEY BUMP"
+,"honey knuckle" : "Honey Knuckle"
+,"honey mary" : "ハニーマリー"
 ,"honey milk" : "ハニーミルク"
+,"honey no tsuki" : "Honeyの月"
+,"honey pot" : "はにぃぽっと"
+,"honey qp" : "HONEY QP"
+,"honey soft" : "HONEY SOFT"
+,"honeyboy" : "Honeyboy"
+,"honeyking" : "蜜キング"
+,"honyarara noir" : "ほにゃららNoir"
+,"honyarara pink" : "ほにゃららPink"
+,"honyo no uchi" : "ほにょのうち"
+,"hook" : ["HOOK", "HOOKSOFT"]
+,"horizontal world" : "Horizontal World"
+,"horsetail" : "ほーすている"
+,"hoshikariza" : "星狩座"
 ,"hoshino koya" : "ほしの小屋"
+,"hoshinohate" : "ほしのはて"
+,"hot dog chuck" : "ホットドックチャック"
+,"hotateya" : "ホタテヤ"
+,"hotel california" : "HOTEL CALIFORNIA"
+,"houenken" : "方円軒"
+,"houkago paradise" : "放課後パラダイス"
+,"houkaiseki." : "方解石。"
+,"houruri" : "蓬瑠璃"
+,"house of karsea" : "ハウス オブ KARSEA"
+,"housoutou" : "放送塔"
+,"hoyoyodou" : "ほよよ堂"
+,"hqs" : "HQ's Soft"
+,"huge eyes" : "Huge Eyes"
+,"hulotte" : "Hulotte"
+,"human high-light film" : "ヒューマン・ハイライト・フィルム"
+,"huzinami koubou" : "藤波工房"
+,"hyakumanben alien" : "百万遍エイリアン"
+,"hy-dou" : "灰同"
+,"hyoco road" : "ひょこ道"
+,"hyoui lover" : ["憑依ラヴァー", "憑依好きの人"]
+,"hyoujououkoku" : "氷上王国"
+,"hyper brand" : "HYPER BRAND"
+,"hyperiyon" : "はいぺりよん"
+,"hypnotic angel" : "Hypnotic Angel"
+,"i and i" : "I&I"
+,"i.d." : "I.D."
+,"ice" : "ICE"
 ,"ice box" : "ICE☆BOX"
+,"ice brand" : "ICE BRAND"
+,"ice coffin" : "ICE・COFFIN"
+,"ice pink" : "ICE PINK"
+,"ice to choco" : "あいすとちょこ"
 ,"ichibangai" : "一番街"
+,"ichibocchi" : "ゐちぼっち"
+,"ichigo ichie" : "苺一会"
+,"ichigo jet" : "いちごじぇっと"
+,"ichigo saboten honpo" : "苺仙人掌本舗"
+,"ichigosize" : "いちごさいず"
+,"ichijiku yogurt" : "いちじくよーぐると"
+,"ichinichi sanjou" : "一日三錠"
+,"ichiokumangenjaya" : "一億万軒茶屋"
+,"ico-ba" : "Ico-ba"
+,"idenshi no fune" : "遺伝子の舟"
+,"ifdef" : "#ifdef"
+,"ignition" : "イグニッション"
+,"igyouha club" : "異形波倶楽部"
+,"iiwake-gaisya" : "いいわけ会社"
+,"ikaruganomiya" : "斑鳩宮"
+,"ikayaki" : "いか焼き"
+,"ikebukuro dpc" : ["池袋DPC", "Dynamite Pussy Cat"]
+,"ikeda jun kikakushitsu" : ["池田淳企画室", "池田淳企画堂"]
+,"ikibata 49ers" : "いきばた49ERS"
+,"ikka risan" : "一家離散"
+,"ikkizuka" : "いっきづか"
+,"ill chou" : "I'LL調"
+,"im" : "I'm"
+,"image club" : "iMAGE CLUB"
+,"image craft" : "IMAGE CRAFT"
+,"image sync" : "Imagesync"
 ,"image-works" : "IMAGE-WORKS"
+,"imakaya" : "いまか屋"
+,"imitation genome" : "イミテーションゲノム"
+,"imitation moon" : "Imitation Moon"
+,"imomuya honpo" : "いもむや本舗"
+,"imonoan" : "芋ノ庵"
+,"in the sky" : "In The Sky"
+,"inbou no teikoku" : "陰謀の帝国"
+,"incarose" : "インカローズ"
+,"include" : "#include"
+,"index410" : "INDEX:410"
+,"indico lite" : "Indico lite"
+,"indolent field" : "Indolent Field"
+,"indurain" : "INDURAIN"
+,"infinity drive" : "INFINITY DRIVE"
+,"infinity-force" : "INFINITY FORCE"
+,"information high" : "INFORMATION-HIGH"
+,"inishie no nushi" : "いにしえのぬし"
+,"inkpot" : "INKPOT"
+,"innk" : "InnK"
 ,"innocence" : "Innocence"
+,"innocent grey" : "Innocent Grey"
 ,"inochi no furusato" : "いのちのふるさと"
+,"inohead studio" : "イノヘッドスタジオ"
+,"inout" : "INOUT"
+,"inre" : "インレ"
+,"insert" : "INSERT"
+,"intendou" : "淫天堂"
+,"interheart" : "INTERHEART"
+,"interrupt voice" : "Interrupt Voice"
+,"intoku.info" : "いんとくいんふぉ"
+,"inu no dan" : "犬の団"
+,"inu no sekai" : "いぬのせかい"
+,"inuburo" : "INUBURO"
+,"inudrill lolita engine" : "イヌドリルロリータエンジン"
+,"inuteikoku" : ["犬帝国", "いぬていこく"]
+,"inu-tv" : "いぬTV"
 ,"inuya" : "INUYA"
+,"invoice" : "インヴォイス"
+,"io lite" : "Io lite"
+,"i-raf-you" : "I-Raf-you"
+,"irodori" : "彩～IRODORI～"
+,"iron rocks" : "IRON⇔ROCKS"
+,"ironman" : "IRONMAN"
+,"irotenya" : "色点屋"
+,"ishikari shake nabe doukoukai" : "石狩シャケ鍋同好会"
+,"ishin doujinkai" : "維新同人會"
+,"island belle" : "Island Belle"
+,"isotonix" : "アイソトニクス"
+,"itaba tatamiten" : "板場畳店"
+,"itou life" : "伊東ライフ"
+,"itsukidou" : "itsukidoh"
+,"ivy girl" : "Ivy girl"
+,"iwasaki seihonsho" : "岩崎製本所"
+,"iwashi" : "サークル鰯"
+,"iyokan." : "いよかん。"
+,"iyou" : "iYou"
 ,"izumi freak" : "泉フリーク"
+,"izumi gakuen" : "いずみ学園"
+,"izumisou 5" : "いずみ荘５号室"
+,"izumiya" : "いずみ屋"
+,"izumo gasshuukoku" : "いづも合衆国"
+,"izuya" : "IZU屋"
+,"j.d.world" : "J.D.World"
+,"ja no michi wa hebi soft" : "蛇ノ道ハ蛇ソフト"
+,"jack to nicholson" : "ジャックとニコルソン"
+,"jack-o-lantern" : ["ぢゃっからんたん", "JACK-O-LANTERN"]
+,"jack-pot" : "JACK-POT"
+,"jam" : "Jam"
+,"jam kingdom" : ["ジャム王国", "JAM KINGDOM"]
+,"jamboree" : "Jamboree!"
+,"janis" : "JANIS"
+,"jast" : "JAST"
+,"je taime" : "濡鼎夢"
+,"jelly bean" : "JellyBean"
+,"jelly fish" : "Jelly fish"
+,"jellyfish" : "JellyFish"
+,"jellyfish factory" : "Jellyfish Factory"
+,"jennys jimusho" : "JeNnys事務所"
+,"jenoa cake" : "じぇのばけーき"
+,"jereheim garden" : "Jereheim Garden"
+,"jesus drug" : "JESUS DRUG"
+,"jet engine" : "JET ENGINE"
+,"jet-black baselarde" : "漆黒のBaselard"
+,"jewel box" : "JEWEL BOX"
+,"jewelry" : "ジュエリー"
+,"jibaku mecha" : "自爆メカ"
+,"jibaku-system" : "自爆システム"
+,"jido-hikki" : "じどー筆記"
+,"jidou hanbaiki" : "じどうはんばいき"
+,"jigen bakudan" : "時限爆弾"
+,"jigizagi" : "ジギザギ"
+,"jikahatsudensho" : "自家発電処"
+,"jikansa-kougeki" : "時間差攻撃"
 ,"jikusando" : "ジークサンド！"
+,"jingai makyou" : "ジンガイマキョウ"
+,"jingai makyou club" : "人外魔境倶楽部"
+,"jinsei saigo no asobi." : "人生最後の遊び。"
+,"jipohou" : "時ポ砲"
+,"jirai soft" : "地雷ソフト"
+,"jishou seijunha" : "自称清純派"
+,"jitaku studio" : "自宅すたじお"
+,"jitsuyou tosho fukyuukai r" : ["実用図書普及会", "実用図書普及会R"]
+,"jiyou-kyousou" : "滋養狂騒"
+,"jiyuugaoka shoutengai" : "自由が丘商店会"
+,"j-m-box" : "J-M-BOX"
+,"joji panchu uriba" : "女児ぱんちゅ売場"
+,"joker type" : "JOKER TYPE"
+,"jon" : "JAPAN ONANY NETWORK"
+,"joshinzoku" : "女真族"
+,"joshiriron kai" : "女子理論会"
+,"joudan janai yo" : "冗談じゃないよっっ！"
+,"jouji mujoh" : "常時無常"
+,"joukitei" : "蒸気亭"
+,"js style" : "J's STYLE"
+,"juice" : "JUICE"
+,"juicebox koujou" : "ジュースボックス工場"
+,"juicy fruits" : "Juicy Fruits"
+,"jumangoku manju" : "JUMANGOKU MANJU"
+,"jumbomax" : "JUMBOMAX"
+,"jungarian" : "ジャンガリアン"
+,"junk" : "JUNK"
+,"junk arts" : "JUNK-ARTS"
+,"junk castle" : "ジャンクキャッスル"
+,"junk center kameyoko bldg" : "JUNKセンター亀横ビル"
+,"junpuumanpandou" : "順風満帆堂"
+,"jushoku to sono ichimi" : "住職とその一味"
+,"just-k" : "JUST-K"
+,"jyaraya" : "JYARAYA"
+,"k plus w" : "K＋W"
+,"k.a.d" : "K.A.D"
+,"k.f.d." : "K.F.D"
+,"k.h.hanten" : "K.H.飯店"
+,"k.h.r" : "K.H.R"
+,"k.o.store" : "K.O.STORE"
+,"k.s. ozaki" : "K.S.尾崎"
+,"k.z.z. gundan" : "K.Z.Z.軍団"
+,"k-1" : "K-1"
+,"k2 tomo no kai" : "K2友の怪"
+,"k3" : "K3《ケイキューブ》"
+,"kabayakiya" : "蒲焼屋"
+,"kabosu." : "かぼす。"
+,"kabushikigaisha toranoana" : "とらのあな"
+,"kacchuu musume" : "甲冑娘"
+,"kaede no harawata" : "楓のはらわた"
+,"kaeri no kai 2" : "帰りの会２"
+,"kaeru soft" : "かえるそふと"
+,"kaeru wa nani yatte mo erai" : "カエルは何やってもエライ！！"
+,"kagero" : "カゲ路"
+,"kagero studio" : "カゲロースタジオ"
+,"kagishippo" : "かぎしっぽ"
+,"kagura goten" : "神楽御殿"
+,"kaguradou" : "かぐら堂"
+,"kaguyahime" : "かぐや姫"
+,"kai" : "KAI"
+,"kaicho-maniax" : "カイチョーマニアックス"
+,"kaientai" : "絵援隊"
+,"kaihatsushitsu" : "開発室"
+,"kaiki nisshoku" : "怪奇日蝕"
 ,"kaikoku soft" : "カイコクソフト"
+,"kairaku shuudan" : "快楽集団"
+,"kaitaiya" : "解体屋"
+,"kaitei kaoku" : "海底家屋"
+,"kaiteisinden" : "海底神殿"
+,"kaiten sommelier" : "回転ソムリエ"
+,"kaitoushinshidan" : "怪盗紳士団"
+,"kaiyuu kikaku" : "回遊企画"
+,"kajishima onsen" : "梶島温泉"
 ,"kajura" : "かじゅら"
+,"kaki no boo" : "柿ノ房"
+,"kaki no tane" : "夏季のタネ"
+,"kakohimenoutuwa" : "KAKOHIMENOUTUWA"
+,"kakumei seifu kouhoushitsu" : "革命政府広報室"
 ,"kalmia" : "KALMIA"
+,"kamaboko koubou" : "カマボコ工房"
 ,"kamarujirushi" : ["かまる印", "KAMARUJIRUSHI"]
+,"kamidake onsen" : "上竹温泉"
+,"kamikadou" : "かみか堂"
+,"kamikaze style" : "神風STYLE"
+,"kamikire basami" : "紙切ればさみ"
+,"kaminendo.corporation" : "かみねんど"
+,"kamiyan" : "サークルかみやん"
+,"kamiyorozu" : "上万"
+,"kamogawaya" : "鴨川屋"
+,"kamukamu" : "かむかむっ！"
+,"kaname" : "要"
 ,"kanamedan" : "要団"
+,"kanan koubou" : "かなん工房"
+,"kanchuumimai" : ["寒中見舞", "あかいくつ倶楽部"]
+,"kaneko" : "KANEKO"
+,"kanikieru" : "カニキエル"
+,"kanisky" : "カニスキー"
+,"kaniya" : "かに家"
+,"kanmido" : "KANMIDO"
+,"kanmidokoro usb" : "甘味処USB"
 ,"kannazuki seikakusho tsumami gumi" : "神無月製作所・妻魅組"
+,"kannazuki seisakusho" : "神無月製作所"
+,"kansai gyogyou kyoudou kumiai" : "関西漁業協同組合"
+,"kansai kemono rengou" : "関西けもの連合"
+,"kansai orange" : ["関西オレンジ", "Kansai Orange"]
+,"kanten jigenryuu" : "寒天示現流"
+,"kantou usagi gumi" : "関東うさぎ組"
+,"kanzen dokusen" : "完全独占"
+,"kappa create" : "カッパくりえいと"
+,"kapparaitei" : "河童来亭"
+,"karajishi" : "唐獅子"
+,"karakishi youhei-dan" : "からきし傭兵団"
+,"karashi mentaiko" : "からしめんたいこ"
+,"karen soft" : "可憐ソフト"
+,"kare-na lyric" : "Kare-na Lyric"
+,"karintou" : "かりん党"
+,"karomix" : "KAROMIX"
+,"karuki-ya" : "カルキ屋"
+,"karumaya" : "かるま屋"
+,"kasakigumi" : "華咲組"
+,"kashiwa-ya" : "かしわ屋"
+,"katakuri house" : "カタクリハウス"
+,"katakuri kinako" : "かたくりきなこ"
+,"katamari-ya" : "かたまり屋"
 ,"katou seiki seisakusho" : "加藤精機製作所"
+,"katsuma gokurakudou" : "かつま極楽堂"
+,"katsuobushi" : "かつおぶし"
+,"kawaisounako" : "かわいそうな子"
+,"kawamuraya honpo" : "かわむら屋本舗"
+,"kawarajima kojinshi kai" : "かわらじま個人誌会"
+,"kawaraya honpo" : "瓦屋本舗"
+,"kazami dori" : "風見鳥"
+,"kazami jinguu" : "風見神宮"
+,"kaze no gotoku" : "風のごとく！"
+,"kaze no mori" : "風の森"
+,"kazemichiya" : "風道屋"
+,"kazeuma" : "かぜうま"
+,"kedama gyuunyuu" : "毛玉牛乳"
+,"kedamono soft" : "けだものソフト"
+,"keepon" : "keepON"
+,"kegareta tamashii" : "穢れた魂"
+,"keiji in cage" : "ケージインケージ"
 ,"keikadou" : "桂霞堂"
+,"kemokomoya" : "けもこも屋"
+,"kemono ekaki no kousoku 2" : "ケモノ絵描きの光速２"
+,"kemono no koshikake" : "けもののこしかけ"
 ,"ken" : "けーいーえぬ"
+,"kenix" : "KENIX"
+,"kenja time" : "けんじゃたいむ"
+,"kenrou koubo" : "けんろー工房"
+,"kensei haou shoukai" : "剣聖覇皇商会"
+,"kensoh ogawa" : "ケンソウオガワ"
+,"keroq" : "ケロQ"
+,"kesson shoujo" : "欠損少女"
+,"ketsukaseya" : "けつかせ屋"
+,"keumaya" : "希有馬屋"
+,"key" : "Key"
+,"key trash" : "KEY TRASH"
+,"kfc" : "KFC"
 ,"khaos wind" : "KHAOS+WIND"
+,"kia no moribito" : "きあのもりびと"
+,"kichiku yaro" : "鬼畜野郎"
+,"kichu" : "きちゅ"
+,"kids world" : "きっずわーるど"
+,"kieyza cmp" : "喜栄座cmp"
+,"kigeki banzai" : "喜劇万歳"
+,"kiirotei" : "黄色亭"
+,"kijirushi ryouhin" : "キ印良品"
+,"kikka-shurou" : "菊花酒楼"
+,"kikkaya" : "橘花屋"
+,"kikouken" : "機甲犬"
+,"kikurage-ya" : "きくらげ屋"
+,"kikyakudou" : ["鬼脚堂", "KIKYAKUDOU"]
+,"killer pierce" : "Killer Pierce"
+,"kimarinet" : "KIMARINET"
+,"kimi no housoku" : "キミの法則"
+,"kimpotsu" : "きムぽつ"
+,"kimuchi-tei" : "キムチ亭"
+,"kinakomochi" : "KINAKOMOCHI"
+,"kinbou sokai" : "近傍租界"
+,"kindandowa" : "禁断童話"
+,"kinema bambi" : "キネマ☆バンビ"
+,"king revolver" : "キングリボルバー"
+,"kinmekki damashii" : "金メッキ魂"
+,"kinoko allstars" : "キノコallstars"
+,"kinokomushin" : "きのこむ神"
+,"kinokonomi" : "きのこのみ"
+,"kirei na oneesan" : "紀霊なお姉さん"
+,"kirintei" : "木鈴亭"
+,"kirisawa giken" : "桐沢技研"
+,"kiritanpo" : "桐たん舗"
+,"kisaradudou" : "木更津堂"
+,"ki-software" : "KI-SofTWarE"
+,"kisou d koubou" : "奇想D工房"
+,"kiss" : "KISS"
+,"kiss cube" : "Kiss Cube"
+,"kiss project" : "KISS PROJECT"
+,"kiss-ma" : "KISS-MA"
+,"kitaku jikan" : "帰宅時間"
 ,"kitchies" : "KITCHIES"
+,"kitkaters" : "KITKATERS"
+,"kitsch" : "KITSCH"
+,"kitsune" : ["RED FOX", "来つ寝"]
+,"kitsune to budou" : "きつねとぶどう"
+,"kitsuneya" : "きつね屋"
+,"kitsuneyane" : "きつね屋根"
+,"kitune" : "来つ寝"
+,"klein" : "KLEIN"
+,"klein syrop" : "KLEINシロップ"
+,"knife edge" : "ナイフエッジ"
+,"knights" : "KNIGHTS"
+,"knockout" : "KNOCKOUT"
+,"ko nekoneko house" : "こねこねこはうス"
+,"koa" : "こあ"
+,"koakuma sageha" : "小悪魔sage派"
+,"koala kikaku" : "コアラ企画"
+,"koala machine" : ["コアラマシン", "KOALA MACHINE"]
+,"kobiki" : "こびき"
+,"kocher" : "KOCHER"
+,"kodomo ginkou" : "こどもぎんこう"
 ,"kodomo oukoku" : "こども王国"
+,"kohakutei" : ["琥珀亭", "kohakutei"]
+,"koi tenshi doumei" : "恋☆天使同盟"
+,"koinu kantai" : "子犬艦隊"
+,"koito sousakusho" : "小糸創作所"
+,"koitosousakusyo" : "小糸創作所"
+,"kojimashiki" : "コジマシキ"
+,"kokesimuken" : "こけしム軒"
+,"kokikko" : "KOKIKKO"
+,"kokonoe" : "九重"
+,"kokonokiya" : "ここのき屋"
+,"kokuchou" : "黒鳥"
+,"kokuden bunguten" : "刻田文具店"
+,"kokuritsu shounen" : "国立少年"
+,"kokusan jk" : "国産JK"
+,"komansha" : "講漫社"
+,"komaya" : "駒屋"
+,"komedokoro" : "KOMEDOKORO"
+,"komekami kishi dan" : "こめかみ騎士団"
 ,"kometsubu soft" : "こめつぶソフト"
+,"komorebi-notebook" : "こもれびのーと"
+,"konatuiro" : "来夏色"
+,"konbuni" : "こんぶに"
+,"konekodamashi" : "コネコダマシ"
+,"kongarin" : "金画輪"
+,"koniro kajitsu" : "紺色果実"
+,"konno seisakubou" : "紺野制作坊"
+,"konnyaku nabe" : "蒟蒻鍋"
+,"konoha" : "このは"
+,"konoshiro shinko" : "コノシロしんこ"
+,"konpal style" : "金春流"
+,"koori ame" : "こおりあめ"
+,"koorigoya" : "氷小屋"
+,"kopikura" : "こぴくら"
+,"korisuya" : "こりすや"
+,"korokoro koronp" : "ころころころんぴ"
 ,"korupon tantei dan" : "こるぽん探偵団！"
+,"kosakunin retsuden" : "小作人列伝"
+,"kotatsuya" : "こたつ屋"
+,"kotobuki chop" : "寿ちょっぷ"
+,"kotonoha" : "コトノハ"
+,"kotonoya" : "琴乃屋"
+,"kotori jimusho" : "小鳥事務所"
+,"kotorikan" : "小鳥館"
 ,"kouanihonsha" : "KOUA NIHONSHA"
+,"koubai gekka" : "紅梅月下"
+,"koubou grounds" : "KOUBOU GROUND'S"
+,"kouchaya" : "紅茶屋"
+,"koudansha" : "幸田ん舎"
+,"kouga-dou" : "高画堂"
+,"kouhuku shigen" : "幸福資源"
+,"kousoku kaiten" : "高速回転"
+,"koutarou with t" : "KOUTAROU with T"
+,"koutatsu dennou koushi" : "高達電脳公司"
+,"kouyadou" : "こうや堂"
+,"kouyoudou" : "好葉堂"
+,"kouzukitei" : "香月亭"
+,"kouzuya" : "興津屋"
+,"krutta fan" : "Krutta Fan"
 ,"ks project" : "K's Project"
+,"kudoki dancer" : "くどきダンサー"
+,"kujira club" : "くじら倶楽部"
+,"kujira logic" : "くぢらろじっく"
+,"kumagaya hakushon kai" : "熊谷ハクション会"
+,"kuma-tan flash" : ["くまたんFlash!", "熊尾もふもふ"]
+,"kumatyu bokujou" : "クマチュウ牧場"
+,"kumikae dna" : "組換DNA"
 ,"kumikae-dna" : "組換DNA"
+,"kumo to koumori" : "クモトコウモリ"
+,"kurage no candume" : "くらげのかんづめ"
+,"kurakura-honey" : "KURAKURA HONEY"
 ,"kuri" : "KURI"
+,"kurimokke" : "KURIMOKKE"
+,"kurimomo" : "くりもも"
+,"kurione-sha" : "くりおね社"
+,"kuriya" : "栗屋"
+,"kur-mar-ter" : ["Kur-Mar-Ter", "クルマレテル"]
+,"kuro no omikuji" : "黒ノ御神籤"
+,"kurogane dou" : "くろがね堂"
+,"kurohige" : "黒髭"
+,"kurohime" : "黒姫"
+,"kurohina" : "黒雛"
+,"kurohonyasan" : "くろほんやさん"
+,"kuroirodoru yomiji" : "黒彩黄泉路"
+,"kuromagedon" : "くろまげどん"
+,"kuromahou kenkyuujo" : "黒魔法研究所"
+,"kuronekodou" : "黒猫堂"
+,"kuroneko-kan" : "クロネコ缶"
+,"kuronekokan-monpetit" : "黒猫館モンプチ"
+,"kuroni" : "クロニ"
+,"kuronisiki" : "黒錦"
+,"kurono taitsu" : "黒野タイツ"
+,"kurono to kuroe" : "くろのとくろえ"
+,"kurosawa pict" : "黒澤pict"
+,"kuroshikatei" : "黒鹿亭"
+,"kurotora" : "黒虎"
+,"kuroyuki" : "黒雪"
+,"kurubusi-kai" : "踝会"
+,"kurumi" : "くるみ"
+,"kurumi namiki" : "くるみ並木"
+,"kuuchuu caricature" : "空中カリカチュア"
+,"kuuronziyou" : "九龍城"
+,"kuusou monochrome" : "空想モノクローム"
+,"kuwon no tobari" : "くおんの帳"
+,"kuzuryuu" : "九頭龍"
+,"kyockchokyock" : "きょくちょ局"
+,"kyodai kidou yousai kyoushuu" : "巨大機動要塞強襲"
 ,"kyojaku taishitsu" : "虚弱体質"
+,"kyokutou koumuten" : "極東工務店"
+,"kyomu no uta" : "虚無の歌"
+,"kyoubou jouchotai" : "凶暴情緒帯"
+,"kyougetsutei" : "共月亭"
+,"kyouken diners" : "狂犬ダイナース"
+,"kyousei shuuryou" : "強制終了"
+,"kyuu" : "球"
 ,"kyuu kyuu" : "きゅうきゅう"
+,"l.l. milk" : "L.L.MILK"
+,"l.p.e.g." : "L.P.E.G."
+,"l.s.d cicle" : "L.S.D・CIRCLE"
+,"l.s.p." : "L.S.P."
+,"l5ex" : "L5EX"
+,"la.bit soft" : "La.Bit Soft"
+,"labomagi" : "らぼまじ"
+,"lacryma" : "La'cryma"
+,"lady vermilion" : "LADY VERMILION"
 ,"lala la" : "lala_la"
+,"lala studio" : "LALA STUDIO"
+,"lamia" : "Lamia"
+,"laminaria" : "LAMINARIA"
+,"lapis blue." : "LAPIS BLUe."
+,"lapis lazuli" : "Lapis lazuli"
+,"lapislazuli corporation" : "LapisLazuli=corporation"
+,"lapiss" : "Lapiss"
+,"laplacian" : "Laplacian"
+,"lasagna club" : "らざにあくらぶ"
+,"lass" : "Lass"
+,"lass pixy" : "Lass Pixy"
+,"last eden" : "LAST EDEN"
+,"latte" : "Latte"
+,"laurier" : "ろりえ～る"
 ,"lazy crew" : "LAZYCREW"
+,"lb" : "LB"
+,"l-calena" : "L-CALENA"
+,"le.chocolat" : "Le.Chocolat"
+,"leaf" : "Leaf"
+,"leaf party" : "リーフパーティー"
+,"leafgun" : "LEAFGUN"
+,"leaz koubou" : "りーず工房"
 ,"left side" : "Left Side"
+,"lemonmaiden" : "Lemon Maiden"
+,"leo-circle" : "LEO-CIRCLE"
+,"leonat koubou" : "レオナト工房"
+,"level1" : "レベル1"
+,"level-x" : "LEVEL-X"
+,"levol" : "LevoL"
+,"lezmoe" : "レズ萌え！"
+,"l-gauge sha" : ["L.GAUGE", "Lゲージ社"]
+,"lhezi" : ["LHEZI", "エルヘッジ"]
+,"liar-soft" : "Liar-soft"
+,"libido" : ["LIBIDO", "裏媚堂"]
+,"libido soft" : "りびどーそふと"
+,"libre" : "りぷる"
+,"liddell" : "Liddell CLUB"
 ,"liebe" : "LIEBE"
+,"light garden" : "LIGHT GARDEN"
+,"light pink" : "ライトピンク"
+,"lightplan" : "LightPlan"
 ,"lightright" : "LightRight"
+,"lilac soft" : "Lilac Soft"
+,"lili marleen" : "リリーマルレーン"
+,"lilim" : "LiLiM"
+,"lilim darkness" : "LiLiM DARKNESS"
+,"lilim nama" : "LiLiM生"
+,"lilisyuka" : "麗麗酒家"
+,"lilith" : "Lilith"
+,"lillian" : "Lillian"
 ,"lily heart" : "LILY HEART"
+,"lime" : "Lime"
 ,"lime vert" : "Lime vert"
+,"limecat" : "LimeCat"
+,"limit breakers" : "LIMIT BREAKERS"
+,"limit cycle" : "LIMIT CYCLE"
+,"lipstar" : "LIPSTAR"
+,"liquid" : "Liquid"
 ,"liquid-shine" : "Liquid-Shine"
+,"liquid-touchable" : "Liquid-Touchable"
+,"little cheat-ya" : "リトルチート屋"
+,"little garden" : "りとるがーでん"
+,"little kinetic" : "LITTLE KINETIC"
+,"littlewitch" : "Littlewitch"
+,"littlewitch velvet" : "Littlewitch velvet"
+,"lively boys" : "LIVELY BOYS"
+,"liz" : "Liz"
+,"l-letter" : "L-letter"
+,"log house" : "Log House"
+,"lolitachannel" : "LolitaChannel"
+,"lonely church" : "Lonely Church"
+,"longhorntrain" : "LongHornTrain"
+,"lost garden" : "Lost Garden"
+,"lost heart" : "Lost Heart"
+,"lostscript" : "LOST SCRIPT"
+,"love and peace" : "ラブ＆ピース"
+,"love cherry" : "ラブチェリー"
 ,"love delivery" : "Love Delivery"
+,"love-gun" : "LOVE-GUN"
+,"lovejuice pink" : "LoveJuiceピンク"
+,"loveless" : "LOVELESS"
+,"lovely pretty chou aishiteru" : "ラブリープリチー超愛してる"
+,"lovemaster" : "LOVEMASTER"
+,"lovematic" : "らぶまてぃっく"
+,"loverevo" : "ラブレボ"
+,"lovers" : ["Lover's", "studio A side B “Lover's”"]
+,"lovers hyper drive" : "Lovers Hyper Drive"
+,"loversoul" : "LOVER SOUL"
+,"lr-0 hasune" : "LR-0 HASUNE"
+,"ltm." : "LTM."
 ,"lu sear" : "LU SEAR"
+,"lucha" : ["るチャ！", "LUCHA!"]
+,"lucha libre" : "Lucha Libre"
+,"luciferhood" : "Luciferhood"
+,"luck and pluck co." : "LUCK & PLUCK!"
+,"luckystripe" : "lucky stripe"
+,"lucretia" : "LUCRETIA"
+,"luft forst" : "Luft Forst"
+,"lulu koubou" : "LULU工房"
+,"lump of sugar" : "Lump of Sugar"
+,"luna system" : "LunaSystem"
+,"lunapran" : "LUNA PLAN"
+,"lunar soft" : "Lunar Soft"
+,"lunatic" : "LUNATIC"
+,"lunatic wings" : "LUNATIC WINGS"
+,"lunatique" : "LUNATIQUE"
+,"lunch box" : "ランチBOX"
+,"lune" : "ルネ"
+,"lune team bitters" : "ルネ Team Bitters"
+,"lupinus" : "ルピナス"
+,"lusterise" : "Lusterise"
+,"luv mix" : "LUV∞MIX"
+,"luxury tiara" : "Luxury Tiara"
+,"lv.x" : "Lv.X"
+,"lyco-z" : "Lyco-Z"
+,"lyricbox" : "リリックボックス"
+,"m" : "M"
+,"m and u" : "M&U"
+,"m de pink" : "M de PINK"
+,"m ni aqua" : "M ni AQUA"
+,"m no violet" : "M no VIOLET"
+,"m.macabre" : "M.Macabre"
+,"m-10" : "M-10"
+,"m2unit" : "M2UNIT"
+,"machednia" : "まけどに屋"
+,"machwing" : "マッハウイング"
+,"macv-sog" : "MACV-SOG"
+,"mado soft" : "まどそふと"
+,"madoromi andon" : "まどろみ行灯"
+,"madraid" : "マッドレイド"
+,"magi" : "MAGI"
+,"magi black" : "MAGI black"
+,"magic bullet" : "Magic BulleT"
+,"magic creation" : "マジッククリエイション"
+,"magic machinery" : "MAGIC MACHINERY"
+,"magic private eye" : ["魔法探偵社", "MAGIC PRIVATE EYE"]
+,"magical kagechousukashi" : "マジカル影蝶透"
+,"magicaldelta dot com" : "MAGICAL DELTA.COM"
 ,"magnetic field" : "MAGNETIC FIELD"
+,"magnitude 2" : "Magnitude 2"
+,"magnolia" : "マグノリア"
+,"magono-tei" : "まごの亭"
+,"magudara kaihou doumei" : "マグダラ解放同盟"
+,"mahirutei" : "まひる亭"
+,"mahjong yugen co.ltd 58" : "麻雀有限会社58"
+,"mahola" : "まほら"
+,"maho-shinsengumi" : "魔法新選組"
+,"maidoll" : "MAIDOLL"
+,"maika" : "MAIKA"
 ,"maika-p" : ["MAIKA-P", "M-pure"]
+,"mainichi kenkou seikatsu" : "毎日健康生活"
+,"majimadou" : "眞嶋堂"
+,"majimeya" : "真面目屋"
+,"maka-rakko" : "MAKA-RAKKO"
+,"makaron soft" : "まかろんソフト"
+,"makino jimusho" : "マキノ事務所"
+,"makotonet" : "MAKOTONET"
+,"makura" : ["枕", "けろ枕"]
+,"makuu gundan" : "魔空軍団"
+,"maltese" : "まるち～ズ"
+,"mamagult" : "ママグル徒"
+,"mamekura" : "豆蔵"
+,"mamiana hanten" : "狸穴飯店"
 ,"man say" : "MAN SAY"
+,"manamagu" : "まなまぐ"
+,"manatsu8" : "MANATSU_8"
+,"mandokoro" : "MANDOKORO"
+,"mandoragora striker" : "まんどらごらすとらいかー"
+,"manekineko" : "まねきねこ"
+,"manga super" : "マンガスーパー"
+,"mangana" : "漫画な"
+,"manganiku" : "マンガ肉"
+,"maniac street" : "ManiacStreet"
+,"manifla ent" : "マニフラエント"
+,"manitic" : "まにてぃっく"
+,"manitou" : "MANITOU"
+,"mannen dokodoko dondodoko" : "まんねんドコドコドンドドコ"
+,"manoou noguchi eigyou nika" : "魔の王野口営業二課"
+,"maraparte" : "Maraparte"
+,"marble candy soft" : "マーブルCandySoft"
+,"marble candysoft" : "マーブルCandySoft"
+,"marbleland" : "Marbleland"
+,"march" : "MARCH"
+,"marchen box" : "メルヘンBOX"
+,"marcys" : "MARCY'S"
+,"marialite" : "Marialite"
 ,"mari-chan fc" : "まりちゃんFC"
+,"marine" : "マリン"
+,"marine heart" : "マリンハート"
+,"marked-two" : "Marked-two"
+,"marmalade" : "ま～まれぇど"
+,"marron" : "Marron"
+,"marry bell" : "Marry Bell"
+,"marshmallow soft" : "ましゅまろそふと"
+,"maruarai" : ["まるあらい", "MARUARAI"]
+,"maruchuu seisaku" : "MARUCHU SEISAKU"
+,"marukane teikoku" : "丸金帝国"
+,"maruneji" : "まるねじ"
+,"maruta-dojo" : "丸田道場"
 ,"mary" : "MARY"
+,"maskdo" : "ますく堂"
+,"mastermind" : "MasterMind"
+,"masulao maximum" : "MASULAO MAXIMUM"
+,"masys" : "Masys"
+,"mat" : "MAT"
+,"mata ashita." : "また明日。"
+,"matcha pink factory" : "抹茶ピンクファクトリー"
+,"matilda kanmidokoro" : "まちるだ甘味処"
+,"matsumoto drill kenkyuujo" : "松本ドリル研究所"
+,"matsuri kikaku" : "祭企画"
+,"matsurika" : "茉莉花"
+,"matsutake club" : "松竹くらぶ"
+,"matsutakeya honpo" : "まつたけ屋本舗"
+,"mattsuaya" : "まっつあ屋"
+,"mauve" : "Mauve"
+,"maxi" : "MAXI"
+,"maximum wind" : "MAXIMUM WIND"
+,"may no tenshi" : ["メイの天使", "An angel for May"]
+,"may-be soft" : "May-Be Soft"
+,"mayfar soft" : "メイファーソフト"
+,"mayoineko" : ["迷い猫", "MAYOINEKO"]
+,"mayumayu" : "まゆまゆ"
+,"mbs truth" : "MBS TRUTH"
 ,"mbs truth cherish pink" : "MBS TRUTH -Cherish Pink-"
+,"mc" : "MC"
+,"mcnail koubou" : "まくねいる工房"
+,"mean machine" : "MEAN MACHINE"
+,"mechanical code" : "メカニカルコード"
+,"mechanical pencil" : "メカニカルペンシル"
+,"mederukai" : "愛でる会"
+,"medical berry" : "Medical Berry"
+,"medical company" : ["めでぃかるカンパニー", "瑠璃とすそのの診察室"]
+,"medicine compilation" : "MEDICINE COMPILATION"
+,"medusa" : "メドゥーサ"
+,"mega despair" : "MEGA DESPAIR"
+,"mega drive" : "MEGA DRIVE"
+,"megaki" : "メガキー"
+,"megami" : "MEGAMI"
+,"megami kyouten" : "女神経典"
+,"mega-mix" : "MEGA-MIX"
 ,"meganekko manga shuudan" : "めがねっこ漫画集団"
+,"megaplus" : "MEGAPLUS"
+,"megasoundorchestra" : "MegaSoundOrchestra"
+,"meikyoushisui" : ["明鏡止水", "明鏡止水Z"]
+,"meikyuuden" : "迷宮殿"
+,"meisaku network" : ["名作ネットワーク", "Meisaku Network"]
+,"mekakushi musume" : "目隠し娘"
+,"mekongdelta" : "MEKONGDELTA"
+,"melodiya" : "メロディ屋"
+,"melody" : "Melody"
+,"melt downers" : "Melt Downers"
+,"meltdown comet" : "MeltdoWNCOmet"
+,"melty" : "めるてぃ"
+,"melty koubou" : "メルティ工房"
+,"memeya" : "メメ屋"
+,"memoria" : "Memoria"
+,"mengerekun" : "めんげれくん"
+,"mens equal k" : "MEN'S=K"
+,"mentaiko" : "MENたいこ"
+,"mentaipark" : "めんたいぱぁく"
+,"mental specialist" : "めんたるスペシャリスト"
+,"mentsukidou" : "眼ん月堂"
 ,"mephisto" : "MEPHISTO"
+,"mercure" : "Mercure"
+,"mercurius" : "Mercurius"
+,"mercury lampe" : "MercuryLamp"
+,"merkmal" : "MERKMAL"
+,"meromero cute" : "めろめろキュート"
+,"meromerofactory xl" : "メロメロファクトリーXL"
+,"merrymoon" : "MerryMoon"
+,"meshikutteneru." : "飯食って寝る。"
+,"metabocafe offensive smell uproar" : "メタボ喫茶異臭騒ぎ"
+,"metal" : "METAL"
+,"metal bunshitsu" : "METAL分室"
 ,"metal corpse" : "Metal Corpse"
+,"metal delicious" : "メタルデリシャス"
+,"metamorphose" : "Metamorphose"
+,"meteor" : "Meteor"
+,"metsuki warui kyoudan" : "目つき悪い教団"
+,"mgw" : ["MG works", "MGW"]
+,"micro page" : "みくろぺえじ"
+,"microbit" : "Microbit"
 ,"midareageha" : "乱蝶姫"
+,"middly" : "MIDDLY"
+,"midoriiro cut in" : "緑色カットin"
+,"miel" : "Miel"
+,"mieow" : "MIEOW"
+,"mikandensya" : "蜜柑電車"
 ,"mikan-honpo" : "MIKAN HONPO"
+,"mikekodou" : "みけこ堂"
+,"mikeneko" : "みけねこ"
+,"mikezoutei" : "三毛蔵亭"
+,"miki house" : "Miki House"
+,"milimili amuse craft erotica" : "milimili：AMUSE CRAFT EROTICA"
+,"milk bar" : "MILK BAR"
 ,"milk caramel" : "みるくキャラメル"
+,"milk crown" : "MILK CROWN"
+,"milk factory" : "みるくふぁくとりー"
+,"milk gohan" : "みるくごはん"
+,"milk pai" : "みるくぱい"
+,"milk pudding" : "ミルクプリン"
+,"milk standard" : "MILK STANDARD"
+,"milkids" : "milKids"
+,"milksoft" : ["牛乳ソフト", "みるくそふと"]
+,"milky way" : "MilkyWay"
 ,"milkypoko" : "みるきーポコ"
+,"millenium-garage" : "ミレニアムガレージ"
+,"million drops" : "MILLION＊DROPS"
+,"milts chaya" : "みるつ茶屋"
+,"mimasaka direct" : "ミマサカダイレクト"
+,"mimimimi" : "みみみみ"
+,"mimizu thousand" : "ミミズサウザンド"
+,"mimoneland" : "ミモネランド"
+,"minatekishugi" : "御奈的主義"
+,"minato carnival" : "みなとカーニバル"
+,"minato-soft" : "みなとそふと"
+,"minayu" : "みなゆ"
+,"minemine kikaku" : "ルイルイ企画"
+,"minies club" : "MINIES CLUB"
+,"minirebe." : "ミニレベ。"
+,"mink" : "MINK"
+,"mink ego" : "Mink EGO"
+,"minors escort" : "マイナーズ・エスコート"
+,"minshuku inarimushi" : "民宿いなりむし"
+,"mint blue" : "MINT BLUE"
+,"mintcube" : "MintCUBE"
+,"mint-nium" : "Mint-nium*"
+,"minx" : "MINX"
+,"mirabilien fabrik" : "Mirabilien Fabrik"
+,"mirage-soft" : "みらーじゅそふと"
+,"mirai seiki maruhi club" : "未来世紀マル秘倶楽部"
+,"miraiya" : "MIRAIYA"
+,"mirin" : "ミリン"
+,"mirukomi" : "Mirukomi"
+,"mirukuseiki" : "みるく世紀"
+,"misaki" : "MISAKI COMICS"
+,"mischief" : "MISCHIEF"
+,"mischievous" : "Mischievous"
+,"misoshiru" : "みそ汁"
+,"missing link" : "Missing Link"
+,"missing park" : "MISSING PARK"
+,"misssail" : "Miss-Sail"
+,"mist mysteria" : "MIST MYSTERIA"
+,"mist mysterisia" : "Mist Mysterisia"
+,"mist night" : "Mist Night"
+,"misty" : "Misty"
+,"misty isle" : "misty Isle"
+,"misty midnight" : "MISTY MIDNIGHT"
+,"misty moon" : "MISTYMOON"
+,"mita kazuo daihyakka" : "三田和夫大百科"
+,"mitarashi club" : "みたらし倶楽部"
+,"mithril software" : "ミスリルソフトウェア"
+,"miti" : "ミィティ"
 ,"mix biscuit" : "みっくす★ビスケット"
+,"mix fry" : "みっくすふらい"
+,"mixing channel" : "MIXING CHANNEL"
+,"mix-ism" : "MIX-ISM"
+,"mixwill soft" : "Mixwill Soft"
+,"miyabi tsuzuru bu" : "みやびつづる部"
+,"miyamori" : "みやもり"
+,"miyanchi" : "みやんち"
+,"miyumiyu project" : "みゆみゆproject"
+,"mizuiro koneko" : "水色仔猫"
+,"mizuiro zenmai" : "みずいろぜんまい"
 ,"mizukagami" : "水鏡"
+,"mizuki-chan club" : "みずきちゃんくらぶ"
+,"mizukidou" : "観月堂"
+,"mizumanjiu" : "みずまんじゅう"
+,"mizumo club" : "みずも倶楽部"
+,"mizunekotei" : "水猫亭"
+,"mizutama shouboudan" : "みずたま消防団"
+,"mizutaniya" : "水谷屋"
+,"mizutataki" : "みずたたき"
+,"mjgg" : "もりじおぎゅうぎゅう"
+,"mk2factory" : "MK2FACTORY"
+,"mlc design house" : "MLC DESIGN HOUSE"
+,"mo" : "MO"
+,"mochinchi" : "もちんち"
+,"mochi-ya" : ["餅屋", "もち屋"]
+,"modae shine" : "悶え死ね！！！"
+,"modae tei" : "悶亭"
+,"moe" : "萌。"
+,"moe hime rengou" : "萌姫連合"
+,"moe hina" : "萌雛"
+,"moe moe cafe" : "モエモエカフェ"
+,"moe osu" : "萌♂"
 ,"moe tamago soft" : "もえたまごソフト"
+,"moehina kagaku" : "萌雛化学"
+,"mofumanjuu" : "もふまんじゅう"
+,"mofumofuen" : "もふもふ苑"
+,"mokumokudo" : "もくもく堂"
+,"mokusei zaijuu" : "木星在住"
+,"mokushiroku" : "黙示録"
+,"molamola.software" : "Molamola.software"
+,"momiji oroshi" : "もみじおろし"
+,"momo no tsubomi" : "モモのつぼみ"
+,"momo9" : "ももきゅー"
+,"momochichi" : "ももちち"
+,"momohina" : "桃雛"
+,"momoilock" : ["MOMOILOCK", "桃色っく。"]
 ,"momo-iro" : "MOMO-IRO"
+,"momoiro kageboushi" : "桜色影法師"
+,"momoiro pocket" : "ももいろPocket"
+,"momoiro settoudan" : "桃色窃盗団"
+,"momoiro toiki" : "桃色吐息"
+,"momoiro-gekijyou" : "桃色劇場"
+,"momoiro-rip" : "MOMOIRO-RIP"
+,"momokan" : "ももかん"
+,"momonga club" : "モモンガ倶楽部"
+,"momonomi plus" : "もものみプラス"
+,"monaco meister" : "モナコマイスター"
+,"monaka udon" : "もなかうどん"
+,"monako" : "MONAKO"
+,"mongoose studio" : "マングース・スタジオ"
+,"monkey adventure" : "モンキーアドベンチャー"
+,"monmontei" : "悶亭"
+,"monna lisa over drive" : "Monna Lisa OVER DRIVE"
+,"mono letter" : "モノ手紙"
+,"mono x chro" : "モノ×クロ"
+,"monoceros plus" : "monoceros+"
+,"monogram" : "Monogram"
+,"monsuke honpo" : "もんすけ本舗"
+,"montage" : "モンタージュ"
+,"monte carlo-ya" : "もんてかるろ屋"
+,"moon ruler" : "むうんるうらあ"
 ,"moonsault express" : "ムーンサルトエクスプレス"
+,"moonshell" : "Moon Shell"
+,"moonstone" : "MOONSTONE"
+,"moonstone cherry" : "MOONSTONE Cherry"
+,"moonstone honey" : "MOONSTONE Honey"
+,"more" : "MORE"
 ,"more prity" : "More Prity"
+,"morelia standard" : "もれりあすたんだーど"
+,"moriisan-tokono" : "森井さんとこの"
+,"morimi-ya" : "森見屋"
+,"morimiyakan" : "森宮缶"
 ,"morinomiya koushinkyoku" : "森ノ宮行進曲"
+,"moriq" : "moriQ"
+,"morishigeru laboratory" : "もりしげる研究所"
+,"morning" : "もーにんぐ"
 ,"morning light" : "もーにんぐらいと"
+,"morning star" : "モーニングスター"
+,"morningmoon merchandising products" : "MORNINGMOON MERCHANDISING PRODUCTS"
+,"morningstar rush" : "モニスタラッシュ"
+,"mosquitone." : "もすきーと音。"
+,"motchie kingdom" : "もっちー王国"
+,"mothman" : "もすまん"
+,"motion" : "MOTION"
+,"motsu ryouri" : "もつ料理"
+,"mouko mouretsu hasai dan" : "蒙古猛烈破砕団"
+,"mount position" : "マウントポジション"
+,"mousou bijutsubu" : "妄想美術部"
+,"mousou pushon" : "妄想 PushOn"
+,"moviendo" : "Moviendo"
+,"moyori no chi" : "最寄りの地"
+,"mozham" : "MozHAM"
+,"mozukuya" : "もずく屋"
+,"mr.outside" : "Mr.OUTSIDE"
+,"ms is" : "M's I's"
+,"msize" : ["エムサイズ", "MSIZE"]
+,"mtsp" : "MTSP"
+,"mu soft" : "美遊"
+,"mubimuchuu" : "夢寐夢中"
+,"muchakai" : "夢茶会"
+,"muchi muchi seven" : "ムチムチ７"
+,"muchimuchi neko" : "むちむちねこ"
 ,"mucus" : "ミューカス"
+,"mugen" : "夢幻"
+,"mugen at works" : "MUGEN@WORKS"
+,"mugen honpo" : "むげん本舗"
+,"mugen no chikara" : "無限ノ力"
+,"mugendai" : "無限大"
+,"mugenkidou a" : "無限軌道A"
+,"mugichoco club" : "麦チョコ倶楽部"
+,"mugichoko store" : "むぎちょこストア"
+,"mukousharan" : "無口遮欄"
+,"multi-link" : "MULTI-LINK"
+,"munchengraph" : "MunchenGraph"
+,"munomeritei" : "むめのり亭"
+,"murakami suigun no yakata" : "村上水軍の館"
+,"murasakiiro no yoru" : "むらさきいろのよる"
+,"murderhouse" : "マーダーハウス"
+,"musasabidou" : "むささび堂"
+,"musashi no wwf" : "MUSASHI NO WWF"
+,"musashi-dou" : "武蔵堂"
+,"museifu kutsushita doumei" : "無政府靴下同盟"
+,"mushimusume aikoukai" : "蟲娘愛好会"
+,"mushiringo" : "むしりんご"
+,"musou tensei" : "夢想転生"
+,"mutation" : "Mutation"
+,"mutekei-fire" : "むてけいファイヤー"
+,"muteki chaya" : "むてきちゃや"
 ,"mutsugumi" : "睦組"
+,"mutsukian" : "睦月庵"
+,"mutsuya" : "陸奥屋"
+,"muzin syoujo" : "無人少女"
+,"mystery clock" : "MYSTERY CLOCK"
+,"mystic chord" : "ミスティック・コード"
+,"n.s craft" : "N.S craft"
+,"n7747" : "N7747"
+,"nadorindou" : "ナドリン堂"
+,"nagaredamaya" : "流弾屋"
+,"nagasaki-inter" : "長崎インター"
+,"nagehame" : "投げはめ"
+,"naginata kikaku" : "なぎなたきかく"
+,"nagisawaya" : "なぎさわ屋"
+,"nagiya honpo" : "なぎや本舗"
+,"nagiyamasugi" : "ナギヤマスギ"
+,"nagomi" : "和"
+,"nagomi-chaya" : "なごみ茶屋"
+,"nagumo curry-bu" : "なぐもカレー部"
+,"nagumoya" : "なぐも屋"
+,"nail" : "Nail"
+,"nail sharp" : "Nail Sharp"
+,"naitou2" : "NAITOU2"
+,"nakasatogumi" : "ナカサト組"
+,"nakayama shiki kenkou tosho" : "中山式健康図書"
+,"nakayohi" : "なかよひ"
+,"nakayohi mogudan" : "なかよひモグダン"
+,"nama cream biyori" : "生クリームびより"
+,"nameco-soup" : "お澄ましなめこ"
+,"namekuzu" : "なめくず"
+,"nameless" : "Nameless"
+,"nanacan" : "NANACAN"
+,"nanachan team" : "ななちゃんちーむ"
+,"nanairo koubou" : ["七色工房", "なないろ工房"]
+,"nanairo momogumi" : "なないろもも組"
+,"nanairo no magatama" : "七色の勾玉"
+,"nanairo no neribukuro" : "七色のねりぶくろ"
+,"nanamoya" : "ななも屋"
+,"nanao heavy industries" : ["七尾重工", "七緒重工"]
+,"nanashi kissa" : "名無し喫茶"
+,"nanashiki" : "七式"
+,"nanatsu no kagiana" : "七つの鍵穴"
+,"nanatsugumi" : "ななつ組"
+,"nanawind" : "NanaWind"
+,"nanbou hitogakushiki" : "南方ヒトガクシキ"
+,"nangchi-dou" : "難吃堂"
+,"nanika no heya" : "何かの部屋"
+,"nanika-modoki" : "なにかもどき"
+,"nanimoshinai" : "NANIMOSHINAI"
+,"naniwa onsen tamago kumiai" : "浪花温泉たまご組合"
+,"nanmin festival" : "NANMIN-FESTIVAL"
+,"nansyu-koubow" : "南洲好房"
+,"nantoka narunaru." : "なんとかなるなる。"
+,"narashino kaitoudan" : "習志野海盗団"
+,"narisawa hatsudensho" : ["NARISAWA HATUDENNSYO", "成沢発電所"]
+,"naruho-dou" : "NARUHO堂"
+,"narumiya" : "成宮"
+,"naschbe" : "Naschbe"
+,"nas-on-ch" : "NAS-ON-CH"
 ,"nataku no omise" : "なたくのお店"
+,"natsukon" : "なつこん"
+,"nattou mania" : ["納豆☆マニア", "mania☆nattou"]
+,"navel" : "Navel"
+,"nawanoren" : "縄のれん"
+,"naya" : "納屋"
+,"nazonokai" : "謎の会"
+,"ncp" : "NCP"
+,"ndemotte" : "んでもって"
+,"nearly equal zero" : ["Nearly Equal \"ZERO\"", "MADA ZERO JA NAI"]
+,"neco seiryuu" : "NECO青龍"
+,"necoanshin" : "猫安心"
 ,"necobook" : "NecoBook"
 ,"necoro-girl" : "ねころがーる"
+,"necotoxin" : "NECOTOXIN"
+,"needle garden" : "NEEDLE GARDEN"
+,"neetest" : "nEetest"
+,"negative" : "NEGATIVE"
+,"negative gang" : "相討ちネガティブギャング"
+,"negibouzu" : "ねぎ坊主"
+,"negimiso oden" : "ねぎみそおでん"
+,"negiumaya" : "ねぎうま屋"
+,"nejimaki kougen" : "ねじまきこうげん"
+,"nejiya no hito" : "ねじやのひと"
+,"nekketsu kouenji housoukyoku" : "熱血高円寺放送局"
+,"nekketsu project" : "熱血プロジェクト"
+,"neko ga kyuuhiki" : "猫が九匹！"
+,"neko gohan" : "ねこごはん"
+,"neko happyaku" : "ねこはっぴゃく"
+,"neko iri bako dairi" : "猫入り箱代理"
+,"neko kinryouku" : "猫禁猟区"
+,"neko masshigura" : "ねこまっしぐら"
+,"neko neko soft" : "ねこねこソフト"
+,"neko no paraiso" : "猫のパライソ"
+,"neko pantsu" : "ねこぱんつ"
+,"neko saffron" : "ネコサフラン"
+,"neko to hato" : "ねことはと"
+,"neko wa manma ga utsukushii" : "ねこはまんまが美しい"
+,"neko work h" : "NEKO WORK H"
+,"neko works" : "NEKO WORKs"
+,"neko-bus tei" : ["ねこバス停", "ネコバステイ", "A CAT BUS STOP"]
+,"nekodotto" : "ネコドット"
+,"nekohigetei" : "ねこひげ亭"
+,"nekojarasare" : "猫じゃらされ"
+,"nekomarudow." : "猫丸堂"
+,"nekomataya" : "ねこまた屋"
+,"nekomaya" : "ねこま屋。"
+,"nekomiya" : "猫見屋"
+,"nekonin-so" : "猫忍荘"
+,"nekonokone" : "ねこのこね"
+,"nekoranbu" : "猫乱舞"
+,"nekosenyou milk" : "猫専用牛乳"
+,"nekotank" : "ねこタンク"
+,"nekousa pudding" : "ねこうさプリン"
+,"nekoya gakkiten" : "ねこや楽器店"
+,"nekoya kaigetsudou" : "猫屋懐月堂"
+,"nekoyashiki" : "猫屋敷"
+,"nekoya-systemz" : "猫屋システムズ"
+,"nel" : "ネル"
+,"nendo jam" : "ねんどじゃむ"
+,"neo frontier" : "Neo Frontier"
+,"neo hyper kids" : "Neo Hyper Kids"
+,"neopil" : "NEOPIL"
+,"nephrite" : "Nephrite"
 ,"nerima hakushon kai" : "練馬ハクション会"
+,"netorare no tami" : "ネトラレの民"
+,"nettaigyo club" : "熱帯魚倶楽部"
+,"neu" : "NEU"
+,"neuromancer" : "NEUROMANCER"
+,"neuromancer." : "NEUROMANCER."
+,"new koubou" : "NEW工房"
+,"news" : "NEWS"
+,"newton no ringo" : "ニュートンの林檎"
+,"newtype kenkyuujo" : "にゅうたいぷ研究所"
+,"next" : "NEXT"
+,"nextwith" : "NEXTwith"
+,"nexus koubou" : "ネクサス工房"
+,"nf121" : "NF121"
+,"ngmyu" : "NGMYU"
+,"nicchi sangyou" : "にっちさんぎょう"
+,"nice and friendly" : "Nice and Friendly"
+,"nichoume no denchuu" : "二丁目の電柱"
+,"nigarizumu" : "にがりずむ"
+,"night fuckers" : "夜☆FUCKERS"
+,"nigimitama no ya" : "和魂屋"
+,"nihon dandy" : "日本ダンディ"
+,"nihon waru waru doumei" : "日本ワルワル同盟"
+,"niikyuu" : "にーきゅー"
+,"niitakayama tozantai" : "新高山登山隊"
+,"nijutteya" : "弐十手屋"
+,"nikka" : "NIKKA"
+,"niko" : "NIKO"
+,"nikomark" : "にこまあく"
+,"nikonikomachi" : "にこにこ街"
+,"nikopondo" : "NIKOPONDO"
+,"niku ringo" : "肉りんご"
+,"nikukyuu" : "にくきゅう"
+,"nikuman aikoukai" : "肉まん愛好会"
+,"nilitsu haihan" : "ニリツハイハン"
+,"nina" : "NINA"
+,"nine tail" : "NINE TAIL"
+,"ninelives" : "NINELIVES"
+,"ningyou gishou" : "人形技廠"
+,"ninokoya" : "にのこや"
+,"nipopo crisis" : "ニポポクライシス"
+,"nippon h manga kyoukai" : "日本H漫画出版協会"
+,"nippon teikoku toshokan" : "日本帝國図書館"
+,"niratama" : "にらたま"
+,"nirvana soft" : "Nirvana Soft"
+,"nisanka mangan" : "二酸化マンガン"
+,"nise-jyuusyofutei" : "偽住所不定"
+,"nisemididoronokai" : "偽MIDI泥の会"
+,"nisiarea" : "にしえりあ"
+,"nita ken" : "ニタ研"
+,"nitroplus" : "NitroPlus"
+,"nitroplus chiral" : "Nitro+CHiRAL"
+,"niwakakamikiriyamodoki" : "ニワカカミキリヤモドキ"
+,"nmadchen" : "N*MADCHEN"
+,"nnz dan" : "NNZ団"
+,"no brand" : "NO_BRAND"
+,"noa" : "NOA"
+,"nobita jimetsu system" : "のび太自滅システム"
 ,"nocturnum" : "Nocturnum"
+,"nodoame" : "のど雨"
+,"nodomaru biyori" : "のどまる日和"
+,"noel" : "のえる"
+,"noesis" : "Noesis"
+,"noi-gren" : "NOI-GREN"
+,"noir" : "NOIR"
+,"noirsoft" : "ノアールソフト"
+,"nokishita no rakuen." : "のきしたのらくえん。"
+,"nomad" : "Nomad"
+,"nononon kikaku" : "のののん企画"
+,"nonoya" : "のの屋"
+,"nonsugar" : "NONSUGAR"
+,"nontan project" : "のんたんプロジェクト"
+,"noppikiya" : "のっぴき屋"
+,"noraneko-no-tama" : "ノラネコノタマ"
+,"norausagi" : "NORAUSAGI"
+,"noraya" : "のら屋"
+,"nord" : "のると"
+,"noriajou" : "のりあ城"
+,"noritama-gozen" : "のりたま御膳"
+,"norn" : "Norn"
+,"north river" : "NORTH RIVER"
+,"nosebleed" : "NOSEBLEED"
+,"nostalgic chord" : "Nostalgic Chord"
 ,"no-tenki company" : "のーてんきかんぱにー"
+,"notone" : "NOTONE"
+,"notus" : "Notus"
+,"nounai kanojo" : "脳内彼女"
+,"nounanka sedai" : "nounanka"
+,"noutenki company" : "のーてんきかんぱにー"
 ,"nouvelle" : "Nouvelle"
+,"nouzui majutsu" : ["脳髄魔術", "NoZui-Magic"]
+,"noxious plant" : "noxious_plant"
+,"nozarashi" : "のざらし"
 ,"ns factory label" : "N's Factory Label"
+,"ns radio show" : "N's Radio Show"
+,"nt confess" : "NTconfess"
+,"nukowata" : "ぬこわた"
+,"nuku nuku dou" : "ヌクヌク堂"
+,"nul neverland" : "ヌルネバーランド"
+,"null mayu" : "NULLまゆ"
+,"number2" : "Number2"
+,"nv3offline" : "NV3OFFLINE"
+,"nyagos" : "にゃごズ"
+,"nyan nyan" : "娘娘"
+,"nyan nyan nyan" : "にゃんにゃんにゃん！"
+,"nyandaber" : "にゃんだばー"
+,"nyankone" : "にゃんこね"
+,"nyannyan club" : "娘々倶楽部"
+,"nyan-nyan-hanten" : "NYAN-NYAN-HANTEN"
+,"nylon 100" : "ナイロン100%"
+,"nyotai kougaku kenkyuujo" : "女体光学研究所"
+,"nyuu koubou" : "にゅう工房"
+,"o3zone works" : "O3zone works"
+,"oba-q honpo qt" : "OBA-Q HONPO QT"
+,"oboro" : "朧"
+,"oboro and tempo gensui dou" : "朧と天蓬元帥堂"
+,"ocarina" : ["おかりな", "OCARINA"]
+,"ochimusha." : "落武者。"
+,"o-chu-gen" : "お中元"
+,"oct works" : "oct-works"
+,"odenden" : "おでんでん"
+,"oden-ya" : "おでんや"
+,"odin" : "オーディン"
+,"o-din" : "O-Din"
+,"off side" : "Off side"
+,"office neko" : "Office猫"
+,"ofuton de suyaa" : "おふとんでスヤァ"
+,"ogeretsu-dan" : ["おげれつ団", "PRODUCTION O.G"]
+,"o-g-g" : "O-G-G"
+,"ogofwitch" : "OgOfWitch"
+,"ohgetsu" : "桜月"
 ,"ohizumi bakuretsutai" : "大泉爆裂隊"
+,"ohkura bekkan" : "大蔵別館"
+,"ohsaka spirits" : ["大坂魂", "Oh!SAKA SPIRITS"]
+,"ohtado" : "おおた堂"
+,"oideyasu honpo" : "おいでやす本舗"
+,"oiwaidou" : "御祝堂"
+,"ojou no yokushitsu" : "お嬢の浴室"
+,"okachimentaiko" : "おかちめんたいこ"
+,"okadatei" : "おかだ亭"
+,"okazaki mental clinic" : "OKAZAKI MENTAL CLINIC"
+,"okazu club" : "おかず倶楽部"
+,"okina flying factory" : "OKINA FLYING FACTORY"
+,"okina keikaku" : "翁計画"
+,"okinawa taieki gunjinkai" : "沖縄体液軍人会"
+,"okochama club" : "おこちゃま倶楽部"
+,"okosama lunch" : "お子様ランチ"
+,"okota" : "おこた"
+,"oldwiseman" : "Old wiseman"
+,"ole" : "OLE"
+,"ole-m" : "OLE-M"
+,"omatsuri dragon" : "お祭りDRAGON"
+,"omatsuri kibun" : "お祭り気分"
+,"omega 2-d" : "OMEGA 2-D"
+,"omega star" : "ωstar"
+,"omega13" : "OMEGA13"
+,"omiotsuke" : ["オミオツケ", "御御御付"]
+,"omocha kaden" : "玩具家電"
 ,"omochi soft" : "おもちそふと"
+,"omodume" : "想詰め"
 ,"omokaji ippai ippai" : "面舵いっぱいいっぱい"
+,"omomuroni" : "おもむろに"
+,"omoshiro burger" : "おもしろバーガー"
+,"one games" : "ONE GAMES"
+,"one hit wonder" : "ONE HIT WONDER"
+,"one shot" : "One Shot"
+,"onecoin" : "わんこ院"
+,"oneekyou" : "御姉狂"
+,"onegai-cheesecake" : "おねがいチーズケーキ"
+,"oneone1" : "ONEONE1"
+,"one-seven" : "ONE-SEVEN"
+,"one-site" : "おねして"
+,"one-up" : "ONE-UP"
+,"onikibitou" : "鬼きび党"
+,"onikushop" : "OnikuShop"
+,"onnanoko himitsu seisan koujou" : "女の子秘密生産工場"
+,"onomatope" : "onomatope＊"
+,"onomatopoeia" : "Onomatopoeia"
+,"on-show" : "怨床"
+,"oobae toudai" : "オオバエ灯台"
+,"oohashiya" : "大橋屋"
+,"oomune soft" : "概ソフト"
+,"oops" : "OOPS!!"
+,"oosaka gundan" : "大阪軍団"
+,"ootsuku shouji" : ["大津久屋", "大津久商事(有)"]
+,"open book" : "OPEN BOOK"
 ,"oppeke hei" : "おっぺけ兵"
+,"optim" : "OPTiM"
+,"optimist" : "Optimist"
 ,"option 5" : "OPTION 5"
+,"orange crown" : "ORANGE CROWN"
+,"orange peel" : "Orange Peel"
+,"orange peels" : "オレンジピールズ"
+,"orangemaru" : "OrangeMaru"
+,"orange-soft" : "ORANGE☆SOFT"
 ,"orbit cactus" : "ORBIT-CACTUS"
+,"orc soft" : "ORCSOFT"
+,"oregun" : "OREGUN"
+,"oretachi misnon ikka" : "俺たちミスノン一家"
+,"ororiya enpitsudo" : "オロリヤ鉛筆堂"
 ,"osakana center" : "OSAKANA CENTER"
+,"osaru-san panic" : "おさるさんパニック"
+,"oshaban" : "オシャバン"
+,"oshiruko kan" : "おしるこ缶"
+,"osterei" : "OSTEREi"
+,"ota" : "OTA"
+,"otabe dynamites" : "おたべ★ダイナマイツ"
+,"otafukutei" : "おたふく亭"
+,"otaku beam" : "オタクビーム"
+,"otaku no youjinbou" : "オタクの用心棒"
+,"otakulife japan" : "オタクライフJAPAN"
+,"otaut-r" : "おたうT-R"
+,"otentomaru" : "オテント丸"
+,"othello ice" : "オセロアイス"
+,"otobokechasoba" : "Otobokechasoba"
+,"otogiya" : "御伽屋"
+,"otoko no roman" : "OTOKO NO ROMAN"
+,"otokodama" : "男魂"
+,"otokonoko club" : "おとこの娘倶楽部"
+,"otokonoko club z" : "おとこの娘倶楽部Z"
+,"otokonoko soft" : "男の娘ソフト"
+,"otomekibun" : "乙女気分"
+,"otona star" : "大人スター"
+,"otonano do-wa" : "大人の童話"
+,"otukimi koubo" : "おつきみ工房"
+,"ouchi jikan" : "おうちじかん"
+,"ousama to ichigo" : "おうさまと苺"
+,"out of sight" : "OUT OF SIGHT"
+,"ouun" : "桜雲"
+,"ovacas" : ["OVACAS", "おばかーず"]
+,"over" : "OVER"
+,"over all" : "OVER ALL"
+,"over flows" : "オーバーフローズ"
+,"overall" : "OVERALL"
+,"overdose" : "オーバードーズ"
+,"overdrive" : "OVERDRIVE"
+,"overflow" : "Overflow"
+,"oving" : "Oving"
+,"oyt shuppan" : "OYT出版"
 ,"ozon dance" : "OZONE DANCE"
+,"p kikaku" : "P企画"
+,"p.a. project" : "P.A. Project"
+,"p.p" : "P:P"
 ,"p.p.projects" : "P.P.Projects"
+,"p.s." : "P.S."
+,"p.w." : "P.W."
+,"pachipachi soft" : "ぱちぱちそふと"
+,"padlock" : "PADLOCK"
+,"pag-pag-magu" : "ぱぐぱぐまぐぅ"
+,"pajamas ex" : ["ぱじゃまエクスタシー", "POISONエクスタシー"]
+,"pajamas soft" : "ぱじゃまソフト"
+,"pakkuri paradise" : "ぱっくりパラダイス"
 ,"pa-ku-pa" : "PA・KU・PA"
+,"pale lilac" : "PALE LILAC"
+,"pale scarlet" : "Pale Scarlet"
+,"palepink" : "PalePink!"
+,"palette" : "ぱれっと"
+,"palette enterprise" : "Palette Enterprise"
+,"pam" : "PAM"
+,"panda house" : "ぱんだはうす"
+,"pandagaippiki." : "パンダが一匹。"
 ,"panic attack in sailor q2" : "PANIC ATTACK in SAILRQ2"
+,"pannacotta" : "パンナコッタ"
+,"pannomimi" : ["ぱんのみみ", "ぱんみみそふと"]
+,"panoramakan" : "ぱのらま館"
+,"pao pao" : "PAO-PAO"
+,"paopaship" : "PAOPASHIP"
+,"paper hearts" : "PAPER HEARTS"
+,"papercrown" : "Paper Crawn"
+,"papikuria" : "ぱぴくりあ♪"
+,"pa-pu-" : "PA-PU-"
+,"paradigm conflict" : "PARADIGM CONFLICT"
+,"paradise city" : "ぱらだいすCITY"
+,"paradise d products" : "PARADISE“D”PRODUCTS"
+,"parameter" : "パラミター"
+,"paranoia" : "PARANOIA"
+,"paranoia cat" : "PARANOIA CAT"
+,"parapluie" : ["parapluie", "パラプリュイ"]
+,"paraselene" : "Paraselene"
+,"parasol" : "Parasol"
+,"parfum soft" : "ぱるふぁんそふと"
+,"part k" : "Part K"
+,"parthenon" : "Parthenon"
+,"parthenon zero" : "Parthenon ZERO"
 ,"parufe" : "ぱるふぇ"
+,"parukusu" : "CIRCLEぱるくす"
+,"parupunte" : "ぱるぷんて"
+,"passing rim" : "Passing Rim"
+,"pastel color" : "PASTEL COLOR"
+,"pastel white" : "Pastel White"
+,"pastel wing" : "PASTEL WING"
+,"patisserie" : "パティスリー"
+,"patoto" : "PATOTO"
+,"patricide" : "Patricide"
+,"paya paya mambo de u" : "パヤパヤ・マンボウでウッ！"
+,"pazzo s.p." : "Pazzo S.P."
+,"p-collection" : "P-COLLECTION"
+,"pe theta" : "Peθ"
+,"peace maker" : "Peace Maker"
+,"peach candy" : "Peach Candy"
+,"peach class" : "Peach Class"
+,"peach-pit" : ["PEACH-PIT", "もものたね"]
+,"pearl soft" : "PEARL SOFT"
+,"pearl soft r" : "パールソフトR"
+,"peassoft" : "PeasSoft"
+,"pecan" : "ピーカン"
+,"peco poco" : "ぺこぽこ"
+,"penetrate" : "Penetrate"
+,"penguin works" : "ペンギンワークス"
+,"penpengusa club" : "ペンペン草倶楽部"
+,"peony" : "ピオニー"
+,"peperoncino" : "ぺぺろんちーの"
+,"peppy angel" : "PEPPY ANGEL"
+,"peppy cherry" : "ペピーチェ"
+,"perceptron" : "ぱーせぷとろん"
+,"perfect crime" : "PERFECT CRIME"
+,"personal color" : "PERSONAL COLOR"
+,"petica" : "ペチカ"
+,"petit" : "ぷち"
+,"petit bunny" : "PETIT BUNNY"
 ,"petit crowd" : "ぷちクラウド"
 ,"petit ferret" : "ぷちフェレット"
 ,"petit keroq" : ["プチケロQ", "ぷちけろ"]
+,"petit pajamas" : "ぷちぱじゃま"
+,"petit sanctuary" : "Petit Sanctuary!"
+,"petite x cerisier" : "Petite*Cerisier"
+,"petitx" : "ぷちX"
+,"p-factory" : "P-FACTORY"
+,"p-forest" : "P-FOREST"
+,"ph" : "PH"
+,"pham" : "PHAM!"
+,"phantomcross" : "PHANTOM CROSS"
+,"phantomsoft" : "ファントムソフト"
+,"phase" : "PHASE"
+,"phase end" : "PHASE#END"
+,"ph-bu" : "PH部"
+,"physalis" : "PHYSALIS"
+,"pianiishimo" : "ピアニッシモ"
+,"pico martel" : "Pico Martel"
+,"pico pico labyrinth" : "ピコピコ★ラビリンス"
+,"pietoro" : "ピエトロ"
+,"piggstar" : "PIGGSTAR"
+,"pigment" : "PIGMENT"
+,"pii-club" : "PII-CLUB"
+,"pika" : "ぴか"
+,"pil" : "PIL"
+,"pil slash" : "PIL／SLASH"
+,"pil-vamp" : "PIL-VAMP"
+,"pinata party" : "ぴにゃたぱ～てぃ"
+,"pink" : "PINK"
+,"pink cats garden" : "PINK CAT'S GARDEN"
+,"pink chuchu" : "PINK CHUCHU"
+,"pink dinosaur" : "PINK DINOSAUR"
+,"pink hatena" : "ぴんくはてな"
+,"pink no chao" : "PINK NO CHAO!"
 ,"pink panzer division" : "桃色機甲師団"
+,"pink rose" : "PINK ROSE"
+,"pink typhoon" : "ピンクタイフーン"
+,"pink vision" : "PINK VISION"
+,"pinkbell software" : "PINKBELL SOFTWARE"
+,"pinpai" : "Pinpai"
+,"pinsize inc." : "PINSIZE.Inc"
+,"pintsize" : "ぱいんとさいず"
+,"pinvise" : "Pinvise"
+,"pirokobo" : "ピロコボ"
+,"piropiro-go" : "ぴろぴろごー"
+,"pisces" : "PISCES"
+,"pit" : "Pit"
+,"pitafeti" : "ぴたふぇち！"
+,"pixel cot." : "Pixel Cot."
+,"pixel mint" : "PIXEL MINT"
+,"pixy-led" : "ピクシーレッド"
+,"piyo project" : "ぴよぷろじぇくと"
+,"piyokorota" : "ぴよころた"
+,"piyokoya" : "ぴよこ屋"
+,"piyopiyo-gumi" : "ぴよぴよ組"
+,"p-land" : "P-LAND"
+,"planet porno" : "PLANET PORNO"
+,"plant" : "PLANT"
+,"plastic dreamer" : "PLASTIC DREAMER"
+,"plastic image" : "PLASTIC IMAGE"
 ,"plastic people" : "PLASTIC PEOPLE"
+,"platina blonde" : ["PLATINA BLONDE", "プラチナブロンド"]
+,"platonic shoujo" : "Platonic少女"
+,"pleco" : "PLECO"
+,"pleiades fortune" : "PLEIADES☆FORTUNE"
+,"plum" : "PLUM"
+,"plum hill dai ni kaihatsu shitsu" : "PLUM HILL 第弐開発室"
+,"plumzero" : "PlumZERO"
+,"plus" : "PL+US"
+,"pno group" : "PNOグループ"
 ,"pnyoon-soft" : "ぷにょーんソフト"
+,"poashara" : "ポアシャラ"
+,"pochi-goya." : "ぽち小屋。"
+,"pocket" : "POCKET"
+,"points" : "Points"
+,"poison" : "POISON"
+,"poison gray" : "Poison Gray"
+,"pokopen-honpo" : "ぽこぺん本舗"
+,"pokopii" : "ぽこぴー"
+,"polorinken" : "ポロリン軒"
+,"ponbikiya" : "ポン引き屋"
+,"ponchees kari" : "ぽんちーず(仮)"
+,"ponkotsu works" : "ぽんこつわーくす"
+,"ponpalas" : "PONPALAS"
+,"ponpharse" : "ぽんふぁーず"
 ,"ponpon haroharo" : "PonPon HaroHaro"
+,"ponyori densetsu" : ["ポンヨリ伝説", "PONYORI LEGEND"]
+,"ponytail soft" : "Ponytail Software"
+,"poo and momodenbu" : "Poo&ももでんぶ"
+,"popochichi" : "ぽぽちち"
 ,"pop-word" : "POP-WORD"
+,"pornostar" : "ポルノ★スター"
+,"potage" : "Potage"
+,"potato house" : "Potato house"
+,"power drug" : "POWER DRUG"
+,"power gradation" : "パワーグラデイション"
 ,"power skill" : "POWER SKILL"
+,"power slide" : "パワースライド"
+,"powered" : "Powered"
 ,"powerful soft" : "ぱわふるソフト"
+,"poyochinsen" : "ポヨちん線"
+,"poyopacho" : "ぽよぱちょ"
 ,"pp.mu" : "パヤパヤ・マンボウでウッ！"
+,"praline" : "プラリネ"
+,"precious heart" : "Precious HEART"
+,"precious..." : "Precious…"
+,"prekano" : "プレカノ"
+,"prelude" : "Prelude"
 ,"premium heart" : "プレミアムハート"
+,"pretty clever" : "Pretty Clever"
+,"pretty well" : "Pretty Well"
 ,"prettyclever" : "PrettyClever"
+,"prettydolls" : "PRETTY DOLLS"
+,"p-rhythm star" : "P-rythm☆Star"
+,"prima" : "PRIMA"
+,"primal gym" : "Primal Gym"
+,"prime-f" : "Prime-F"
+,"princess project" : "ぷりんせす☆ぷろじぇくと"
+,"princess sugar" : "Princess Sugar"
+,"prison" : "プリズン"
+,"pritannia" : "ぷりたにあ"
+,"private garden" : "プライベートガーデン"
+,"production studio" : "PRODUCTION STUDIO"
+,"project harakiri" : "PROJECTハラキリ"
 ,"project m" : "プロジェクトM"
 ,"project shiba" : "Project Shiba"
 ,"project valkyrie" : "PROJECT VALKYRIE"
+,"projectgs" : "Project GS"
 ,"prometheus" : "Prometheus"
+,"promised land" : "Promised land"
+,"przm star" : "Przm Star"
+,"psychiatric" : "PSYCHIATRIC"
+,"psycho" : "PSYCHO"
+,"psy-chs" : "Psy-chs"
+,"psyco delicious" : "PSYCHO DELICIOUS"
+,"psy-walken" : "Psy-Walken"
+,"public bath" : "Public Bath"
 ,"puchi parfait" : "ぷちぱるふぇ"
 ,"puchi-ankh" : "ぷちあんく"
-,"pumpkin software" : "ぱんぷきんソフト"
-,"pussy.cat seisaku iinkai" : "Pussy-CAT制作委員会"
-,"puzzle town" : "PUZZLE TOWN"
-,"pwing works" : "PWING WORKS"
-,"qoobrand" : "Qoo brand"
-,"quantum leap" : "QUANTUM LEAP"
-,"questionbox" : "QUESTIONBOX"
-,"raijigen" : "雷次元"
-,"red signal" : "れっどしぐなる"
-,"red-rum" : "れっどらむ"
-,"remain" : "Remain"
-,"right door" : "ライトドア―"
-,"rikondou" : ["RECONDO", "離魂道"]
-,"rock man" : "ROCK☆MAN"
-,"romancegray" : "ろまんすぐれい"
-,"r-spirits" : "R-SPIRITS"
-,"sakuraneko" : "さくらねこ"
-,"sec brand" : "SEC brand"
-,"setagaya kingyo" : "せたがや金魚"
-,"shoujo hyouhon" : "少女標本"
-,"sibakarigumi" : "芝刈組"
-,"silver bullet automatic" : "Silver Bullet Automatic"
-,"sincere" : "Sincere"
-,"sky rocket" : "スカイロケット"
-,"smash box" : "smash BOX"
-,"sougetsutei" : "双月亭"
-,"spicy daisakusen" : "スパイシー大作戦"
-,"s-room" : "S-Room"
-,"ssd" : "SSD"
-,"strawberry kick" : "ストロベリーキック"
-,"strike three" : "ストライク・スリー"
-,"studio beast" : "Studio Beast"
-,"studio hilite" : "studioハイライト"
-,"studio himitsu kichi" : "スタジオ秘密基地"
-,"studio jon" : "STUDIO JON"
-,"studio kouroumu" : "STUDIO紅狼夢"
-,"studio neko punch" : "STUDIOねこぱんち"
-,"studio nishi tokyo" : "studio西東京"
-,"studio shilph" : "STUDIO SHILPH"
-,"studio-ash" : "Studio-Ash"
-,"sugarcake" : "砂糖ケーキ"
-,"suzukure" : "涼暮"
-,"sweet brier" : "Sweet Brier"
-,"syokusyusentai" : "Syokusyusentai"
-,"takatsuki koujou" : "高槻工場"
-,"takeout" : "テイクアウト"
-,"ta-ta-s labo" : "TA-TA-S LABO"
-,"team fraternity" : "Team FRATERNITY"
-,"tech-ken" : "TECH-KEN"
-,"tentai-kansoku" : "テンタイ→カンソク"
-,"tentendou" : "てんてん堂"
-,"tnk" : "TNK"
-,"tokage 3gou" : "とかげ3号"
-,"tokki mono" : "サークル突起物"
-,"tousoushin" : "TOUSOUSHIN"
-,"tsuchineko" : "つちねこ"
-,"tuyudakukei nijigumi" : "汁ダク系 虹組"
-,"tweak" : "Tweak"
-,"twinkle heart." : "とぅいんくるはーと"
-,"tyrell piccolo" : "たいれるPiccolo"
-,"ultra pirontan" : "ULTRA PIRONTAN"
-,"uraomote." : "ウラオモテ。"
-,"urayorozuya" : "Ura Yoroduya"
-,"urufechi" : "うるふぇち Ultimate Fetish"
-,"urumin" : "URUMIN"
-,"usausa bunny" : "うさうさバニー"
-,"vitamin l" : "ビタミンL"
-,"v-spot" : "V-SPOT"
-,"waisetsujou" : "猥褻城"
-,"white strawberry paper" : "白いちご新聞"
-,"whitepowder" : "WhitePowder"
-,"words worth" : "ワーズワース"
-,"works maruma" : "WORKS MARUMA"
-,"yuganda oukoku" : "YUGANDA OUKOKU"
-,"yume no kakera" : "ユメノカケラ"
-,"yuuyake note" : "ゆうやけのーと"
-,"colon" : "：co／on"
-,"aft seat" : "AFT SEAT"
-,"himitsu kessha love hunter" : "秘密結社愛狩人"
-,"k3" : "K3《ケイキューブ》"
-,"spermaniax" : "スペルマニアックス"
-,"552 no yakata" : "午後煮の館"
-,"a to z" : "A to Z"
-,"a.w.p." : "A.W.P."
-,"a-arms" : "A-arms"
-,"aboshi-kensetsu" : "亜星建設"
-,"accent" : "ACCENT"
-,"adnis" : "ADNiS"
-,"akabei soft2 try" : "あかべぇそふとつぅTRY"
-,"akane soft" : "あかねそふと"
-,"akanenone" : "AKANENONE"
-,"akatonbo" : "あかとんぼ"
-,"aki beya" : "明部屋"
-,"alma" : "ALMA"
-,"alraune-batake" : "アルラウネ畑"
-,"anarchy sox" : "ANARCHY SOX"
-,"anc" : "A.N.C"
-,"aneko chokudoukan" : "あねこ直道館"
-,"aozora biscuit" : "青空ビスケット"
-,"apple pie en" : "Apple Pie えん"
-,"arianrhod" : "Arianrhod"
-,"armonica" : "Armonica"
-,"art craft" : "ART CRAFT"
-,"as library" : "A's Library"
-,"ashita o sakigakeru kyouki shuudan cog" : "明日を魁る狂気集団COG"
-,"asteroid fish" : "Asteroid Fish"
-,"astrocleep" : "ASTROCLEEP"
-,"atelier kaguya dreizehn" : "アトリエかぐや Dreizehn"
-,"atelier miyabi" : "あとりえ雅"
-,"atelier yutanpo" : "アトリエゆたんぽ"
-,"autozoon" : "AUTOZOON"
-,"ayashii kikaku" : "綾椎企画"
-,"azarashi factory" : "AZARASHI FACTORY"
-,"banana musume" : "甘蕉小姐"
-,"banana sakana" : "バナナサカナ"
-,"battle fighters oretachi" : "バトルファイターズ俺たち！"
-,"being man" : "Being Man"
-,"black cats garage" : "BLACK CAT'S GARAGE"
-,"blue spiral" : "Blue Spiral"
-,"bluejelly" : "BLUEJELLY"
-,"bokukko inma no soukutu" : "ボクっ娘淫魔の巣窟"
-,"bokusatsu shinzui" : "撲殺真髄"
-,"boru kikaku" : "ぼる企画"
-,"brave heart" : "ブレイヴはぁと"
-,"braziole" : "ブラジオーレ"
-,"bulack okusan" : "BULACK OKUSAN"
-,"call.a" : "CALL.A"
-,"capsule29" : "カプセル29"
-,"celestial eden" : "CELESTIAL EDEN"
-,"cherry palace" : "CHERRY PALACE"
-,"chevalerie" : "シュヴァルリ"
-,"chicken knife" : "Chicken Knife"
-,"chocolate kinema" : "Chocolate Kinema"
-,"cico" : "Cico"
-,"cinematograph" : "CINEMATOGRAPH"
-,"circle billion" : "サークルBILLION"
-,"clapworks" : "CLAPWORKS"
-,"comics way" : "Comics way"
-,"cubic" : "CUBIC"
-,"curecube" : "キュアキューブ"
-,"curefull base" : "Curefull Base"
-,"cutie kids club" : "Cutie Kids Club"
-,"cyberia" : "CYBERIA"
-,"dai 14 dokritsu butai" : "第14独立部隊"
-,"daisy feat. giga" : "daisy feat.戯画"
-,"darai-blood" : "DARAI-BLOOD"
-,"d-cave" : "D-CAVE"
-,"dederantan" : "ででらんたん"
-,"denryokukei" : "電力計"
-,"digitalian cafe" : "Digitalian Cafe"
-,"diskdream" : "DISKDREAM"
-,"dog and god" : "Dog&God"
-,"dolls sweets" : "Doll's Sweet's"
-,"dorei mania" : "奴隷★MANIA"
-,"doujin arctic" : "同人アークティック"
-,"doukou doukou kai" : "瞳孔同好会"
-,"e.m.i." : "E.M.I"
-,"eighth note" : "eighthnote"
-,"erotical combat" : "EROTICAL COMBAT"
-,"evil" : "EVIL"
-,"fenrir" : "ふぇんりる"
-,"film software" : "FILM-SOFTWARE"
-,"fire witch" : "Fire Witch"
-,"flat and slit racing" : "FLAT & SLIT RACING 66"
-,"flicula machine" : "フリキュラマシーン"
-,"fonte" : "Fonte"
-,"fuyuchuu natsukusa" : "冬中夏草"
-,"gallery fake." : "ギャラリー・フェイク。"
-,"game dome hamamatsuchouten" : "GAME DOME 浜松町店"
-,"garden" : "Garden"
-,"genei humanoid" : "幻影ヒューマノイド"
-,"genshoudou" : "幻笙堂"
-,"gensou toshi" : "幻想都市"
-,"gentoukai" : "幻灯会"
-,"giftless" : "GiFTLESS"
-,"giorama saga" : "Giorama Saga"
-,"gipsy" : "Gipsy"
-,"gokurakuhihoukan" : "GOKURAKUHIHOUKAN"
-,"golden nyannyan" : "ゴールデンニャンニャン"
-,"gozen sanji" : "午前三時"
-,"guten tag" : "グーテンターク"
-,"h.w.k.k" : ["H.W.K.K", "初音ちゃんの声をあてる声優はこおろぎさとみしかいない血盟"]
-,"hacchoubori" : "八丁堀"
-,"hachimitsu kumasan" : "はちみつくまさん"
-,"hakkaame" : "白花雨"
-,"hakke deneijyo" : "八卦電影城"
-,"hallelujah" : "晴屋"
-,"halloween" : "Halloween"
-,"hanene no mori" : "はねねのもり"
-,"happies" : "ハピエス"
-,"hard taco" : "HARD TACO"
-,"heat haze" : "Heat Haze"
-,"hero hero tei" : "へろへろてい"
-,"high and low" : "HIGH&LOW"
-,"hiyoko no gekijoh" : "ひよこの劇場"
-,"hmk" : "HMK"
-,"holm viking" : "ほるむヴァイキング"
-,"honey mary" : "ハニーマリー"
-,"honey no tsuki" : "Honeyの月"
-,"honyarara noir" : "ほにゃららNoir"
-,"honyarara pink" : "ほにゃららPink"
-,"hyakumanben alien" : "百万遍エイリアン"
-,"ice brand" : "ICE BRAND"
-,"ice to choco" : "あいすとちょこ"
-,"ichigo ichie" : "苺一会"
-,"ichigo saboten honpo" : "苺仙人掌本舗"
-,"image sync" : "Imagesync"
-,"indolent field" : "Indolent Field"
-,"innk" : "InnK"
-,"iron rocks" : "IRON⇔ROCKS"
-,"ironman" : "IRONMAN"
-,"ishin doujinkai" : "維新同人會"
-,"jellyfish factory" : "Jellyfish Factory"
-,"jumangoku manju" : "JUMANGOKU MANJU"
-,"k.o.store" : "K.O.STORE"
-,"kaguyahime" : "かぐや姫"
-,"kamikaze style" : "神風STYLE"
-,"kanan koubou" : "かなん工房"
-,"kapparaitei" : "河童来亭"
-,"karuki-ya" : "カルキ屋"
-,"katakuri kinako" : "かたくりきなこ"
-,"kazami dori" : "風見鳥"
-,"kensei haou shoukai" : "剣聖覇皇商会"
-,"kiirotei" : "黄色亭"
-,"kikouken" : "機甲犬"
-,"killer pierce" : "Killer Pierce"
-,"kimi no housoku" : "キミの法則"
-,"kiss project" : "KISS PROJECT"
-,"kiss-ma" : "KISS-MA"
-,"kobiki" : "こびき"
-,"koitosousakusyo" : "小糸創作所"
-,"kokuden bunguten" : "刻田文具店"
-,"koubou grounds" : "KOUBOU GROUND'S"
-,"kouyoudou" : "好葉堂"
-,"kumo to koumori" : "クモトコウモリ"
-,"kurakura-honey" : "KURAKURA HONEY"
-,"kuriya" : "栗屋"
-,"kurogane dou" : "くろがね堂"
-,"kurotora" : "黒虎"
-,"kuuchuu caricature" : "空中カリカチュア"
-,"kuwon no tobari" : "くおんの帳"
-,"kyousei shuuryou" : "強制終了"
-,"lb" : "LB"
-,"leafgun" : "LEAFGUN"
-,"levol" : "LevoL"
-,"liddell" : "Liddell CLUB"
-,"limecat" : "LimeCat"
-,"limit breakers" : "LIMIT BREAKERS"
-,"little garden" : "りとるがーでん"
-,"lost garden" : "Lost Garden"
-,"lovematic" : "らぶまてぃっく"
-,"lovers hyper drive" : "Lovers Hyper Drive"
-,"lr-0 hasune" : "LR-0 HASUNE"
-,"lunapran" : "LUNA PLAN"
-,"lupinus" : "ルピナス"
-,"luv mix" : "LUV∞MIX"
-,"luxury tiara" : "Luxury Tiara"
-,"m and u" : "M&U"
-,"magnitude 2" : "Magnitude 2"
-,"makaron soft" : "まかろんソフト"
-,"mandokoro" : "MANDOKORO"
-,"marbleland" : "Marbleland"
-,"maruneji" : "まるねじ"
-,"masys" : "Masys"
-,"matcha pink factory" : "抹茶ピンクファクトリー"
-,"matsutake club" : "松竹くらぶ"
-,"mayumayu" : "まゆまゆ"
-,"mega despair" : "MEGA DESPAIR"
-,"mega drive" : "MEGA DRIVE"
-,"minirebe." : "ミニレベ。"
-,"mirage-soft" : "みらーじゅそふと"
-,"misoshiru" : "みそ汁"
-,"mist mysteria" : "MIST MYSTERIA"
-,"misty moon" : "MISTYMOON"
-,"mithril software" : "ミスリルソフトウェア"
-,"mixing channel" : "MIXING CHANNEL"
-,"mizumanjiu" : "みずまんじゅう"
-,"mk2factory" : "MK2FACTORY"
-,"mokumokudo" : "もくもく堂"
-,"monsuke honpo" : "もんすけ本舗"
-,"mozham" : "MozHAM"
-,"multi-link" : "MULTI-LINK"
-,"musashi no wwf" : "MUSASHI NO WWF"
-,"nagomi" : "和"
-,"nanachan team" : "ななちゃんちーむ"
-,"neko ga kyuuhiki" : "猫が九匹！"
-,"nekomaya" : "ねこま屋。"
-,"nekoya gakkiten" : "ねこや楽器店"
-,"neo hyper kids" : "Neo Hyper Kids"
-,"neopil" : "NEOPIL"
-,"nigarizumu" : "にがりずむ"
-,"nikonikomachi" : "にこにこ街"
-,"ninelives" : "NINELIVES"
-,"nisanka mangan" : "二酸化マンガン"
-,"nokishita no rakuen." : "のきしたのらくえん。"
-,"nord" : "のると"
-,"nostalgic chord" : "Nostalgic Chord"
-,"notus" : "Notus"
-,"noutenki company" : "のーてんきかんぱにー"
-,"nyotai kougaku kenkyuujo" : "女体光学研究所"
-,"oct works" : "oct-works"
-,"o-din" : "O-Din"
-,"o-g-g" : "O-G-G"
-,"ogofwitch" : "OgOfWitch"
-,"okazaki mental clinic" : "OKAZAKI MENTAL CLINIC"
-,"okochama club" : "おこちゃま倶楽部"
-,"okota" : "おこた"
-,"one games" : "ONE GAMES"
-,"onegai-cheesecake" : "おねがいチーズケーキ"
-,"optimist" : "Optimist"
-,"otobokechasoba" : "Otobokechasoba"
-,"otokonoko club z" : "おとこの娘倶楽部Z"
-,"ouchi jikan" : "おうちじかん"
-,"ousama to ichigo" : "おうさまと苺"
-,"over all" : "OVER ALL"
-,"oyt shuppan" : "OYT出版"
-,"p.w." : "P.W."
-,"padlock" : "PADLOCK"
-,"papikuria" : "ぱぴくりあ♪"
-,"paraselene" : "Paraselene"
-,"parfum soft" : "ぱるふぁんそふと"
-,"parukusu" : "CIRCLEぱるくす"
-,"passing rim" : "Passing Rim"
-,"petit sanctuary" : "Petit Sanctuary!"
-,"petitx" : "ぷちX"
-,"pigment" : "PIGMENT"
-,"pii-club" : "PII-CLUB"
-,"pink dinosaur" : "PINK DINOSAUR"
-,"pixel mint" : "PIXEL MINT"
-,"pretty clever" : "Pretty Clever"
-,"production studio" : "PRODUCTION STUDIO"
-,"psyco delicious" : "PSYCHO DELICIOUS"
+,"puchi-ya" : "ぷち屋"
+,"pulin nabe" : "PULIN鍋"
+,"pulltop" : "PULLTOP"
+,"pulltop latte" : "PULLTOP LATTE"
 ,"pulse rifle" : "PULSE RIFLE"
+,"pumpkin" : "パンプキン"
+,"pumpkin software" : "ぱんぷきんソフト"
+,"puni-douraku" : "ぷに道楽"
 ,"puniket junbikai" : "ぷにケット準備会"
 ,"puniman do" : "ぷにまん堂"
 ,"puppe house" : "puppe＊house"
+,"puppukupu" : "ぷっぷくぷー"
+,"pure milk" : "Pure☆Milk"
+,"pure platinum" : "Pure Platinum"
+,"pure-liquid" : "Pure-Liquid"
+,"purimomo" : "ぷり桃"
+,"purin yokochou" : "ぷりん横丁"
+,"puriori-soft" : "ぶりおりソフト"
+,"purple haze" : "PURPLE HAZE"
 ,"purple ribbon" : "パープルリボン"
+,"purple sky" : "PURPLE SKY"
+,"purple software" : "Purple software"
+,"purple software delight" : "Purple software delight"
+,"purplish" : "PURPLISH"
+,"pururun estate" : "プルルンエステ"
 ,"pururun esthe" : "プルルンエステ"
+,"pussy cat" : "Pussy-CAT"
+,"pussy.cat seisaku iinkai" : "Pussy-CAT制作委員会"
+,"puu no puupuupuu" : "ぷぅのぷぅぷぅぷぅ"
 ,"puzzle" : "ぱずる"
+,"puzzle town" : "PUZZLE TOWN"
+,"puzzlebox" : "PUZZLEBOX"
+,"pwing works" : "PWING WORKS"
+,"px-dan nihon shibu" : "PX団日本支部"
+,"pyonpyororin" : "ぴょんぴょろりん"
+,"pypyworks" : "PYPYworks"
+,"pyramid house" : "ピラミッドハウス"
+,"q doujin" : "QDOUJIN"
+,"q-bit" : "Q-bit"
+,"qoobrand" : "Qoo brand"
+,"qp flapper" : "Q.P. FLAPPER"
+,"qross" : "QRoss"
+,"qruppo" : "Qruppo	"
 ,"quadrifoglio" : "Quadrifoglio"
+,"quantum leap" : "QUANTUM LEAP"
+,"quarter view" : ["Quarter View", "くぉーたーびゅー"]
+,"quasar drive" : "クェーサードライブ"
+,"que sera sera" : "Que sera sera"
+,"queen soft" : "クイーンソフト"
+,"question" : "Question"
+,"questionbox" : "QUESTIONBOX"
+,"quick kick lee" : "QUICK KICK LEE"
+,"quince soft" : "QUINCE SOFT"
 ,"qune soft" : "きゅんソフト"
+,"q-x" : "Q-X"
+,"r.a.n.software" : "R.A.N Software"
+,"r.o.c" : "R.O.C"
+,"r1" : "r;1"
 ,"r10035" : "R10035"
+,"r2" : "R2"
+,"rabbit company" : "ラビット・カンパニー"
+,"rabbits" : "らびっつ"
+,"rabbits foot" : "ラビッツフット"
+,"raccoon" : "ラクーン"
+,"rack and pinion" : "RACK & PINION"
+,"radiant" : "RADIANT"
+,"radical dash" : "RADICAL DASH"
+,"radical dream" : "Radical Dream"
+,"raid slash" : "RAID SLASH"
+,"raiden labo" : "らいでんらぼ"
+,"raiden yashiki" : "雷電屋敷"
+,"raijigen" : "雷次元"
+,"raijinkai" : "雷神会"
+,"rail-soft" : "raiL-soft"
+,"rainbow cyc" : "RAINBOW CYC"
+,"raindog" : "れいんどっぐ"
 ,"raisupan" : "らいすぱん"
+,"rakuichimonji" : "楽一文字"
+,"ram" : "RaM"
+,"ramen rice" : ["らーめんらいす", "RAMENrice"]
+,"ran no sono" : "蘭の園"
+,"ranshi to kimi to." : "乱視と君と。"
+,"rapapuru" : "らぱぷる"
 ,"raqdes" : "RAQDES"
+,"rasa house" : "らさはうす"
+,"rasen" : "RaSeN"
+,"rask" : "RASK"
+,"raspberry" : "らずべりー"
+,"rat tail" : "RAT TAIL"
+,"rateblack" : "Rateblack"
 ,"ray flood" : "Ray Flood"
+,"ray-raw" : "玲瓏"
+,"rbooks" : "浪漫書店"
+,"reak" : "Reak"
 ,"recette" : "Recette"
+,"red crown" : "RED CROWN"
+,"red data book" : "RED DATA BOOK"
+,"red dragon" : "RED DRAGON"
+,"red label" : "Red Label"
+,"red rebel" : "Red Rebel"
+,"red ribbon revenger" : "RED RIBBON REVENGER"
+,"red signal" : "れっどしぐなる"
+,"red sox" : "RED SOX"
+,"red spec" : "REDすぺっく"
+,"redlight" : "REDLIGHT"
+,"redrop" : "ReDrop"
+,"red-rum" : "れっどらむ"
+,"reds" : "Reds!"
+,"red-zone" : "RED-ZONE"
+,"regulus" : "Regulus"
+,"rehabilitation" : "リハビリテーション"
+,"rei no tokoro" : "例の所"
+,"reien" : "黎en"
+,"reimei kikaku" : "黎明企画"
+,"reimeidou" : "黎明堂"
 ,"reirei kyou" : "泪泪教"
+,"remain" : "Remain"
+,"renai mangaka" : "恋愛漫画家"
+,"rengaworks" : "Rengaworks"
+,"renrakumou ami doujin section" : "連絡網AMI同人セクション"
+,"renrendou" : "漣々堂"
+,"reon" : "Reon"
+,"retro" : "RETRO"
+,"reverse" : "Re：verse"
+,"reverse noise" : "Reverse Noise"
+,"reverv." : "Reverv."
+,"ribi dou" : "RIBI堂"
+,"ribons nights" : "リボーンズナイツ"
+,"ricecandy" : "RiceCandy"
+,"rico-ba" : ["Rico-ba", "Pico-ba"]
+,"ricotta" : "Ricotta"
+,"riddle soft" : "Riddle Soft"
+,"right away" : "Right Away"
+,"right door" : "ライトドア―"
+,"riki" : "RIKI"
+,"rikondou" : ["RECONDO", "離魂道"]
+,"riku no kotoutei" : "陸の孤島亭"
+,"rikudoukan" : "六道館"
+,"rinarina" : "RINARINA"
+,"ring a bell" : "RING A BELL"
+,"ringo no naru ki" : "林檎のなる木"
+,"ringoya" : "リンゴヤ"
+,"rinjuu circus" : "臨終サーカス"
+,"rinne" : "鈴音"
+,"rinrin" : "RINRIN"
+,"rintoneko" : "りんとねこ"
+,"rio grande" : "リオグランデ"
 ,"r-i-p" : "R・I・P"
+,"rip at lip" : "Rip@Lip"
+,"ripe" : "Ripe"
+,"rippadou" : "立派堂"
+,"riroland" : "RIROLAND"
+,"ris" : "ri：s"
+,"rkaffy" : "R*kaffy"
+,"robazoku" : "ROBAZOKU"
+,"rock man" : "ROCK☆MAN"
+,"rocket kyoudai" : "ロケット兄弟"
+,"rocket nenryou 21" : "ロケット燃料★21"
+,"rockydou" : "ロッキー堂"
+,"rodiura." : "ろぢうら。"
+,"rokisonin koubou" : "ろきそにん工房"
+,"rokumen roppi" : "ろくめん★ろっぴ"
+,"roll" : "ロール"
+,"rolling haiena" : "Rollingハイエナ"
+,"rolling star" : "Rolling Star"
+,"rolling zonbies" : "ローリングゾンビーズ"
+,"romance no neko ookami musume" : "猫狼娘"
+,"romancegray" : "ろまんすぐれい"
+,"romantic sintai-kensa." : "ロマンティック身体検査"
+,"ronno and kalus" : "RONNO&KALUS"
+,"ronpaia" : "ろんぱいあ"
+,"root" : "ROOT"
+,"rootnuko" : "√nuko"
+,"rorie-do" : "ろり絵堂"
+,"rose crown" : "ローズクラウン"
+,"rose tiara" : "ローズティアラ"
+,"rose water" : "ROSE WATER"
+,"rosebleu" : "Rosebleu"
 ,"roshutsuhime" : "ろしゅつひめ"
+,"rotary engine" : "ろ～たり～Engine"
+,"roubai-tei" : "狼狽亭"
 ,"route venus" : "ROUTE VENUS"
+,"route1" : "ROUTE1"
+,"royal bitch" : "ROYALBITCH"
+,"royal crown" : "ROYAL CROWN"
+,"rpg company 2" : "RPGカンパニー2"
+,"r-spirits" : "R-SPIRITS"
+,"rst slave" : "RST SLave"
+,"rtd" : "RTD"
+,"rubbish selecting squad" : "RUBBISH選別隊"
+,"ruby fruit" : "RUBY FRUIT"
+,"ruirui kikaku" : "ミネミネ企画"
+,"ruki ruki exiss" : "るきるきEXISS"
+,"ruku-pusyu" : "るくーぷしゅ"
+,"rune" : "RUNE"
+,"runners high" : "RUNNERS HIGH"
+,"runrun soft" : "るんるんそふと"
+,"runrunrun pch" : "RUNRUNRUN PCH."
+,"rupinasu touzokudan" : "るぴなす盗賊団"
+,"ruri ruri kikaku" : "瑠璃瑠璃企画"
+,"ruruie" : "るるいえ"
+,"rushe museum" : "Rushe Museum"
+,"rusk" : "RusK"
+,"russian blue" : "RUSSIAN BLUE"
+,"ruu kikaku" : "龍企画"
+,"r-works" : ["R-works", "Rothmans workstation"]
+,"rycanthropy" : "RYCANTHROPY"
+,"ryokan hanamura" : "旅館はなむら"
+,"ryoushi ookami" : "量子オオカミ"
+,"ryu-seki-do" : "流石堂"
+,"ryuu no kinyoubi" : "龍の金曜日"
+,"ryuukakusan nodoame" : "りゅうかくさんのどあめ"
+,"ryuukisha" : "隆起社"
+,"ryuurei tennyo" : "龍麗天女"
+,"ryuutai rikigaku" : "流体力学"
+,"s" : "S"
+,"s.cry.dou" : ["S.cry.DOU", "スク頼堂"]
+,"s.k." : "S.K."
+,"s.m.l" : "S.M.L"
+,"s.s.l" : "S.S.L"
 ,"s.s.o.s." : "S.S.O.S."
 ,"sabamisokan" : "さばみそ館"
 ,"sachi" : "さち"
+,"sae" : "SAE"
+,"sae honpo" : "SAE honpo"
+,"saga planets" : "SAGA PLANETS"
+,"sage" : "Sage サージュ"
+,"sago-jou" : "沙悟荘"
+,"saigado" : "彩画堂"
+,"saihate no maria" : "最果てのマリア"
+,"saihate-kukan" : "最果て空間"
+,"saikyo gakuen" : "最強学園"
+,"saikyou anaheim" : "蔡京アナハイム"
+,"sailor q2" : "SAILOR Q2"
+,"sairo publishing" : "SAIRO PUBLISHING"
+,"saitouya" : "斉藤屋"
+,"saiya gakuen" : "彩也学園"
+,"sakaniya factory" : "さかにや工房"
+,"sakida shoten" : "咲田書店"
 ,"sakigake 5121 anti tank party" : "魁！5121小隊"
 ,"saku saku tei" : "さくsaku亭"
+,"sakura koubou" : "さくら工房"
+,"sakura no tomoru hie" : "桜の灯る日へ"
+,"sakura suishou" : "桜水晶"
+,"sakuradou" : "桜堂"
+,"sakurairo" : "SAKURAIRO"
+,"sakuramochi" : "桜餅"
+,"sakuraneko" : "さくらねこ"
+,"sakurara and cherry" : "桜羅＆Cherry"
+,"sakuraya" : "さくら屋"
+,"sakusakusakuchan" : "さくさくさくちゃん"
+,"sakuya17sai" : "咲耶17歳"
+,"salvage kouboh" : "サルヴェージ工房"
+,"samemaro party" : "サメマロ党"
+,"samidaregiri" : "五月雨斬り"
+,"samoyed smile" : "SAMOYED SMILE"
+,"samurai" : "侍"
+,"samurai ninja greentea" : "サムライ忍者GREEN TEA"
+,"san se fang" : "三色坊"
+,"sanazura doujinshi hakkoujo" : "さなづら同人誌発行所"
+,"sanbaizu" : "三杯酢"
+,"sandglass" : "Sandglass"
+,"sangatsu no lion" : "三月のライオン"
+,"sangenshokudou" : "三原色堂"
+,"sangetsushi" : "山月誌"
+,"sankaku apron" : "さんかくエプロン"
+,"sanketsushuu" : "酸欠集"
+,"sankyaku rasen" : "三脚ラセン"
+,"sanryuu club" : "三流倶楽部"
+,"sanso dousotaisha" : "酸素同素体舎"
+,"sansuisha" : "散水社"
+,"saomako" : "さおまこ"
+,"sarang" : "SARANG"
+,"sarpaccio" : "サルパッチョ"
+,"sarurururu" : "サルルルル"
+,"sasaduka" : "砂々塚"
+,"sasaki muu shouten" : "佐々木無宇商店"
+,"sasha forest" : "サーシア・フォレスト"
+,"sashichigai-dan" : "挿し違い団"
+,"sashimi choco" : "さしみチョコ"
+,"sasuga shoukai" : "流石商会"
+,"satellites" : "Satellites"
 ,"sator" : "SATOR"
+,"satsukidoh" : "サツキ堂"
+,"sawayaka tokunou milk" : "爽やか特濃みるく"
+,"saz" : "SAZ"
+,"sazameki dori" : "さざめき通り"
+,"schwester" : "しゅべすた"
+,"scoop" : "ScooP"
+,"score" : "SCORE"
+,"scramble egg" : "SCRAMBLE EGG"
+,"scramble house" : "ScrambleHOUSE"
 ,"sdf" : "SDF"
+,"se bone" : "背・骨"
+,"seacoxx" : "SEACOXX"
+,"seafox" : "SeaFox"
+,"search and destroy" : "search&destroy"
+,"search-light" : "サーチライト"
+,"sec brand" : "SEC brand"
+,"second cry" : "SECOND CRY"
+,"secreder" : "SECREDER"
+,"secret service" : "シークレット★サービス"
+,"secret society m" : "秘密結社M"
+,"section-11" : "SECTION-11"
+,"seika kairaku shoten" : "聖華快楽書店"
+,"seinansei ni kagayakeru hoshi" : "西南西ニ輝ケル星"
+,"seishimentai" : "せいしめんたい"
+,"seitokaishitsu" : "生徒会室"
+,"sekai kakumei club" : "世界革命倶楽部"
+,"sekai no hate" : "世界のHATE"
+,"seki sabato" : "関サバト"
+,"sekirara" : "せ・き・ら・ら"
+,"sekitou" : "赤橙"
+,"selen" : "Selen"
+,"semakute kurai" : "狭くて暗い"
+,"semedain g" : "セメダインG"
+,"senbon knock zadankai" : "千本ノック座談会"
+,"sendan" : "仙弾"
+,"sendouya" : "千堂屋"
+,"seniman kartun" : "セニマンカルタン"
 ,"senjintei" : "仙人亭"
+,"senpenbankashiki" : "千変万化式"
 ,"sentimental kangaroo" : "センチメンタルカンガルー"
+,"senya sabou" : "千夜茶房"
+,"senzankou" : "穿山甲"
+,"sepia" : "SEPIA"
+,"sequence" : "し～くえんす"
+,"serene" : "Serene"
+,"service heaven" : "サービスヘブン"
+,"setagaya kingyo" : "せたがや金魚"
+,"setoran" : "せとらん"
+,"seven wonder" : "SEVEN WONDER"
+,"seventh door" : "Seventh Door"
 ,"seventh garden" : "SEVENTH GARDEN"
+,"seventh heaven" : "SEVENTH HEAVEN"
+,"seventh heaven maxion" : "セブンスヘブンMAXION"
 ,"sexpistols" : "SEX PISTOLS"
+,"sexual khorosho" : "セクシャルハラショー"
+,"s-force" : "S-FORCE"
+,"shadows" : "Shadows"
+,"shagwell" : "SHAGWELL"
+,"shallot coco" : "シャルロット・ココ"
+,"shanghai honey bee" : "上海蜜蜂"
+,"shangrila" : "しゃんぐりら"
+,"shape shifter" : "Shape Shifter"
+,"sharp define" : "#define"
+,"shd" : "SHD"
+,"sheepfold" : "羊小屋"
+,"sherbet soft" : "SherbetSoft"
+,"shiawase kanmiryou" : "しあわせ甘味料"
+,"shiawase kyouwakoku" : "幸せ共和国"
+,"shiawase manjuu" : "しあわせまんじゅう"
+,"shibarism" : "SIBARISM"
+,"shibasoft" : "しばそふと"
+,"shichiten battou" : "シチテンバットウ"
+,"shichiyou souryuujin" : "七曜蒼龍陣"
+,"shidendou" : "紫電堂"
+,"shigunyan" : "しぐにゃん"
+,"shigureya" : "時雨屋"
+,"shiitake" : "椎茸"
+,"shiitake nouen" : "しいたけ農園"
+,"shikaper" : "シカパー"
+,"shikishima guntool" : "敷島贋具"
+,"shikitenshi" : "色天使"
+,"shikkokuno j.p.s." : ["漆黒のJ.P.S.", "J.P.S. OF BLACK BEAUTY"]
+,"shiko neru mix" : "しこ寝るミックス"
+,"shimahokke" : "しまほっけ"
+,"shimajiya" : "しまじや"
+,"shimanto ryouri gakkou" : "四万十料理学校"
+,"shimanto seiryuu" : "四万十清流"
+,"shimapan" : ["しまぱん", "SHIMAPAN"]
+,"shimekiri sanpunmae" : "〆切3分前"
+,"shimoboard" : ["SHIMOBOARD", "シモボード"]
+,"shimoyakedou" : "しもやけ堂"
+,"shin hijiridou honpo" : "真・聖堂☆本舗"
+,"shin nanka tou" : "新なんか党"
+,"shin shouryuu-ken" : "真昇竜軒"
+,"shin tsuguru taisaku honbu" : ["シンツグル対策本部", "シンツグル対策委員会"]
+,"shinanoya" : "信濃屋"
+,"shinba oolong cha" : "神葉烏龍茶"
+,"shin-chan" : "Shin-Chan"
+,"shinchintaisha company" : "新陳代謝COMPANY"
+,"shinenkan" : "新炎館"
+,"shining" : "SHINING"
+,"shinjugai" : "真珠貝"
+,"shinnihon pepsitou" : "新日本ペプシ党"
+,"shinobi no yakata" : "忍ノ館"
+,"shinohara heavy industry" : ["篠原重工", "SHINOHARA HEAVY INDUSTRY"]
+,"shinpakusu teika" : "Shinpacsu Teika"
+,"shinrin ryokuju" : "森林緑樹"
+,"shinsei lolishota" : "新生ロリショタ"
+,"shiokonbu project" : "塩こんぶプロジェクト"
+,"shioya" : "塩屋"
+,"shirando" : ["SHIRANDO", "熾鸞堂"]
+,"shiratama" : "しらたま"
+,"shiritsu sakuranbo shougakkou" : "私立さくらんぼ小学校"
+,"shiroganeya" : ["白銀屋", "しろがね屋"]
+,"shiroi pantsu" : "しろいぱんつ"
+,"shirokuma dango" : "しろくまだんご"
+,"shironegiya" : "白ネギ屋"
+,"shirukke no ooi zakuro" : "汁っけの多い柘榴"
+,"shiruzaru" : "汁・ザル"
+,"shis laboratory" : "SHi's Laboratory"
+,"shishamo house" : "ししゃもハウス"
+,"shishunki" : "思春棄"
+,"shisshin chuudoku" : "失神中毒"
+,"shitsuren restaurant for men" : "失恋レストラン for MEN"
 ,"shitsuren restaurant omu" : "失恋レストラン オム"
 ,"shitteiruka" : "知っているか！"
 ,"shitteiruka x" : "知っているか！X"
+,"shoot the moon" : "シュート ザ ムーン"
+,"shootouts" : "ShootOuts"
+,"shoryutei" : "昇竜亭"
+,"shota mangaya-san" : ["ショタ漫画屋さん", "アオクロ(AOQLO)"]
+,"shotaian" : "所帯庵"
+,"shouchuu mac" : "焼酎MAC"
+,"shoujo gesshoku" : "少女月蝕"
 ,"shoujo heisa kuukan" : "少女閉鎖空間"
+,"shoujo hyouhon" : "少女標本"
+,"shoujo kishidan" : "少女騎士団"
+,"shoujo kousaku" : "少女交錯"
+,"shounen byoukan" : "少年病監"
+,"shounen x shoujo" : ["Syounen×Syoujo", "少年×少女"]
+,"shounen yuuichirou" : "少年ゆういちろう"
+,"shounen zoom" : "少年ズーム"
+,"showa saishuu sensen" : "昭和最終戦戦"
+,"shungabu" : "春画部"
+,"shuraba keikaku" : "修羅場計画"
+,"shyness over drive" : "SHYNESS OVER DRIVE"
+,"sibakarigumi" : "芝刈組"
+,"sick boys" : "Sick Boys"
+,"side effects" : "SIDE EFFECTS"
+,"siesta" : "SIESTA"
+,"sigma-arts" : "Σ-Arts"
+,"sign" : "Sign"
+,"silhouette" : "Silhouette"
+,"silica gel" : "シリカゲル"
+,"silkys" : "シルキーズ"
+,"silkys connect" : "しるきーずこねくと"
+,"silkys plus" : "シルキーズプラス"
 ,"silkys plus wasabi" : "シルキーズプラス WASABI"
+,"silkys sakura" : "シルキーズSAKURA"
+,"silmaril" : "しるまりる"
+,"silver bullet" : "Silver Bullet"
+,"silver bullet automatic" : "Silver Bullet Automatic"
+,"silver dog" : "シルバードッグ"
 ,"silver stone" : "Silver Stone"
+,"simasima system" : "しましましすてむ"
 ,"simian expansion" : "SIMIAN EXPANSION"
+,"simple house" : "SIMPLE HOUSE"
+,"sincere" : "Sincere"
 ,"singing-dog" : "Singing-DOG"
+,"singleton" : "Singleton"
+,"sion" : ["SION Graphic Works", "紫音-SION-"]
+,"sirius soft" : "Sirius"
 ,"sisaku" : "SISAKU"
+,"sister soft" : "しすたーそふと"
+,"situation laboratory" : "シチュラボ"
 ,"six alchemy" : "Six Alchemy"
+,"six shot" : "SixShot"
+,"skirt tsuki" : "スカートつき"
+,"skirthike" : "すかーとはいく"
+,"skk" : "SKK"
 ,"sky high" : "Sky-High feat.戯画"
+,"sky lounge garden" : "Sky Lounge Garden"
+,"sky rocket" : "スカイロケット"
+,"skyfish" : "SkyFish"
+,"skyfish poco" : "SkyFish poco"
 ,"skysphere" : "Skysphere"
+,"slave" : "SLAVE"
 ,"slavenir gamma" : "スレイブニールγ"
+,"sledgehammerout" : "SledgehammerOut!"
+,"sleepwatch.ex" : "寝ヲチEX"
+,"slime inn" : ["スライム亭", "SLIME INN", "スライム村"]
+,"slime kikaku" : "スライム企画"
+,"slump life" : "すらんぷらいふ"
+,"slw" : "SLW"
+,"smash box" : "smash BOX"
+,"smee" : "SMEE"
+,"smile" : "スミレ"
+,"snack factory" : "スナック・ファクトリー"
+,"sniff dogs" : "Sniff Dogs"
 ,"snow child" : "Snow Child"
+,"soba udon" : "そばうどん"
+,"socha-ya" : "そちゃ屋"
+,"sodomutogomora" : "ソドムトゴモラ"
+,"soft circle courreges" : "ソフトさ～くるクレージュ"
+,"softhouse chara" : "ソフトハウスキャラ"
+,"softhouse dew" : "ソフトハウスDew"
+,"softhouse parsley" : "ソフトウェアハウスぱせり"
+,"softhouse-seal grandee" : "softhouse-seal GRANDEE"
+,"software circle mercure" : "Software circle Mercure"
+,"sogna" : "SOGNA"
+,"soldier frog" : "SOLDIER FROG"
+,"soleil" : "Soleil"
+,"solex" : "SOLEX"
+,"solo play" : "そろぷれい"
+,"so-matou" : "そーま党"
 ,"song of groove bird" : "Song of Groove Bird"
+,"sonic winter" : "SONIC WINTER"
+,"sonohigurashi" : "そのひぐらし"
+,"sorahane" : "SORAHANE"
+,"sorairo march" : "空色まーち"
 ,"sorairono." : "宇宙色の。"
+,"soratobu mighty python" : "空飛ぶマイティ・パイソン"
+,"soreya" : "其レ屋"
+,"sorya annmarida" : "そりゃあんまりだ"
+,"sotikoti" : "ソチコチ"
+,"soubi kenkyuujo" : "創美研究所"
+,"souffle soft" : "すふれそふと"
+,"sougetsutei" : "双月亭"
+,"soul company" : "SOUL COMPANY"
+,"soul magic" : "そうるまぢっく"
+,"sound sticker" : "サウンドステッカー"
+,"souzai soft" : "そうざいそふと"
+,"soy-darake" : "SOYだらけ"
+,"space color" : "SPACE COLOR"
+,"special antlers" : "SPECIAL ANTLERS"
+,"spec-r" : "Spec-R"
+,"speed" : "SPEED"
 ,"speed down zaidan" : "スピードダウン財団"
+,"spermaniax" : "スペルマニアックス"
+,"spermation" : "スペルメーション"
+,"sphere" : "Sphere"
+,"spicy daisakusen" : "スパイシー大作戦"
 ,"spinergy" : "SPINERGY"
+,"spiral" : "すぱいらる"
+,"spiral brain" : "SPIRAL BRAIN"
+,"spirit speak" : "Spirit Speak"
+,"spiritguide" : "SpiritGuide"
+,"splash" : "SPLASH"
+,"s-plus" : "S-Plus"
+,"sponge empire" : "すぽんじ帝国"
+,"spread-pink" : "Spread-Pink"
+,"sprechchor" : "シュプレヒコール"
+,"spt" : "SPT"
+,"sputnik" : "Sputnik"
+,"squadra d" : "SQUADRA D"
+,"squeez" : "SQUEEZ"
 ,"squeez sweet" : "SQUEEZ sweet"
+,"squeeze all" : "SqueezeALL"
+,"squeeze candy heaven" : "SqueezeCandyHeaven"
+,"s-room" : "S-Room"
+,"s-rs" : "S-RS"
+,"ss109" : "SS109"
+,"ssb" : "SSB"
+,"ss-brain" : "SS-BRAIN"
+,"ssd" : "SSD"
+,"st ruger power" : "St RUGER POWER"
+,"st. armadel ch." : "聖アルマデル教会"
+,"st. different" : ["DIFFERENT", "ST.DIFFERENT"]
+,"st. rio" : "聖リオ"
+,"staccato squirrel" : "Staccato・Squirrel"
 ,"stadio hose" : "STADIO HOSE"
+,"staffing" : "スタッフィング"
+,"standard azarashi" : "スタンダードアザラシ"
+,"stapspats" : "Stapspats"
+,"star genom" : "STAR☆GENOM"
+,"stargazer" : "STARGAZER"
+,"starworks" : "STARWORKS"
+,"status doku" : "ステータスどく"
+,"steed enterprise" : "Steed Enterprise"
+,"steel mayonnaise" : "鋼のマヨネーズ"
+,"stellar" : "Stellar"
 ,"steroider" : "Steroider"
+,"stratos" : "ストラトス"
+,"strawberry kick" : "ストロベリーキック"
+,"stray rabbit" : "すとれいらびっと"
+,"straymoon" : "StrayMoon"
+,"strega" : "STREGA"
+,"strike three" : "ストライク・スリー"
+,"strikes" : "STRIKES"
+,"sts" : "STS"
 ,"studio 3.14" : "Studio 3.14"
+,"studio a" : "studio A"
+,"studio ajinrui" : "STUDIO亜人類"
 ,"studio anmitsu-tei" : "すたじお あんみつ亭"
+,"studio anteros" : "スタジオ・アンテロス"
+,"studio aqa" : "studioAQA"
+,"studio araluma" : "STUDIO ARALUMA"
+,"studio artroom" : "STUDIO★ART ROOM"
+,"studio aruta" : "Studio Aruta"
+,"studio beast" : "Studio Beast"
+,"studio big-x" : "スタジオBIG-X"
+,"studio black cats" : "STUDIO BLACK CATS"
+,"studio boxer" : "STUDIO BOXER"
+,"studio b-room" : "STUDiO B-ROOM"
+,"studio charen" : "すたじおちゃれん"
 ,"studio ciao" : "すたじおちゃお"
+,"studio c-take" : ["studio C-TAKE", "DARK STARS", "BLACk STAR"]
+,"studio e.go" : "Studio e.go!"
+,"studio fatality" : "STUDiO FATALITY"
+,"studio gomasenbe" : "すたじおごませんべ"
+,"studio hamachigumi" : "STUDIOはまち組"
+,"studio hammer rock" : "STUDIO HAMMER ROCK"
+,"studio hatake" : "スタジオ畑"
+,"studio hilite" : "studioハイライト"
+,"studio himawari" : "スタジオ☆ひまわり"
+,"studio himitsu kichi" : "スタジオ秘密基地"
+,"studio honeyblade" : "STUDIO HONEYBLADE"
+,"studio huan" : ["STUDIOふあん", "STUDIO HUAN"]
+,"studio implant" : "Studio Implant"
+,"studio insane" : "Studio Insane"
+,"studio jam" : "STUDIO JAM"
+,"studio jaren" : "Studio 邪恋"
+,"studio jikkenshitsu" : "すたじお実験室"
+,"studio jon" : "STUDIO JON"
+,"studio kame" : "スタジオカメ"
+,"studio katsudon" : "スタジオかつ丼"
+,"studio kimigabuchi" : "スタジオKIMIGABUCHI"
+,"studio koron" : "スタジオころん"
+,"studio kouroumu" : "STUDIO紅狼夢"
+,"studio kyawn" : "スタジオきゃうん"
+,"studio loud in school" : "studio LOUD in SCHOOL"
+,"studio mebius" : "Studio Mebius"
+,"studio miki shinsha" : "StudioMIKI新社"
+,"studio miris" : "すたじおみりす"
 ,"studio miris pellet" : "すたじおみりす ペレット"
+,"studio mizuyokan" : ["スタジオみずよーかん", "MIZUYOKAN BRAND"]
+,"studio momiji" : "すたじおもみじ"
+,"studio momoka" : "スタジオ桃華"
+,"studio mukon" : "Studio MUKON"
+,"studio n.ball" : "スタジオN.BALL"
+,"studio nama" : "スタジオ生"
+,"studio neko punch" : "STUDIOねこぱんち"
+,"studio neo black" : "studio NEO BLACK"
 ,"studio nikuman" : "スタジオにくまん"
+,"studio nishi tokyo" : "studio西東京"
+,"studio oguma" : "すたじおおぐま"
 ,"studio orca" : "studioオルカ"
+,"studio pakira" : "Studio PAKIRA"
+,"studio pal" : "STUDIO PAL"
+,"studio parfe" : "すたじお・ぱふぇ"
+,"studio parm" : "studio Parm"
+,"studio pastel" : "STUDIO PASTEL"
 ,"studio pudding princess" : "STUDIOぷりんプリンセス"
+,"studio q" : "すたじおQ"
+,"studio r" : "STUDIO R"
+,"studio rakkyou" : "スタジオらっきょう"
+,"studio rakugaki shachuu" : "スタジオ落柿舎中"
+,"studio retake" : "STUDIO RETAKE"
+,"studio room" : "STUDIO ROOM"
+,"studio runaway wolf" : "studio RUNAWAY WOLF"
+,"studio ryokucha" : "すたじお緑茶"
+,"studio saults-walt" : "スタジオ・ザルツウェルツ"
+,"studio scan" : "STUDIO SCAN"
+,"studio sharaku" : "STUDIO SHARAKU"
+,"studio shilph" : "STUDIO SHILPH"
+,"studio sitomi" : "STUDIO-SITOMI"
+,"studio skb" : "STUDIO SKB"
+,"studio t.r.c." : "STUDIO T.R.C."
+,"studio tapa tapa" : "すたじお☆たぱたぱ"
+,"studio tar" : ["スタジオた～", "STUDIO TAR"]
+,"studio tiamat" : "STUDIO TIAMAT"
+,"studio triumph" : "STUDIO TRIUMPH"
+,"studio ubai" : "スタジオ奪"
+,"studio unbalance" : "すたぢお・あんばらんす"
+,"studio vanguard" : "STUDIO VANGUARD"
+,"studio wallaby" : "スタジオワラビー"
+,"studio z-agnam" : "スタジオZ-AGNAM"
+,"studio zuburi" : "スタジオ ズブリ"
+,"studio-ash" : "Studio-Ash"
+,"studio-sakura" : "Studio Sakura"
+,"style-c3" : "Style-C3"
+,"subsonic factor" : "SUBSONIC FACTOR"
+,"succubus" : "SUCCUBUS"
+,"sueya" : "末屋"
+,"sugar beans" : "シュガービーンズ"
+,"sugar berry syrup" : "Sugar*Berry*Syrup"
+,"sugar house" : "シュガーハウス"
+,"sugar pot" : "Sugar pot"
+,"sugar soul drive" : "SugarSoulDrive"
+,"sugar star" : "Sugar star"
+,"sugarcake" : "砂糖ケーキ"
+,"sugarspot" : "SUGAR(S)POT"
+,"suginami mougyuu kai" : "杉並猛牛会"
 ,"sugitakaya" : "杉崇屋"
+,"sugiura-ke" : "杉浦家"
 ,"sugiura-ya" : "杉浦家"
+,"sugiya" : "杉屋"
+,"suika dokei" : "すいか時計"
+,"suirankaku" : "翠蘭郭"
+,"suiren" : "翠憐"
+,"suitekiya" : "水滴屋"
+,"sukapon-do" : "スカポン堂"
+,"sukaradog" : "SUKARADOG"
+,"sukiiro sekai" : "スキイロセカイ"
+,"sumechiru" : "スメチル"
+,"sumi kara sumi made" : "スミカラスミマデ"
+,"sumicco." : "すみっこ。"
+,"sumikko soft" : "すみっこソフト"
+,"sumire club" : "スミレ倶楽部"
+,"sumisumi dou" : "スミスミ堂"
+,"sumomo" : "すもも"
+,"sumomo dou" : "すもも堂"
+,"sune girochin" : "すねぎろちん"
 ,"sunkist orange" : "サンキスト・オレンジ"
+,"sunset dreamer" : "Sunset Dreamer"
+,"supe" : "すぺ"
+,"super flat lolinitron" : "超平板小娘電視台"
 ,"super soul" : "SUPER SOUL"
 ,"surf" : "Surf"
+,"surumeya" : "するめ屋"
+,"survive" : "Survive"
 ,"sutekiplan" : "ステキプラン"
+,"suzuki giken" : "鈴木技研"
+,"suzukure" : "涼暮"
+,"suzunaridou" : "鈴鳴堂"
+,"suzune rai chikashitsu" : "鈴根らい地下室"
+,"suzuya" : "涼屋"
+,"swan" : "スワン"
+,"swan mania" : "スワンマニア"
+,"swaneye" : "スワンアイ"
+,"swaneye plus" : "スワンアイ+"
+,"swat" : "SWAT"
+,"sweet" : "Sweet"
+,"sweet and tea" : "SWEET&TEA"
+,"sweet basil" : "スィートバジル"
+,"sweet brier" : "Sweet Brier"
+,"sweet candle" : "SweetCandle"
+,"sweet heart" : "SweetHEART"
+,"sweet light" : "Sweet light"
+,"sweet pea" : "Sweet Pea"
+,"sweet sage" : "SweetSage"
 ,"sweet sugar" : "Sweet Sugar"
+,"sweet taste" : "Sweet Taste"
 ,"sweetcotton" : "Sweetcotton"
+,"sweethearts" : "SweetHEART"
 ,"sweetlight" : "Sweetlight"
+,"sweetpain" : "Sweetpain"
+,"sweettaboo" : "SWEET TABOO"
+,"syakunage" : "しゃくなげ"
+,"syangrila" : "しゃんぐりら"
+,"symphony" : "Symphony"
+,"synthetic garden" : "Synthetic Garden"
+,"syokusyusentai" : "Syokusyusentai"
 ,"syrup -honey sweet-" : "SYRUP -Honey Sweet-"
+,"system gzzy" : "SYSTEM GZZY"
+,"syunichi kansuu" : "しゅにち関数"
+,"syunkan saidaihusoku" : "瞬間最大風速"
+,"t.4.p" : "T.4.P"
+,"t.cop" : "T.cop"
+,"t2 art works" : "T2 Art Works"
+,"t2 unit" : "T2UNIT"
+,"t2000" : "T2000"
+,"tabito" : "サークル旅人"
+,"tabitoya" : "旅人屋"
+,"tablet" : "Tablet"
+,"tachibanakan" : "TACHIBANAKAN"
 ,"tachikawa software" : "たちかわソフトウェア"
+,"tachimukau" : "タチムカウ"
+,"tachineko miya" : "タチネコ宮"
+,"tactics" : "Tactics"
 ,"tadakage-dou" : "Tadakage-dou"
+,"taikan kyohougumi" : "大艦巨砲組"
+,"tail" : "Tail"
+,"tail of nearly" : ["tail of nearly", "てーるおぶにやりー"]
+,"tail skid" : "TAIL SKID"
+,"tail up" : "TAIL UP!"
+,"tail wind" : "TAIL WIND"
+,"tairikudoumeigun" : "大陸同盟軍"
+,"taisaisoft" : "Taisaisoft"
+,"taishikan" : "大志館"
+,"taishita shoten" : "太下書店"
+,"taiyaki yaketa" : "たいやきやけた"
+,"takadoya-tei" : "たかどや亭"
+,"takakuya" : ["TAKAKUya", "高久屋"]
+,"takanaedoko" : "高苗床"
+,"takane no hanazono" : "たかねの花園"
+,"takara no suzunari" : ["たからのすずなり", "TAKARANO SUZUNARI"]
 ,"takarabune" : "宝船"
+,"takaradamashii" : "宝魂"
+,"takatobiya" : ["高飛屋", "タカトビヤ"]
+,"takatsuki koujou" : "高槻工場"
+,"takayashiki kaihatsu" : "高屋敷開発"
+,"take out" : "Take Out"
+,"takeda syouten" : "武田商店"
+,"takemasaya" : "たけまさ屋"
+,"takeout" : "テイクアウト"
+,"takeya" : "たけ屋"
+,"takimoto doujou" : "滝本道場"
+,"takitate" : ["炊きたて", "TAKITATE"]
+,"takotsubo club" : "たこつぼ倶楽部"
+,"takotsuboya" : "蛸壺屋"
+,"takoyaki-batake" : "たこ焼き畑"
+,"takumi na muchi" : ["たくみなむち", "たくみな無知"]
+,"takumiya" : "TAKUMIYA"
+,"takurowo-dou" : "タクロヲ堂"
+,"talisman" : "Talisman"
+,"tama center" : "たまセンター"
+,"tamagou" : "多摩豪"
+,"tamakakeya" : "たまかけ屋"
+,"tamakiya" : "環屋"
+,"tamamo soft" : "玉藻ソフト"
+,"tamamo studio" : "玉藻スタジオ"
+,"tamaranchi" : "たまらんち"
+,"tamashii max" : "魂MAX"
+,"tamashiro" : "たましろ"
+,"tama-soft" : "たまソフト"
+,"tamatamasanmyaku" : "たまたま山脈"
+,"tanabata milky way" : "タナバタミルキーウェイ"
+,"tange kentou club" : "丹下拳闘倶楽部"
 ,"tanishi flavor" : "タニシフレーバー"
+,"tanmatsu ijou" : "端末異常"
+,"tanuki no rakugaki" : "たぬきの落書き"
+,"tanuki soft" : "たぬきそふと"
+,"tanuking sleep" : "たぬきんぐすりーぷ"
+,"tarako koubou" : "たらこ工房"
+,"tarots" : "TAROTS"
+,"tartarosauce of the hell" : "地獄のタルタロソース"
+,"tarte" : "Tarte"
+,"tarutaru-ke" : "たるたる家"
+,"tasomorera" : "たそもれら"
+,"ta-ta-s labo" : "TA-TA-S LABO"
+,"tatesima." : "タテシマ。"
+,"tatteinu koubou" : "たってぃぬ工房"
 ,"tawarishichi" : "たわり しち"
+,"team fraternity" : "Team FRATERNITY"
+,"team ibm" : "Team IBM"
 ,"team its mint" : "team IT’S みんと"
+,"team kihara" : "チームキハラ"
+,"team phoenix" : "TEAMフェニックス"
 ,"team popup" : "チーム・ポップアップ"
+,"team sazandora" : "チームサザンドラ"
+,"team shuffle" : "TEAM SHUFFLE"
+,"team tanabe" : "田辺組"
+,"tear drop" : "TEAR DROP"
+,"tecchitecchi" : "テッチテッチ"
+,"tech-ken" : "TECH-KEN"
+,"teikiatu de ikou" : "低気圧で行こう"
+,"teikoku onanies" : "帝国オナニーズ"
+,"teikuu ms combo" : "低空MSコンボ"
+,"teishibou new" : "低脂肪乳"
+,"tekireiki ni shokuchuudoku" : "適齢期に食中毒"
+,"telomerena" : "テロメアナ"
+,"temparing" : "テンパりんぐ"
+,"tempest" : "Tempest"
+,"tenchuugumi" : "天誅組"
 ,"tengallon" : "てんがろん"
+,"tengu no tsuzura" : "天狗のつづら"
+,"tenjikuya" : "天軸屋"
+,"tenkaichi babys" : "天下一ベイビーズ"
+,"tenkirin" : "天気輪"
+,"tenko" : "天狐"
 ,"tennen yuuwaku princess" : "天然誘惑プリンセス"
+,"tennenseki" : "天然石"
+,"tenny le tai" : "テニーレ隊"
+,"tenraiga" : "天雷芽"
 ,"tensen koubou" : "天仙工房"
 ,"tentacle games" : "Tentacle Games"
+,"tentai-kansoku" : "テンタイ→カンソク"
+,"tentendou" : "てんてん堂"
+,"tenzan koubou" : "天山工房"
+,"tenziku opera company" : "TENZIKU OPERA COMPANY"
+,"terios" : "Terios"
+,"teriyaki nikuman" : "てりやきにくまん"
+,"terra drive" : "TERRA DRIVE"
+,"teruo haruo" : "てるおはるお"
+,"teruterugirl" : "てるてるがーる"
+,"testa kitchen" : "てすた厨房"
+,"tetratech" : "TETRATECH"
+,"tetrodotoxin" : "TETRODOTOXIN"
+,"tetsu no otoshigo" : "てつのおとしご"
+,"tetsunari doujou" : "鉄成道場"
+,"teufelwald" : "Teufelwald"
+,"tex-mex" : "TEX-MEX"
+,"tga" : "TGA"
+,"the dungeon in yarn" : "The Dungeon In Yarn"
+,"the flyers" : "THE FLYERS"
 ,"the fools house" : "THE FOOLS HOUSE"
+,"the knight of the pants" : "パンツ騎士団"
+,"the latest engine" : "The Latest Engine"
+,"the nation of head scissors" : "The Nation of Head  Scissores"
+,"the saturn" : "THE SATURN"
+,"the world" : "The World"
+,"third brand" : "THIRD BRAND"
+,"thirty saver street 2d shooting" : "サーティセイバーストリート 2dシューティング"
 ,"thornapple" : "Thornapple"
+,"thultwul" : "トュルトュル"
+,"tiare" : "TIARE"
+,"tiba-santi" : "千葉産地"
+,"ties" : "TIES"
 ,"tigerman project" : "タイガーマンプロジェクト"
+,"tigers eye" : "Tiger's eye"
+,"tigre soft" : "てぃ～ぐる"
+,"times square" : "TIMES SQUARE"
+,"timest" : "TIMEST"
+,"timtim machine" : "TIMTIMマシン"
+,"tinker bell" : ["Tinker Bell", "ティンカーベル"]
+,"tinkerbell" : "TinkerBell"
+,"tinkle position" : "Tinkle Position"
 ,"tiny bell" : "Tiny Bell"
+,"tiny feather" : "Tiny Feather"
+,"tiramisu tart" : "てぃらみすたると"
+,"titancolor brand" : ["チタンカラー ブランド", "TITANCOLOR BRAND"]
+,"titokara 2nd branch" : "千歳烏山第2出張所"
+,"tk-bros" : "TK-BROS"
+,"tnk" : "TNK"
+,"t-north" : "T-NORTH"
+,"todd special" : "トッドスペシャル"
+,"tohonifun" : "徒歩二分"
+,"tohosanhun" : "徒歩三分"
+,"tokage 3gou" : "とかげ3号"
+,"tokai oohashi" : "東海大橋(仮)"
+,"tokimigumi" : "時美組"
 ,"tokino sakura" : "トキノサクラ"
+,"tokinochaya" : "時乃茶屋"
+,"tokki mono" : "サークル突起物"
 ,"tokkibutsu gerotan" : "とっきぶつげろたん"
+,"tokohana" : "とこはな"
+,"tokoroten" : "ところてん"
+,"toko-ya" : "床子屋"
+,"tokuda" : "とくだ"
+,"tokyo glider" : "東京グライダー"
+,"tokyo tomodachi kouen" : "東京友達公園"
+,"tololinco" : "とろりんこ"
+,"toluene ittokan" : "トルエン一斗缶"
+,"tom tom" : "トムトム"
+,"tomahawk" : "とまほーく"
+,"tomato" : "TOMATO"
+,"tomato kanzume" : "TOMATO缶詰"
+,"tomatta tokei" : "とまった時計"
+,"tomikadou" : "tomika堂"
+,"tomoshibiya koubou" : "灯夜工房"
+,"tone works" : "tone work's"
+,"tonkatsu" : "サークル・とんかつ"
+,"tonpuuratei" : "とんぷぅら亭"
+,"top" : "TOP"
+,"topgun" : "TOP GUN"
+,"tora machine" : "虎マシーン"
+,"toraisix" : "とらいしっくす"
+,"toraya" : "トラ屋"
+,"tori no ya" : "鳥の屋"
+,"toriaezu kari" : "とりあえず(仮)"
+,"torihamu holic" : "とりはむほりっく"
+,"torii-za" : "鳥居座"
 ,"toriten software studio." : "Toriten Software Studio."
+,"toruneko chaya" : "獲る猫茶屋"
+,"toto max" : "totoMAX"
+,"totomi ya" : "totomi屋"
+,"totoya" : "兎々屋。"
+,"totsugeki wolf" : ["突撃ウルフ", "おしおきウルフで突撃タッチ"]
+,"touchable" : "TOUCHABLE"
+,"toufuya" : "とーふ屋"
+,"tougall kai" : "東ガル会"
+,"tougechaya" : "峠茶屋"
+,"tougenkyo" : "桃源郷"
+,"tougesakuraya" : "峠桜屋"
 ,"tougeya honpo" : "峠屋本舗"
 ,"toukyou shinbunsha" : "倒狂新聞社"
+,"toumei kousoku" : "透明光速"
+,"toumei tsuushin" : "透明通信"
+,"tounantou" : "東＊南＊東"
+,"tousoushin" : "TOUSOUSHIN"
+,"touyoko surfrider" : "東横サーフライダー"
+,"touzoku tachi no rakuda no mure" : "盗賊達の駱駝の群"
+,"toyatei" : "とやてい"
+,"toybox" : "といぼっくす"
+,"tozan bu" : "TOZAN・BU"
+,"t-press" : "T-press"
+,"trabulance" : "Trabulance"
+,"tracklisko" : "とらつくりすこ"
+,"trancesoft" : "TranceSoft"
+,"trans" : "Trans"
+,"transistor baby" : "トランジスタベイビィ"
+,"trap" : "TRAP"
+,"triad" : "TRIAD"
+,"triangle" : "Triangle"
+,"tribo" : "TRIBO"
+,"trick a" : "Trick A'"
+,"tridisaster" : "Tridisaster"
+,"tri-moon" : "TRI-MOON"
+,"trinity kyoudan" : "トリニティ教団"
+,"trip dancer" : "TRIP DANCER"
+,"triple joker" : "トリプルジョーカー"
+,"triple n" : "TriPLE“n”"
+,"trumple" : "TRUMPLE"
+,"tryset" : "TRYSET"
+,"tryset break" : "TRYSET Break"
+,"tryset mad" : "TRYSET MAD"
+,"tsf no f" : "TSFのF"
+,"tsk" : ["TSK", "天使館"]
+,"tsubuan doumei" : "TSUBUANDOUMEI"
+,"tsuchineko" : "つちねこ"
+,"tsuchinoko kyoukai" : "ツチノコ協会"
+,"tsuji andon" : "辻行灯"
+,"tsujimo ga machi ni yattekita" : "つじもが町に殺ってきた!!!"
 ,"tsukasa" : "TSUKASA"
 ,"tsuki no ryodan" : "月の旅団"
+,"tsukuten" : "つくてん"
+,"tsunken" : "ツン研"
+,"tsurikichi doumei" : "釣りキチ同盟"
 ,"tsurukawa ryozanpaku" : "鶴川梁山泊"
+,"tsurukiya" : "鶴喜屋"
+,"tsurumiku" : "つるみく"
 ,"tsurupeta punch" : "つるぺたぱんち"
+,"tsutsumorien" : "筒森園"
+,"ttt" : "TTT"
+,"tubasa" : "翼"
+,"tukamori club" : "TUKAMORI CLUB"
+,"tukinon bunko" : "月音文庫"
+,"tuned by aiu" : "Tuned by AIU"
+,"turing game" : "Turing Game"
+,"turning point" : "Turning point"
+,"turquoise" : "ターコイズ"
+,"turtle.fish.paint" : ["龜魚派", "Turtle.Fish.Paint", "T.F.P"]
+,"tuyudakukei nijigumi" : "汁ダク系 虹組"
+,"tweak" : "Tweak"
+,"twilight dusk" : "TWILIGHT DUSK"
 ,"twilight moon" : "Twilight Moon"
+,"twilightlyric" : "TwilightLyric"
+,"twin heart" : "TWIN HEART"
+,"twin tail" : "TWIN TAIL"
+,"twin tail laboratory" : "TWIN TAIL LABORATORY"
+,"twinbox" : "TwinBox"
+,"twinbunny" : "Twinbunny"
+,"twinkle" : "Twinkle"
+,"twinkle heart." : "とぅいんくるはーと"
+,"twinkle snows" : "TWINKLE SNOWS"
+,"tyatsune" : "茶常"
+,"type punishment" : "罰式"
+,"type-g" : "Type-G"
+,"type-moon" : "TYPE-MOON"
+,"tyrell piccolo" : "たいれるPiccolo"
+,"u.r.c" : "U.R.C"
+,"ua" : "UA"
+,"ua daisakusen" : "U・A大作戦"
+,"u-bullet" : "U-BULLET"
+,"uchinon" : "うちのん"
 ,"uchuu ryokou kyoukai" : "宇宙旅行協会"
+,"ucky labo" : "ウッキーラボ"
+,"ucyunekogundan" : "宇宙猫軍団"
+,"udon-ya" : "うどんや"
+,"ue ni aru mikan" : "うえにあるみかん"
 ,"uenihane" : "うえにはね"
+,"ugeman" : ["うげ漫", "UGE-MAN"]
+,"ugo" : "UGO"
+,"uguisu kagura" : "ウグイスカグラ"
+,"uguisuya" : "うぐいす屋"
+,"ukkaridou" : "うっかり堂"
+,"uk-works" : "UK-WORKS"
+,"ulala" : "うらら"
+,"ultra pirontan" : "ULTRA PIRONTAN"
+,"u-me soft" : "U・Me SOFT"
+,"umemoto seisaku iinkai" : "梅本制作委員会"
+,"umenomi gahou" : "梅の実画報"
+,"ume-nyan-tei" : "UME-NYAN-TEI"
+,"umesuke" : "UMESUKE"
 ,"umetama karubo" : "UMETAMA KARUBO"
+,"uminouie" : "海納家"
+,"umitsuki seisakusho" : "海月製作所"
+,"umon paradise" : "ウーモンパラダイス"
+,"unadon" : ["うな丼", "うなどぅーむ"]
+,"unadondon" : "うな丼丼"
 ,"unagi academy" : "鰻アカデミー"
+,"unagi no nedoko" : "うなぎの寝床"
+,"unaginobori" : "うなぎのぼり"
+,"unagiyasan" : "うなぎやさん"
+,"undead" : "UNDEAD"
+,"undead world" : "UNDEAD WORLD"
+,"undel" : "あんでる"
+,"under77" : "UNDER77"
+,"underlip" : "アンダーリップ"
+,"undermoon" : "アンダームーン"
+,"unfixed" : "UNFIXED"
+,"ungrofish" : ["地下魚！", "UNDER GROUND FISH!", "Ungrofish!"]
+,"uni matrix one" : "UNI MATRIX ONE"
+,"uni no tane" : "うにの種"
+,"uniikuradon" : "うにいくら丼"
+,"uninigumi" : "うにに組"
+,"union of the snake" : "UNION OF THE SNAKE"
+,"unisex blend" : "UNISEX BLEND"
+,"unisonshift" : "UNiSONSHIFT"
+,"unisonshift accent" : "UNiSONSHIFT Accent."
+,"unisonshift blossom" : "UNiSONSHIFT：Blossom"
 ,"unitone" : "UNITONE"
+,"unizo" : "うに蔵"
+,"unknown" : "UNKNOWN"
 ,"unn slash a" : "UnN／A"
+,"uotatsu18kinshiten" : "魚辰一八金支店"
+,"uousaohkoku" : "魚ウサ王国"
+,"upagoya" : "うぱ小屋"
+,"ura" : ["URA", "游有英"]
+,"ura fmo" : "裏FMO"
+,"urahyakkiyakou" : "裏百鬼夜行"
+,"ura-innosq" : "URA-innosq"
+,"urainutei" : "裏イヌ亭"
+,"urakata honpo" : "裏方本舗"
+,"uran" : "URAN"
+,"uran-factory" : "URAN FACTORY"
+,"uraomote." : "ウラオモテ。"
+,"uraryon kikaku" : "うらりょん企画"
+,"urasazan" : "うらさざん"
+,"urawa anime festa" : "浦和アニメフェスタ"
+,"urayoroduya" : "Ura Yoroduya"
+,"urayorozuya" : "Ura Yoroduya"
+,"uroboros" : "UROBOROS"
+,"uropyon" : "うろぴょん☆"
+,"urufechi" : "うるふぇち Ultimate Fetish"
+,"urumin" : "URUMIN"
+,"usa daioh" : "ウサ大王"
+,"usacastle" : "Usacastle"
+,"usagi boss" : "ウサギBOSS"
+,"usagi club" : "うさぎ倶楽部"
+,"usagi youchien" : "うさぎ幼稚園"
+,"usagigoya" : "うさぎ小屋"
+,"usaneri island" : "Usaneri★IsLand"
+,"usausa" : "うさうさ"
+,"usausa bunny" : "うさうさバニー"
+,"ushikani gassen" : "牛蟹合戦"
 ,"ushimitsu soft" : "ウシミツソフト"
+,"uso seisakusho" : "うそ製作所"
 ,"uso to chinmoku" : "嘘と沈黙"
+,"usotsukiya" : "嘘つき屋"
+,"utamaru press" : "うたまるPress"
+,"utaneya" : "うたね屋"
+,"utanone dou" : "うたのね堂"
+,"utataneyashiki" : "転寝屋敷"
+,"utatte go" : "うたってゴー"
+,"uzigaya" : "氏賀屋"
+,"uzo-muzo" : "UZO-MUZO"
+,"v. hercules" : "V・ヘラクレス"
+,"valkyria" : "わるきゅ～れ"
 ,"vamp" : "VAMP"
+,"vanadis" : "Vanadis"
+,"vanilla-dou max" : "バニラ堂MAX"
+,"variable" : "VARIABLE？"
+,"vega" : "VEGA"
+,"venom" : "VENOM"
 ,"veryberry" : "Veryberry"
+,"veto" : "VETO"
+,"violence asia team" : "猛烈アジア隊"
+,"violence club" : ["VIOLENCE CLUB", "ばいおれんす倶楽部"]
+,"violet order" : "VIOLET ORDER"
+,"virgin virus" : "Virgin Virus"
+,"virginal" : "VIRGINAL"
+,"visionnerz" : "VISIONNERZ"
+,"vista" : "VISTA"
+,"vitamin gohan" : ["ビタミンごはん", "Vitamin rice!"]
+,"vitamin l" : "ビタミンL"
+,"vitamin soft" : "ビタミン"
+,"vivido" : "ヴィヴィ堂"
+,"vollmond" : "VOLLMOND"
+,"voltcompany." : "VOLTCOMPANY."
+,"volvox" : "VOLVOX"
+,"vpans extasy" : "Vパン’sエクスタシー"
+,"v-spot" : "V-SPOT"
+,"waffle" : "Waffle"
+,"waffle doumeiken" : "ワッフル同盟犬"
+,"wafuu" : "わ風"
+,"wagamama dou" : ["我儘堂", "わがまま堂"]
 ,"wagamama king" : "わがままKING"
+,"wagarashiya" : "和がらし屋"
+,"waisetsujou" : "猥褻城"
+,"wakamaker" : "WAKAMAKER"
+,"wakuwaku doubutsuen" : "わくわく動物園"
+,"wakuwaku gochishiko land" : "わくわく！ごちシコランド"
+,"wancho-ke" : "わんちょ家"
+,"wanton land kumiai" : "わんとんランド組合"
+,"wanwandoh" : "わんわん堂"
+,"warabimochi" : "ワラビモチー"
+,"waretama" : "われたま。"
+,"warheads" : "WARHEADS"
+,"warp loop" : "WARP LOOP"
 ,"washokudeniku." : "和食で肉。"
+,"wasre kaban" : "忘れカバン"
+,"wasuraruru tegami" : "忘らるる手紙"
+,"wata 120 percent" : "綿120パーセント"
+,"watakubi" : "わたくび"
+,"water drop" : "うぉーたーどろっぷ"
 ,"water fall" : "WATER FALL"
+,"waterwheel" : "water wheel"
+,"watosato" : "ワトサト"
+,"watsukiya" : "わつき屋"
+,"web knight" : "Web Knight"
 ,"wedding cake" : "ウェディングケーキ"
+,"wendybell" : "Wendy Bell"
+,"west vision" : "West Vision"
+,"wheel" : "WHEEL"
+,"whirlpool" : "Whirlpool"
+,"white cyc" : "WHITE CYC"
+,"white drop" : "ホワイトドロップ"
+,"white elephant" : "WHITE ELEPHANT"
+,"white out" : "WHITE OUT"
+,"white strawberry paper" : "白いちご新聞"
+,"whitemoor" : "WhiteMoor"
+,"whitepowder" : "WhitePowder"
+,"whitesoft" : "WHITESOFT"
 ,"whitesoft-albino" : "WHITESOFT-ALBINO"
+,"wicked heart" : "WICKED HEART"
+,"wild flower" : "WILD FLOWER"
+,"wild kingdom" : "WILD KINGDOM"
+,"wild rose" : "WILD ROSE"
+,"will tame" : ["ウィルテイム", "WINGLAY SOFT"]
+,"wind rhythm" : "WIND RHYTHM"
+,"windarteam" : "風藝WindArTeam"
+,"windfall" : "WIND FALL"
+,"windmill" : "ういんどみる"
+,"windmill oasis" : "ういんどみるOasis"
+,"windtone" : "うぃんどと～ん"
+,"windy wing" : "WiNDY_WiNG"
+,"winger in mind" : "WINGER in MIND"
+,"winters" : "WINTERS"
+,"wireframe" : "WIREFRAME"
+,"witch" : "Witch"
+,"witchflame" : "WitchFlame"
 ,"witchs" : "WITCH'S"
 ,"withdrop" : "ウィズドロップ"
+,"wolkenkratzer" : "WOLKENKRATZER"
+,"wonawonchi" : "ヲナヲんち"
+,"wonder fool" : "Wonder Fool"
+,"wonderful one" : "WONDERFUL ONE"
+,"words worth" : "ワーズワース"
+,"works maruma" : "WORKS MARUMA"
+,"works-maruma" : "WORKS MARUMA"
+,"workstation r" : "ワークステーションR"
+,"wougiya" : "をうぎや"
+,"wrench studio" : "WRENCH STUDIO"
 ,"wwalker" : "W'WALKER"
+,"xai" : "彩[Xai]"
+,"xanadu" : "キサナドゥ"
+,"x-bangbang" : "X-BANGBANG"
+,"xiguratt works" : "Xiguratt Works"
+,"xration" : "Xration"
+,"xuse" : "ザウス"
 ,"xuse happou" : "ザウス【発泡】"
+,"xuse honjouzou" : "ザウス【本醸造】"
+,"xxx" : "XXX"
+,"y no shokutaku" : "Yの食卓"
+,"yabougumi" : "野望組"
+,"yadokugaeru" : "ヤドクガエル"
 ,"yaesaka" : "YAESAKA"
+,"yagi to sakana" : "山羊と魚"
+,"yagisaki ginza" : "八木崎銀座"
 ,"yago no ana" : "ヤゴの穴"
 ,"yajirushi factory" : "矢印ファクトリー"
+,"yajuu kazoku" : "野獣家族"
+,"yakan hikou" : "夜間飛行"
+,"yakata" : ["館-YAKATA-", "Yakata"]
 ,"yaki ringo" : "YAKIRINGO"
+,"yakiniku tabetai" : "焼肉食べたい"
+,"yakiniku teikoku" : "焼肉帝国"
+,"yakiyama line" : "YAKIYAMA LINE"
 ,"yakoutei" : "夜光亭"
+,"yakouyousei" : "夜光幼性"
+,"yamagarasu" : "やまガラス"
+,"yamaguchi print" : "やまぐちぷりんと"
+,"yamaguchirou" : "やまぐち楼"
+,"yamakon-ya" : "山紺屋"
+,"yamamoto" : "山本同人"
+,"yamamoto j.k" : "山本J・K"
+,"yamanashi musume." : "やまなし娘。"
+,"yami ni ugomeku" : "闇に蠢く"
+,"yamitsuki koubou" : "闇憑キ工房"
+,"yamo7" : "ヤモセブン"
+,"yanasegawabeya" : "柳瀬川部屋"
+,"yan-yam" : "Yan-Yam"
 ,"yappari suki" : "やっぱり好き"
+,"yaroujidai" : "YAROUZIDAI"
+,"yasagure kitsuenjo" : "やさぐれ喫煙所"
+,"yashiya" : "やし屋"
+,"yasyokutei" : "夜食亭"
+,"yatagarasu" : ["Yatagarasu", "八咫鴉"]
+,"yaya hinata-ya" : "梢日向屋"
+,"ya-zy" : "YA-ZY"
+,"yellow tag" : "YELLOW TAG"
+,"yggdrasil" : ["yGGDRASIL", "イグドラシル"]
+,"ylang-ylang" : ["YLANG-YLANG", "イランイラン"]
+,"yojouhan" : "四畳半"
+,"yokohama lemonade" : "横濱レモネード"
+,"yokoshimanchi." : "横島んち。"
+,"yokoshimaya" : "邪屋。"
+,"yomosue doukoukai" : "ヨモスエ同好会"
+,"yomothuhirasaka" : "黄泉比良坂"
+,"yorimichi" : "よりみち"
+,"yorokobi no kuni" : "ヨロコビの国"
+,"yoru no benkyoukai" : "夜の勉強会"
+,"yoru no hitsuji" : "夜のひつじ"
+,"yoshizakiminesya" : "吉崎観音社"
+,"yosutebito na mangakaki" : "世捨人な漫画描き"
 ,"yotukuro" : "YOTUKURO"
+,"youdou sakusen" : "陽動作戦"
+,"youkai ankake" : "妖怪あんかけ"
+,"youkai tamanokoshi" : "ようかい玉の輿"
+,"youki m.k.c." : "優希M.K.C."
+,"youmusya" : "遥夢社"
+,"yours-wow" : "YOUR'S-WOW!!"
+,"youseimangasya" : "妖精漫画社"
+,"youtoujirushi" : "洋燈印"
+,"yu gp03" : "YU GP03"
+,"yudokuya" : "友毒屋"
+,"yuganda oukoku" : "YUGANDA OUKOKU"
+,"yuiumiya" : "結海屋"
+,"yuka house" : "YUKA HOUSE!!"
+,"yukan high zakura" : "有閑High桜"
+,"yuki-iro" : "YuKi-IRo"
+,"yukijirushi nyuugyou" : "逝印乳業"
+,"yukimi honpo" : "ゆきみ本舗"
+,"yukirins" : "YUKIRINS"
+,"yukisizuku" : "ゆきしずく"
 ,"yukitenkan" : "雪天館"
+,"yume no kakera" : "ユメノカケラ"
+,"yume no niwatori goya" : "夢のニワトリ小屋"
+,"yume yori suteki na" : "夢よりすてきな"
+,"yumemigokoti" : "夢見ごこち"
+,"yumemiru" : "ユメミル"
+,"yumemisou" : "夢見奏"
+,"yumeno-gotosi" : "夢ノ如シ"
+,"yumesaki annai kairanban" : "夢先案内回覧板"
+,"yumesenri" : "夢染理"
 ,"yumeya hananoya" : ["夢屋花乃屋", "オポチュニティ委員会", "STARDUST-OPERATION"]
+,"yureru keikoutou" : "揺れる蛍光灯"
+,"yuriai kojinshi kai" : "悠理愛個人誌会"
 ,"yurimoe" : "ユリ萌え☆"
-,"rokisonin koubou" : "ろきそにん工房"
-,"kurumi" : "くるみ"
-,"jast" : "JAST"
-,"ice" : "ICE"
-,"juice" : "JUICE"
-,"jewelry" : "ジュエリー"
-,"jungarian" : "ジャンガリアン"
-,"hammerheads" : "Hammerheads"
-,"happywest" : "ハッピー・ウエスト"
-,"happyend" : "HappyEnd"
-,"hard" : "HARD"
-,"88 gou" : "88号"
-,"aokihoshi" : "AOKIHOSHI"
-,"chelsea lip" : "Chelsea lip"
-,"index410" : "INDEX:410"
-,"jinsei saigo no asobi." : "人生最後の遊び。"
-,"kamikire basami" : "紙切ればさみ"
-,"moriq" : "moriQ"
-,"morishigeru laboratory" : "もりしげる研究所"
-,"nanmin festival" : "NANMIN-FESTIVAL"
-,"nekosenyou milk" : "猫専用牛乳"
-,"new koubou" : "NEW工房"
-,"pirokobo" : "ピロコボ"
-,"platonic shoujo" : "Platonic少女"
-,"r.o.c" : "R.O.C"
-,"rakuichimonji" : "楽一文字"
-,"mat" : "MAT"
-,"tracklisko" : "とらつくりすこ"
-,"rolling haiena" : "Rollingハイエナ"
-,"uminouie" : "海納家"
-,"usagi boss" : "ウサギBOSS"
-,"syangrila" : "しゃんぐりら"
-,"spiral" : "すぱいらる"
-,"sawayaka tokunou milk" : "爽やか特濃みるく"
-,"nexus koubou" : "ネクサス工房"
+,"yuriru-rarika" : "ユリルラリカ"
+,"yururuka-dou" : "ゆるるか堂"
+,"yusaritsukata" : "ゆうさりつかた"
+,"yuubeno gakuensai" : "ユウベノ学園祭"
+,"yuugai tosho kikaku" : "有害図書企画"
+,"yuugen jikkou" : "有言実行"
+,"yuugure koubou" : "夕暮向房"
+,"yuuhodou" : ["遊歩堂(てくてく)", "遊甫堂(telemark)"]
+,"yuukari soft" : "ゆ～かりそふと"
+,"yuunabe shinkouchuu" : "夕鍋進行中"
+,"yuunagi gaibutai" : "夕凪の戦力外部隊"
+,"yuunagi zakkaten" : "夕凪雑貨店"
+,"yuusei honpo" : "遊星本舗"
+,"yuusha-sama go-ikkou" : "勇者様御一行"
+,"yuushaya" : "勇者屋"
+,"yuuyake note" : "ゆうやけのーと"
+,"yuuyami sabou" : "夕闇茶房"
+,"yuuzen animal dou" : "友禅あにまる堂"
+,"yu-yu tei" : "YU-YU TEI"
+,"yuzu soft" : "ゆずソフト"
+,"yuzupon" : "ゆずぽん"
+,"yuzuponz" : "ゆずぽん酢"
+,"yuzuriha" : "譲葉"
+,"za da carjya" : "ZA DA CARJYA"
+,"zangyaku koui teate" : ["残虐行為手当", "GENOCIDE BONUS"]
+,"zankirow" : "斬鬼楼"
+,"zankoku ondo" : "残酷音頭"
+,"zattou keshiki" : "雑踏景色"
+,"zenmai kourogi" : "ぜんまいこうろぎ"
+,"zenos" : "Zenos"
+,"zenra qq" : "全裸QQ"
+,"zenra restaurant" : "全裸レストラン"
+,"zensekai yakenohara doumei" : "全世界焼野原同盟"
+,"zensoku rider" : "漸速ライダー"
+,"zero" : "ZERO"
+,"zero byte" : "0byte"
+,"zero hour" : "ZERO HOUR"
+,"zero-sen" : "zero戦"
+,"zetsubou shiromuji" : "絶望しろむじ"
+,"zettai kanzen rippoutai" : "絶対完全立方体"
+,"zettai shoujo" : "絶対少女"
+,"zi" : "Zi"
+,"zi0topia" : "ジ○トピア"
+,"zigzag" : "ZIGZAG"
+,"zinzin" : "ジンジン"
+,"zion" : "ZION"
+,"zip" : "ZiP"
+,"z-less" : "Z-Less"
+,"znn" : "ZNN"
+,"zoku" : "ZOKU"
+,"zombie to yukaina nakamatachi" : "ぞんびと愉快な仲間たち"
+,"zone" : "ZONE"
+,"zouni" : "雑煮"
+,"z-tabukuroneko house" : "Zた袋猫ハウス"
+,"zuukoku shoukai" : "ずぅこく商会"
+,"z-vector" : "Z-VECTOR"
+,"zvizva-dan" : "ズビズバ団"
+,"zyx" : "Zyx"
 };
 var series_ejdic = {
- "original" : "オリジナル"
-,"touhou project" : "東方プロジェクト"
-,"fate grand order" : "Fate/Grand Order"
-,"the idolmaster" : "アイドルマスター"
-,"kantai collection" : "艦隊これくしょん"
-,"blue archive" : "ブルーアーカイブ"
-,"genshin impact" : "原神"
-,"pokemon" : "ポケモン"
-,"hololive" : "ホロライブ"
-,"azur lane" : "アズールレーン"
-,"granblue fantasy" : "グランブルーファンタジー"
-,"neon genesis evangelion" : "新世紀エヴァンゲリオン"
-,"one piece" : "ONE PIECE"
-,"sailor moon" : "セーラームーン"
-,"naruto" : "NARUTO"
-,"princess connect" : "プリンセスコネクト！"
-,"love live" : "ラブライブ！"
-,"girls und panzer" : "ガールズ＆パンツァー"
-,"arknights" : "アークナイツ"
-,"to love-ru" : "To LOVEる"
-,"sword art online" : "ソードアート・オンライン"
-,"my hero academia" : "僕のヒーローアカデミア"
-,"mahou shoujo lyrical nanoha" : "魔法少女リリカルなのは"
-,"fate stay night" : "Fate/stay night"
-,"honkai star rail" : "崩壊スターレイル"
-,"street fighter" : "ストリートファイター"
-,"toaru project" : "とあるプロジェクト"
-,"nijisanji" : "にじさんじ"
-,"girls frontline" : ["ガールズフロントライン", "ドールズフロントライン"]
-,"bleach" : "BLEACH"
-,"king of fighters" : "ザ・キング・オブ・ファイターズ"
-,"kono subarashii sekai ni syukufuku o" : "この素晴らしい世界に祝福を！"
-,"league of legends" : "リーグオブレジェンド"
-,"puella magi madoka magica" : "魔法少女まどか マギカ"
-,"dragon ball z" : "ドラゴンボールＺ"
-,"k-on" : "けいおん！"
-,"final fantasy vii" : "ファイナルファンタジーVII"
-,"code geass" : "コードギアス"
-,"vocaloid" : "VOCALOID"
-,"zenless zone zero" : "ゼンレスゾーンゼロ"
-,"love live sunshine" : "ラブライブ！サンシャイン！！"
-,"yu-gi-oh" : "遊☆戯☆王"
-,"dead or alive" : "デッド オア アライブ"
-,"ore no imouto ga konna ni kawaii wake ga nai" : "俺の妹がこんなに可愛いわけがない"
-,"shingeki no kyojin" : "進撃の巨人"
-,"cardcaptor sakura" : "カードキャプターさくら"
-,"monster hunter" : "モンスターハンター"
-,"the melancholy of haruhi suzumiya" : "涼宮ハルヒの憂鬱"
-,"bakemonogatari" : "化物語"
-,"kimetsu no yaiba" : "鬼滅の刃"
-,"gochuumon wa usagi desu ka" : "ご注文はうさぎですか？"
-,"fate kaleid liner prisma illya" : "Fate/kaleid liner プリズマ☆イリヤ"
-,"dragon quest iii" : "ドラゴンクエストIII"
-,"touken ranbu" : "刀剣乱舞"
-,"toheart2" : "ToHeart2"
-,"free" : "Free!"
-,"boku wa tomodachi ga sukunai" : "僕は友達が少ない"
-,"sousou no frieren" : "葬送のフリーレン"
-,"queens blade" : "クイーンズブレイド"
-,"goddess of victory nikke" : "勝利の女神：NIKKE"
-,"ragnarok online" : "ラグナロクオンライン"
-,"love live nijigasaki high school idol club" : "ラブライブ！虹ヶ咲学園スクールアイドル同好会"
-,"bang dream" : "BanG Dream!"
-,"darkstalkers" : "ヴァンパイア ダークストーカーズ"
-,"ah my goddess" : "ああっ女神さまっ"
-,"infinite stratos" : "IS 〈インフィニット・ストラトス〉"
-,"smile precure" : "スマイルプリキュア!"
-,"re zero kara hajimeru isekai seikatsu" : "Re：ゼロから始める異世界生活"
-,"the legend of zelda" : "ゼルダの伝説"
-,"danganronpa" : "ダンガンロンパ"
-,"gotoubun no hanayome" : "五等分の花嫁"
-,"dragon ball" : "ドラゴンボール"
-,"samurai spirits" : "サムライスピリッツ"
-,"jujutsu kaisen" : "呪術廻戦"
-,"ojamajo doremi" : "おジャ魔女どれみ"
-,"xenoblade chronicles 2" : "ゼノブレイド2"
-,"uma musume pretty derby" : "ウマ娘プリティーダービー"
-,"persona 5" : "ペルソナ5"
-,"detective conan" : "名探偵コナン"
-,"gundam seed destiny" : "機動戦士ガンダムSEED DESTINY"
-,"honkai gakuen" : "崩壊学園"
-,"voiceroid" : "VOICEROID"
-,"guilty gear" : "ギルティギア"
-,"persona 4" : "ペルソナ4"
-,"one punch man" : "ワンパンマン"
-,"senki zesshou symphogear" : "戦姫絶唱シンフォギア"
-,"kemono friends" : "けものフレンズ"
-,"amagami" : "アマガミ"
-,"haikyuu" : "ハイキュー！！"
-,"spy x family" : "SPY×FAMILY"
-,"ranma 12" : "らんま1/2"
-,"chainsaw man" : "チェンソーマン"
-,"bocchi the rock" : "ぼっち・ざ・ろっく！"
-,"strike witches" : "ストライクウィッチーズ"
-,"dragon quest v" : "ドラゴンクエストV"
-,"saki" : "咲-Saki-"
-,"yahari ore no seishun love come wa machigatteiru" : "やはり俺の青春ラブコメはまちがっている"
-,"super robot wars" : "スーパーロボット大戦"
-,"dungeon ni deai o motomeru no wa machigatteiru darou ka" : "ダンジョンに出会いを求めるのは間違っているだろうか"
-,"to heart" : "ToHeart"
-,"lucky star" : "らき☆すた"
-,"resident evil" : "バイオハザード"
-,"kobayashi-san-chi no maid dragon" : "小林さんちのメイドラゴン"
-,"mahou sensei negima" : "魔法先生ネギま！"
-,"zero no tsukaima" : "ゼロの使い魔"
-,"fairy tail" : "FAIRY TAIL"
-,"dragon quest iv" : "ドラゴンクエストIV"
-,"kuroko no basuke" : "黒子のバスケ"
-,"senran kagura" : "閃乱カグラ"
-,"sakura taisen" : "サクラ大戦"
-,"kanon" : "KANON"
-,"love plus" : "ラブプラス"
-,"sono bisque doll wa koi o suru" : "その着せ替え人形は恋をする"
-,"yu-gi-oh zexal" : "遊☆戯☆王ZEXAL"
-,"martian successor nadesico" : "機動戦艦ナデシコ"
-,"last origin" : "ラストオリジン"
-,"digimon" : "デジモン"
-,"love hina" : "ラブひな"
-,"the legend of heroes" : "英雄伝説"
-,"tengen toppa gurren lagann" : "天元突破グレンラガン"
-,"ensemble stars" : "あんさんぶるスターズ！！"
-,"gundam seed" : "機動戦士ガンダムSEED"
-,"kaguya-sama wa kokurasetai" : "かぐや様は告らせたい"
-,"hyperdimension neptunia" : "超次元ゲイム ネプテューヌ"
-,"taimanin asagi" : "対魔忍アサギ"
-,"pripara" : "プリパラ"
-,"dragon quest" : "ドラゴンクエスト"
-,"gundam build fighters" : "ガンダムビルドファイターズ"
-,"hayate no gotoku" : "ハヤテのごとく！！"
-,"nier automata" : "NieR：Automata"
-,"puella magi madoka magica side story magia record" : "マギアレコード 魔法少女まどか マギカ外伝"
-,"soulcalibur" : "ソウルキャリバー"
-,"fullmetal alchemist" : "鋼の錬金術師"
-,"lycoris recoil" : "リコリス・リコイル"
-,"boruto" : "BORUTO-ボルト-"
-,"taimanin yukikaze" : "対魔忍ユキカゼ"
-,"urusei yatsura" : "うる星やつら"
-,"tenchi muyo" : "天地無用！"
-,"shokugeki no soma" : "食戟のソーマ"
-,"dragon quest xi" : "ドラゴンクエストXI"
-,"dokidoki precure" : "ドキドキ！プリキュア"
-,"amagi brilliant park" : "甘城ブリリアントパーク"
-,"jojos bizarre adventure" : "ジョジョの奇妙な冒険"
-,"mushoku tensei" : "無職転生"
-,"osomatsu-san" : "おそ松さん"
-,"chuunibyou demo koi ga shitai" : "中二病でも恋がしたい！"
-,"uzaki-chan wa asobitai" : "宇崎ちゃんは遊びたい!"
-,"rozen maiden" : "ローゼンメイデン"
-,"heartcatch precure" : "ハートキャッチプリキュア！"
-,"gundam build fighters try" : "ガンダムビルドファイターズトライ"
-,"blazblue" : "BLAZBLUE"
-,"highschool dxd" : "ハイスクールD×D"
-,"tsukihime" : "月姫"
-,"shinrabansho" : "神羅万象"
-,"super mario brothers" : "スーパーマリオブラザーズ"
-,"gintama" : "銀魂"
-,"gundam 00" : "機動戦士ガンダム00"
-,"higurashi no naku koro ni" : "ひぐらしのなく頃に"
-,"suite precure" : "スイートプリキュア♪"
-,"persona 3" : "ペルソナ3"
-,"fire emblem three houses" : "ファイアーエムブレム 風花雪月"
-,"tokyo afterschool summoners" : "東京放課後サモナーズ"
-,"yu-gi-oh arc-v" : "遊☆戯☆王ARC-V"
-,"kill la kill" : "キルラキル"
-,"macross frontier" : "マクロスF"
-,"fate zero" : "Fate/Zero"
-,"futari wa pretty cure" : "ふたりはプリキュア"
-,"fate hollow ataraxia" : "Fate/hollow ataraxia"
-,"fire emblem" : "ファイアーエムブレム"
-,"inazuma eleven" : "イナズマイレブン"
-,"komi-san wa komyushou desu." : "古見さんは、コミュ症です。"
-,"aikatsu" : "アイカツ！"
-,"final fantasy xiv" : "ファイナルファンタジーXIV"
-,"kyoukai senjou no horizon" : "境界線上のホライゾン"
-,"seiken densetsu 3" : "聖剣伝説3"
-,"working" : "WORKING!!!"
-,"gegege no kitarou" : "ゲゲゲの鬼太郎"
-,"wuthering waves" : "鳴潮"
-,"saenai heroine no sodatekata" : "冴えない彼女の育てかた"
-,"eromanga sensei" : "エロマンガ先生"
-,"ichigo 100" : "いちご100％"
-,"mobile suit gundam the witch from mercury" : "機動戦士ガンダム 水星の魔女"
-,"mitsudomoe" : "みつどもえ"
-,"go princess precure" : "Go！プリンセスプリキュア"
-,"overwatch" : "オーバーウォッチ"
-,"axis powers hetalia" : "Axis powers ヘタリア"
-,"steinsgate" : "STEINS;GATE"
-,"fire emblem fates" : "ファイアーエムブレムif"
-,"digimon adventure" : "デジモンアドベンチャー"
-,"elsword" : "エルソード"
-,"dog days" : "DOG DAYS"
-,"fatal fury" : "餓狼伝説"
-,"splatoon" : "スプラトゥーン"
-,"metroid" : "メトロイド"
-,"sister princess" : "シスタープリンセス"
-,"overlord" : "オーバーロード"
-,"dragon ball super" : "ドラゴンボール超"
-,"yuru camp" : "ゆるキャン"
-,"etrian odyssey" : "世界樹の迷宮"
-,"tekken" : "鉄拳"
-,"sennen sensou aigis" : "千年戦争アイギス"
-,"goblin slayer" : "ゴブリンスレイヤー"
-,"azumanga daioh" : "あずまんが大王"
-,"onegai teacher" : "おねがいティーチャー"
-,"tokimeki memorial" : "ときめきメモリアル"
-,"yowamushi pedal" : "弱虫ペダル"
-,"clannad" : "CLANNAD"
-,"its not my fault that im not popular" : "私がモテないのはどう考えてもお前らが悪い!"
-,"fresh precure" : "フレッシュプリキュア！"
-,"toradora" : "とらドラ！"
-,"yotsubato" : "よつばと！"
-,"nisekoi" : "ニセコイ"
-,"dungeon fighter online" : "アラド戦記"
-,"doraemon" : "ドラえもん"
-,"dagashi kashi" : "だがしかし"
-,"hunter x hunter" : "HUNTER×HUNTER"
-,"final fantasy xi" : "ファイナルファンタジーXI"
-,"disgaea" : "魔界戦記ディスガイア"
-,"onii-chan wa oshimai" : "お兄ちゃんはおしまい！"
-,"project sekai" : "プロジェクトセカイ"
-,"ano hi mita hana no namae wo bokutachi wa mada shiranai" : "あの日見た花の名前を僕達はまだ知らない。"
-,"dynasty warriors" : "真・三國無双"
-,"undertale" : "Undertale"
-,"ssss.gridman" : "SSSS.GRIDMAN"
-,"hugtto precure" : "HUGっと！プリキュア"
-,"keroro gunsou" : "ケロロ軍曹"
-,"my little pony friendship is magic" : "マイリトルポニー ～トモダチは魔法～"
-,"yu-gi-oh vrains" : "遊☆戯☆王VRAINS"
-,"pretty cure" : "プリキュア"
-,"ikkitousen" : "一騎当千"
-,"the idolmaster sidem" : "アイドルマスター SideM"
-,"inuyasha" : "犬夜叉"
-,"cardfight vanguard" : "カードファイト!! ヴァンガード"
-,"slayers" : "スレイヤーズ"
-,"kirakira precure a la mode" : "キラキラ☆プリキュアアラモード"
-,"oshi no ko" : "推しの子"
-,"atelier ryza" : "ライザのアトリエ"
-,"sonic the hedgehog" : "ソニック・ザ・ヘッジホッグ"
-,"highschool of the dead" : "学園黙示録 HIGHSCHOOL OF THE DEAD"
-,"fushigiboshi no futagohime" : "ふしぎ星のふたご姫"
-,"hyouka" : "氷菓"
-,"karakai jouzu no takagi-san" : "からかい上手の高木さん"
-,"yes precure 5" : "Yes！プリキュア5"
-,"bomber girl" : "ボンバーガール"
-,"tales of the abyss" : "テイルズ オブ ジ アビス"
-,"magic knight rayearth" : "魔法騎士レイアース"
-,"dragon quest viii" : "ドラゴンクエストVIII"
-,"fire emblem awakening" : "ファイアーエムブレム 覚醒"
-,"black lagoon" : "ブラックラグーン"
-,"god eater" : "ゴッドイーター"
-,"made in abyss" : "メイドインアビス"
-,"school rumble" : "スクールランブル"
-,"super sonico" : "すーぱーそに子"
-,"dragon quest dai no daibouken" : "DRAGON QUEST -ダイの大冒険-"
-,"spice and wolf" : "狼と香辛料"
-,"dream c club" : "ドリームクラブ"
-,"fate extra" : "Fate/EXTRA"
-,"animal crossing" : "どうぶつの森"
-,"tensei shitara slime datta ken" : "転生したらスライムだった件"
-,"tiger and bunny" : "TIGER & BUNNY"
-,"mobile suit gundam" : "機動戦士ガンダム"
-,"maria-sama ga miteru" : "マリア様がみてる"
-,"magi the labyrinth of magic" : "マギ"
-,"yuri on ice" : "ユーリ!!! on ICE"
-,"rance" : "Rance"
-,"hypnosis mic" : "ヒプノシスマイク"
-,"ultraman" : "ウルトラマン"
-,"dirty pair" : "ダーティペア"
-,"baka to test to shoukanjuu" : "バカとテストと召喚獣"
-,"galaxy angel" : "ギャラクシーエンジェル"
-,"mobile suit gundam tekketsu no orphans" : "機動戦士ガンダム 鉄血のオルフェンズ"
-,"date a live" : "デート・ア・ライブ"
-,"dungeon meshi" : "ダンジョン飯"
-,"final fantasy" : "ファイナルファンタジー"
-,"gundam" : "ガンダム"
-,"maho girls precure" : "魔法つかいプリキュア！"
-,"happinesscharge precure" : "ハピネスチャージプリキュア！"
-,"yu-gi-oh gx" : "遊☆戯☆王GX"
-,"yuruyuri" : "ゆるゆり"
-,"alice in wonderland" : "ふしぎの国のアリス"
-,"fushigi no umi no nadia" : "ふしぎの海のナディア"
-,"ookiku furikabutte" : "おおきく振りかぶって"
-,"yu-gi-oh 5ds" : "遊☆戯☆王5D's"
-,"darling in the franxx" : "ダーリン・イン・ザ・フランキス"
-,"disney twisted-wonderland" : "ディズニー ツイステッドワンダーランド"
-,"dragons crown" : "ドラゴンズクラウン"
-,"star twinkle precure" : "スター☆トゥインクルプリキュア"
-,"megaman" : "ロックマン"
-,"twin angels" : "淫獣聖戦"
-,"kannagi" : "かんなぎ"
-,"youkai watch" : "妖怪ウォッチ"
-,"ace attorney" : "逆転裁判"
-,"quiz magic academy" : "クイズマジックアカデミー"
-,"mahouka koukou no rettousei" : "魔法科高校の劣等生"
-,"durarara" : "デュラララ！！"
-,"flower knight girl" : "FLOWER KNIGHT GIRL"
-,"oshiete galko-chan" : "おしえて! ギャル子ちゃん"
-,"genshiken" : "げんしけん"
-,"accel world" : "アクセル・ワールド"
-,"ao no exorcist" : "青の祓魔師"
-,"katekyo hitman reborn" : "家庭教師ヒットマンREBORN!"
-,"mob psycho 100" : "モブサイコ100"
-,"youjo senki" : "幼女戦記"
-,"summon night" : "サモンナイト"
-,"koihime musou" : "恋姫無双"
-,"panty and stocking with garterbelt" : "パンティ&ストッキングwithガーターベルト"
-,"digimon tamers" : "デジモンテイマーズ"
-,"gundam zz" : "機動戦士ガンダムZZ"
-,"kochikame" : "こち亀"
-,"comic party" : "こみっくパーティー"
-,"little red riding hood" : "赤ずきん"
-,"uta no prince-sama" : "うたのプリンスさまっ"
-,"maison ikkoku" : "めぞん一刻"
-,"summer wars" : "サマーウォーズ"
-,"kimi no na wa." : "君の名は。"
-,"rival schools" : "ジャスティス学園"
-,"pretty sammy" : "魔法少女プリティサミー"
-,"zettai junpaku mahou shoujo" : "絶対純白魔法少女"
-,"bakusou kyoudai lets and go" : "爆走兄弟レッツ&ゴー!!"
-,"elden ring" : "ELDEN RING"
-,"mai-hime" : "舞-HiME"
-,"tales of vesperia" : "テイルズ オブ ヴェスペリア"
-,"shakugan no shana" : "灼眼のシャナ"
-,"tokyo revengers" : "東京卍リベンジャーズ"
-,"alice gear aegis" : "アリス・ギア・アイギス"
-,"saint seiya" : "聖闘士星矢"
-,"angel beats" : "Angel Beats!"
-,"hell teacher nube" : "地獄先生ぬーべー"
-,"kodomo no jikan" : "こどものじかん"
-,"world trigger" : "ワールドトリガー"
-,"cyberpunk" : "サイバーパンク"
-,"spider-man" : "スパイダーマン"
-,"xenosaga" : "ゼノサーガ"
-,"chobits" : "ちょびっツ"
-,"ryuuou no oshigoto" : "りゅうおうのおしごと!"
-,"monster girl quest" : "もんむす・くえすと!"
-,"sora no otoshimono" : "そらのおとしもの"
-,"gaogaigar" : "勇者王ガオガイガー"
-,"muv-luv" : "マブラヴ"
-,"bokutachi wa benkyou ga dekinai" : "ぼくたちは勉強ができない"
-,"kizuato" : "痕"
-,"sekirei" : "セキレイ"
-,"final fight" : "ファイナルファイト"
-,"kimikiss" : "キミキス"
-,"valkyria chronicles" : "戦場のヴァルキュリア"
-,"medaka box" : "めだかボックス"
-,"tales of xillia" : "テイルズ オブ エクシリア"
-,"utawarerumono" : "うたわれるもの"
-,"fun fun pharmacy" : "ふしぎ魔法ファンファンファーマシィー"
-,"hikaru no go" : "ヒカルの碁"
-,"beatmania" : "Beatmania"
-,"kanojo okarishimasu" : "彼女、お借りします"
-,"super sentai" : "スーパー戦隊"
-,"di gi charat" : "デ・ジ・キャラット"
-,"watashi ni tenshi ga maiorita" : "私に天使が舞い降りた!"
-,"hirogaru sky precure" : "ひろがるスカイ！プリキュア"
-,"daiya no ace" : "ダイヤのA"
-,"bakuman" : "バクマン。"
-,"ghost in the shell" : "攻殻機動隊"
-,"historys strongest disciple kenichi" : "史上最強の弟子ケンイチ"
-,"arcana heart" : "アルカナハート"
-,"hibike euphonium" : "響け! ユーフォニアム"
-,"getsuyoubi no tawawa" : "月曜日のたわわ"
-,"lodoss-tou senki" : "ロードス島戦記"
-,"new game" : "NEW GAME!"
-,"ichigo mashimaro" : "苺ましまろ"
-,"final fantasy tactics" : "ファイナルファンタジータクティクス"
-,"is" : "I”s"
-,"final fantasy x" : "ファイナルファンタジーX"
-,"darker than black" : "DARKER THAN BLACK"
-,"minami-ke" : "みなみけ"
-,"nanatsu no taizai" : "七つの大罪"
-,"machikado mazoku" : "まちカドまぞく"
-,"rwby" : "RWBY"
-,"warship girls" : "戦艦少女"
-,"full metal panic" : "フルメタルパニック！"
-,"gunparade march" : "ガンパレード・マーチ"
-,"lotte no omocha" : "ロッテのおもちゃ!"
-,"shirobako" : "SHIROBAKO"
-,"love live superstar" : "ラブライブ!スーパースター!!"
-,"g gundam" : "機動武闘伝Gガンダム"
-,"mai-otome" : "舞-乙HiME"
-,"space battleship yamato 2199" : "宇宙戦艦ヤマト2199"
-,"blue lock" : "ブルーロック"
-,"kekkai sensen" : "血界戦線"
-,"gundam wing" : "新機動戦記ガンダムW"
-,"akazukin chacha" : "赤ずきんチャチャ"
-,"tachibana-san-chi no dansei jijou" : "橘さん家ノ男性事情"
-,"puzzle and dragons" : "パズル＆ドラゴンズ"
-,"xenogears" : "ゼノギアス"
-,"final fantasy xii" : "ファイナルファンタジーXII"
-,"cutey honey" : "キューティーハニー"
-,"super real mahjong" : "スーパーリアル麻雀"
-,"phantasy star online 2" : "ファンタシースターオンライン2"
-,"hataraku maou-sama" : "はたらく魔王さま!"
-,"space battleship yamato" : "宇宙戦艦ヤマト"
-,"ano natsu de matteru" : "あの夏で待ってる"
-,"shinryaku ika musume" : "侵略!イカ娘"
-,"eureka 7" : "エウレカセブン"
-,"uchuu no stellvia" : "宇宙のステルビア"
-,"battle athletes" : "バトルアスリーテス大運動会"
-,"fire emblem mystery of the emblem" : "ファイアーエムブレム 紋章の謎"
-,"puyo puyo" : "ぷよぷよ"
-,"blend s" : "ブレンド・S"
-,"chousoku henkei gyrozetter" : "超速変形ジャイロゼッター"
-,"ro-kyu-bu" : "ロウきゅーぶ!"
-,"megaman battle network" : "ロックマンエグゼ"
-,"zombie land saga" : "ゾンビランドサガ"
-,"non non biyori" : "のんのんびより"
-,"super black jack" : "スーパーブラックジャック"
-,"tokyo ghoul" : "東京喰種"
-,"tantei opera milky holmes" : "探偵オペラ ミルキィホームズ"
-,"the world god only knows" : "神のみぞ知るセカイ"
-,"tales of symphonia" : "テイルズ オブ シンフォニア"
-,"onegai my melody" : "おねがいマイメロディ"
-,"zootopia" : "ズートピア"
-,"kuroinu kedakaki seijo wa hakudaku ni somaru" : "黒獣 ～気高き聖女は白濁に染まる～"
-,"boku no kokoro no yabai yatsu" : "僕の心のヤバイやつ"
-,"tate no yuusha no nariagari" : "盾の勇者の成り上がり"
-,"dragon ball gt" : "ドラゴンボールGT"
-,"idolish7" : "アイドリッシュセブン"
-,"fate apocrypha" : "Fate/Apocrypha"
-,"youre under arrest" : "逮捕しちゃうぞ"
-,"sentimental graffiti" : "センチメンタルグラフィティ"
-,"little busters" : "リトルバスターズ!"
-,"hanasaku iroha" : "花咲くいろは"
-,"black butler" : "黒執事"
-,"final fantasy xiii" : "ファイナルファンタジーXIII"
-,"hentai ouji to warawanai neko" : "変態王子と笑わない猫。"
-,"magical emi" : "魔法のスターマジカルエミ"
-,"dandadan" : "ダンダダン"
-,"prince of tennis" : "テニスの王子様"
-,"d.gray-man" : "D.Gray-man"
-,"creamy mami" : "魔法の天使クリィミーマミ"
-,"aquarion evol" : "アクエリオンEVOL"
-,"rurouni kenshin" : "るろうに剣心"
-,"haiyore nyaruko-san" : "這いよれ! ニャル子さん"
-,"zettai karen children" : "絶対可憐チルドレン"
-,"sengoku basara" : "戦国バサラ"
-,"final fantasy v" : "ファイナルファンタジーV"
-,"battle spirits" : "バトルスピリッツ"
-,"zeta gundam" : "機動戦士Ζガンダム"
-,"seishun buta yarou wa bunny girl senpai no yume o minai" : "青春ブタ野郎はバニーガール先輩の夢を見ない"
-,"final fantasy x-2" : "ファイナルファンタジーX-2"
-,"sayonara zetsubou sensei" : "さよなら絶望先生"
-,"turn a gundam" : "∀ガンダム"
-,"prison school" : "監獄学園"
-,"strike the blood" : "ストライク・ザ・ブラッド"
-,"helltaker" : "Helltaker"
-,"bayonetta" : "ベヨネッタ"
-,"umineko no naku koro ni" : "うみねこのなく頃に"
-,"fire emblem heroes" : "ファイアーエムブレム ヒーローズ"
-,"gabriel dropout" : "ガブリールドロップアウト"
-,"maoyuu maou yuusha" : "まおゆう魔王勇者"
-,"sk8 the infinity" : "SK∞ エスケーエイト"
-,"ijiranaide nagatoro-san" : "イジらないで、長瀞さん"
-,"koutetsujou no kabaneri" : "甲鉄城のカバネリ"
-,"kiratto pri chan" : "キラッとプリ チャン"
-,"final fantasy xv" : "ファイナルファンタジーXV"
-,"final fantasy vi" : "ファイナルファンタジーVI"
-,"powerpuff girls z" : "出ましたっ!パワパフガールズZ"
-,"promare" : "プロメア"
-,"mega man legends" : "ロックマンDASH 鋼の冒険心"
-,"cosmic baton girl comet-san" : "Cosmic Baton Girl コメットさん☆"
-,"kid icarus" : "パルテナの鏡"
-,"devil may cry" : "デビルメイクライ"
-,"kakegurui" : "賭ケグルイ"
-,"shironeko project" : "白猫プロジェクト"
-,"big hero 6" : "ベイマックス"
-,"shadowverse" : "Shadowverse"
-,"final fantasy iv" : "ファイナルファンタジーIV"
-,"tera" : "TERA"
-,"love live hasunosora jogakuin school idol club" : "ラブライブ！蓮ノ空女学院スクールアイドルクラブ"
-,"soul eater" : "ソウルイーター"
-,"mahou shoujo ai" : "魔法少女アイ"
-,"viper" : "VIPER"
-,"kiniro mosaic" : "きんいろモザイク"
-,"tales of" : "テイルズ オブ シリーズ"
-,"lupin iii" : "ルパン三世"
-,"star fox" : "スターフォックス"
-,"hataraku saibou" : "はたらく細胞"
-,"suisei no gargantia" : "翠星のガルガンティア"
-,"death note" : "DEATH NOTE"
-,"hacka doll" : "ハッカドール"
-,"harry potter" : "ハリーポッター"
-,"final fantasy ix" : "ファイナルファンタジーIX"
-,"witchblade" : "ウィッチブレイド"
-,"akebi no mi" : "山姫の実"
-,"hoozuki no reitetsu" : "鬼灯の冷徹"
-,"ghost sweeper mikami" : "GS美神 極楽大作戦!!"
-,"tokyo mew mew" : "東京ミュウミュウ"
-,"delicious party precure" : "デリシャスパーティ♡プリキュア"
-,"shin megami tensei" : "真・女神転生"
-,"mahou tsukai no yoru" : "魔法使いの夜"
-,"fire emblem the blazing blade" : "ファイアーエムブレム 烈火の剣"
-,"digimon frontier" : "デジモンフロンティア"
-,"da capo" : "D.C. ～ダ・カーポ～"
-,"kamen rider" : "仮面ライダー"
-,"revolutionary girl utena" : "少女革命ウテナ"
-,"inu x boku ss" : "妖狐×僕SS"
-,"dr. stone" : "Dr.STONE"
-,"dragon quest ii" : "ドラゴンクエストII"
-,"yama no susume" : "ヤマノススメ"
-,"little witch academia" : "リトルウィッチアカデミア"
-,"nichijou" : "日常"
-,"tropical-rouge precure" : "トロピカル～ジュ!プリキュア"
-,"majo no tabitabi" : "魔女の旅々"
-,"gundam build divers" : "ガンダムビルドダイバーズ"
-,"kimagure orange road" : "きまぐれオレンジロード"
-,"tales of graces" : "テイルズ オブ グレイセス"
-,"zoids genesis" : "ゾイドジェネシス"
-,"ansatsu kyoushitsu" : "暗殺教室"
-,"mamono musume zukan" : "魔物娘図鑑"
-,"busou renkin" : "武装錬金"
-,"major" : "MAJOR"
-,"megido 72" : "メギド72"
-,"medabots" : "メダロット"
-,"various" : "よろず"
-,"onegai twins" : "おねがい☆ツインズ"
-,"closers" : "CLOSERS"
-,"vividred operation" : "ビビッドレッド・オペレーション"
-,"camp buddy" : "Camp Buddy"
-,"berserk" : "ベルセルク"
-,"k" : "K"
-,"black cat" : "BLACK CAT"
-,"shaman king" : "シャーマンキング"
-,"monster musume no iru nichijou" : "モンスター娘のいる日常"
-,"myriad colors phantom world" : "無彩限のファントム・ワールド"
-,"mahou no juujin foxy rena" : "魔法の獣人フォクシィ・レナ"
-,"tales of zestiria" : "テイルズ オブ ゼスティリア"
-,"ongeki" : "オンゲキ"
-,"tokyo 7th sisters" : "Tokyo 7th シスターズ"
-,"golden kamuy" : "ゴールデンカムイ"
-,"hidamari sketch" : "ひだまりスケッチ"
-,"himouto umaru-chan" : "干物妹!うまるちゃん"
-,"healin good precure" : "ヒーリングっど♥プリキュア"
-,"mabinogi" : "マビノギ"
-,"rumble roses" : "ランブルローズ"
-,"choukou tenshi escalayer" : "超昂天使エスカレイヤー"
-,"tamako market" : "たまこまーけっと"
-,"walkure romanze" : "ワルキューレロマンツェ"
-,"air" : "AIR"
-,"final fantasy viii" : "ファイナルファンタジーVIII"
-,"mahoujin guru guru" : "魔法陣グルグル"
-,"the ring" : "リング"
-,"pretty rhythm" : "プリティーリズム"
-,"x-men" : "X-MEN"
-,"rosario vampire" : "ロザリオとバンパイア"
-,"punishing gray raven" : "パニシング:グレイレイヴン"
-,"mahou shoujo ni akogarete" : "魔法少女にあこがれて"
-,"avengers" : "アベンジャーズ"
-,"identity v" : "IdentityV 第五人格"
-,"sekai seifuku bouryaku no zvezda" : "世界征服～謀略のズヴィズダー～"
-,"tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka" : "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？"
-,"os-tan" : "OSたん"
-,"akame ga kill" : "アカメが斬る!"
-,"pani poni dash" : "ぱにぽにだっしゅ！"
-,"kindaichi shounen no jikenbo" : "金田一少年の事件簿"
-,"yuyushiki" : "ゆゆ式"
-,"angelic layer" : "ANGELIC LAYER"
-,"ashita no nadja" : "明日のナージャ"
-,"arena of valor" : "伝説対決 -Arena of Valor-"
-,"gate - jieitai kano chi nite kaku tatakaeri" : "ゲート 自衛隊 彼の地にて、斯く戦えり"
-,"nintama rantarou" : "忍たま乱太郎"
-,"denpa onna to seishun otoko" : "電波女と青春男"
-,"onmyou taisenki" : "陰陽大戦記"
-,"crayon shin-chan" : "クレヨンしんちゃん"
-,"muv-luv alternative total eclipse" : "マブラヴ オルタネイティヴ トータル・イクリプス"
-,"qualidea code" : "クオリディア・コード"
-,"no game no life" : "ノーゲーム・ノーライフ"
-,"xenoblade" : "ゼノブレイド"
-,"mega man star force" : "流星のロックマン"
-,"sound voltex" : "SOUND VOLTEX"
-,"gakkou no kaidan" : "学校の怪談"
-,"oide yo mizuryuu kei land" : "おいでよ！水龍敬ランド"
-,"read or die" : "R.O.D -READ OR DIE"
-,"mobile suit gundam gquuuuuux" : "機動戦士Gundam GQuuuuuuX"
-,"eyeshield 21" : "アイシールド21"
-,"maplestory" : "メイプルストーリー"
-,"wonderful precure" : "わんだふるぷりきゅあ！"
-,"aldnoah.zero" : "アルドノア・ゼロ"
-,"inazuma eleven go" : "イナズマイレブンGO"
-,"he is my master" : "これが私の御主人様"
-,"ane naru mono" : "姉なるもの"
-,"giant robo" : "ジャイアントロボ"
-,"witch craft works" : "ウィッチクラフトワークス"
-,"maken-ki" : "マケン姫っ!"
-,"galaxy express 999" : "銀河鉄道999"
-,"dennou coil" : "電脳コイル"
-,"ecoko" : "エコアイスちゃん"
-,"kino no tabi" : "キノの旅"
-,"teen titans" : "ティーン・タイタンズ"
-,"show by rock" : "SHOW BY ROCK!!"
-,"world of warcraft" : "World of Warcraft"
-,"saber marionette" : "セイバーマリオネット"
-,"tobe isami" : "飛べ!イサミ"
-,"black rock shooter" : "ブラック ロックシューター"
-,"bamboo blade" : "BAMBOO BLADE"
-,"beat blades haruka" : "超昂閃忍ハルカ"
-,"ore twintail ni narimasu." : "俺、ツインテールになります。"
-,"morenatsu" : "漏れなつ。"
-,"aria" : "ARIA"
-,"city hunter" : "シティーハンター"
-,"ben 10" : "ベン10"
-,"cats eye" : "キャッツ・アイ"
-,"minky momo" : "魔法のプリンセス ミンキーモモ"
-,"pangya" : "スカッとゴルフ パンヤ"
-,"south park" : "サウスパーク"
-,"endless frontier" : "無限のフロンティア"
-,"batman" : "バットマン"
-,"fire emblem engage" : "ファイアーエムブレム エンゲージ"
-,"popn music" : "pop'n music"
-,"world masterpiece theater" : "世界名作劇場"
-,"samurai warriors" : "戦国無双"
-,"da capo ii" : "D.C.II ～ダ・カーポII～"
-,"kingdom hearts" : "キングダム ハーツ"
-,"solatorobo" : "Solatorobo"
-,"ar tonelico" : "アルトネリコ"
-,"princess resurrection" : "怪物王女"
-,"nausicaa of the valley of the wind" : "風の谷のナウシカ"
-,"slam dunk" : "SLAM DUNK"
-,"kage no jitsuryokusha ni naritakute" : "陰の実力者になりたくて！"
-,"dolphin wave" : "ドルフィンウェーブ"
-,"macross 7" : "マクロス7"
-,"moyashimon" : "もやしもん"
-,"viper rsr" : "VIPER -RSR-"
-,"anyamaru tantei kiruminzoo" : "あにゃまる探偵キルミンずぅ"
-,"dragonaut" : "ドラゴノーツ -ザ・レゾナンス-"
-,"nurarihyon no mago" : "ぬらりひょんの孫"
-,"cream lemon" : "くりいむレモン"
-,"sonic soldier borgman" : "超音戦士ボーグマン"
-,"victory gundam" : "機動戦士Vガンダム"
-,"helluva boss" : "ヘルヴァ・ボス"
-,"future card buddyfight" : "フューチャーカード バディファイト"
-,"mato seihei no slave" : "魔都精兵のスレイブ"
-,"enen no shouboutai" : "炎炎ノ消防隊"
-,"arpeggio of blue steel" : "蒼き鋼のアルペジオ"
-,"gad guard" : "GAD GUARD"
-,"gantz" : "GANZ"
-,"hellsing" : "HELLSING"
-,"world flipper" : "ワールドフリッパー"
-,"epic seven" : "Epic Seven-エピックセブン-"
-,"kiddy grade" : "キディ・グレイド"
-,"zoids" : "ZOIDS"
-,"monster strike" : "モンスターストライク"
-,"youkoso jitsuryoku shijou shugi no kyoushitsu e" : "ようこそ実力至上主義の教室へ"
-,"utawarerumono itsuwari no kamen" : "うたわれるもの 偽りの仮面"
-,"7th dragon" : "セブンスドラゴン"
-,"princess lover" : "プリンセスラバー！"
-,"cowboy bebop" : "カウボーイビバップ"
-,"mirai nikki" : "未来日記"
-,"sunohara-sou no kanrinin-san" : "すのはら荘の管理人さん"
-,"make heroine ga oosugiru" : "負けヒロインが多すぎる！"
-,"virtua fighter" : "バーチャファイター"
-,"kangoku senkan" : "監獄戦艦"
-,"kimi ga nozomu eien" : "君が望む永遠"
-,"silent hill" : "サイレントヒル"
-,"hazbin hotel" : "ハズビン・ホテル"
-,"yuuki yuuna wa yuusha de aru" : "結城友奈は勇者である"
-,"adventure time" : "アドベンチャー・タイム"
-,"danball senki" : "ダンボール戦機"
-,"expelled from paradise" : "楽園追放"
-,"boku dake ga inai machi" : "僕だけがいない街"
-,"dramatical murder" : "DRAMAtical Murder"
-,"gundam unicorn" : "機動戦士ガンダムUC"
-,"gear fighter dendoh" : "GEAR戦士電童"
-,"papa no iu koto wo kikinasai" : "パパのいうことを聞きなさい!"
-,"super doll licca-chan" : "スーパードール リカちゃん"
-,"girl friend beta" : "ガールフレンド（仮）"
-,"maria holic" : "まりあ†ほりっく"
-,"sengoku otome" : "戦国乙女"
-,"inyouchuu" : "淫妖蟲"
-,"shoujo kageki revue starlight" : "少女☆歌劇 レヴュー・スタァライト"
-,"oda nobuna no yabou" : "織田信奈の野望"
-,"owari no seraph" : "終わりのセラフ"
-,"riddle joker" : "RIDDLE JOKER"
-,"shinkansen henkei robo shinkalion" : "新幹線変形ロボ シンカリオン"
-,"another" : "Another"
-,"psycho-pass" : "PSYCHO-PASS"
-,"gj-bu" : "GJ部"
-,"ishuzoku reviewers" : "異種族レビュアーズ"
-,"hand maid may" : "HAND MAID メイ"
-,"jashin-chan dropkick" : "邪神ちゃんドロップキック"
-,"betterman" : "ベターマン"
-,"voltron" : "ボルトロン"
-,"white album" : "WHITE ALBUM"
-,"fallout" : "Fallout"
-,"reco love" : "レコラヴ"
-,"dumbbell nan kilo moteru" : "ダンベル何キロ持てる？"
-,"variable geo" : "ヴァリアブル・ジオ"
-,"nurse angel ririka sos" : "ナースエンジェルりりかSOS"
-,"nige jouzu no wakagimi" : "逃げ上手の若君"
-,"kara no kyoukai" : "空の境界"
-,"ssss.dynazenon" : "SSSS.DYNAZENON"
-,"duel masters" : "デュエル・マスターズ"
-,"demons souls" : "Demon's Souls"
-,"live a hero" : "ライブ・ア・ヒーロー！"
-,"jin ping mei" : "金瓶梅"
-,"sengoku collection" : "戦国コレクション"
-,"seto no hanayome" : "瀬戸の花嫁"
-,"yosuga no sora" : "ヨスガノソラ"
-,"star gladiator" : "スターグラディエイター"
-,"with you" : "With You"
-,"jikkyou powerful pro yakyuu" : "実況パワフルプロ野球"
-,"skullgirls" : "スカルガールズ"
-,"arifureta shokugyou de sekai saikyou" : "ありふれた職業で世界最強"
-,"agent aika" : "AIKa"
-,"mamotte shugogetten" : "まもって守護月天！"
-,"yume no crayon oukoku" : "夢のクレヨン王国"
-,"mayo chiki" : "まよチキ!"
-,"wedding peach" : "愛天使伝説ウェディングピーチ"
-,"yu yu hakusho" : "幽遊白書"
-,"esper mami" : "エスパー魔美"
-,"final fantasy unlimited" : "FF：U～ファイナルファンタジー：アンリミテッド"
-,"onmyoji" : "陰陽師"
-,"deltarune" : "DELTARUNE"
-,"kouyoku senki exs-tia" : "光翼戦姫エクスティア"
-,"kaitou tenshi twin angel" : "快盗天使ツインエンジェル"
-,"saint tail" : "怪盗セイント・テール"
-,"valkyrie no bouken" : "ワルキューレの冒険"
-,"kusuriya no hitorigoto" : "薬屋のひとりごと"
-,"mahoromatic" : "まほろまてぃっく"
-,"superman" : "スーパーマン"
-,"fantasy earth zero" : "ファンタジーアース ゼロ"
-,"princess crown" : "プリンセスクラウン"
-,"el hazard" : "神秘の世界エルハザード"
-,"moetan" : "もえたん"
-,"tower of druaga" : "ドルアーガの塔"
-,"brave witches" : "ブレイブウィッチーズ"
-,"akihabara dennou gumi" : "アキハバラ電脳組"
-,"bastard" : "BASTARD"
-,"occult academy" : "世紀末オカルト学院"
-,"strawberry panic" : "ストロベリー・パニック！"
-,"gundam 0083" : "機動戦士ガンダム0083"
-,"kasumin" : "カスミン"
-,"sanoba witch" : "サノバウィッチ"
-,"arslan senki" : "アルスラーン戦記"
-,"mazinger z" : "マジンガーZ"
-,"soulworker" : "ソウルワーカー"
-,"lord of lords ryu knight" : "覇王大系リューナイト"
-,"otogi-jushi akazukin" : "おとぎ銃士 赤ずきん"
-,"star ocean" : "スターオーシャン"
-,"avatar the last airbender" : "アバター 伝説の少年アン"
-,"macross delta" : "マクロスΔ"
-,"log horizon" : "ログ・ホライズン"
-,"mon colle knights" : "六門天外モンコレナイト"
-,"dragon quest vi" : "ドラゴンクエストVI"
-,"frame arms girl" : "フレームアームズ・ガール"
-,"castlevania" : "悪魔城ドラキュラ"
-,"guardian tales" : "ガーディアンテイルズ"
-,"rakudai kishi no cavalry" : "落第騎士の英雄譚"
-,"tejina senpai" : "手品先輩"
-,"jormungand" : "ヨルムンガンド"
-,"transformers" : "トランスフォーマー"
-,"fancy lala" : "魔法のステージファンシーララ"
-,"fire emblem the binding blade" : "ファイアーエムブレム 封印の剣"
-,"fire emblem genealogy of the holy war" : "ファイアーエムブレム 聖戦の系譜"
-,"tokidoki bosotto russia-go de dereru tonari no alya-san" : "時々ボソッとロシア語でデレる隣のアーリャさん"
-,"warzard" : "ウォーザード"
-,"twinbee" : "ツインビー"
-,"cyberbots" : "サイバーボッツ"
-,"maji de watashi ni koi shinasai" : "真剣で私に恋しなさい！"
-,"journey to the west" : "西遊記"
-,"phantasy star" : "ファンタシースター"
-,"ai yori aoshi" : "藍より青し"
-,"beastars" : "BEASTARS"
-,"kanokon" : "かのこん"
-,"ookami-san to shichinin no nakama-tachi" : "オオカミさんと七人の仲間たち"
-,"dragon quest vii" : "ドラゴンクエストVII"
-,"gatchaman crowds" : "ガッチャマン クラウズ"
-,"2x2 shinobuden" : "ニニンがシノブ伝"
-,"sono hanabira ni kuchizuke o" : "その花びらにくちづけを"
-,"tales of phantasia" : "テイルズ オブ ファンタジア"
-,"aliens" : "エイリアン"
-,"gunbuster" : "トップをねらえ!"
-,"viper gts" : "VIPER -GTS- 悪魔は再び"
-,"yakitate japan" : "焼きたて!!ジャぱん"
-,"sora wo kakeru shoujo" : "宇宙をかける少女"
-,"getter robo" : "ゲッターロボ"
-,"black survival" : "BLACK SURVIVAL"
-,"gunslinger girl" : "GUNSLINGER GIRL"
-,"the vision of escaflowne" : "天空のエスカフローネ"
-,"fire emblem gaiden" : "ファイアーエムブレム外伝"
-,"dislyte" : "DISLYTE-神世代ネオンシティ-"
-,"black bullet" : "ブラック・ブレット"
-,"shinmai maou no testament" : "新米魔王の契約者"
-,"persona" : "ペルソナ"
-,"kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo" : "君のことが大大大大大好きな100人の彼女"
-,"konjiki no gash" : "金色のガッシュ!!"
-,"dead by daylight" : "Dead by Daylight"
-,"kampfer" : "けんぷファー"
-,"sakurasou no pet na kanojo" : "さくら荘のペットな彼女"
-,"busou shinki" : "武装神姫"
-,"shugo chara" : "しゅごキャラ!"
-,"rage of bahamut" : "神撃のバハムート"
-,"school days" : "School Days"
-,"beyblade" : "ベイブレード"
-,"five nights at freddys" : "Five Nights at Freddy's"
-,"taimanin rpg" : "対魔忍RPG"
-,"dragon quest x" : "ドラゴンクエストX"
-,"black clover" : "ブラッククローバー"
-,"hamtaro" : "とっとこハム太郎"
-,"hitsugi no chaika" : "棺姫のチャイカ"
-,"okusan" : "おくさん"
-,"guilty crown" : "ギルティクラウン"
-,"gundam age" : "機動戦士ガンダムAGE"
-,"xenoblade chronicles 3" : "ゼノブレイド3"
-,"demonbane" : "デモンベイン"
-,"night shift nurses" : "夜勤病棟"
-,"valkyrie profile" : "ヴァルキリープロファイル"
-,"phantasy star online" : "ファンタシースターオンライン"
-,"mahou no yousei persia" : "魔法の妖精ペルシャ"
-,"demi-chan wa kataritai" : "亜人ちゃんは語りたい"
-,"fire emblem radiant dawn" : "ファイアーエムブレム 暁の女神"
-,"high school fleet" : "ハイスクール・フリート"
-,"kaleido star" : "カレイドスター"
-,"ouran high school host club" : "桜蘭高校ホスト部"
-,"sisters natsu no saigo no hi" : "SISTERS ～夏の最後の日～"
-,"yat space travel agency" : "YAT安心!宇宙旅行"
-,"nekopara" : "ネコぱら"
-,"star wars" : "スター・ウォーズ"
-,"future gpx cyber formula" : "新世紀GPXサイバーフォーミュラ"
-,"assault lily" : "アサルトリリィ"
-,"digimon xros wars" : "デジモンクロスウォーズ"
-,"athena" : "アテナ"
-,"fruits basket" : "フルーツバスケット"
-,"renkin san-kyuu magical pokaan" : "錬金3級 まじかる?ぽか～ん"
-,"hime-chans ribbon" : "姫ちゃんのリボン"
-,"otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta..." : "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった …"
-,"metal slug" : "メタルスラッグ"
-,"futari wa precure splash star" : "ふたりはプリキュア Splash Star"
-,"mugen senshi valis" : "夢幻戦士ヴァリス"
-,"warriors orochi" : "無双OROCHI"
-,"wizard of oz" : "オズの魔法使い"
-,"majin tantei nougami neuro" : "魔人探偵脳噛ネウロ"
-,"mairimashita iruma-kun" : "魔入りました!入間くん"
-,"senpai ga uzai kouhai no hanashi" : "先輩がうざい後輩の話"
-,"claymore" : "CLAYMORE"
-,"yatterman" : "ヤッターマン"
-,"a channel" : "Aチャンネル"
-,"atelier totori" : "トトリのアトリエ"
-,"oshiro project" : "御城プロジェクト"
-,"star ocean 2" : "スターオーシャン2"
-,"tenki no ko" : "天気の子"
-,"fist of the north star" : "北斗の拳"
-,"nier" : "NieR"
-,"kyonyuu fantasy" : "巨乳ファンタジー"
-,"kikis delivery service" : "魔女の宅急便"
-,"fatal frame" : "零"
-,"amakano" : "アマカノ"
-,"knights college" : "Knights College"
-,"fortnite" : "フォートナイト"
-,"outlaw star" : "星方武侠アウトロースター"
-,"gundam x" : "機動新世紀ガンダムX"
-,"yuragisou no yuuna-san" : "ゆらぎ荘の幽奈さん"
-,"lord el-melloi ii sei no jikenbo" : "ロード・エルメロイII世の事件簿"
-,"selector infected wixoss" : "selector infected WIXOSS"
-,"wingman" : "ウィングマン"
-,"gakkou gurashi" : "がっこうぐらし!"
-,"hatsukoi limited" : "初恋限定。"
-,"jigoku shoujo" : "地獄少女"
-,"kaiji" : "賭博黙示録カイジ"
-,"nurse witch komugi" : "ナースウィッチ小麦ちゃん"
-,"outbreak company" : "アウトブレイク・カンパニー 萌える侵略者"
-,"nekojishi" : "家有大猫 Nekojishi"
-,"kamikaze kaitou jeanne" : "神風怪盗ジャンヌ"
-,"brave police j-decker" : "勇者警察ジェイデッカー"
-,"freezing" : "フリージング"
-,"corrector yui" : "コレクター・ユイ"
-,"cafe stella to shinigami no chou" : "喫茶ステラと死神の蝶"
-,"asobi ni iku yo" : "あそびにいくヨ!"
-,"hinabita" : "ひなビタ♪"
-,"houkago play" : "放課後プレイ"
-,"kagerou project" : "カゲロウプロジェクト"
-,"odin sphere" : "オーディンスフィア"
-,"pia carrot e youkoso 3" : "Piaキャロットへようこそ!!3"
-,"dr. slump" : "Dr.スランプ アラレちゃん"
-,"noir" : "NOIR"
-,"kare kano" : "彼氏彼女の事情"
-,"klonoa" : "風のクロノア"
-,"mermaid melody pichi pichi pitch" : "マーメイドメロディーぴちぴちピッチ"
-,"dream hunter rem" : "ドリームハンター麗夢"
-,"nagi no asukara" : "凪のあすから"
-,"pastel yumi" : "魔法のアイドルパステルユーミ"
-,"the amazing world of gumball" : "おかしなガムボール"
-,"little witch nobeta" : "Little Witch Nobeta"
-,"gekkan shoujo nozaki-kun" : "月刊少女野崎くん"
-,"hajimete no orusuban" : "はじめてのおるすばん"
-,"jewelpet tinkle" : "ジュエルペット てぃんくる☆"
-,"jubei-chan" : "十兵衛ちゃん"
-,"legendz" : "レジェンズ"
-,"ng knight lamune and 40" : "NG騎士ラムネ&40"
-,"honzuki no gekokujou" : "本好きの下剋上"
-,"dororo" : "どろろ"
-,"fire emblem the sacred stones" : "ファイアーエムブレム 聖魔の光石"
-,"makai kishi ingrid" : "魔界騎士イングリッド"
-,"hundred" : "ハンドレッド"
-,"drifters" : "ドリフターズ"
-,"kuttsukiboshi" : "くっつきぼし"
-,"shuffle" : "SHUFFLE!"
-,"combattler v" : "コンバトラーV"
-,"mahou tsukai tai" : "魔法使いTai!"
-,"peace hame" : "ピスはめっ！"
-,"odd taxi" : "オッドタクシー"
-,"kamen rider zero-one" : "仮面ライダーゼロワン"
-,"fujiyama-san wa shishunki" : "富士山さんは思春期"
-,"togainu no chi" : "咎狗の血"
-,"phantasy star universe" : "ファンタシースターユニバース"
-,"bijin onna joushi takizawa-san" : "美人女上司滝沢さん"
-,"sangokushi taisen" : "三国志大戦"
-,"ben-to" : "ベン・トー"
-,"kyoukai no kanata" : "境界の彼方"
-,"overman king gainer" : "OVERMANキングゲイナー"
-,"megaman zero" : "ロックマン ゼロ"
-,"minecraft" : "マインクラフト"
-,"amano megumi ha sukidarake" : "天野めぐみはスキだらけ!"
-,"makai tenshi jibril" : "魔界天使ジブリール"
-,"mawaru penguindrum" : "輪るピングドラム"
-,"nyan koi" : "にゃんこい!"
-,"cyborg 009" : "サイボーグ009"
-,"mikakunin de shinkoukei" : "未確認で進行形"
-,"art of fighting" : "龍虎の拳"
-,"nijiura maids" : "虹裏メイド"
-,"the powerpuff girls" : "パワーパフガールズ"
-,"star driver" : "STAR DRIVER 輝きのタクト"
-,"yu-gi-oh sevens" : "遊☆戯☆王SEVENS"
-,"kirby" : "星のカービィ"
-,"honor of kings" : "王者栄耀"
-,"mega man x" : "ロックマンX"
-,"brave express might gaine" : "勇者特急マイトガイン"
-,"chizuru-chan kaihatsu nikki" : "千鶴ちゃん開発日記"
-,"kamichu" : "かみちゅ!"
-,"occultic nine" : "Occultic;Nine -オカルティック・ナイン-"
-,"patlabor" : "パトレーバー"
-,"sket dance" : "SKET DANCE"
-,"toriko" : "トリコ"
-,"sword art online alternative gun gale online" : "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン"
-,"koe no katachi" : "聲の形"
-,"seikon no qwaser" : "聖痕のクェイサー"
-,"la blue girl" : "淫獣学園 La☆BlueGirl"
-,"dragalia lost" : "Dragalia Lost"
-,"yondemasuyo azazel-san" : "よんでますよ、アザゼルさん。"
-,"vandread" : "ヴァンドレッド"
-,"vampire princess miyu" : "吸血姫美夕"
-,"kiss x sis" : "kiss×sis"
-,"seitokai yakuindomo" : "生徒会役員共"
-,"doki doki literature club" : "ドキドキ文芸部!"
-,"the legend of korra" : "レジェンド･オブ･コーラ"
-,"otome wa boku ni koishiteru" : "処女はお姉さまに恋してる"
-,"knights of ramune" : "VS騎士ラムネ"
-,"seiken densetsu" : "聖剣伝説"
-,"skies of arcadia" : "エターナルアルカディア"
-,"houkago teibou nisshi" : "放課後ていぼう日誌"
-,"senren banka" : "千恋*万花"
-,"devil survivor 2" : "デビルサバイバー2"
-,"kuma miko" : "くまみこ"
-,"lightning warrior raidy" : "雷の戦士ライディ"
-,"zero kara hajimeru mahou no sho" : "ゼロから始める魔法の書"
-,"10 carat torte" : "天からトルテ!"
-,"suigetsu" : "水月"
-,"sdorica" : "Sdorica"
-,"m.u.g.e.n" : "M.U.G.E.N"
-,"d-frag" : "ディーふらぐ!"
-,"jahy-sama wa kujikenai" : "ジャヒー様はくじけない!"
-,"kill me baby" : "キルミーベイベー"
-,"lovers koi ni ochitara..." : "LOVERS～恋に落ちたら…"
-,"tenchi muyo gxp" : "天地無用! GXP"
-,"dragon quest ix" : "ドラゴンクエストIX"
-,"rinne no lagrange" : "輪廻のラグランジェ"
-,"hakuouki" : "薄桜鬼"
-,"wrestle angels" : "レッスルエンジェルス"
-,"snowbreak containment zone" : "スノウブレイク：禁域降臨"
-,"whistle" : "ホイッスル!"
-,"tales of berseria" : "テイルズ オブ ベルセリア"
-,"warioware" : "メイド イン ワリオシリーズ"
-,"tomo-chan wa onnanoko" : "トモちゃんは女の子!"
-,"spirited away" : "千と千尋の神隠し"
-,"palworld" : "パルワールド"
-,"the elder scrolls" : "The Elder Scrolls"
-,"tenshi souzou re-boot" : "天使☆騒々 RE-BOOT!"
-,"bible black" : "Bible Black"
-,"battle arena toshinden" : "闘神伝"
-,"jungle wa itsumo hare nochi guu" : "ジャングルはいつもハレのちグゥ"
-,"kisei juui suzune" : "寄性獣医・鈴音"
-,"mieruko-chan" : "見える子ちゃん"
-,"perman" : "パーマン"
-,"valvrave the liberator" : "革命機ヴァルヴレイヴ"
-,"yoru no yatterman" : "夜のヤッターマン"
-,"hidan no aria" : "緋弾のアリア"
-,"steven universe" : "スティーブン・ユニバース"
-,"ange vierge" : "アンジュ・ヴィエルジュ"
-,"doki doki majo shinpan" : "どきどき魔女神判"
-,"phantasy star portable 2" : "ファンタシースターポータブル2"
-,"s-cry-ed" : "スクライド"
-,"viper v16" : "VIPER -V16-"
-,"kawaii dake ja nai shikimori-san" : "可愛いだけじゃない式守さん"
-,"servant x service" : "サーバント×サービス"
-,"fire emblem path of radiance" : "ファイアーエムブレム 蒼炎の軌跡"
-,"kamihime project" : "神姫PROJECT"
-,"takamare takamaru" : "たかまれ!タカマル"
-,"azuki-chan" : "あずきちゃん"
-,"gosick" : "GOSICK -ゴシック-"
-,"hai to gensou no grimgar" : "灰と幻想のグリムガル"
-,"words worth" : "ワーズ・ワース"
-,"rune factory" : "ルーンファクトリー"
-,"isekai maou to shoukan shoujo no dorei majutsu" : "異世界魔王と召喚少女の奴隷魔術"
-,"genmu senki leda" : "幻夢戦記レダ"
-,"jewelpet" : "ジュエルペット"
-,"yu-gi-oh go rush" : "遊☆戯☆王ゴーラッシュ!!"
-,"itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu." : "痛いのは嫌なので防御力に極振りしたいと思います。"
-,"jigokuraku" : "地獄楽"
-,"idoly pride" : "IDOLY PRIDE"
-,"natsumes book of friends" : "夏目友人帳"
-,"yoake mae yori ruriiro na" : "夜明け前より瑠璃色な"
-,"emma a victorian romance" : "エマ"
-,"tenshi ni narumon" : "天使になるもんっ!"
-,"the bad guys" : "バッドガイズ"
-,"space pirate captain harlock" : "宇宙海賊キャプテンハーロック"
-,"limbus company" : "Limbus Company"
-,"dorei to no seikatsu" : "奴隷との生活 -Teaching Feeling-"
-,"machine robo rescue" : "出撃!マシンロボレスキュー"
-,"star ocean 3" : "スターオーシャン3"
-,"kore wa zombie desu ka" : "これはゾンビですか?"
-,"katanagatari" : "刀語"
-,"the sacred blacksmith" : "聖剣の刀鍛冶"
-,"sewayaki kitsune no senko-san" : "世話やきキツネの仙狐さん"
-,"flcl" : "フリクリ"
-,"floral magician mary bell" : "花の魔法使いマリーベル"
-,"aikatsu friends" : "アイカツフレンズ!"
-,"lovely x cation" : "LOVELY×CATION"
-,"manatsu no yo no inmu" : "真夏の夜の淫夢"
-,"rewrite" : "Rewrite"
-,"3x3 eyes" : "3×3 EYES"
-,"charlotte" : "Charlotte"
-,"da capo iii" : "D.C.III ～ダ・カーポIII～"
-,"kaichou wa maid-sama" : "会長はメイド様!"
-,"la pucelle" : "ラ・ピュセル 光の聖女伝説"
-,"discipline" : "DISCIPLINE"
-,"ginga e kickoff" : "銀河へキックオフ!!"
-,"medalist" : "メダリスト"
-,"teenage mutant ninja turtles" : "ティーンエイジ・ミュータント・ニンジャ・タートルズ"
-,"eiyuu senki" : "英雄＊戦姫"
-,"emil chronicle online" : "エミル・クロニクル・オンライン"
-,"gunsmith cats" : "ガンスミスキャッツ"
-,"real drive" : "RD 潜脳調査室"
-,"tsuyokiss" : "つよきす"
-,"re creators" : "Re:CREATORS"
-,"full bokko heroes" : "フルボッコヒーローズ"
-,"langrisser" : "ラングリッサー"
-,"tsugumomo" : "つぐもも"
-,"the incredibles" : "Mr.インクレディブル"
-,"amakano 2" : "アマカノ2"
-,"eiken" : "エイケン"
-,"hajimete no hitozuma" : "初めてのヒトヅマ"
-,"justice league" : "ジャスティス・リーグ"
-,"kodomo no omocha" : "こどものおもちゃ"
-,"kyuuketsuki sugu shinu" : "吸血鬼すぐ死ぬ"
-,"unlight" : ["Unlight", "アンライト～Unlight～"]
-,"angel blade" : "エンジェルブレイド"
-,"galaxy fight" : "ギャラクシーファイト"
-,"genji tsuushin agedama" : "ゲンジ通信あげだま"
-,"the last blade" : "月華の剣士"
-,"chrono trigger" : "クロノ・トリガー"
-,"brandish" : "Brandish"
-,"devilman" : "デビルマン"
-,"gravion" : "超重神グラヴィオン"
-,"inma kourin devil carnival" : "淫魔降臨デビル カーニバル"
-,"persona 2" : "ペルソナ2 罪"
-,"photo kano" : "フォトカノ"
-,"shuukan watashi no onii-chan" : "週刊わたしのおにいちゃん"
-,"tonari no ie no anette-san" : "となりの家のアネットさん"
-,"valkyrie drive" : "ヴァルキリードライブ"
-,"weiss kreuz" : "ヴァイスクロイツ"
-,"bungou stray dogs" : "文豪ストレイドッグス"
-,"godzilla" : "ゴジラ"
-,"magical antique" : "まじかるアンティーク"
-,"yofukashi no uta" : "よふかしのうた"
-,"a3" : "A3!"
-,"neo ranga" : "南海奇皇ネオランガ"
-,"the amazing digital circus" : "ザ・アメイジング・デジタル・サーカス"
-,"douluo continent" : "Soul Land - Douluo Continent"
-,"hyakka ryouran samurai girls" : "百花繚乱 SAMURAI GIRLS"
-,"kaifuku jutsushi no yarinaoshi" : "回復術士のやり直し"
-,"kakyuusei" : "下級生"
-,"pia carrot e youkoso 2" : "Piaキャロットへようこそ!!2"
-,"tales of eternia" : "テイルズ オブ エターニア"
-,"tari tari" : "TARI TARI"
-,"valkyria chronicles 3" : "戦場のヴァルキュリア3"
-,"mama is a 4th grader" : "ママは小学4年生"
-,"snow white and the seven dwarfs" : "白雪姫と七人の小人"
-,"mahjong soul" : "雀魂 -じゃんたま-"
-,"ane doki" : "あねどきっ"
-,"blue dragon" : "BLUE DRAGON"
-,"devil survivor" : "女神異聞録デビルサバイバー"
-,"figure 17" : "フィギュア17 つばさ&ヒカル"
-,"gingitsune" : "ぎんぎつね"
-,"grisaia no kajitsu" : "グリザイアの果実"
-,"licca vignette" : "リカヴィネ"
-,"oboro muramasa" : "朧村正"
-,"kunoichi tsubaki no mune no uchi" : "くノ一ツバキの胸の内"
-,"energy kyouka" : "えなじぃキョーカ!!"
-,"toji no miko" : "刀使ノ巫女"
-,"yadamon" : "ヤダモン"
-,"ys" : "Ys"
-,"mobile suit gundam lost war chronicles" : "機動戦士ガンダム戦記 Lost War Chronicles"
-,"digimon ghost game" : "デジモンゴーストゲーム"
-,"under night in-birth" : "UNDER NIGHT IN-BIRTH"
-,"gravity falls" : "怪奇ゾーン グラビティフォールズ"
-,"beelzebub" : "べるぜバブ"
-,"dororon enma-kun" : "ドロロンえん魔くん"
-,"fortune arterial" : "FORTUNE ARTERIAL"
-,"ga-rei" : "喰霊"
-,"kaiten mutenmaru" : "回転むてん丸"
-,"tales of destiny 2" : "テイルズ オブ デスティニー2"
-,"tonde buurin" : "とんでぶーりん"
-,"bubblegum crisis" : "バブルガムクライシス"
-,"romancing saga" : "ロマンシング サ・ガ"
-,"fukai ni nemuru oujo no abaddon" : "腐界に眠る王女のアバドーン"
-,"metal gear solid" : "メタルギアソリッド"
-,"bishoujo mangekyou" : "美少女万華鏡"
-,"elf-san wa yaserarenai." : "エルフさんは痩せられない。"
-,"ganbare goemon" : "がんばれゴエモン"
-,"baby princess" : "Baby Princess"
-,"mahou shoujo ikusei keikaku" : "魔法少女育成計画"
-,"ayakashi triangle" : "あやかしトライアングル"
-,"tasogare otome x amnesia" : "黄昏乙女×アムネジア"
-,"princess maker" : "プリンセスメーカー"
-,"waku waku 7" : "わくわく7"
-,"hilda" : "ヒルダの冒険"
-,"isekai ojisan" : "異世界おじさん"
-,"summer pockets" : "Summer Pockets"
-,"banner of the stars" : "星界の戦旗"
-,"heroman" : "HEROMAN"
-,"ikoku meiro no croisee" : "異国迷路のクロワーゼ"
-,"martial champion" : "マーシャルチャンピオン"
-,"mobile suit gundam the 08th ms team" : "機動戦士ガンダム 第08MS小隊"
-,"mouretsu pirates" : "モーレツ宇宙海賊"
-,"shinmai fukei kiruko-san" : "新米婦警キルコさん"
-,"the onechanbara" : "お姉チャンバラ"
-,"tonari no miko-san wa minna warau" : "隣の巫女さんは皆笑う"
-,"wild arms" : "ワイルドアームズ"
-,"netoge no yome wa onnanoko ja nai to omotta" : "ネトゲの嫁は女の子じゃないと思った?"
-,"world heroes" : "ワールドヒーローズ"
-,"professor layton" : "レイトン教授"
-,"mahoutsukai no yome" : "魔法使いの嫁"
-,"kung fu panda" : "カンフー・パンダ"
-,"triage x" : "トリアージX"
-,"ero trap dungeon" : "エロトラップダンジョン"
-,"bna brand new animal" : "BNA ビー・エヌ・エー"
-,"one kagayaku kisetsu e" : "ONE ～輝く季節へ～"
-,"shinkon gattai godannar" : "神魂合体ゴーダンナー"
-,"tactics ogre" : "タクティクスオウガ"
-,"ueno-san wa bukiyou" : "上野さんは不器用"
-,"zenkoku seifuku bishoujo grand prix" : "全国制服美少女グランプリ"
-,"dokkoida" : "住めば都のコスモス荘"
-,"hokenshitsu no shinigami" : "保健室の死神"
-,"cat busters" : "キャットバスターズ"
-,"star vs. the forces of evil" : "悪魔バスター★スター・バタフライ"
-,"warhammer" : "ウォーハンマー"
-,"captain tsubasa" : "キャプテン翼"
-,"dragon quest heroes" : "ドラゴンクエストヒーローズ"
-,"mashiro iro symphony" : "ましろ色シンフォニー"
-,"mayoi neko overrun" : "迷い猫オーバーラン!"
-,"soukyuu no fafner" : "蒼穹のファフナー"
-,"steel angel kurumi" : "鋼鉄天使くるみ"
-,"the marshmallow times" : "マシュマロ通信"
-,"burst angel" : "爆裂天使"
-,"kamisama dolls" : "神様ドォルズ"
-,"super radical gag family" : "浦安鉄筋家族"
-,"wonderland wars" : "Wonderland Wars"
-,"ixion saga dt" : "イクシオン サーガ DT"
-,"tales of arise" : "テイルズ オブ アライズ"
-,"dorohedoro" : "ドロヘドロ"
-,"pia carrot e youkoso" : "Piaキャロットへようこそ!!"
-,"manaria friends" : "マナリアフレンズ"
-,"gotcha force" : "ガチャフォース"
-,"houshin engi" : "封神演義"
-,"parasite eve" : "パラサイト・イヴ"
-,"rampo kitan game of laplace" : "乱歩奇譚 Game of Laplace"
-,"jinki" : "ジンキ"
-,"princess principal" : "プリンセス・プリンシパル"
-,"magical taruruuto-kun" : "まじかる☆タルるートくん"
-,"frozen" : "アナと雪の女王"
-,"equestria girls" : ["エクエストリア・ガールズ", "マイリトルポニー: エクエストリア・ガールズ"]
-,"catherine" : "キャサリン・フルボディ"
-,"gun x sword" : "ガン×ソード"
-,"happiness" : "はぴねす！"
-,"ku-neru maruta" : "くーねるまるた"
-,"romeos blue skies" : "ロミオの青い空"
-,"samurai pizza cats" : "キャッ党忍伝てやんでえ"
-,"schoolgirl strikers" : "スクールガールストライカーズ"
-,"star ocean 4" : "スターオーシャン4"
-,"tenshi no 3p" : "天使の3P!"
-,"tsukuyomi moon phase" : "月詠 -MOON PHASE-"
-,"viper ctr" : "VIPER CTR ～あすか～"
-,"voltage fighter gowcaizer" : "超人学園ゴウカイザー"
-,"sakura trick" : "桜Trick"
-,"unicorn overlord" : "ユニコーンオーバーロード"
-,"puss in boots the last wish" : "長ぐつをはいたネコ"
-,"anothereidos of dragon vein r" : "龍脈のアナザーエイドスR"
-,"zettai muteki raijin-oh" : "絶対無敵ライジンオー"
-,"miside" : "MiSide -ミサイド-"
-,"dragons dogma" : "Dragon's Dogma"
-,"kyuushu sentai danjija" : "急襲戦隊ダンジジャー"
-,"live on cardliver kakeru" : "ライブオン CARDLIVER 翔"
-,"magicami" : "マジカミ"
-,"onii-chan dakedo ai sae areba kankeinai yo ne" : "お兄ちゃんだけど愛さえあれば関係ないよねっ"
-,"shantae" : "シャンティ"
-,"shining blade" : "シャイニング・ブレイド"
-,"tenkai knights" : "テンカイナイト"
-,"the super dimension fortress macross" : "超時空要塞マクロス"
-,"va-11 hall-a" : "VA-11 Hall-A ヴァルハラ"
-,"mitsuboshi colors" : "三ツ星カラーズ"
-,"ninja gaiden" : "忍者龍剣伝"
-,"kings raid" : "キングスレイド"
-,"ikusa otome valkyrie" : "戦乙女ヴァルキリー"
-,"shimoneta to iu gainen ga sonzai shinai taikutsu na sekai" : "下ネタという概念が存在しない退屈な世界"
-,"the legend of luo xiaohei" : "羅小黒戦記"
-,"heaven burns red" : "ヘブンバーンズレッド"
-,"the loud house" : "ラウド・ハウス"
-,"stellar blade" : "Stellar Blade"
-,"dungeons and dragons" : "ダンジョンズ&ドラゴンズ"
-,"cevio" : "CeVIO"
-,"doukyuusei 2" : "同級生２"
-,"gatchaman" : "ガッチャマン"
-,"lost universe" : "ロストユニバース"
-,"no-rin" : "のうりん"
-,"rail wars" : ["RAIL WARS!", "RAIL WARS! -日本國有鉄道公安隊-"]
-,"video girl ai" : "電影少女"
-,"zeroin" : "ゼロイン"
-,"barakamon" : "ばらかもん"
-,"breath of fire iii" : "ブレス オブ ファイアIII"
-,"knights of sidonia" : "シドニアの騎士"
-,"koutetsu no majo annerose" : "鋼鉄の魔女アンネローゼ"
-,"the simpsons" : "ザ・シンプソンズ"
-,"iczer" : "戦え!!イクサー1"
-,"kaitou joker" : "怪盗ジョーカー"
-,"isekai wa smartphone to tomo ni." : "異世界はスマートフォンとともに。"
-,"umi monogatari" : "海物語"
-,"fate samurai remnant" : "Fate/Samurai Remnant"
-,"seitokai ni mo ana wa aru" : "生徒会にも穴はある！"
-,"gakusen toshi asterisk" : "学戦都市アスタリスク"
-,"asuka 120" : "あすか120%"
-,"birdy the mighty" : "鉄腕バーディー"
-,"cooking idol ai mai main" : "クッキンアイドル アイ!マイ!まいん!"
-,"dirty pair flash" : "ダーティペア FLASH"
-,"fighting vipers" : "ファイティングバイパーズ"
-,"infinite ryvius" : "無限のリヴァイアス"
-,"kekko kamen" : "けっこう仮面"
-,"kemo coliseum" : "ケモコロシアム"
-,"omoikkiri kagaku adventure sou nanda" : "おもいっきり科学アドベンチャー そーなんだ!"
-,"one week friends" : "一週間フレンズ。"
-,"pita ten" : "ぴたテン"
-,"prunus girl" : "プラナス・ガール"
-,"rignetta-san no bouken" : "リジネッタさんの冒険"
-,"sexfriend" : "SEXFRIEND"
-,"the little match girl" : "マッチ売りの少女"
-,"aura battler dunbine" : "聖戦士ダンバイン"
-,"b-daman" : "ビーダマン"
-,"doukyuusei" : "同級生"
-,"dangaioh" : "破邪大星ダンガイオー"
-,"saimin seishidou" : "催眠性指導"
-,"uchi no musume ni te o dasuna" : "ウチのムスメに手を出すな！"
-,"kamen rider revice" : "仮面ライダーリバイス"
-,"kimi to idol precure" : "キミとアイドルプリキュア"
-,"the witcher" : "ウィッチャー"
-,"full metal daemon muramasa" : "装甲悪鬼村正"
-,"galaxy fraulein yuna" : "銀河お嬢様伝説ユナ"
-,"gundam g no reconguista" : "ガンダム Gのレコンギスタ"
-,"heavens memo pad" : "神様のメモ帳"
-,"magical halloween" : "マジカルハロウィン"
-,"mahou senshi sweet knights" : "魔法戦士スイートナイツ"
-,"shadow lady" : "SHADOW LADY"
-,"trigun" : "トライガン"
-,"vampiyan kids" : "バンパイヤン・キッズ"
-,"arc the lad" : "アークザラッド"
-,"cookie run" : "クッキーラン"
-,"breath of fire" : "ブレス オブ ファイア"
-,"mujaki no rakuen" : "無邪気の楽園"
-,"mahoutsukai no yakusoku" : "魔法使いの約束"
-,"true love story" : "トゥルー・ラブストーリー"
-,"utau" : "UTAU"
-,"arakusa ninpouchou" : "あらくさ忍法帖"
-,"dragon quest yuusha abel densetsu" : "ドラゴンクエスト 勇者アベル伝説"
-,"hinako note" : "ひなこのーと"
-,"kashimashi" : ["かしまし", "かしまし ～ガール・ミーツ・ガール～"]
-,"kokoro connect" : "ココロコネクト"
-,"kurogane no linebarrels" : "鉄のラインバレル"
-,"maoujou de oyasumi" : "魔王城でおやすみ"
-,"sakura quest" : "サクラクエスト"
-,"tokusou sentai dekaranger" : "特捜戦隊デカレンジャー"
-,"ukagaka" : "伺か"
-,"yumeria" : "ゆめりあ"
-,"manyuu hikenchou" : "魔乳秘剣帖"
-,"alps no shoujo heidi" : "アルプスの少女ハイジ"
-,"donkey kong" : "ドンキーコング"
-,"bloodborne" : "Bloodborne"
-,"cthulhu mythos" : "クトゥルフ神話"
-,"queens blade rebellion" : "クイーンズブレイドリベリオン"
-,"yakusoku no neverland" : "約束のネバーランド"
-,"aggretsuko" : "アグレッシブ烈子"
-,"akane wa tsumare somerareru" : "茜ハ摘マレ染メラレル"
-,"chrono crusade" : "クロノクルセイド"
-,"diebuster" : "トップをねらえ2!"
-,"kamisama minarai himitsu no cocotama" : "かみさまみならい ヒミツのここたま"
-,"kurenai" : "紅"
-,"monster rancher" : "モンスターファーム"
-,"rizelmine" : "りぜるまいん"
-,"xxxholic" : "XXXHOLiC"
-,"great mazinger" : "グレートマジンガー"
-,"the wolf and the seven young kids" : "狼と七匹の子山羊"
-,"nazo no kanojo x" : "謎の彼女X"
-,"laputa castle in the sky" : "天空の城ラピュタ"
-,"hachigatsu no cinderella nine" : "八月のシンデレラナイン"
-,"voicevox" : "VOICEVOX"
-,"hollow knight" : "Hollow Knight"
-,"violated heroine" : "VHゲーム01"
-,".hacksign" : ".hack//SIGN"
-,"akatsuki no yona" : "暁のヨナ"
-,"bakuon" : "ばくおん!!"
-,"breath of fire iv" : ["ブレス オブ ファイアIV", "ブレス オブ ファイアIV うつろわざるもの"]
-,"haydee" : "Haydee"
-,"kannazuki no miko" : "神無月の巫女"
-,"kono bijutsubu ni wa mondai ga aru" : "この美術部には問題がある!"
-,"ma ga ochiru yoru" : "魔が堕ちる夜"
-,"magical angel sweet mint" : "魔法のエンジェルスイートミント"
-,"manabi straight" : ["まなびストレート!", "がくえんゆーとぴあ まなびストレート!"]
-,"marmalade boy" : "ママレード・ボーイ"
-,"miss machiko" : "まいっちんぐマチコ先生"
-,"net ghost pipopa" : "ネットゴーストPIPOPA"
-,"starless" : "STARLESS"
-,"tom clancys rainbow six" : "レインボーシックス"
-,"upotte" : "うぽって!!"
-,"yagate kimi ni naru" : "やがて君になる"
-,"power instinct" : "豪血寺一族"
-,"burn the witch" : "BURN THE WITCH"
-,"keio flying squadron" : "慶応遊撃隊"
-,"megaman zx" : "ロックマンゼクス"
-,"flying witch" : "ふらいんぐうぃっち"
-,"earthbound" : "MOTHER2 ギーグの逆襲"
-,"wonder momo" : "ワンダーモモ"
-,"deadpool" : "デッドプール"
-,"atelier rorona" : "ロロナのアトリエ"
-,"boku girl" : "ボクガール"
-,"final fantasy iii" : "ファイナルファンタジーIII"
-,"gokujou seitokai" : "極上生徒会"
-,"ib" : "Ib"
-,"jewelpet sunshine" : "ジュエルペットサンシャイン"
-,"mister ajikko" : "ミスター味っ子"
-,"narutaru" : "なるたる"
-,"no. 6" : "NO.6"
-,"oshioki sweetie" : "オシオキSweetie"
-,"otoyomegatari" : "乙嫁語り"
-,"outlanders" : "アウトランダーズ"
-,"robopon" : "ロボットポンコッツ"
-,"robot girls z" : "ロボットガールズZ"
-,"un-go" : "UN-GO"
-,"wonder woman" : "ワンダーウーマン"
-,"daitoshokan no hitsujikai" : "大図書館の羊飼い"
-,"initial d" : "頭文字D"
-,"mirmo de pon" : "ミルモでポン!"
-,"paripi koumei" : "パリピ孔明"
-,"voltes v" : ["ボルテスV", "超電磁マシーン ボルテスV"]
-,"tenjou tenge" : "天上天下"
-,"akuma no riddle" : "悪魔のリドル"
-,"bungou to alchemist" : "文豪とアルケミスト"
-,"chaos breaker" : "カオスブレイカー"
-,"gensou suikoden" : "幻想水滸伝"
-,"grandia" : "グランディア"
-,"hajimete no gal" : "はじめてのギャル"
-,"high score girl" : "ハイスコアガール"
-,"irresponsible captain tylor" : "無責任艦長タイラー"
-,"kaiju girls" : ["怪獣娘", "怪獣娘 ～ウルトラ怪獣擬人化計画～"]
-,"kuromukuro" : "クロムクロ"
-,"kyouran kazoku nikki" : "狂乱家族日記"
-,"ninja slayer" : "ニンジャスレイヤー"
-,"tales of legendia" : "テイルズ オブ レジェンディア"
-,"the girl who leapt through time" : "時をかける少女"
-,"uninhabited planet survive" : "無人惑星サヴァイヴ"
-,"violet evergarden" : "ヴァイオレット・エヴァーガーデン"
-,"ao no kanata no four rhythm" : "蒼の彼方のフォーリズム"
-,"matai toshi" : "魔胎都市"
-,"stardew valley" : "Stardew Valley"
-,"knights and magic" : "ナイツ&マジック"
-,"bikkuriman" : "ビックリマン"
-,"scp foundation" : "SCP財団"
-,"full moon o sagashite" : "満月をさがして"
-,"girls frontline neural cloud" : "ドールズフロントライン：ニューラルクラウド"
-,"gundam exa" : "ガンダムEXA"
-,"tales of destiny" : "テイルズ オブ デスティニー"
-,"amaama to inazuma" : "甘々と稲妻"
-,"breath of fire ii" : ["ブレス オブ ファイアII", "ブレス オブ ファイアII 使命の子"]
-,"cooking papa" : "クッキングパパ"
-,"days" : "DAYS"
-,"denji sentai megaranger" : "電磁戦隊メガレンジャー"
-,"etotama" : "えとたま"
-,"futakoi" : "双恋"
-,"hajime no ippo" : "はじめの一歩"
-,"hyakko" : "ヒャッコ"
-,"hyper anna" : "ハイパーあんな"
-,"idol densetsu eriko" : "アイドル伝説えり子"
-,"kokoro library" : "ココロ図書館"
-,"kujibiki unbalance" : "くじびきアンバランス"
-,"pretty face" : "プリティフェイス"
-,"robotics notes" : "ROBOTICS;NOTES"
-,"shining force" : "シャイニング・フォース"
-,"shining wind" : "シャイニング・ウィンド"
-,"tokyo mirage sessions fe" : "幻影異聞録♯FE"
-,"toward the terra" : "地球へ…"
-,"waka okami wa shougakusei" : "若おかみは小学生!"
-,"ichiban ushiro no daimaou" : "いちばんうしろの大魔王"
-,"terra formars" : "テラフォーマーズ"
-,"defense of the ancients" : ["DotA", "Defense of the Ancients"]
-,"sky girls" : "スカイガールズ"
-,"hanamaru youchien" : "はなまる幼稚園"
-,"momotarou densetsu" : "桃太郎伝説"
-,"princess mononoke" : "もののけ姫"
-,"pastel chime" : "ぱすてるチャイム"
-,"digimon savers" : "デジモンセイバーズ"
-,"brave nine" : "BRAVE NINE"
-,"arakawa under the bridge" : "荒川アンダー ザ ブリッジ"
-,"brave girl ravens" : "ブレイヴガール レイヴンズ"
-,"can can bunny" : "きゃんきゃんバニー"
-,"destiny child" : "デスティニーチャイルド"
-,"elfen lied" : "エルフェンリート"
-,"g-taste" : "G-taste"
-,"kagura reimeiki" : "神楽黎明記"
-,"lunar silver star story" : "LUNAR ザ・シルバースター"
-,"shiki" : "屍鬼"
-,"silent mobius" : "サイレントメビウス"
-,"soredemo machi wa mawatteiru" : "それでも町は廻っている"
-,"zegapain" : "ゼーガペイン"
-,"wii fit" : "Wii Fit"
-,"bravely default" : "ブレイブリーデフォルト"
-,"girls bravo" : "GIRLSブラボー"
-,"zambot 3" : "無敵超人ザンボット3"
-,"omori" : "OMORI"
-,"arms" : "ARMS"
-,"my neighbor totoro" : "となりのトトロ"
-,"kim possible" : "キム・ポッシブル"
-,"kamen rider geats" : "仮面ライダーギーツ"
-,"alien 9" : "エイリアン9"
-,"astro boy" : "鉄腕アトム"
-,"atsumare fushigi kenkyuubu" : "あつまれ!ふしぎ研究部"
-,"bakunyuu maid kari" : "爆乳メイド狩り"
-,"btooom" : "BTOOOM!"
-,"captain commando" : "キャプテンコマンドー"
-,"chinpui" : "チンプイ"
-,"devil hunter yohko" : "魔物ハンター妖子"
-,"diabolik lovers" : "DIABOLIK LOVERS"
-,"euphoria" : "ユーフォリア"
-,"futaba channel" : "ふたば☆ちゃんねる"
-,"futari ecchi" : "ふたりエッチ"
-,"gundam 0080" : "機動戦士ガンダム0080"
-,"hourou musuko" : "放浪息子"
-,"pop team epic" : "ポプテピピック"
-,"saijaku muhai no bahamut" : "最弱無敗の神装機竜《バハムート》"
-,"sekiro shadows die twice" : "SEKIRO: SHADOWS DIE TWICE"
-,"shining force exa" : "シャイニング・フォース イクサ"
-,"submarine 707r" : "サブマリン707R"
-,"the lion king" : "ライオンキング"
-,"unbalance x unbalance" : "アンバランス×2"
-,"valkyria chronicles 2" : "戦場のヴァルキュリア2"
-,"yumekui merry" : "夢喰いメリー"
-,"zoids new century" : "ゾイド新世紀／ゼロ"
-,"backbeard-sama ga miteru" : "バックベアード様がみてる"
-,"nagasarete airantou" : "ながされて藍蘭島"
-,"samurai sentai shinkenger" : "侍戦隊シンケンジャー"
-,"dodge danko" : "炎の闘球女 ドッジ弾子"
-,"atelier meruru" : "メルルのアトリエ"
-,"kaii to otome to kamikakushi" : "怪異と乙女と神隠し"
-,"ladies versus butlers" : "れでぃ×ばと！"
-,"kamen rider drive" : "仮面ライダードライブ"
-,"senko no ronde" : "旋光の輪舞"
-,"madan no ou to vanadis" : "魔弾の王と戦姫"
-,"tear ring saga" : "ティアリングサーガ ユトナ英雄戦記"
-,"ao no hako" : "アオのハコ"
-,"looney tunes" : "ルーニー・テューンズ"
-,"bakuretsu hunters" : "爆れつハンター"
-,"blood plus" : "BLOOD+"
-,"brave story" : "ブレイブ ストーリー"
-,"buddy complex" : "バディ・コンプレックス"
-,"canvas" : ["CANVAS", "Canvas セピア色のモチーフ"]
-,"demento" : "DEMENTO"
-,"golden axe" : "ゴールデンアックス"
-,"idol wars z" : "アイドルうぉーずZ"
-,"mahou sentai magiranger" : "魔法戦隊マジレンジャー"
-,"misty moon metropolis" : "朧月都市"
-,"outer zone" : "アウターゾーン"
-,"sengoku puzzle animal daigassen" : "戦国パズル!!あにまる大合戦"
-,"sumomomo momomo" : "すもももももも～地上最強のヨメ～"
-,"virtual on" : "電脳戦機バーチャロン"
-,"tree of savior" : "Tree of Savior"
-,"quiz nanairo dreams" : "クイズなないろDREAMS 虹色町の奇跡"
-,"shoujo shuumatsu ryokou" : "少女終末旅行"
-,"azure striker gunvolt" : "蒼き雷霆 ガンヴォルト"
-,"kumo desu ga nani ka" : "蜘蛛ですが、なにか?"
-,"x change" : "XChange"
-,"romance of the three kingdoms" : "三國志演義"
-,"ape escape" : "サルゲッチュ"
-,"battle girl high school" : "バトルガール ハイスクール"
-,"sinoalice" : ["SINoALICE", "SINoALICE -シノアリス-"]
-,"majokko megu-chan" : "魔女っ子メグちゃん"
-,"project a-ko" : "プロジェクトA子"
-,"ryu ga gotoku" : "龍が如く"
-,"dragon poker" : "ドラゴンポーカー"
-,"wreck it ralph" : "シュガー・ラッシュ"
-,"dracu-riot" : "DRACU-RIOT！"
-,"arknights endfield" : "アークナイツ：エンドフィールド"
-,"spy kyoushitsu" : "スパイ教室"
-,"3-gatsu no lion" : "三月のライオン"
-,"abenobashi mahou shoutengai" : "アベノ橋魔法☆商店街"
-,"alien vs predator" : "エイリアンVS.プレデター"
-,"angel links" : "星方天使エンジェルリンクス"
-,"call of duty" : "Call of Duty"
-,"cinderella" : "シンデレラ"
-,"deadman wonderland" : "デッドマン・ワンダーランド"
-,"dies irae" : ["Dies irae", "Dies irae -Also sprach Zarathustra-"]
-,"dino crisis" : "ディノクライシス"
-,"dual parallel trouble adventure" : "デュアル!ぱられルンルン物語"
-,"hanebado" : "はねバド!"
-,"kemeko deluxe" : "ケメコデラックス!"
-,"mamoru-kun" : "まもるくん"
-,"teisou gyakuten sekai" : "貞操逆転世界"
-,"tenka hyakken" : "天華百剣"
-,"toushin toshi" : "闘神都市"
-,"hataraku onii-san" : "働くお兄さん！"
-,"kaidan restaurant" : "怪談レストラン"
-,"otonari no tenshi-sama ni itsunomanika dame ningen ni sareteita ken" : "お隣の天使様にいつの間にか駄目人間にされていた件"
-,"waccha primagi" : "ワッチャプリマジ！"
-,"tanken driland" : "探検ドリランド"
-,"anne of green gables" : "赤毛のアン"
-,"drakengard" : "ドラッグオンドラグーン"
-,"puniru wa kawaii slime" : "ぷにるはかわいいスライム"
-,"himesama goumon no jikan desu" : "姫様“拷問”の時間です"
-,"debby the corsifa wa makezugirai" : "デビィ・ザ・コルシファは負けず嫌い"
-,"kamen rider saber" : "仮面ライダーセイバー"
-,"kamen rider gotchard" : "仮面ライダーガッチャード"
-,"isaku" : "遺作"
-,"streets of rage" : "ベア・ナックル"
-,"legend of queen opala" : "Legend Of Queen Opala"
-,"animal yokochou" : "アニマル横町"
-,"battle programmer shirase" : "BPS バトルプログラマーシラセ"
-,"devilman lady" : "デビルマン レディ"
-,"goldfish warning" : "きんぎょ注意報!"
-,"groove adventure rave" : "RAVE"
-,"kishuku gakkou no juliet" : "寄宿学校のジュリエット"
-,"namiuchigiwa no muromi-san" : "波打際のむろみさん"
-,"nogizaka haruka no himitsu" : "乃木坂春香の秘密"
-,"princess tutu" : "プリンセスチュチュ"
-,"tales of hearts" : "テイルズ オブ ハーツ"
-,"the bush baby" : "大草原の小さな天使 ブッシュベイビー"
-,"tonari no seki-kun" : "となりの関くん"
-,"ushio to tora" : "うしおととら"
-,"how to train your dragon" : "ヒックとドラゴン"
-,"josou sanmyaku" : "女装山脈"
-,"kouchuu ouja mushiking" : "甲虫王者　ムシキング"
-,"lost ark" : "LOST ARK"
-,"nanabun no nijyuuni" : "22/7(ナナブンノニジュウニ)"
-,"parasyte" : "寄生獣"
-,"bloody roar" : "ブラッディロア"
-,"grendizer" : ["グレンダイザー", "UFOロボ グレンダイザー"]
-,"the coffin of andy and leyley" : "The Coffin of Andy and Leyley"
-,"kinnikuman" : "キン肉マン"
-,"mizuiro jidai" : "水色時代"
-,"sherlock hound" : "名探偵ホームズ"
-,"romancing saga 2" : "ロマンシング サ・ガ2"
-,"idol janshi suchie-pai" : "アイドル雀士スーチーパイ"
+ ".hackg.u." : ".hack//G.U."
 ,".hacklegend of the twilight" : ".hack//黄昏の腕輪伝説"
-,"akaneiro ni somaru saka" : "あかね色に染まる坂"
-,"choukou shinki ixseal" : "超昂神騎エクシール"
-,"crash b-daman" : "爆球Hit! クラッシュビーダマン"
-,"fight ippatsu juuden-chan" : "ファイト一発! 充電ちゃん!!"
-,"idol tenshi youkoso yoko" : "アイドル天使ようこそようこ"
-,"ingoku danchi" : "淫獄団地"
-,"joshiraku" : "じょしらく"
-,"k.o. beast" : "KO世紀ビースト三獣士"
-,"kemurikusa" : "ケムリクサ"
-,"kiki kaikai" : "奇々怪々"
-,"kishin douji zenki" : "鬼神童子ZENKI"
-,"lucky dog 1" : "ラッキードッグ1"
-,"macross" : "マクロス"
-,"majestic prince" : ["マジェスティックプリンス", "銀河機攻隊 マジェスティックプリンス"]
-,"miyuki" : "みゆき"
-,"octopath traveler" : "OCTOPATH TRAVELER"
-,"ore no kanojo to osananajimi ga shuraba sugiru" : "俺の彼女と幼なじみが修羅場すぎる"
-,"plawres sanshiro" : "プラレス3四郎"
-,"predator" : "プレデター"
-,"rahxephon" : "ラーゼフォン"
-,"ruin explorers" : "秘境探検ファム&イーリー"
-,"saiki kusuo no psi nan" : "斉木楠雄のΨ難"
-,"sally the witch" : "魔法使いサリー"
-,"shinsekai yori" : "新世界より"
-,"the big o" : "THE ビッグオー"
-,"tonari no kyuuketsuki-san" : "となりの吸血鬼さん"
-,"tsuki wa higashi ni hi wa nishi ni" : "月は東に日は西に"
-,"tsurikichi sanpei" : "釣りキチ三平"
-,"uchi no maid ga uzasugiru" : "うちのメイドがウザすぎる!"
-,"wagaya no oinari-sama" : "我が家のお稲荷さま。"
-,"yawara" : "YAWARA!"
-,"bakugan" : "爆丸バトルブローラーズ"
-,"heart catch izumi-chan" : "ハートキャッチいずみちゃん"
-,"deathsmiles" : "デススマイルズ"
-,"black myth wukong" : "黒神話：悟空"
-,"invincible" : "インビンシブル ～無敵のヒーロー～"
-,"dig delight direct drive dj" : "D4DJ"
-,"baldurs gate" : "バルダーズ・ゲート"
-,"atelier sophie" : "ソフィーのアトリエ"
-,"girls band cry" : "ガールズバンドクライ"
-,"slow loop" : "スローループ"
-,"basquash" : "バスカッシュ!"
-,"beet the vandel buster" : "冒険王ビィト"
-,"daiakuji" : "大悪司"
-,"danshi koukousei no nichijou" : "男子高校生の日常"
-,"dragon quest monsters" : "ドラゴンクエストモンスターズ"
-,"gugure kokkuri-san" : "繰繰れ! コックリさん"
-,"hanaukyo maid tai" : "花右京メイド隊"
-,"hyper police" : "はいぱーぽりす"
-,"juuken sentai gekiranger" : "獣拳戦隊ゲキレンジャー"
-,"lucu lucu" : "るくるく"
-,"luminous arc" : "ルミナスアーク"
-,"maou gakuin no futekigousha" : ["魔王学院の不適合者", "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～"]
-,"midori no hibi" : "美鳥の日々"
-,"mondaiji-tachi ga isekai kara kuru sou desu yo" : "問題児たちが異世界から来るそうですよ？"
-,"nami sos first battle" : "奈美SOS! ファースト・バトル"
-,"nano core" : "nanocore"
-,"nee chanto shiyou yo" : "姉、ちゃんとしようよっ！"
-,"ochikobore fruit tart" : "おちこぼれフルーツタルト"
-,"saya no uta" : "沙耶の唄"
-,"sora no woto" : "ソ・ラ・ノ・ヲ・ト"
-,"tales of rebirth" : "テイルズ オブ リバース"
-,"tomb raider" : "トゥームレイダー"
-,"touch" : "タッチ"
-,"triggerheart exelica" : "トリガーハート エグゼリカ"
-,"tsuritama" : "つり球"
-,"urotsukidoji" : "超神伝説うろつき童子"
-,"venus eleven vivid" : "ビーナスイレブンびびっど！"
-,"yami no matsuei" : "闇の末裔"
-,"yamitsuki" : "やみツキ！"
-,"bokusatsu tenshi dokuro-chan" : "撲殺天使ドクロちゃん"
-,"c cube" : "C³ -シーキューブ-"
-,"shiro seijo to kuro bokushi" : "白聖女と黒牧師"
-,"shikanoko nokonoko koshitantan" : "しかのこのこのここしたんたん"
-,"isekai shokudou" : "異世界食堂"
-,"onimusha" : "鬼武者"
-,"aladdin" : "アラジン"
-,"killing bites" : "キリングバイツ"
-,"fantastic four" : "ファンタスティック・フォー"
-,"excel saga" : "エクセル・サーガ"
-,"houseki no kuni" : "宝石の国"
-,"miracle girls" : "ミラクル☆ガールズ"
-,"popful mail" : "ぽっぷるメイル"
-,"zom 100 zombie ni naru made ni shitai 100 no koto" : "ゾン100 ～ゾンビになるまでにしたい100のこと"
-,"senjou no fuga" : "戦場のフーガ"
-,"grappler baki" : "グラップラー刃牙"
-,"rick and morty" : "リック・アンド・モーティ"
-,"atelier marie" : "マリーのアトリエ"
-,"kaku-san-sei million arthur" : "拡散性ミリオンアーサー"
-,"air gear" : "エア・ギア"
-,"akagi" : ["アカギ", "アカギ ～闇に降り立った天才～"]
-,"all out" : "ALL OUT!!"
-,"bakumatsu rock" : "幕末Rock"
-,"dinosaur king" : "古代王者恐竜キング"
-,"dissidia final fantasy" : "ディシディア ファイナルファンタジー"
-,"dragon quest i" : "ドラゴンクエストⅠ"
-,"grand blue" : "ぐらんぶる"
-,"harukanaru toki no naka de" : "遙かなる時空の中で"
-,"issho ni training" : "いっしょにとれーにんぐ"
-,"jaja uma grooming up" : "じゃじゃ馬グルーミン★UP!"
-,"jitaku keibiin" : "自宅警備員"
-,"kyokou suiri" : "虚構推理"
-,"masou gakuen hxh" : "魔装学園H×H"
-,"mizuiro" : "みずいろ"
-,"mx0" : "エム×ゼロ"
-,"narue no sekai" : "成恵の世界"
-,"ookami kodomo no ame to yuki" : "おおかみこどもの雨と雪"
-,"osana najimi wa bed yakuza" : "幼なじみはベッドヤクザ!"
-,"psychic force" : "サイキックフォース"
-,"pumpkin scissors" : "パンプキン・シザーズ"
-,"rune factory 4" : "ルーンファクトリー4"
-,"saiyuki" : "最遊記"
-,"sankarea" : "さんかれあ"
-,"schwarzesmarken" : "シュヴァルツェスマーケン"
-,"shuumatsu no izetta" : "終末のイゼッタ"
-,"soredemo ayumu wa yosetekuru" : "それでも歩は寄せてくる"
-,"suzuka" : "涼風"
-,"tenshi no inai 12-gatsu" : "天使のいない12月"
-,"tico of the seven seas" : "七つの海のティコ"
-,"viper f40" : "VIPER -F40-"
-,"viper gtb" : "VIPER GTB -RISE AFTER-"
-,"wild arms 5" : ["ワイルドアームズ5", "ワイルドアームズ ザ フィフスヴァンガード"]
-,"captain earth" : "キャプテン・アース"
-,"kaizoku sentai gokaiger" : "海賊戦隊ゴーカイジャー"
-,"taboo charming mother" : "艶母"
-,"digimon story cyber sleuth" : "デジモンストーリー サイバースルゥース"
-,"seitenshi yumieru" : "聖天使ユミエル"
-,"shin megami tensei devil children" : "真・女神転生デビルチルドレン"
-,"shizuku" : "雫"
-,"atashinchi" : "あたしンち"
-,"hige o soru. soshite joshikousei o hirou." : "ひげを剃る。そして女子高生を拾う。"
-,"anpanman" : "アンパンマン"
-,"atelier series" : "アトリエシリーズ"
-,"galactic drifter vifam" : "銀河漂流バイファム"
-,"kingdom" : "キングダム"
-,"tensei oujo to tensai reijou no mahou kakumei" : "転生王女と天才令嬢の魔法革命"
-,"reverse 1999" : "リバース:1999"
-,"ajin" : "亜人"
-,"alice in the country of hearts" : "ハートの国のアリス"
-,"asatte no houkou" : "あさっての方向。"
-,"cage of eden" : "Cage of Eden"
-,"dragon knight" : "ドラゴンナイト"
-,"gag manga biyori" : "ギャグマンガ日和"
-,"ground defense force mao-chan" : "陸上防衛隊まおちゃん"
-,"heavy metal l-gaim" : "重戦機エルガイム"
-,"high school kimengumi" : "ハイスクール!奇面組"
-,"hitomi no karte" : "ひとみのカルテ"
-,"hoshi no samidare" : "惑星のさみだれ"
-,"howls moving castle" : "ハウルの動く城"
-,"inou-battle wa nichijou-kei no naka de" : "異能バトルは日常系のなかで"
-,"jinrui wa suitai shimashita" : "人類は衰退しました"
-,"koi wa ameagari no you ni" : "恋は雨上がりのように"
-,"la corda doro" : "金色のコルダ"
-,"last bronx" : ["ラストブロンクス", "ラストブロンクス -東京番外地-"]
-,"magic woman m" : "魔法少女メルル"
-,"otokonoko wa maid fuku ga osuki" : "オトコのコはメイド服がお好き！？"
-,"pandora hearts" : "PandoraHearts"
-,"puppet princess of marl kingdom" : "マール王国の人形姫"
-,"rilakkuma" : "リラックマ"
-,"ring fit adventure" : "リングフィット アドベンチャー"
-,"sarazanmai" : "さらざんまい"
-,"seiren" : "セイレン"
-,"wake up girls" : "Wake Up,Girls!"
-,"yuukyuu gensoukyoku" : "悠久幻想曲"
-,"fushigi yuugi" : "ふしぎ遊戯"
-,"sengoku bushouki muramasa" : "戦国武将姫-MURAMASA-"
-,"the little mermaid" : "リトル・マーメイド"
-,"inda no himekishi janne" : "淫堕の姫騎士ジャンヌ"
-,"beautiful gunbari" : "Beautiful Gunbari"
-,"tayutama" : "タユタマ"
-,"bobobo-bo bo-bobo" : "ボボボーボ・ボーボボ"
-,"doupo cangqiong" : ["蒼穹の剣", "斗破苍穹"]
-,"oni chichi" : "鬼父"
-,"umihara kawase" : "海腹川背"
-,"lobotomy corporation" : "Lobotomy Corporation"
-,"space pirate mito" : "宇宙海賊ミトの大冒険"
-,"danny phantom" : "ダニー・ファントム"
-,"bakemono no ko" : "バケモノの子"
-,"sorcerous stabber orphen" : "魔術士オーフェン"
-,"tenchu" : "天誅"
-,"terminator" : "ターミネーター"
-,"okami" : "大神"
-,"mashin sentai kiramager" : "魔進戦隊キラメイジャー"
-,"inbi na doukutsu no sono oku de" : "淫靡な洞窟のその奥で"
-,"mortal kombat" : "モータルコンバット"
-,"library of ruina" : "Library Of Ruina"
-,"acchi kocchi" : "あっちこっち"
-,"ar tonelico qoga" : ["アルトネリコ3", "アルトネリコ3 世界終焉の引鉄は少女の詩が弾く"]
-,"daa daa daa" : "だぁ!だぁ!だぁ!"
-,"dohna dohna issho ni warui koto o shiyou" : "ドーナドーナ いっしょにわるいことをしよう"
-,"edens bowy" : "ヱデンズボゥイ"
-,"gasaraki" : "ガサラキ"
-,"hajimete no oishasan" : "はじめてのおいしゃさん"
-,"ikemen sengoku" : ["イケメン戦国", "イケメン戦国◆時をかける恋"]
-,"kemono jihen" : "怪物事変"
-,"kimi ni todoke" : "君に届け"
-,"kotoura-san" : "琴浦さん"
-,"legend of lemnear" : "極黒の翼バルキサス"
-,"miraculous ladybug" : ["ミラキュラス レディバグ", "ミラキュラス レディバグ&シャノワール"]
-,"moshidora" : ["もしドラ", "もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら"]
-,"needy streamer overload" : "NEEDY GIRL OVERDOSE"
-,"new horizon" : "NEW HORIZON"
-,"rebirth the lunatic taker" : "リバース Re:BIRTH -The Lunatic Taker"
-,"seiken manifestia" : "政剣マニフェスティア"
-,"seishokuki" : "性食鬼"
-,"sentouin hakenshimasu" : "戦闘員、派遣します！"
-,"sousei no onmyouji" : "双星の陰陽師"
-,"tenshi no shippo" : ["天使のしっぽ", "おとぎストーリー 天使のしっぽ"]
-,"the wing of madoola" : "マドゥーラの翼"
-,"ultimate girls" : "UG☆アルティメットガール"
-,"uq holder" : "UQ HOLDER!"
-,"zone of the enders" : "ZONE OF THE ENDERS"
-,"devil summoner soul hackers" : "デビルサマナー ソウルハッカーズ"
-,"lover" : "LoveR"
-,"seirei gensouki" : "精霊幻想記"
-,"tearmoon teikoku monogatari" : "ティアムーン帝国物語"
-,"gall force" : "ガルフォース"
-,"houkago no pleiades" : "放課後のプレアデス"
-,"tantei wa mou shindeiru." : "探偵はもう、死んでいる。"
-,"kamen rider zi-o" : "仮面ライダージオウ"
-,"scott pilgrim" : "スコット・ピルグリム"
-,"fosters home for imaginary friends" : "フォスターズ・ホーム"
-,"friday night funkin" : "フライデーナイトファンキン"
-,"all purpose cultural cat girl nuku nuku" : "万能文化猫娘"
-,"aquarion logos" : "アクエリオンロゴス"
-,"katri girl of the meadows" : "牧場の少女カトリ"
-,"apex legends" : "エーペックスレジェンズ"
-,"gaist crusher" : "ガイストクラッシャー"
-,"otome game sekai wa mob ni kibishii sekai desu" : "乙女ゲー世界はモブに厳しい世界です"
-,"act-age" : "アクタージュ"
-,"amairo islenauts" : "天色＊アイルノーツ"
-,"chrono cross" : "クロノ・クロス"
-,"collar x malice" : "Collar×Malice"
-,"el shaddai" : "エルシャダイ"
-,"endro" : "えんどろ～！"
-,"gothic wa mahou otome" : "ゴシックは魔法乙女"
-,"green akizora no screen" : "GREEN～秋空のスクリーン～"
-,"guyver" : ["ガイバー", "強殖装甲ガイバー"]
-,"gyee" : "サンクタス戦記-GYEE-"
-,"happy tree friends" : "Happy Tree Friends"
-,"haruru minamo ni" : "はるるみなもに！"
-,"iris mysteria" : "あいりすミスティリア！"
-,"kakuchou shoujo-kei trinary" : "拡張少女系トライナリー"
-,"kin-iro loveriche" : "金色ラブリッチェ"
-,"last period" : ["ラストピリオド", "ラストピリオド -終わりなき螺旋の物語-"]
-,"love lab" : "恋愛ラボ"
-,"majin bone" : "マジンボーン"
-,"marvelous melmo" : "ふしぎなメルモ"
-,"mekakucity actors" : "メカクシティアクターズ"
-,"momo kyun sword" : "モモキュンソード"
-,"onihime vs" : "鬼姫VS"
-,"ooyasan wa shishunki" : "大家さんは思春期!"
-,"phantom of the kill" : "ファントム オブ キル"
-,"power rangers" : "パワーレンジャー"
-,"power stone" : "パワーストーン"
-,"resort boin" : "リゾートBOIN"
-,"seishoujo sentai lakers" : "聖少女戦隊レイカーズ"
-,"sengoku ace" : "戦国エース"
-,"seven mortal sins" : "sin 七つの大罪"
-,"spyro the dragon" : "スパイロ・ザ・ドラゴン"
-,"subverse" : "Subverse"
-,"suikoden v" : "幻想水滸伝V"
-,"they are my noble masters" : "君が主で執事が俺で"
-,"wander crown" : ["WANDER CROWN", "WANDER CROWN ～七つの大陸と忘れられた島国"]
-,"yamato takeru" : "ヤマトタケル"
-,"ziga" : "ジガ-ZIGA-"
-,"basilisk" : "バジリスク ～甲賀忍法帖～"
-,"corpse party" : "コープスパーティー"
-,"himitsu no akko-chan" : "ひみつのアッコちゃん"
-,"growlanser" : "グローランサー"
-,"tangled" : "塔の上のラプンツェル"
-,"the unbelievable gwenpool" : "アンビリーバブル・グウェンプール"
-,"red photon zillion" : "赤い光弾ジリオン"
-,"legend of lyon flare" : "リヨン伝説フレア"
-,"ninpuu sentai hurricaneger" : "忍風戦隊ハリケンジャー"
-,"queen emeraldas" : "クイーン・エメラルダス"
-,"engage kiss" : "Engage Kiss"
-,"kamen rider ex-aid" : "仮面ライダーエグゼイド"
-,"mother 3" : "MOTHER 3"
-,"tartaros" : "Tartaros-タルタロス"
-,"scooby-doo" : "スクービー・ドゥー"
-,"mimi wo sumaseba" : "耳をすませば"
-,"memories off" : "Memories Off"
-,"aim for the ace" : "エースをねらえ!"
-,"amazing nurse nanako" : "菜々子解体診書"
-,"ashitaba-san chi no mukogurashi" : "明日葉さんちのムコ暮らし"
-,"atelier tanaka" : "田中のアトリエ"
-,"blue submarine no. 6" : "青の6号"
-,"boku no pico" : "ぼくのぴこ"
-,"chihayafuru" : "ちはやふる"
-,"chokotto sister" : "ちょこッとSister"
-,"class of heroes" : "剣と魔法と学園モノ。"
-,"crusaders quest" : "クルセイダークエスト"
-,"final fantasy type-0" : "ファイナルファンタジー零式"
-,"g-on riders" : "G-onらいだーす"
-,"irotoridori no sekai" : "いろとりどりのセカイ"
-,"isekai no seikishi monogatari" : "異世界の聖機師物語"
-,"jewelpet kira deco" : "ジュエルペット きら☆デコッ！"
-,"kamen no maid guy" : "仮面のメイドガイ"
-,"kenkou zenrakei suieibu umishou" : "ケンコー全裸系水泳部 ウミショー"
-,"lapis relights" : "ラピスリライツ ～この世界のアイドルは魔法が使える～"
-,"magical kanan" : "まじかるカナン"
-,"miru tights" : "みるタイツ"
-,"mm" : "えむえむっ!"
-,"sangokushi puzzle taisen" : "三国志パズル大戦"
-,"shakunetsu no takkyuu musume" : "灼熱の卓球娘"
-,"sleeping beauty" : "眠れる森の美女"
-,"tokyo underground" : "東京アンダーグラウンド"
-,"twinkle star sprites" : "ティンクルスタースプライツ"
-,"wild arms 2" : "ワイルドアームズ セカンドイグニッション"
-,"xenoblade x" : "ゼノブレイドクロス"
-,"yokohama kaidashi kikou" : "ヨコハマ買い出し紀行"
-,"yuusha ni narenakatta ore wa shibushibu shuushoku wo ketsui shimashita." : "勇者になれなかった俺はしぶしぶ就職を決意しました。"
-,"warframe" : "WARFRAME"
-,"tondemo skill de isekai hourou meshi" : "とんでもスキルで異世界放浪メシ"
-,"takopii no genzai" : "タコピーの原罪"
-,"rokudenashi majutsu koushi to akashic records" : "ロクでなし魔術講師と禁忌教典"
-,"shirokuma cafe" : "しろくまカフェ"
-,"tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu" : "転生したら第七王子だったので、気ままに魔術を極めます"
-,"sd gundam sangokuden" : "SDガンダム三国伝"
-,"merc storia" : ["メルクストーリア", "メルクストーリア - 癒術士と鐘の音色 -"]
-,"moonlight lady" : "顔のない月"
-,"turning red" : "私ときどきレッサーパンダ"
-,"maitetsu" : "まいてつ"
-,"the fairly oddparents" : "Oops!フェアリーペアレンツ"
-,"sentai red isekai de boukensha ni naru" : "戦隊レッド 異世界で冒険者になる"
-,"lilo and stitch" : "リロ・アンド・スティッチ"
-,"ruri no houseki" : "瑠璃の宝石"
-,"my life as a teenage robot" : "ジェニーはティーン☆ロボット"
-,"isekai meikyuu de harem o" : "異世界迷宮でハーレムを"
-,"hansel and gretel" : "ヘンゼルとグレーテル"
-,"absolute duo" : "アブソリュート・デュオ"
-,"aiyoku no eustia" : "穢翼のユースティア"
-,"ajisai no chiru koro ni" : "紫陽花の散ル頃に"
-,"aku no onna kanbu" : "悪の女幹部"
-,"c the money of soul and possibility control" : "C -THE MONEY OF SOUL AND POSSIBILITY CONTROL-"
-,"chaos child" : "CHAOS;CHILD"
-,"digimon adventure tri." : "デジモンアドベンチャー tri."
-,"edomae elf" : "江戸前エルフ"
-,"giant killing" : "GIANT KILLING"
-,"gunbird" : "Gunbird"
-,"gunslinger stratos" : "ガンスリンガー ストラトス"
-,"koi kaze" : "恋風"
-,"kyuujou lovers" : "球場ラヴァーズ"
-,"machine robo" : "マシンロボ"
-,"machine robo revenge of cronos" : "マシンロボ クロノスの大逆襲"
-,"machine-doll wa kizutsukanai" : "機巧少女は傷つかない"
-,"maple town monogatari" : "メイプルタウン物語"
-,"monster park" : "Monster Park"
-,"mushibugyo" : "ムシブギョー"
-,"nodame cantabile" : "のだめカンタービレ"
-,"noragami" : "ノラガミ"
-,"otaku no video" : "おたくのビデオ"
-,"planetes" : "プラネテス"
-,"punch-out" : "パンチアウト!!"
-,"satsuriku no tenshi" : "殺戮の天使"
-,"senyuu." : "戦勇。"
-,"shikigami no shiro" : "式神の城"
-,"shining sword romance" : "ロマンスは剣の輝き"
-,"shomin sample" : "俺がお嬢様学校に「庶民サンプル」として拉致られた件"
-,"shrine of the morning mist" : "朝霧の巫女"
-,"silver spoon" : "銀の匙"
-,"strider" : "ストライダー飛竜"
-,"summertime render" : "サマータイムレンダ"
-,"the evil within" : "サイコブレイク"
-,"tsubasa reservoir chronicle" : "ツバサ-RESERVoir CHRoNiCLE-"
-,"vindictus" : "マビノギ英雄伝"
-,"black jack" : "ブラックジャック"
-,"futoku no guild" : "不徳のギルド"
-,"jibaku shounen hanako-kun" : "地縛少年花子くん"
-,"shining force neo" : "シャイニング・フォース ネオ"
-,"stand my heroes" : "スタンドマイヒーローズ"
-,"suzume no tojimari" : "すずめの戸締まり"
-,"the road to el dorado" : "エル・ドラド 黄金の都"
-,"dragon ball heroes" : "ドラゴンボールヒーローズ"
-,"brave beats" : "ブレイブビーツ"
-,"megami device" : "メガミデバイス"
-,"bikini warriors" : "ビキニ・ウォリアーズ"
-,"poppy playtime" : "Poppy Playtime"
-,"cult of the lamb" : "Cult of the Lamb"
-,"digimon universe appli monsters" : "デジモンユニバース アプリモンスターズ"
-,"guardians of the galaxy" : "ガーディアンズ・オブ・ギャラクシー"
-,"akebi-chan no sailor fuku" : "明日ちゃんのセーラー服"
-,"2.5-jigen no yuuwaku" : "2.5次元の誘惑"
-,"kangokutou mary skelter" : "神獄塔 メアリスケルター"
-,"metaphor refantazio" : "メタファー:リファンタジオ"
-,"the owl house" : "アウルハウス"
+,".hackroots" : ".hack//Roots"
+,".hacksign" : ".hack//SIGN"
 ,"009-1" : "009ノ1"
-,"armored core" : "アーマード・コア"
-,"asteroid in love" : "恋する小惑星"
-,"atelier escha and logy" : "エスカ&ロジーのアトリエ"
-,"atlach-nacha" : "アトラク＝ナクア"
-,"bladedance of elementalers" : "精霊使いの剣舞"
-,"brothers conflict" : "BROTHERS CONFLICT"
-,"casual romance club" : "放課後恋愛クラブ"
-,"chrome shelled regios" : "鋼殻のレギオス"
-,"concon-collector" : "コンコンコレクター"
-,"cyborg kuro-chan" : "サイボーグクロちゃん"
-,"cyphers online" : "Cyphers Online"
-,"dokkin minako-sensei" : "ドッキン美奈子先生"
-,"doubutsu sentai zyuohger" : "動物戦隊ジュウオウジャー"
-,"eternal melody" : "エターナルメロディ"
-,"fairy fencer f" : "フェアリーフェンサー エフ"
-,"getbackers" : "GetBackers-奪還屋-"
-,"goshogun" : "戦国魔神ゴーショーグン"
-,"gravity rush" : "GRAVITY DAZE"
-,"harvest moon" : "牧場物語"
-,"hero bank" : "ヒーローバンク"
-,"kara no shoujo" : "殻ノ少女"
-,"kikai sentai zenkaiger" : "機界戦隊ゼンカイジャー"
-,"kono naka ni hitori imouto ga iru" : "この中に1人、妹がいる！"
-,"kutsujoku" : "屈辱"
-,"kyonyuu majo" : "巨乳魔女"
-,"last exile" : "LAST EXILE"
-,"lord of vermilion" : "ロード オブ ヴァーミリオン"
-,"love cube" : "Love³ -ラヴキューブ-"
-,"maburaho" : "まぶらほ"
-,"mass effect" : "Mass Effect"
-,"natural mi mo kokoro mo" : "Natural -身も心も-"
-,"needless" : "NEEDLESS"
-,"no more heroes" : "ノーモア★ヒーローズ"
-,"ponyo" : "ぽにょ"
-,"popolocrois" : ["ポポロクロイス物語", "PoPoLoCrois"]
-,"popotan" : "ぽぽたん"
-,"rune factory 3" : "ルーンファクトリー3"
-,"shining hearts" : "シャイニング・ハーツ"
-,"shuumatsu no valkyrie" : "終末のワルキューレ"
-,"tales of innocence" : "テイルズ オブ イノセンス"
-,"tamacolle" : "魂これ"
-,"the last of us" : "The Last of Us"
-,"tokumei sentai go-busters" : "特命戦隊ゴーバスターズ"
-,"tsukiatte yo satsuki-chan" : "つきあってよ！五月ちゃん"
-,"wander over yonder" : "なんだかんだワンダー"
-,"wonder project j2" : "ワンダープロジェクトJ2 コルロの森のジョゼット"
-,"eto rangers" : "十二戦支 爆烈エトレンジャー"
-,"kanata no astra" : "彼方のアストラ"
-,"koi to senkyo to chocolate" : "恋と選挙とチョコレート"
-,"phantom brave" : "ファントム・ブレイブ"
-,"yoru ga kuru" : "夜が来る!"
-,"zyuden sentai kyoryuger" : "獣電戦隊キョウリュウジャー"
-,"future boy conan" : "未来少年コナン"
-,"trinity seven" : "スローループ"
-,"fire emblem thracia 776" : "ファイアーエムブレム トラキア776"
-,"f-zero" : "F-ZERO"
-,"amphibia" : "ふしぎの国 アンフィビア"
-,"choujuu sentai liveman" : "超獣戦隊ライブマン"
-,"ohsama sentai king-ohger" : "王様戦隊キングオージャー"
-,"slay the spire" : "Slay the Spire"
-,"campione" : "カンピオーネ!"
-,"a little snow fairy sugar" : "ちっちゃな雪使いシュガー"
-,"aflame inferno" : "Aflame Inferno"
-,"atelier ayesha" : "アーシャのアトリエ"
-,"blade and soul" : "ブレイドアンドソウル"
-,"busou shoujo machiavellianism" : "武装少女マキャヴェリズム"
-,"coyote ragtime show" : "コヨーテ ラグタイムショー"
-,"daiteikoku" : "大帝国"
-,"diablo" : "ディアブロ"
-,"dimension w" : "Dimension W"
-,"edens zero" : "EDENS ZERO"
-,"final romance" : "アイドル麻雀ファイナルロマンス"
-,"flame of recca" : "烈火の炎"
-,"imouto sae ireba ii." : "妹さえいればいい。"
-,"jarinko chie" : "じゃりン子チエ"
-,"kaitou sentai lupinranger vs keisatsu sentai patranger" : "快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー"
-,"kanamemo" : "かなめも"
-,"karakuri circus" : "からくりサーカス"
-,"kurai mirai" : "クライミライ"
-,"lamento" : ["Lamento", "Lamento -BEYOND THE VOID-"]
-,"little memole" : "とんがり帽子のメモル"
-,"mahoraba" : "まほらば"
-,"metal fighter miku" : "メタルファイター・MIKU"
-,"mokke" : "もっけ"
-,"murenase seton gakuen" : "群れなせ! シートン学園"
-,"nanami to konomi no oshiete a-b-c" : "ななみとこのみのおしえてA・B・C"
-,"neko no otera no chion-san" : "猫のお寺の知恩さん"
-,"ore no nounai sentakushi ga gakuen love comedy wo zenryoku de jama shiteiru" : "俺の脳内選択肢が、学園ラブコメを全力で邪魔している"
-,"petite princess yucie" : "ぷちぷり＊ユーシィ"
-,"pinkerton" : "PINKERTON"
-,"playerunknowns battlegrounds" : "PUBG"
-,"princess sarah" : "小公女セーラ"
-,"rumble fish" : "ザ・ランブルフィッシュ"
-,"shounen maid" : "少年メイド"
-,"space channel 5" : "スペースチャンネル5"
-,"spiral" : "スパイラル ～推理の絆～"
-,"the story of perrine" : "ペリーヌ物語"
-,"ufo princess valkyrie" : "円盤皇女ワるきゅーレ"
-,"nu carnival" : "NU：カーニバル"
-,"princess tears" : "プリンセスティアーズ"
-,"dominion tank police" : "ドミニオン"
-,"magic the gathering" : "マジック:ザ・ギャザリング"
-,"beatstream" : "BeatStream"
-,"kaiketsu zorori" : "かいけつゾロリ"
-,"shuriken sentai ninninger" : "手裏剣戦隊ニンニンジャー"
-,"project kv" : "プロジェクトKV"
-,"kekkaishi" : "結界師"
-,"ousama ranking" : "王様ランキング"
-,"najica blitz tactics" : "ナジカ電撃作戦"
-,"albatross koukairoku" : "信天翁航海録"
-,"asobi asobase" : "あそびあそばせ"
-,"assassins creed" : "アサシン クリード"
-,"astro fighter sunred" : "天体戦士サンレッド"
-,"ayakashi rumble" : "あやかしランブル!"
-,"blood lad" : "ブラッドラッド"
-,"cosmic break" : "コズミックブレイク"
-,"cross ange" : ["クロスアンジュ", "クロスアンジュ 天使と竜の輪舞"]
-,"densetsu no yuusha da garn" : "伝説の勇者ダ・ガーン"
-,"dna2" : "D・N・A² ～何処かで失くしたあいつのアイツ～"
-,"dream festival" : "ドリフェス！R"
-,"elemental gelade" : "エレメンタル ジェレイド"
-,"final fantasy tactics advance" : "ファイナルファンタジータクティクスアドバンス"
-,"ga geijutsuka art design class" : "GA 芸術科アートデザインクラス"
-,"galilei donna" : "ガリレイドンナ"
-,"gate keepers" : "ゲートキーパーズ"
-,"gdgd fairies" : "gdgd妖精s"
-,"hana no ko lunlun" : "花の子ルンルン"
-,"haruka ni aogi uruwashi no" : "遥かに仰ぎ、麗しの"
-,"hizashi no naka no real" : "陽射しの中のリアル"
-,"izumo" : "IZUMO"
-,"izuna legend of the unemployed ninja" : "降魔霊符伝イヅナ"
-,"kamen rider ooo" : "仮面ライダーオーズ"
-,"koufuku graffiti" : "幸腹グラフィティ"
-,"kyo kara maoh" : "今日から㋮王!"
-,"mahou senshi symphonic knights" : "魔法戦士シンフォニックナイツ"
-,"maou to ore no hangyakuki" : "魔王と俺の叛逆記"
-,"marine a go go" : "Marine A Go Go"
-,"mars daybreak" : ["マーズ・デイブレイク", "絢爛舞踏祭 ザ・マーズ・デイブレイク"]
-,"master of epic" : ["Master of Epic", "Master of Epic -The ResonanceAge Universe-"]
-,"monsuno" : "獣旋バトル モンスーノ"
-,"ookii onnanoko wa suki desu ka" : "大きい女の子は好きですか"
-,"photon" : "フォトン"
-,"princess knight" : "リボンの騎士"
-,"psyren" : "PSYREN -サイレン-"
-,"ridge racer" : "リッジレーサー"
-,"rokka no yuusha" : "六花の勇者"
-,"rpg densetsu hepoi" : "RPG伝説ヘポイ"
-,"samurai champloo" : "サムライチャンプルー"
-,"sasami-san ganbaranai" : "ささみさん@がんばらない"
-,"scrapped princess" : "スクラップド・プリンセス"
-,"shadow hearts" : "シャドウハーツ"
-,"shikabane hime" : "屍姫"
-,"shining" : "シャイニング・シリーズ"
-,"shoujo x shoujo x shoujo" : "少女×少女×少女"
-,"sora no method" : "天体のメソッド"
-,"sora yori mo tooi basho" : "宇宙よりも遠い場所"
-,"space adventure cobra" : "コブラ"
-,"space dandy" : "スペース☆ダンディ"
-,"tensei shitara ken deshita" : "転生したら剣でした"
-,"the amazing 3" : "W3"
-,"thunder claps" : "サンダークラップス！"
-,"triangle heart" : "とらいあんぐるハート"
-,"twinkle crusaders" : "ティンクル くるせいだーす"
-,"ura kyoushi haitoku no in etsu jugyou" : "裏教師～背徳の淫悦授業～"
-,"usodere" : "嘘デレ!"
-,"veritas" : "Veritas"
-,"welcome to the n.h.k." : "NHKにようこそ!"
-,"winnie the pooh" : "クマのプーさん"
-,"yami to boushi to hon no tabibito" : "ヤミと帽子と本の旅人"
-,"hinamatsuri" : "ヒナまつり"
-,"dark gathering" : "ダークギャザリング"
-,"who framed roger rabbit" : "ロジャー・ラビット"
-,"full service" : "FULL SERVICE"
-,"yuuki bakuhatsu bang bravern" : "勇気爆発バーンブレイバーン"
-,"kakkou no iinazuke" : "カッコウの許嫁"
-,"shoujo ramune" : "少女ラムネ"
-,"suguri" : "スグリ"
-,"jewelpet magical change" : "ジュエルペット マジカルチェンジ"
-,"jewelpet happiness" : "ジュエルペット ハッピネス"
-,"phineas and ferb" : "フィニアスとファーブ"
-,"totally spies" : "トータリー・スパイズ！"
-,"13 sentinels aegis rim" : "十三機兵防衛圏"
-,"81diver" : "ハチワンダイバー"
-,"ai no wakakusa monogatari" : "愛の若草物語"
-,"aishiteruze baby" : "愛してるぜベイベ★★"
-,"aiura" : "あいうら"
-,"akatsuki no goei" : "暁の護衛"
-,"aquarion" : "創聖のアクエリオン"
-,"atelier elie" : "エリーのアトリエ"
-,"ballroom e youkoso" : "ボールルームへようこそ"
-,"barcode fighter" : "バーコードファイター"
-,"bomberman jetters" : "ボンバーマンジェッターズ"
-,"brocken blood" : "ブロッケンブラッド"
-,"bunny black" : "BUNNYBLACK"
-,"chichi chichi" : "チチチチ"
-,"dakara boku wa h ga dekinai" : "だから僕は、Hができない。"
-,"dears" : "DearS"
-,"dennou boukenki webdiver" : "電脳冒険記ウェブダイバー"
-,"doom" : "DOOM"
-,"eureka seven ao" : "エウレカセブンAO"
-,"gundam f91" : "機動戦士ガンダムF91"
-,"hades" : "HADES"
-,"inari konkon koi iroha" : "いなり、こんこん、恋いろは。"
-,"jijou wo shiranai tenkousei ga guigui kuru." : "事情を知らない転校生がグイグイくる。"
-,"joukamachi no dandelion" : "城下町のダンデライオン"
-,"kamen rider fourze" : "仮面ライダーフォーゼ"
-,"kamen rider wizard" : "仮面ライダーウィザード"
-,"kichiku megane" : "鬼畜眼鏡"
-,"kiteretsu daihyakka" : "キテレツ大百科"
-,"koikishi purely kiss" : "恋騎士 Purely☆Kiss"
-,"kurukuru rinne" : "くるくるりんね"
-,"la seine no hoshi" : "ラ・セーヌの星"
-,"letter bee" : "テガミバチ"
-,"mach breakers" : "マッハブレイカーズ"
-,"makai kingdom" : "ファントム・キングダム"
-,"manga science" : "まんがサイエンス"
-,"mika ni harassment" : "みかにハラスメント"
-,"pastel chime continue" : "ぱすてるチャイムContinue"
-,"pieces" : "PIECES"
-,"sakuna of rice and ruin" : "天穂のサクナヒメ"
-,"seven of seven" : "七人のナナ"
-,"shamanic princess" : "シャーマニックプリンセス"
-,"shishunki na adam" : "思春期なアダム"
-,"sora no manimani" : "宙のまにまに"
-,"starship girl yamamoto yohko" : "それゆけ!宇宙戦艦ヤマモト・ヨーコ"
-,"suisei tenshi prima veil zwei" : "彗聖天使プリマヴェールZwei"
-,"tales of the world" : "テイルズ オブ ザ ワールド"
-,"teekyuu" : "てーきゅう"
-,"tengai makyou" : "天外魔境"
-,"the law of ueki" : "うえきの法則"
-,"the legend of the legendary heroes" : "伝説の勇者の伝説"
-,"the severing crime edge" : "断裁分離のクライムエッジ"
-,"threads of fate" : "デュープリズム"
-,"tokyo xanadu" : "東亰ザナドゥ"
-,"uchuu kazoku carlvinson" : "宇宙家族カールビンソン"
-,"virtuacall" : "バーチャコール"
-,"we bare bears" : "ぼくらベアベアーズ"
-,"burn up" : "BURN-UP"
-,"code vein" : "CODE VEIN"
-,"fuurai no shiren" : "風来のシレン"
-,"tsuki ni yorisou otome no sahou" : "月に寄りそう乙女の作法"
-,"oneshot" : "OneShot"
-,"wan sheng jie" : "万聖街"
-,"bunny garden" : "バニーガーデン"
-,"the summoning" : "The Summoning"
-,"inside out" : "インサイド・ヘッド"
-,"86" : "エイティシックス"
-,"nue no onmyouji" : "鵺の陰陽師"
-,"aki sora" : "あきそら"
-,"codename kids next door" : "KND ハチャメチャ大作戦"
-,"munou na nana" : "無能なナナ"
-,"counter side" : "カウンターサイド"
-,"shinchou yuusha kono yuusha ga ore tueee kuse ni shinchou sugiru" : "この勇者が俺TUEEEくせに慎重すぎる"
-,"the three little pigs" : "三匹の子豚"
-,"sing" : "SING/シング"
-,"shuumatsu no harem" : "終末のハーレム"
-,"tokimeki tonight" : "ときめきトゥナイト"
-,"do it yourself" : "Do It Yourself!! -どぅー・いっと・ゆあせるふ-"
-,"helldivers" : "HELLDIVERS"
-,"11eyes" : "11eyes -罪と罰と贖いの少女-"
-,"baccano" : "バッカーノ！"
-,"battlefield" : "バトルフィールド"
-,"blade of the immortal" : "無限の住人"
-,"brave sword x blaze soul" : "ブレイブソード×ブレイズソウル"
-,"brynhildr in the darkness" : "極黒のブリュンヒルデ"
-,"compass" : "コンパス"
-,"dark avengers" : "ダークアベンジャーズ"
-,"death march kara hajimaru isekai kyousoukyoku" : "デスマーチからはじまる異世界狂想曲"
-,"detroit metal city" : "デトロイト・メタル・シティ"
-,"dragon pink" : "ドラゴンピンク"
-,"dragon quest retsuden roto no monshou" : "ドラゴンクエスト列伝 ロトの紋章"
-,"friday the 13th" : "13日の金曜日"
-,"gaiking" : "ガイキング"
-,"ginga sengoku gun yuuden rai" : "銀河戦国群雄伝ライ"
-,"golden time" : "ゴールデンタイム"
-,"grenadier" : "グレネーダー"
-,"hadaka shitsuji" : "裸執事"
-,"hengen sennin asuka" : "変幻戦忍アスカ"
-,"heybot" : "ヘボット！"
-,"hime chen otogi chikku idol lilpri" : "ひめチェン！おとぎちっくアイドル リルぷりっ"
-,"horimiya" : "ホリミヤ"
-,"hulu xiongdi" : "ひょうたん童子"
-,"kamigami no asobi" : "神々の遊び"
-,"kenzen robo daimidaler" : "健全ロボ ダイミダラー"
-,"kouya no kotobuki hikoutai" : "荒野のコトブキ飛行隊"
-,"kyou no go no ni" : "今日の5の2"
-,"mahjong monogatari" : "麻雀物語"
-,"midnight girls" : "ミッドナイトガールズ"
-,"midnight panther" : "ミッドナイトパンサー"
-,"miracle girl limit-chan" : "ミラクル少女リミットちゃん"
-,"monobeno" : "ものべの"
-,"nyanda kamen" : "ニャニがニャンだー ニャンダーかめん"
-,"oku-sama wa joshi kousei" : "おくさまは女子高生"
-,"p2 lets play pingpong" : "P2! - let's Play Pingpong!"
-,"panda kopanda" : "パンダコパンダ"
-,"persona q" : ["ペルソナQ", "ペルソナQ シャドウ オブ ザ ラビリンス"]
-,"plastic little" : "プラスチックリトル"
-,"pokonyan" : "ポコニャン"
-,"ring dream" : "リング☆ドリーム 女子プロレス大戦"
-,"robocop" : "ロボコップ"
-,"scared rider xechs" : "スカーレッドライダーゼクス"
-,"seirei no moribito" : "精霊の守り人"
-,"sekaiichi hatsukoi" : "世界一初恋"
-,"sengoku gakuen senki nobunaga" : "仙獄学艶戦姫ノブナガッ！"
-,"shadows house" : "シャドーハウス"
-,"shimaizuma" : "姉妹妻"
-,"shining tears" : "シャイニング・ティアーズ"
-,"simoun" : "シムーン"
-,"star trek" : "スタートレック"
-,"tanaka-kun wa itsumo kedaruge" : "田中くんはいつもけだるげ"
-,"tobaku haouden zero" : "賭博覇王伝 零"
-,"tobikage" : "忍者戦士飛影"
-,"tokyo jungle" : "TOKYO JUNGLE"
-,"toushou daimos" : "闘将ダイモス"
-,"urara meirochou" : "うらら迷路帖"
-,"vanguard princess" : "ヴァンガードプリンセス"
-,"watashi nouryoku wa heikinchi de tte itta yo ne" : "私、能力は平均値でって言ったよね!"
-,"yoshinaga-san chi no gargoyle" : "吉永さん家のガーゴイル"
-,"yu-no" : "この世の果てで恋を唄う少女YU-NO"
-,"zaregoto" : "戯言シリーズ"
-,"zettai bouei leviathan" : "絶対防衛レヴィアタン"
-,"asoko de hataraku musubu-san" : "あそこではたらくムスブさん"
-,"bug fables" : "バグ・フェイブルズ"
-,"darkest dungeon" : "Darkest Dungeon"
-,"kyuuketsu senki vjedogonia" : "吸血殲鬼ヴェドゴニア"
-,"lv1 maou to one room yuusha" : "Lv1魔王とワンルーム勇者"
-,"ruri dragon" : "ルリドラゴン"
-,"sword world 2.0" : "ソード・ワールド2.0"
-,"burn up w" : "BURN-UP W"
-,"fight class 3" : "Fight Class 3"
-,"ingoshima" : "インゴシマ"
-,"cave story" : "洞窟物語"
-,"kamen rider w" : "仮面ライダーW"
-,"shangri-la frontier" : "シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす"
-,"beauty and the beast" : "美女と野獣"
-,"tarzan" : "ターザン"
-,"tsumamigui" : "妻みぐい"
-,"candy candy" : "キャンディ・キャンディ"
-,"spongebob squarepants" : "スポンジ・ボブ"
-,"undead unluck" : "アンデッドアンラック"
-,"the jungle book" : "ジャングル・ブック"
 ,"07-ghost" : "07-GHOST"
-,"active raid" : "アクティヴレイド"
-,"alice no yakata" : "アリスの館"
-,"atomic heart" : "ATOMIC HEART"
-,"biblia koshodou no jiken techou" : "ビブリア古書堂の事件手帖"
-,"black desert online" : "黒い砂漠"
-,"bokura wa mahou shounen" : "ボクらは魔法少年"
-,"border break" : "ボーダーブレイク"
-,"bt x" : "B'T-X"
-,"buraiden gai" : "無頼伝涯"
-,"candy boy" : "Candy☆Boy"
-,"combat mecha xabungle" : "戦闘メカ ザブングル"
-,"cool devices" : "クール・ディバイシスシリーズ"
-,"detroit become human" : "デトロイト ビカム ヒューマン"
-,"family project" : "家族計画"
-,"fantasy bishoujo juniku ojisan to" : "異世界美少女受肉おじさんと"
-,"final fantasy fables chocobos dungeon" : "チョコボの不思議なダンジョン 時忘れの迷宮"
-,"fireball" : "ファイアボール"
-,"franken fran" : "フランケン・ふらん"
-,"galzoo island" : "GALZOOアイランド"
-,"girlish number" : "ガーリッシュ ナンバー"
-,"graduation" : "卒業"
-,"great dangaioh" : "破邪巨星Gダンガイオー"
-,"green green" : "グリーングリーン"
-,"hajimete no otetsudai" : "はじめてのおてつだい"
-,"halo" : "HALO"
-,"hoshizora no memoria" : "星空のメモリア"
-,"i my me strawberry eggs" : "あぃまぃみぃ！ストロベリー・エッグ"
-,"idol defense force hummingbird" : "アイドル防衛隊ハミングバード"
-,"joker game" : "ジョーカー・ゲーム"
-,"kagura douchuuki" : "神楽道中記"
-,"kisaku" : "鬼作"
-,"kono healer mendokusai" : "このヒーラー、めんどくさい"
-,"kouryuu densetsu villgust" : "甲竜伝説ヴィルガスト"
-,"kurokami" : "黒神"
-,"lollipop chainsaw" : "ロリポップチェーンソー"
-,"masamune-kun no revenge" : "政宗くんのリベンジ"
-,"mobile suit gundam hathaways flash" : "機動戦士ガンダム 閃光のハサウェイ"
-,"monster prom" : "Monster Prom"
-,"mousou kagaku series wandaba style" : "妄想科学シリーズ ワンダバスタイル"
-,"mushishi" : "蟲師"
-,"nana to kaoru" : "ナナとカオル"
-,"okusama wa mahou shoujo" : "奥さまは魔法少女"
-,"omamori himari" : "おまもりひまり"
-,"onidere" : "オニデレ"
-,"ore no shikabane wo koeteyuke" : "俺の屍を越えてゆけ"
-,"osawari island" : "大冒険！ゆけゆけ☆おさわりアイランド"
-,"panel de pon" : "パネルでポン"
-,"psycho soldier" : "サイコソルジャー"
-,"ressha sentai toqger" : "烈車戦隊トッキュウジャー"
-,"robot neoanthropinae polynian" : "ポリニアン リリー"
-,"rune soldier" : "魔法戦士リウイ"
-,"sangoku rensenki" : "三国恋戦記"
-,"sen no hatou tsukisome no kouki" : "千の刃濤、桃花染の皇姫"
-,"shining star" : "シャイニングスター"
-,"shoujo no toge" : "少女のトゲ"
-,"soltyrei" : "SoltyRei"
-,"soul eater not" : "ソウルイーターノット!"
-,"sousei tenshi cross emotion" : "想聖天使クロスエモーション"
-,"stringendo" : "ストリンジェンド"
-,"tears to tiara" : "ティアーズ・トゥ・ティアラ"
-,"ten tenhoudoori no kaidanji" : "天 天和通りの快男児"
-,"the melody of oblivion" : "忘却の旋律"
-,"tokyo necro suicide mission" : ["凍京NECRO", "凍京NECRO＜トウキョウ・ネクロ＞ SUICIDE MISSION"]
-,"toshokan sensou" : "図書館戦争"
-,"tower of god" : "神之塔"
-,"tsukikagerou" : "月陽炎"
-,"valorant" : "VALORANT"
-,"wakfu" : "ワクフ"
-,"yuusha no kuse ni namaiki da" : "勇者のくせになまいきだ。"
-,"choujin koukousei-tachi wa isekai demo yoyuu de ikinuku you desu" : "超人高校生たちは異世界でも余裕で生き抜くようです!"
-,"final fantasy xvi" : "ファイナルファンタジーXVI"
-,"komori-san wa kotowarenai" : "小森さんは断れない！"
-,"starcraft" : "スタークラフト"
-,"guardian heroes" : "ガーディアンヒーローズ"
-,"kinsou no vermeil" : "金装のヴェルメイユ"
-,"avataro sentai donbrothers" : "暴太郎戦隊ドンブラザーズ"
-,"blue comet spt layzner" : "蒼き流星SPTレイズナー"
-,"bravoman" : "超絶倫人ベラボーマン"
-,"myo-chan sensei wa kaku katariki" : "みょーちゃん先生はかく語りき"
-,"uchi no kaisha no chiisai senpai no hanashi" : "うちの会社の小さい先輩の話"
-,"youkoso sukebe elf no mori e" : "ようこそ！スケベエルフの森へ"
-,"porco rosso" : "紅の豚"
-,"black souls" : "BLACKSOULS"
-,"chou kuse ni narisou" : "超くせになりそう"
-,"iron man" : "アイアンマン"
-,"saikin yatotta maid ga ayashii" : "最近雇ったメイドが怪しい"
-,"dexters laboratory" : "デクスターズ ラボ"
-,"nyanko daisensou" : "にゃんこ大戦争"
-,"crave saga" : "クレイヴ・サーガ 神絆の導師"
-,"adachi to shimamura" : "安達としまむら"
-,"after..." : "After…"
-,"akiba maid sensou" : "アキバ冥途戦争"
-,"amanchu" : "あまんちゅ！"
-,"angelique" : "アンジェリーク"
-,"armored trooper votoms" : "装甲騎兵ボトムズ"
-,"banished from the heros party i decided to live a quiet life in the countryside" : "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました"
-,"binan koukou chikyuu bouei-bu love" : "美男高校地球防衛部LOVE!"
-,"binbougami ga" : "貧乏神が！"
-,"blaster master zero 2" : "ブラスターマスター ゼロ 2"
-,"breath of fire v" : "ブレス オブ ファイアV ドラゴンクォーター"
-,"chibi vampire" : "かりん"
-,"choujuu kishin dancougar" : "超獣機神ダンクーガ"
-,"coco" : "リメンバー・ミー"
-,"comic girls" : "こみっくがーるず"
-,"dame x prince" : "DAME×PRINCE"
-,"dance in the vampire bund" : "ダンス イン ザ ヴァンパイアバンド"
-,"dance with devils" : "Dance with Devils"
-,"dankira" : "ダンキラ!!! - Boys, be DANCING! -"
-,"deception" : "刻命館"
-,"deltora quest" : "デルトラ・クエスト"
-,"doki doki pretty league" : "ドキドキプリティリーグ"
-,"ef a tale of memories" : "ef - a tale of memories."
-,"evenicle" : "イブニクル"
-,"fantasista doll" : "ファンタジスタドール"
-,"forgotten worlds" : "ロストワールド"
-,"futsuu no joshikousei ga locodol yattemita." : "普通の女子校生が【ろこどる】やってみた。"
-,"gankutsuou" : "巌窟王"
-,"geobreeders" : "ジオブリーダーズ"
-,"hades project zeorymer" : "冥王計画ゼオライマー"
-,"hajimete no aku" : "はじめてのあく"
-,"hanayamata" : "ハナヤマタ"
-,"heartful maman" : "は～とふるママン"
-,"henshin" : "へんし～ん！"
-,"hentai heroes" : "Hentai Heroes"
-,"idol project" : "アイドルプロジェクト"
-,"jinrou judgement" : "人狼 ジャッジメント"
-,"jinsei" : "人生"
-,"juujika" : "十字架"
-,"kaijin kaihatsubu no kuroitsu-san" : "怪人開発部の黒井津さん"
-,"kami-sama no inai nichiyoubi" : "神さまのいない日曜日"
-,"kawarazaki-ke no ichizoku" : "河原崎家の一族"
-,"kengan ashura" : "ケンガンアシュラ"
-,"key the metal idol" : "KEY THE METAL IDOL"
-,"kokoro navi" : "こころナビ"
-,"kusarihime" : "腐り姫"
-,"lagoon engine" : "ラグーンエンジン"
-,"lamento beyond the void" : "Lamento -BEYOND THE VOID-"
-,"madlax" : "MADLAX"
-,"magic sword" : "マジックソード"
-,"matou kitan zankan" : "魔討綺譚 ZANKAN！"
-,"meltys quest" : "メルティス・クエスト"
-,"moero robocon" : "燃えろ!!ロボコン"
-,"moldiver" : "モルダイバー"
-,"moomintroll" : "ムーミントロール"
-,"muten no kaito" : "武天のカイト"
-,"nanaka 6-17" : "ななか6/17"
-,"natsu no ame" : "夏ノ雨"
-,"nee summer" : "姉SUMMER!"
-,"odoru daisousasen" : "踊る大捜査線"
-,"okujou no yurirei-san" : "屋上の百合霊さん"
-,"oniichan no koto nanka zenzen suki janain dakara ne" : "お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!"
-,"otomedius" : "オトメディウス"
-,"peter pan" : "ピーターパン"
-,"power pro kun pocket" : "パワプロクンポケット"
-,"princess nine" : "プリンセスナイン 如月女子高野球部"
-,"prism ark" : "PRISM ARK"
-,"quiz rpg mahoutsukai to kuroneko no wiz" : "クイズRPG 魔法使いと黒猫のウィズ"
-,"radiata stories" : "ラジアータ ストーリーズ"
-,"raramagi honyarara magic" : "ららマジ ホニャららMAGIC"
-,"real bout high school" : "召喚教師リアルバウトハイスクール"
-,"remi nobodys girl" : "家なき子レミ"
-,"rental magica" : "レンタルマギカ"
-,"river city girls" : "熱血硬派くにおくん外伝 River City Girls"
-,"robokko beaton" : "ろぼっ子ビートン"
-,"sabagebu" : "さばげぶっ！"
-,"saimin yuugi" : "催眠遊戯"
-,"samurai flamenco" : "サムライフラメンコ"
-,"sansha sanyou" : "三者三葉"
-,"seiken densetsu 2" : "聖剣伝説2"
-,"seven knights" : "セブンナイツ"
-,"shinazu no himegimi" : "死なずの姫君"
-,"shinken" : "しんけん!!"
-,"stratos 4" : "ストラトス・フォー"
-,"super cub" : "スーパーカブ"
-,"super robot wars w" : "スーパーロボット大戦W"
-,"supernatural" : "スーパーナチュラル"
-,"tenshin ranman" : "天神乱漫"
-,"the kabocha wine" : "かぼちゃワイン"
-,"time bokan" : "タイムボカン"
-,"touki denshou angel eyes" : "闘姫伝承 ANGEL EYES"
-,"uchuu eiyuu monogatari" : "宇宙英雄物語"
-,"violinist of hameln" : "ハーメルンのバイオリン弾き"
-,"washio sumi wa yuusha de aru" : "鷲尾須美は勇者である"
-,"wild arms 3" : "ワイルドアームズ3"
-,"witchs weapon" : "Witch's Weapon -魔女兵器"
-,"yomawari" : "夜廻"
-,"zetman" : "ZETMAN"
-,"battle angel alita" : "銃夢"
-,"mobile legends bang bang" : "モバイル・レジェンド： Bang Bang"
-,"monsters inc." : "モンスターズ・インク"
-,"rimworld" : "RimWorld"
-,"the world ends with you" : "すばらしきこのせかい"
-,"tomica hyper rescue drive head" : "ドライブヘッド～トミカハイパーレスキュー 機動救急警察～"
-,"yuusha party o tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau" : "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う"
-,"bluey" : "ブルーイ"
-,"rapelay" : "レイプレイ"
-,"hime kishi lilia" : "姫騎士リリア"
-,"blassreiter" : "BLASSREITER"
-,"caligula" : "Caligula -カリギュラ"
-,"daphne in the brilliant blue" : "光と水のダフネ"
-,"dasei 67 percent" : "惰性67パーセント"
-,"kenja no mago" : "賢者の孫"
-,"among us" : "Among Us"
-,"kaminaki sekai no kamisama katsudou" : "神無き世界のカミサマ活動"
-,"girumasu" : "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います"
-,"hello kitty" : "ハローキティ"
-,"akibas trip" : "AKIBA'S TRIP"
-,"ciel nosurge" : "シェルノサージュ～失われた星へ捧ぐ詩～"
-,"kanojo x kanojo x kanojo" : "彼女×彼女×彼女"
-,"live a live" : "ライブ・ア・ライブ"
-,"mahou shoujo lalabel" : "魔法少女ララベル"
-,"natsuiro kiseki" : "夏色キセキ"
-,"she-ra and the princesses of power" : "シーラとプリンセス戦士"
-,"shiin" : "死印"
-,"subarashiki hibi" : "素晴らしき日々 ～不連続存在～"
-,"koikatsu" : "コイカツ"
-,"watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta" : "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）"
-,"himitsu no aipri" : "ひみつのアイプリ"
-,"jungle de ikou" : "ジャングルDEいこう！"
-,"kaijuu 8-gou" : "怪獣8号"
-,"aggressors of dark kombat" : "痛快GANGAN行進曲"
-,"anata no shiranai kangofu" : "あなたの知らない看護婦～性的病棟24時～"
-,"anna millers" : "アンナミラーズ"
-,"another lady innocent" : "フロントイノセント"
-,"aoi hana" : "青い花"
-,"atomic betty" : "アトミック・ベティ"
-,"bakugan battle planet" : "爆丸バトルプラネット"
-,"banana fish" : "BANANA FISH"
-,"blood-c" : "BLOOD-C"
-,"blue seed" : "ブルーシード"
-,"boku to roboko" : "僕とロボコ"
-,"bomberman" : "ボンバーマン"
-,"calabiyau" : "Strinova"
-,"chouriki sentai ohranger" : "超力戦隊オーレンジャー"
-,"cinderella blade" : "シンデレラブレイド"
-,"control" : "操作"
-,"crystal maidens" : "Crystal Maidens"
-,"daibanchou -big bang age-" : "大番長-Big Bang Age-"
-,"dalk gaiden" : "DALK外伝"
-,"demonion" : "デモニオン"
-,"demonophobia" : "DEMONOPHOBIA"
-,"divergence eve" : "ダイバージェンス・イヴ"
-,"dousoukai" : "同窓会"
-,"dragon nest" : "ドラゴンネスト"
-,"element hunters" : "エレメントハンター"
-,"engine sentai go-onger" : "炎神戦隊ゴーオンジャー"
-,"evolution" : "EVOLUTION"
-,"far cry" : "FAR CRY"
-,"final fantasy crystal chronicles" : "ファイナルファンタジー・クリスタルクロニクル"
-,"from argonavis" : "from ARGONAVIS"
-,"fumetsu no anata e" : "不滅のあなたへ"
-,"gakuen alice" : "学園アリス"
-,"garo vanishing line" : "牙狼-GARO- -VANISHING LINE-"
-,"giant gorg" : "巨神ゴーグ"
-,"glass mask" : "ガラスの仮面"
-,"gleipnir" : "グレイプニル"
-,"gnosia" : "グノーシア"
-,"gogo sentai boukenger" : "轟轟戦隊ボウケンジャー"
-,"gyousatsu shinsengumi" : "行殺♥新選組"
-,"h2" : "H2"
-,"happy lesson" : "HAPPY★LESSON"
-,"hare tokidoki buta" : "はれときどきぶた"
-,"hatsukoi" : "初恋"
-,"hatsukoi zombie" : "初恋ゾンビ"
-,"hihouden" : "秘宝伝"
-,"honey and clover" : "ハチミツとクローバー"
-,"hyakugojuunenme no mahoutsukai" : "百五十年目の魔法使い"
-,"idola phantasy star saga" : "イドラ ファンタシースターサーガ"
-,"inukami" : "いぬかみっ！"
-,"isekai nonbiri nouka" : "異世界のんびり農家"
-,"jaku-chara tomozaki-kun" : "弱キャラ友崎くん"
-,"jet set radio" : "ジェットセットラジオ"
-,"jitsu wa watashi wa" : "実は私は"
-,"jutaijima" : "受胎島"
-,"juuza engi" : "十三支演義"
-,"katawa shoujo" : "かたわ少女"
-,"kero kero chime" : "ケロケロちゃいむ"
-,"kimi wa midara na boku no joou" : "君は淫らな僕の女王"
-,"kodoku no gourmet" : "孤独のグルメ"
-,"koimoku" : "こいもく"
-,"kojin taxi" : "股人タクシー"
-,"mahou shoujo celesphonia" : "魔法少女セレスフォニア"
-,"mahou shoujo nante mouiidesukara." : "魔法少女なんてもういいですから。"
-,"mahou shoujo sae" : "魔法少女沙枝"
-,"mantradeva" : "Mantradeva"
-,"midori no makibao" : "みどりのマキバオー"
-,"monster collection" : "モンスター・コレクション"
-,"muchi muchi pork" : "むちむちポーク！"
-,"mushihime-sama" : "虫姫さま"
-,"neko musume michikusa nikki" : "ねこむすめ道草日記"
-,"night wizard" : "ナイトウィザード"
-,"noein" : "ノエイン もうひとりの君へ"
-,"okusama ga seito kaichou" : "おくさまが生徒会長！"
-,"omishi magical theater risky safety" : "臣士魔法劇場 リスキー☆セフティ"
-,"otome youkai zakuro" : "おとめ妖怪 ざくろ"
-,"pachique next" : "CRAパチクエネクスト"
-,"plastic memories" : "プラスティック・メモリーズ"
-,"portal" : "PORTAL"
-,"primal x hearts" : "PRIMAL×HEARTS"
-,"rising force online" : "RF online"
-,"rose of versailles" : "ベルサイユのばら"
-,"saga frontier" : "サガ フロンティア"
-,"sakamoto days" : "SAKAMOTO DAYS"
-,"seirei kishi aquael" : "精霊騎士アクエアル"
-,"sekai de ichiban tsuyoku naritai" : "世界でいちばん強くなりたい！"
-,"sengoku night blood" : "戦刻ナイトブラッド"
-,"shippuu iron leaguer" : "疾風!アイアンリーガー"
-,"soleil" : "ソレイユシリーズ"
-,"soul catchers" : "SOUL CATCHER(S)"
-,"soul knight" : "Soul Knight"
-,"sound horizon" : "Sound Horizon"
-,"tekkaman blade" : "宇宙の騎士テッカマンブレード"
-,"terraria" : "Terraria"
-,"the eternity sword" : "エターニティソードシリーズ"
-,"the mask" : "マスク"
-,"tiger mask" : "タイガーマスク"
-,"watashi no ashinaga ojisan" : "私のあしながおじさん"
-,"yuusha raideen" : "勇者ライディーン"
-,"trapezium" : "トラペジウム"
-,"venus 5" : "セーラー戦士ヴィーナス・ファイブ"
-,"wuqi mitu" : "無期迷途"
-,"akatsuki blitzkampf" : "アカツキ電光戦記"
-,"crash bandicoot" : "クラッシュバンディクー"
-,"gals panic" : "ギャルズパニック"
-,"houkago saikoro club" : "放課後さいころ倶楽部"
-,"kuon no kizuna" : "久遠の絆"
-,"marvel vs capcom" : "MARVEL vs. CAPCOM"
-,"young justice" : "ヤング・ジャスティス"
-,"kibou no chikara otona pretty cure 23" : "キボウノチカラ～オトナプリキュア'23～"
-,"brain powerd" : "ブレンパワード"
-,"el viento" : "エル・ヴィエント"
-,"kotetsu jeeg" : "鋼鉄ジーグ"
-,"signalis" : "SIGNALIS"
-,"alchemy stars" : "白夜極光"
-,"chaos head" : "CHAOS;HEAD"
-,"doctor strange" : "ドクター・ストレンジ"
-,"final fantasy legend ii" : "ファイナルファンタジーレジェンズII 時空の水晶"
-,"kagaku chop" : "カガクチョップ"
-,"nande koko ni sensei ga" : "なんでここに先生が！？"
-,"omae umasou da na" : "おまえうまそうだな"
-,"fate prototype" : "Fate/Prototype"
-,"mashle" : "マッシュル"
-,"yu-gi-oh tag force" : "遊☆戯☆王 タッグフォース"
-,"the smoke room" : "The Smoke Room"
-,"family guy" : "ファミリー・ガイ"
-,"gaikotsu kishi-sama tadaima isekai e odekakechuu" : "骸骨騎士様、只今異世界へお出掛け中"
-,"pon no michi" : "ぽんのみち"
-,".hackg.u." : ".hack//G.U."
-,"2.43 seiin high school boys volleyball team" : "2.43 清陰高校男子バレー部"
-,"agatha christies great detectives poirot and marple" : "アガサ・クリスティーの名探偵ポワロとマープル"
-,"alternative girls" : "オルタナティブガールズ"
-,"anarchy reigns" : "マックス アナーキー"
-,"anitore" : "あにトレ！"
-,"arcaea" : "Arcaea	"
-,"ares no tsubasa" : "アレスの翼"
-,"ash arms" : "アッシュアームズ-灰燼戦線-"
-,"avatar" : "アバター"
-,"battle royale" : "バトル・ロワイアル"
-,"borderlands" : "ボーダーランズ"
-,"broken blade" : "ブレイク ブレイド"
-,"bungaku shoujo" : "文学少女"
-,"burning force" : "バーニングフォース"
-,"cafe sourire" : "CAFE SOURIRE"
-,"casshan" : "新造人間キャシャーン"
-,"chain chronicle" : "チェインクロニクル"
-,"cleavage" : "CLEAVAGE"
-,"clover point" : "Clover Point"
-,"cocoro restarter" : "こころリスタ！"
-,"dennou tenshi djibril" : "電脳天使ジブリール"
-,"dero dero" : "でろでろ"
-,"dodge danpei" : "炎の闘球児 ドッジ弾平"
-,"dora the explorer" : "ドーラといっしょに大冒険"
-,"dragon crisis" : "ドラゴンクライシス！"
-,"dragon quest swords" : "ドラゴンクエストソード 仮面の女王と鏡の塔"
-,"duck dodgers" : "ダック・ドジャース"
-,"emperors saga" : "エンペラーズ サガ"
-,"enjou genmu tan" : "艷娘幻夢譚"
-,"futari no lotte" : "ふたりのロッテ"
-,"fuuun ishin dai shogun" : "風雲維新ダイ☆ショーグン"
-,"ghosts n goblins" : "魔界村"
-,"goof troop" : "パパはグーフィー"
-,"grander musashi" : "スーパーフィッシング グランダー武蔵"
-,"hapymaher" : "ハピメア"
-,"harukanaru toki no naka de 3" : "遙かなる時空の中で3"
-,"heavy object" : "ヘヴィーオブジェクト"
-,"hoshizora e kakaru hashi" : "星空へ架かる橋"
-,"hyakujuu sentai gaoranger" : "百獣戦隊ガオレンジャー"
-,"igpx" : "IGPX"
-,"jouki toshi no tantei shoujo" : "蒸気都市の探偵少女"
-,"just because" : "Just Because!"
-,"kamen rider build" : "仮面ライダービルド"
-,"kamidori alchemy meister" : "神採りアルケミーマイスター"
-,"killing stalking" : "Killing Stalking"
-,"kimba the white lion" : "ジャングル大帝"
-,"kisetsu no hanayome" : "季節の花嫁"
-,"koutarou makaritooru" : "コータローまかりとおる！"
-,"kyuukyoku choujin r" : "究極超人あ～る"
-,"lord of walkure" : "ロードオブワルキューレ"
-,"mad rat dead" : "MAD RAT DEAD"
-,"madou king granzort" : "魔動王グランゾート"
-,"magical drop" : "マジカルドロップ"
-,"mahou shoujo neko x" : "魔法少女猫X"
-,"mahou shoujo tai arusu" : "魔法少女隊アルス"
-,"majokko a la mode" : "魔女っ娘ア・ラ・モード"
-,"mamatoto" : "ママトト"
-,"maritsu loli succubus youmaen" : "魔立ロリサキュバス妖魔園"
-,"mashin hero wataru" : "魔神英雄伝ワタル"
-,"metal armor dragonar" : "機甲戦記ドラグナー"
-,"mononoke" : "モノノ怪"
-,"muhyo to rouji no mahouritsu soudan jimusho" : "ムヒョとロージーの魔法律相談事務所"
-,"nobunaga no shinobi" : "信長の忍び"
-,"nonomura byouin no hitobito" : "野々村病院の人々"
-,"ore no natsuyasumi" : "おれのなつやすみ"
-,"ore o suki nano wa omae dake kayo" : "俺を好きなのはお前だけかよ"
-,"oumagadoki zoo" : "逢魔ヶ刻動物園"
-,"phantasy star portable" : "ファンタシースターポータブル"
-,"phantom of inferno" : "Phantom -PHANTOM OF INFERNO-"
-,"pigeon blood" : "PIGEON BLOOD"
-,"red baron" : "スーパーロボット レッド・バロン"
-,"rokujouma no shinryakusha" : "六畳間の侵略者！？"
-,"saint october" : "Saint October"
-,"sakura musubi" : "さくらむすび"
-,"sasuga no sarutobi" : "さすがの猿飛"
-,"savage reign" : "風雲黙示録"
-,"shadow of the colossus" : "ワンダと巨像"
-,"sharin no kuni himawari no shoujo" : "車輪の国、向日葵の少女"
-,"shinken zemi koukou kouza" : "進研ゼミ高校講座"
-,"shoukan yuusha to f-kei kareshi" : "召喚勇者とF系彼氏"
-,"steam detectives" : "快傑蒸気探偵団"
-,"sugarbunnies" : "シュガーバニーズ"
-,"super sons" : "スーパーサンズ"
-,"taisen hot gimmick" : "対戦ホットギミック"
-,"taishou yakyuu musume" : "大正野球娘。"
-,"the cat returns" : "猫の恩返し"
-,"the silence of the lambs" : "羊たちの沈黙"
-,"the tale of the bamboo cutter" : "竹取物語"
-,"tonikaku kawaii" : "トニカクカワイイ"
-,"tottemo luckyman" : "とっても！ラッキーマン"
-,"toukiden" : "討鬼伝"
-,"trapp family story" : "トラップ一家物語"
-,"trauma center" : "TRAUMA CENTER"
-,"uta kata" : "うた∽かた"
-,"wagamama high spec" : "ワガママハイスペック"
-,"wolfs rain" : "WOLF'S RAIN"
-,"wotaku ni koi wa muzukashii" : "ヲタクに恋は難しい"
-,"youjuu club" : "妖獣クラブ"
-,"zetsubou" : "絶望"
-,"tonagura" : "となグラ！"
-,"bojack horseman" : "ボージャック・ホースマン"
-,"suki na ko ga megane wo wasureta" : "好きな子がめがねを忘れた"
-,"aisai nikki" : "愛妻日記"
-,"changed" : "Changed"
-,"harukana receive" : "はるかなレシーブ"
-,"shinigami bocchan to kuro maid" : "死神坊ちゃんと黒メイド"
-,"blame" : "BLAME!"
-,"tower of fantasy" : "Tower of Fantasy（幻塔）"
-,"super doctor k" : "スーパードクターK"
-,"ole tower" : "俺タワー"
-,"phelios" : "フェリオス"
-,"space runaway ideon" : "伝説巨神イデオン"
-,"the lord of the rings" : "THE LOAD OF THE RINGS"
-,"brigadoon" : "BRIGADOON まりんとメラン"
-,"fear and hunger" : "FEAR&HUNGER"
-,"flip flappers" : "フリップフラッパーズ"
-,"mecha mote" : "極上！！めちゃモテ委員長"
-,"the hunchback of notre dame" : "ノートルダムの鐘"
-,"kamen rider gavv" : "仮面ライダーガヴ"
-,"haite kudasai takamine-san" : "履いてください、鷹峰さん"
-,"dragon quest builders 2" : "ドラゴンクエストビルダーズ2 破壊神シドーとからっぽの島"
-,"sinisistar" : "SiNiSistar"
-,"plants vs. zombies" : "PLANTS VS. ZOMBIES"
-,"21 emon" : "21エモン"
-,"advance wars" : "ファミコンウォーズ"
-,"amesarasa" : "アメサラサ ～雨と不思議な君に、恋をする～"
-,"anejiru" : "姉汁"
-,"aquarian age" : "アクエリアンエイジ"
-,"arcade gamer fubuki" : "アーケードゲーマーふぶき"
-,"armitage iii" : "アミテージ・ザ・サード"
-,"ase to sekken" : "あせとせっけん"
-,"asura cryin" : "アスラクライン"
-,"ayakashibito" : "あやかしびと"
-,"b.b.idol" : "B.B.IDOL"
-,"band yarouze" : "バンドやろうぜ！"
-,"bijo de yajuu" : "美女で野獣"
-,"bishoujo kamen poitrine" : "美少女仮面ポワトリン"
-,"bocchi kaibutsu to moumoku shoujo" : "ぼっち怪物と盲目少女"
-,"boku no shoukibo na seikatsu" : "僕の小規模な生活"
-,"bokutachi no remake" : "ぼくたちのリメイク"
-,"bosco adventure" : "ボスコアドベンチャー"
-,"buddy mission bond" : "バディミッション BOND"
-,"canaan" : "CANAAN"
-,"caravan kidd" : "キャラバン・キッド"
-,"chocolate melancholy" : "チョコレート・メランコリー"
-,"cotton" : "COTTON"
-,"crush gear nitro" : "クラッシュギアNitro"
-,"cue" : "CUE!"
-,"d.n.angel" : "D・N・ANGEL"
-,"d.p.s." : "D.P.S."
-,"daikaijuu monogatari" : "大貝獣物語"
-,"danshi koukousei de urekko light novel sakka o shiteiru keredo" : "男子高校生で売れっ子ライトノベル作家をしているけれど、年下のクラスメイトで声優の女の子に首を絞められている。"
-,"denkigai no honya-san" : "デンキ街の本屋さん"
-,"densetsu no ogre battle" : "伝説のオウガバトル"
-,"digimon world re digitize decode" : "デジモンワールド Re:Digitize Decode"
-,"dogeza de tanondemita" : "土下座で頼んでみた"
-,"domestic na kanojo" : "ドメスティックな彼女"
-,"dra plus koi" : "竜†恋"
-,"dream daddy" : "Dream Daddy: A Dad Dating Simulator"
-,"earth defense force" : "地球防衛軍"
-,"earthbound zero" : "MOTHER"
-,"enzai" : "冤罪"
-,"etsuraku hyakka alegria" : "悦楽百華アレグリア"
-,"furai no shiren gaiden onna kenshi asuka kenzan" : "不思議のダンジョン 風来のシレン外伝 女剣士アスカ見参!"
-,"fushigi tsuushin toilet no hanako-san" : "ふしぎ通信 トイレの花子さん"
-,"g senjou no maou" : "G線上の魔王"
-,"gamers" : "ゲーマーズ"
-,"gangsta." : "GANGSTA."
-,"geneshaft" : "ジーンシャフト"
-,"getsumen to heiki mina" : "月面兎兵器ミーナ"
-,"girls high" : "女子高生"
-,"gosenzo san-e" : "御先祖賛江"
-,"gu-gu ganmo" : "Gu-Guガンモ"
-,"guitarfreaks and drummania" : "GITADORA"
-,"hakkenden" : "八犬伝"
-,"hateshinaku aoi kono sora no shita de..." : "果てしなく青い、この空の下で…"
-,"hatsuyuki sakura" : "はつゆきさくら"
-,"hiseki shinki arcana saber" : "秘蹟神姫アルカナセイバー"
-,"hitori bocchi no marumaru seikatsu" : "ひとりぼっちの○○生活"
-,"horizon zero dawn" : "Horizon Zero Dawn"
-,"injuu genmu" : "淫獣幻夢"
-,"jitsu wa ore saikyou deshita" : "実は俺、最強でした？"
-,"jurassic tripper" : "恐竜冒険記ジュラトリッパー"
-,"kamen rider 555" : "仮面ライダー555"
-,"kamen rider hibiki" : "仮面ライダー響鬼"
-,"kamen rider kuuga" : "仮面ライダークウガ"
-,"kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen" : "キミと僕の最後の戦場、あるいは世界が始まる聖戦"
-,"kirara fantasia" : "きららファンタジア"
-,"kishiryu sentai ryusoulger" : "騎士竜戦隊リュウソウジャー"
-,"kite" : "A KITE"
-,"koe de oshigoto" : "こえでおしごと！"
-,"kokoro ga sakebitagatterunda." : "心が叫びたがってるんだ。"
-,"konbini shoujo z" : "コンビニ少女Z"
-,"kourin tenshi en ciel rena" : "光臨天使エンシェル・レナ"
-,"kumo no ito" : "蜘蛛の糸"
-,"little noah" : "リトル ノア 楽園の後継者"
-,"love-yan" : "ラブやん"
-,"lust geass" : "ラストギアス"
-,"mamoru-kun ni megami no shukufuku wo" : "護くんに女神の祝福を！"
-,"maple colors" : "Maple Colors"
-,"meikyuu black company" : "迷宮ブラックカンパニー"
-,"mewkledreamy" : "ミュークルドリーミー"
-,"milky season" : "Milky Season"
-,"moekan" : "モエかん"
-,"nanako sos" : "ななこSOS"
-,"nanatsu no fushigi no owaru toki" : "七つのふしぎの終わるとき"
-,"nikujo no susume" : "肉女のススメ"
-,"nishikida keibu wa dorobou ga osuki" : "錦田警部はどろぼうがお好き"
-,"ore monogatari" : "俺物語!!"
-,"oretachi ni tsubasa wa nai" : "俺たちに翼はない"
-,"osananajimi ga zettai ni makenai love comedy" : "幼なじみが絶対に負けないラブコメ"
-,"ouendan" : "押忍!闘え!応援団"
-,"pinocchio" : "ピノキオ"
-,"ponkotsu quest" : "ポンコツクエスト～魔王と派遣の魔物たち～"
-,"pop-up story" : "ポップアップストーリー～魔法の本と聖樹の学園～"
-,"power pack" : "POWER PACK"
-,"private garden" : "PRIVATE GARDEN"
-,"ramen daisuki koizumi-san" : "ラーメン大好き小泉さん"
-,"refrain no chika meikyuu to majo no ryodan" : "ルフランの地下迷宮と魔女ノ旅団"
-,"rinkan biyaku chuudoku" : "輪姦媚薬中毒"
-,"rising impact" : "ライジングインパクト"
-,"saikano" : "最終兵器彼女"
-,"sakura hime" : "桜姫"
-,"samon-kun wa summoner" : "左門くんはサモナー"
-,"samurai 7" : "SAMURAI7"
-,"sasameki koto" : "ささめきこと"
-,"seitokai no ichizon" : "生徒会の一存"
-,"shikkoku no sharnoth" : "漆黒のシャルノス"
-,"shiroi suna no aquatope" : "白い砂のアクアトープ"
-,"shock troopers" : "ショックトルーパーズ"
-,"sister quest" : "Sister Quest"
-,"souran no chikai" : "蒼藍の誓い"
-,"spaceship agga ruter" : "Space Ofera アッガ・ルター"
-,"squid game" : "イカゲーム"
-,"station memories" : "ステーションメモリーズ！ - 駅メモ！"
-,"suika" : "水夏"
-,"suzunone seven" : "スズノネセブン！"
-,"sword world rpg" : "ソード・ワールドRPG"
-,"taimadou gakuen 35 shiken shoutai" : "対魔導学園35試験小隊"
-,"tako no marine" : "タコのマリネ"
-,"tamayura" : "たまゆら"
-,"tetsujin 28-gou" : "鉄人28号"
-,"tongari boushi no atelier" : "とんがり帽子のアトリエ"
-,"tsuki ga michibiku isekai douchuu" : "月が導く異世界道中"
-,"wakakusa monogatari nan to jo-sensei" : "若草物語 ナンとジョー先生"
-,"wild arms 4" : "ワイルドアームズ4"
-,"youkai hyakkitan" : "妖怪百姫たん！"
-,"terao the next generation machine" : "テラオ The next generation machine"
-,"the great escape" : "The Great Escape"
-,"the last story" : "ラストストーリー"
-,"tokyo ravens" : "東京レイヴンズ"
-,"treasure planet" : "トレジャー・プラネット"
-,"usagi drop" : "うさぎドロップ"
-,"vampire knight" : "ヴァンパイア騎士"
-,"wonder egg priority" : "ワンダーエッグ プライオリティ"
-,"yamato gensouki" : "邪馬台幻想記"
-,"zombie revenge" : "ゾンビリベンジ"
-,"hi-fi rush" : "Hi-Fi RUSH"
-,"jack jeanne" : "ジャックジャンヌ"
-,"mahou shoujo tokushusen asuka" : "魔法少女特殊戦あすか"
-,"mahou tsukai chappy" : "魔法使いチャッピー"
-,"arashi no yoru ni" : "あらしのよるに"
-,"nangoku shounen papuwa-kun" : "南国少年パプワくん"
-,"natsu no kumo" : "ナツノクモ"
-,"slime taoshite 300-nen shiranai uchi ni level max ni nattemashita" : "スライム倒して300年、知らないうちにレベルMAXになってました"
-,"tensou sentai goseiger" : "天装戦隊ゴセイジャー"
-,"grand chase" : "グランドチェイス"
-,"the ghost and molly mcgee" : "ゴースト&モリー"
-,"black panther" : "ブラックパンサー"
-,"galaxy cyclone braiger" : "銀河旋風ブライガー"
-,"hercules" : "ハーキュリーズ"
-,"blue reflection" : "ブルー リフレクション 幻に舞う少女の剣"
-,"hamidashi creative" : "ハミダシクリエイティブ"
-,"id invaded" : "ID：INVADED イド：インヴェイデッド"
-,"rage of the dragons" : "レイジ・オブ・ザ・ドラゴンズ"
-,"puella magi suzune magica" : "魔法少女すずね☆マギカ"
-,"r-15" : "R-15"
-,"the unbeatable squirrel girl" : "The Unbeatable Squirrel Girl"
-,"kuroiwa medaka ni watashi no kawaii ga tsuujinai" : "黒岩メダカに私の可愛いが通じない"
-,"challenge first-year-student" : "チャレンジ1年生"
-,"kimi wa houkago insomnia" : "君は放課後インソムニア"
-,"little nightmares" : "LITTLE NIGHTMARES-リトルナイトメア-"
-,"yanineko" : "ヤニねこ"
-,"devil connection" : "でびるコネクショん"
-,"princess evangile" : "Princess Evangile 〜プリンセスエヴァンジール〜"
-,"murder drones" : "マーダー・ドローンズ"
-,"super dimension century orguss" : "超時空世紀オーガス"
-,"tensai ouji no akaji kokka saisei jutsu" : "天才王子の赤字国家再生術"
-,"famicom rocky" : "ファミコンロッキー"
-,"muka muka paradise" : "ムカムカパラダイス"
-,"the story of pollyanna" : "ポリアンナ物語"
-,"z slash x" : "Z/X -Zillions of enemy X-"
-,"amagami-san chi no enmusubi" : "甘神さんちの縁結び"
-,"total drama island" : "トータル・ドラマ"
-,"blood royale" : "BLOOD ROYAL"
-,"no.1 sentai gozyuger" : "ナンバーワン戦隊ゴジュウジャー"
-,"kaoru hana wa rin to saku" : "薫る花は凛と咲く"
 ,"1 plus 2 equals paradise" : "1+2=パラダイス"
-,"30-sai no hoken taiiku" : "30歳の保健体育"
-,"ai shimai" : "愛姉妹"
-,"akira" : "AKIRA"
-,"alias carnival" : "ALIA's CARNIVAL!"
-,"american mcgees alice" : "アリス イン ナイトメア"
-,"asu no yoichi" : "明日のよいち！"
-,"atelier firis" : "フィリスのアトリエ"
-,"atelier lilie" : "リリーのアトリエ"
-,"atelier lulua" : "ルルアのアトリエ"
-,"attack no. 1" : "アタックNo.1"
-,"bakumatsu jinchuu houkoku resshiden miburo" : "幕末尽忠報国烈士伝MIBURO"
-,"crusher joe" : "クラッシャー・ジョー"
-,"dalk" : "DALK"
-,"divine gate" : "ディバインゲート"
-,"gamba no bouken" : "ガンバの冒険"
-,"gau gau wata" : "ガウガウわー太"
-,"harbor light story fashion lala yori" : "ハーバーライト物語 ファッションララより"
-,"hataage kemono michi" : "旗揚!けものみち"
-,"higanbana no saku yoru ni" : "彼岸花の咲く夜に"
-,"homestuck" : "Homestuck"
-,"hotel transylvania" : "モンスター・ホテル"
-,"ibara no ou" : "いばらの王"
-,"inaka ni kaeru to yakeni natsuita kasshoku ponytail shota ga iru" : "田舎に帰るとやけになついた褐色ポニテショタがいる"
-,"itsuka tenma no kuro usagi" : "いつか天魔の黒ウサギ"
-,"junketsu no maria" : "純潔のマリア"
-,"kagaku na yatsura" : "カガクなヤツら"
-,"kamen rider decade" : "仮面ライダーディケイド"
-,"kami no rhapsody" : "神のラプソディ"
-,"kannagi no tori" : "神無ノ鳥"
-,"koi wa sekai seifuku no ato de" : "恋は世界征服のあとで"
-,"kuzu no honkai" : "クズの本壊"
-,"kyuukyoku shinka shita full dive rpg ga genjitsu yori mo kusogee dattara" : "究極進化したフルダイブRPGが現実よりもクソゲーだったら"
-,"lunar eternal blue" : "LUNARエターナルブルー"
-,"matantei loki ragnarok" : "魔探偵ロキ"
-,"my sweet umadonna boku wa kimi no uma" : "My sweet ウマドンナ ～僕は君のウマ"
-,"nekketsu saikyou go-saurer" : "熱血最強ゴウザウラー"
-,"ochame na futago" : "おちゃめなふたご"
-,"ochamegami monogatari korokoro pollon" : "おちゃめ神物語コロコロポロン"
-,"parallel paradise" : "パラレルパラダイス"
-,"princess princess" : "Princess×Princess"
-,"rio paradise" : "リオパラダイス"
-,"shining resonance" : "シャイニング・レゾナンス"
-,"shukufuku no campanella" : "祝福のカンパネラ"
-,"shuusen no lorelei" : "終戦のローレライ"
-,"sly cooper" : "怪盗スライ・クーパー"
-,"soredemo tsuma o aishiteru" : "それでも妻を愛してる"
-,"stella glow" : "ステラ グロウ"
-,"tetsunabe no jan" : "鉄鍋のジャン！"
-,"w.l.o. sekai renai kikou" : "W.L.O.世界恋愛機構"
-,"yoru to asa no uta" : "よるとあさの歌"
-,"91 days" : "91Days"
+,"10 carat torte" : "天からトルテ!"
 ,"1000-chan" : "1000ちゃん"
-,"adventure kid" : "アドベンチャーKiD"
-,"air master" : "エアマスター"
-,"akb49" : "AKB49～恋愛禁止条例～"
-,"amnesia" : "AMNESIA"
-,"angel halo" : "Angel Halo"
-,"anne happy" : "あんハピ♪"
-,"arcana famiglia" : "アルカナ・ファミリア"
-,"atelier shallie" : "シャリーのアトリエ"
-,"bagi the monster of mighty nature" : "大自然の魔獣バギ"
-,"baldr force" : "BALDR FORCE"
-,"bishounen tanteidan" : "美少年探偵団"
-,"blast of tempest" : "絶園のテンペスト"
-,"blue period" : "ブルーピリオド"
-,"bokura wa minna kawaisou" : "僕らはみんな河合荘"
-,"bra-ban" : "ぶらばん! -The bonds of melody-"
-,"bravestarr" : "BraveStarr"
-,"bust a groove" : "バスト ア ムーブ"
-,"cafe junkie" : "カフェ･ジャンキー"
-,"cerberus" : "ケルベロス"
-,"chaos angels" : "カオスエンジェルズ"
-,"clover hearts" : "Clover Heart's"
-,"darcrows" : "DARCROWS"
-,"dead rising" : "デッドライジング"
-,"dokkiri doctor" : "どっきりドクター"
-,"dokonjou gaeru" : "ど根性ガエル"
-,"dragon half" : "ドラゴンハーフ"
-,"ducktales" : "わんぱくダック夢冒険"
-,"el cazador de la bruja" : "エル・カザド"
-,"ever 17" : "Ever17 -the out of infinity-"
-,"final fantasy gaiden" : "光の4戦士 -ファイナルファンタジー外伝-"
-,"gakuen saimin reido" : "学園催眠隷奴 ～さっきまで、大嫌いだったはずなのに"
-,"game of thrones" : "ゲーム・オブ・スローンズ"
-,"genki bakuhatsu ganbaruger" : "元気爆発ガンバルガー"
-,"ghostbusters" : "ゴーストバスターズ"
-,"goddess kiss" : "女神にキスを～Goddess Kiss～"
-,"golden boy" : "GOLDEN BOY"
-,"goshuushou-sama ninomiya-kun" : "ご愁傷さま二ノ宮くん"
-,"granado espada" : "グラナド・エスパダ"
-,"gunparade orchestra" : "ガンパレード・オーケストラ"
-,"hurricane polymar" : "破裏拳ポリマー"
-,"huyao xiao hongniang" : "縁結びの妖狐ちゃん"
-,"hyouryuu kyoushitsu" : "漂流教室"
-,"ikenai luna sensei" : "いけない!ルナ先生"
-,"indigo park" : "Indigo Park"
-,"jimoto saikou" : "地元最高！"
-,"juusou kikou dancougar nova" : "獣装機攻ダンクーガノヴァ"
-,"kamisama ni natta hi" : "神様になった日"
-,"kanojo mo kanojo" : "カノジョも彼女"
-,"kikaider" : "人造人間キカイダー"
-,"kira kira" : "キラ☆キラ"
-,"ko-ko-ro" : "コ・コ・ロ…"
-,"kowloon youma gakuenki" : "九龍妖魔學園紀"
-,"kunoichi" : "Kunoichi -忍-"
-,"last inning" : "ラストイニング―私立彩珠学院高校野球部の逆襲"
-,"lilim kiss" : "りりむキッス"
-,"long riders" : "ろんぐらいだぁす！"
-,"loveless" : "LOVELESS"
-,"magicalo magical" : "マジカロマジカル"
-,"mao mao heroes of pure heart" : "マオマオ ピュアハートのヒーロー"
-,"mar" : "MÄR - Märchen Awakens Romance"
-,"marchen maze" : "メルヘンメイズ"
-,"maximum ride" : "マキシマム・ライド"
-,"megazone 23" : "メガゾーン23"
-,"men in black" : "メン・イン・ブラック"
-,"metal saga" : "メタルサーガ ～砂塵の鎖～"
-,"mulan" : "ムーラン"
-,"mystery flesh pit national park" : "Mystery Flesh Pit National Park"
-,"nanatsuiro drops" : "ななついろ★ドロップス"
-,"natsuyuki rendezvous" : "夏雪ランデブー"
-,"nejimaki kagyuu" : "ねじまきカギュー"
-,"neo steam" : "ネオスチーム"
-,"onigokko" : "鬼ごっこ！"
-,"pac-man" : "PAC-MAN"
-,"pacific rim" : "パシフィック・リム"
-,"paladins" : "PALADINS"
-,"penguin highway" : "ペンギン・ハイウェイ"
-,"phi brain puzzle of god" : "ファイ・ブレイン 神のパズル"
-,"planet with" : "プラネット・ウィズ"
-,"pu-li-ru-la" : "Pu・Li・Ru・La"
-,"quartett" : "Quartett!"
-,"ragnarok the animation" : "RAGNAROK THE ANIMATION"
-,"sacred seven" : "セイクリッドセブン"
-,"sasami magical girls club" : "砂沙美☆魔法少女クラブ"
-,"scarlet nexus" : "SCARLET NEXUS"
-,"shadow skill" : "SHADOW SKILL -影技-"
-,"shinseiki inma seiden" : "新世紀 淫魔聖伝"
-,"slow start" : "スロウスタート"
-,"space patrol luluco" : "宇宙パトロールルル子"
-,"star-myu" : "スタミュ"
-,"stop hibari-kun" : "ストップ!! ひばりくん!"
-,"strange journey" : "真・女神転生 STRANGE JOURNEY"
-,"stranger things" : "ストレンジャー・シングス 未知の世界"
-,"sylvanian families" : "シルバニアファミリー"
-,"tamagotchi" : "たまごっち"
-,"tech romancer" : "超鋼戦紀キカイオー"
-,"the momotaroh" : "THE MOMOTAROH"
-,"the secret world of arrietty" : "借りぐらしのアリエッティ"
-,"time gal" : "タイムギャル"
-,"tokkyuu" : "トッキュー！！"
-,"tom and jerry" : "トムとジェリー"
-,"tp bon" : "T・Pぼん"
-,"trapt" : "刻命館シリーズ"
-,"trouble evocation" : "Trouble evocation"
-,"tsuma shougakusei ni naru." : "妻、小学生になる。"
-,"tsurune kazemai koukou kyuudoubu" : "ツルネ ―風舞高校弓道部―"
-,"twelve kingdoms" : "十二国記"
-,"wahhaman" : "ワッハマン"
-,"wizardry" : "ウィーザードリィ"
-,"wonder festival mascot" : "ワンダーフェスティバルマスコット"
-,"yarukkya knight" : "やるっきゃ騎士"
-,"yotsunoha" : "よつのは"
-,"yukikaze" : "戦闘妖精・雪風"
-,"yume nikki" : "ゆめにっき"
-,"yurikuma arashi" : "ユリ熊嵐"
-,"yuusha to maou" : "まおゆう魔王勇者"
-,"zombiepowder." : "ZOMBIEPOWDER."
-,"kimi no suizou o tabetai" : "君の膵臓をたべたい"
-,"charisma" : "超人的シェアハウスストーリー『カリスマ』"
+,"11eyes" : "11eyes -罪と罰と贖いの少女-"
+,"13 sentinels aegis rim" : "十三機兵防衛圏"
 ,"16bit sensation" : "16bitセンセーション"
-,"animaniacs" : "アニマニアックス"
-,"branmarker" : "ブランマーカー"
-,"criminal girls" : "クリミナルガールズ"
-,"daicon" : "DAICON FILM"
-,"esp ra.de." : "エスプレイド"
-,"eve burst error" : "EVE burst error"
-,"fit boxing" : "Fit Boxing"
-,"guild wars" : "ギルドウォーズ"
-,"heike monogatari" : "平家物語"
-,"hyoui henshin extra souls" : "憑依変身エクストラソウルズ"
-,"inkya lovecome" : "陰キャラブコメ"
-,"kill blue" : "キルアオ"
-,"majo to hyakkihei" : "魔女と百騎兵"
-,"omakase peace denkiten" : "おまかせ! ピース電器店"
-,"return to shironagasu island" : "シロナガス島への帰還"
-,"monster super league" : "モンスタースーパーリーグ"
-,"mount celeb kaneda-san" : "マウントセレブ金田さん"
-,"nettou bemani stadium" : "熱闘！BEMANIスタジアム"
-,"ring ni kakero" : "リングにかけろ"
-,"solo leveling" : "俺だけレベルアップな件"
-,"the exit 8" : "8番出口"
-,"the tortoise and the hare" : "ウサギとカメ"
-,"tottemo yasashii amae-chan" : "とっても優しいあまえちゃん！"
-,"yoru no kurage wa oyogenai" : "夜のクラゲは泳げない"
-,"youjuu senki a.d. 2048" : "妖獣戦記 -A.D.2048-"
-,"ask dr. rin" : "Dr.リンにきいてみて!"
-,"hima-ten" : "ひまてん！"
-,"muteki koujin daitarn 3" : "無敵鋼人ダイターン3"
-,"pikmin" : "ピクミン"
-,"shrek" : "シュレック"
-,"starzinger" : "SF西遊記スタージンガー"
-,"super gals" : "超GALS！寿蘭"
-,"ura sekai picnic" : "裏世界ピクニック"
-,"seer" : "Seer"
+,"2.43 seiin high school boys volleyball team" : "2.43 清陰高校男子バレー部"
+,"2.5-jigen no yuuwaku" : "2.5次元の誘惑"
+,"21 emon" : "21エモン"
+,"2x2 shinobuden" : "ニニンがシノブ伝"
+,"3000 leagues in search of mother" : "母をたずねて三千里"
+,"30-sai no hoken taiiku" : "30歳の保健体育"
+,"3-gatsu no lion" : "三月のライオン"
+,"3-nen b-gumi kinpachi sensei densetsu no kyoudan ni tate" : "3年B組金八先生 伝説の教壇に立て！"
+,"3x3 eyes" : "3×3 EYES"
+,"7th dragon" : "セブンスドラゴン"
+,"81diver" : "ハチワンダイバー"
+,"86" : "エイティシックス"
+,"91 days" : "91Days"
+,"a channel" : "Aチャンネル"
 ,"a dog of flanders" : "フランダースの犬"
-,"the swiss family robinson flone of the mysterious island" : "家族ロビンソン漂流記 ふしぎな島のフローネ"
-,"ai the somnium files" : "AI： ソムニウム ファイル"
-,"astralair no shiroki towa" : "アストラエアの白き永遠"
-,"bloodstained" : "Bloodstained: Ritual of the Night"
-,"futurama" : "フューチュラマ"
-,"gigant" : "GIGANT"
-,"halloween" : "ハロウィン"
-,"marvel disk wars the avengers" : "ディスク・ウォーズ:アベンジャーズ"
-,"panzer world galient" : "機甲界ガリアン"
-,"robin hood" : "ロビンフッド"
-,"ryuugajou nanana no maizoukin" : "龍ヶ嬢七々々の埋蔵金"
-,"sora no iro mizu no iro" : "そらのいろ、みずのいろ"
-,"tengoku daimakyou" : "天国大魔境"
-,"touch detective" : "おさわり探偵 小沢里奈"
-,"buta no gotoki" : "豚の如き山賊に捕らわれて処女を奪われる巨乳姫騎士&女戦士～絶対チ○ポなんかに負けたりしない！！～ THE ANIMATION"
-,"bakuage sentai boonboomger" : "爆上戦隊ブンブンジャー"
-,"dragon ball daima" : "ドラゴンボールDAIMA"
-,"elden ring nightreign" : "ELDEN RING NIGHTREIG"
-,"team fortress" : "Team Fortress"
-,"tropical kiss" : "トロピカルKISS"
-,"ano hito no i ni wa boku ga tarinai" : "あの人の胃には僕が足りない"
-,"aoi shiro" : "アオイシロ"
-,"ashita no joe" : "あしたのジョー"
-,"atelier judie" : "ユーディーのアトリエ"
-,"bucchigire" : "ブッチギレ!"
-,"chip n dale rescue rangers" : "チップとデールの大作戦 レスキュー・レンジャーズ"
-,"daiku no gen-san" : "大工の源さん"
-,"digimon survive" : "デジモンサヴァイブ"
-,"elite beat agents" : "エリート・ビート・エージェント"
-,"generation of chaos" : "ジェネレーションオブカオス"
-,"genjitsu shugi yuusha no oukoku saikenki" : "現実主義勇者の王国再建記"
-,"himitsu sentai metamor v" : "ひみつ戦隊メタモルV"
-,"kaerunyo panyorn" : "かえるにょぱにょーん"
-,"kara no naka no kotori" : "殻の中の小鳥"
-,"kyouryuu wakusei" : "恐竜惑星"
-,"lemon angel" : "レモンエンジジェル"
-,"little twins sugu ni toriko ni shite ageru" : "りとる☆ついんず ～すぐにトリコにしてあげる♪～"
-,"little witch parfait" : "リトルウィッチ☆パルフェ"
-,"lucy of the southern rainbow" : "南の虹のルーシー"
-,"onii-chan asa made zutto gyutte shite yoru made motto ecchi shite" : "お兄ちゃん、朝までずっとギュッてして！夜までもっとエッチして！"
-,"ore ga suki nano wa imouto dakedo imouto ja nai" : "俺が好きなのは妹だけど妹じゃない"
-,"ouchi ni kaeru made ga mashimaro desu" : "お家に帰るまでがましまろです"
-,"rapunzel" : "ラプンツェル"
-,"shinmai renkinjutsushi no tenpo keiei" : "新米錬金術師の店舗経営"
-,"super robot wars z 2nd" : "第2次スーパーロボット大戦Z"
-,"swat kats" : "SWAT Kats: The Radical Squadron"
-,"tenshi na konamaiki" : "天使な小生意気"
-,"the genius bakabon" : "天才バカボン"
-,"uchi no otouto maji de dekain dakedo mi ni konai" : "ウチの弟マジでデカイんだけど見にこない？"
-,"utsukushiki sei no dendoushi rei rei" : "美しき聖の伝道師麗麗"
-,"xenon mugen no shitai" : "XENON -夢幻の肢体-"
-,"yume oukoku to nemureru 100-nin no ouji-sama" : "夢王国と眠れる100人の王子様"
-,"zoids wild zero" : "ゾイドワイルド Zero"
-,"eiyuu-ou bu o kiwameru tame tenseisu" : "英雄王、武を極めるため転生す"
-,"echocalypse" : "Echocalypse"
+,"a little snow fairy sugar" : "ちっちゃな雪使いシュガー"
+,"a.i. ga tomaranai" : "A.I.が止まらない"
+,"a3" : "A3!"
+,"abenobashi mahou shoutengai" : "アベノ橋魔法☆商店街"
+,"absolute duo" : "アブソリュート・デュオ"
+,"abunai tengu densetsu - yomigaetta tengu ga yozora o mau" : "あぶない天狗伝説 よみがえった天狗が夜空を舞う"
+,"accel world" : "アクセル・ワールド"
+,"acchi kocchi" : "あっちこっち"
+,"ace attorney" : "逆転裁判"
+,"ace force" : "ACE FORCE"
+,"act-age" : "アクタージュ"
 ,"action heroine cheer fruits" : "アクションヒロイン チアフルーツ"
+,"active raid" : "アクティヴレイド"
+,"actraiser" : "アクトレイザー"
+,"adachi to shimamura" : "安達としまむら"
+,"advance wars" : "ファミコンウォーズ"
+,"adventure kid" : "アドベンチャーKiD"
+,"adventure time" : "アドベンチャー・タイム"
+,"aflame inferno" : "Aflame Inferno"
+,"after..." : "After…"
 ,"agarest senki" : "アガレスト戦記"
+,"agatha christies great detectives poirot and marple" : "アガサ・クリスティーの名探偵ポワロとマープル"
+,"agent aika" : "AIKa"
 ,"agents of atlas" : "Agents of Atlas"
+,"aggressors of dark kombat" : "痛快GANGAN行進曲"
+,"aggretsuko" : "アグレッシブ烈子"
+,"ah my goddess" : "ああっ女神さまっ"
 ,"aharen-san wa hakarenai" : "阿波連さんははかれない"
 ,"aho-girl" : "アホガール"
 ,"ai kora" : "あいこら"
+,"ai mai mi" : "あいまいみー"
+,"ai no wakakusa monogatari" : "愛の若草物語"
+,"ai shimai" : "愛姉妹"
+,"ai the somnium files" : "AI： ソムニウム ファイル"
+,"ai yori aoshi" : "藍より青し"
+,"aikatsu" : "アイカツ！"
+,"aikatsu friends" : "アイカツフレンズ!"
+,"aim for the ace" : "エースをねらえ!"
+,"air" : "AIR"
+,"air gear" : "エア・ギア"
+,"air master" : "エアマスター"
+,"aisai nikki" : "愛妻日記"
+,"aishiteruze baby" : "愛してるぜベイベ★★"
+,"aiura" : "あいうら"
+,"aiyoku no eustia" : "穢翼のユースティア"
+,"ajin" : "亜人"
+,"ajisai no chiru koro ni" : "紫陽花の散ル頃に"
+,"akagi" : ["アカギ", "アカギ ～闇に降り立った天才～"]
+,"akame ga kill" : "アカメが斬る!"
+,"akane wa tsumare somerareru" : "茜ハ摘マレ染メラレル"
 ,"akane-banashi" : "あかね噺"
-,"akuma-kun" : "悪魔くん"
-,"aoharu tetsudo" : "青春鉄道"
-,"appleseed" : "アップルシード"
-,"baby steps" : "Baby Steps"
-,"battle spirits double drive" : "バトルスピリッツ ダブルドライブ"
-,"beast wars" : "ビーストウォーズ 超生命体トランスフォーマー"
-,"binzume yousei" : "瓶詰妖精"
-,"capricorn" : "カプリコン"
-,"casshern sins" : "キャシャーンSins"
-,"caterpillar" : "キャタピラー-CATERPILLAR-"
-,"chaos code" : "カオスコード"
-,"cinnamoroll" : "シナモロール"
-,"clover days" : "Clover Day’s"
-,"cluster edge" : "クラスターエッジ"
-,"culdcept" : "カルドセプト"
-,"cuphead" : "CUPHEAD"
-,"dai-guard" : "地球防衛企業ダイ・ガード"
-,"de-ja" : "DE・JA"
-,"dead space" : "DEAD SPACE"
-,"deaimon" : "であいもん"
-,"destiny" : "DESTINY"
-,"dokyuu hentai hxeros" : "ド級編隊エグゼロス"
-,"dragon force" : "ドラゴンフォース"
-,"dreadout" : "DreadOut"
-,"elf 17" : "エルフ・17"
-,"fifth twin" : "Fifth～Twin～"
-,"fortune quest" : "フォーチュンクエスト"
-,"frankenstein" : "フランケンシュタイン"
-,"gakuen heaven" : "学園ヘヴン BOY'S LOVE SCRAMBLE!"
-,"gakuen sousei nekoten" : "学園創世 猫天！"
-,"game tengoku" : "ゲーム天国"
-,"gears of war" : "Gears of War"
-,"gokuto jihen" : "獄都事変"
-,"grancrest senki" : "グランクレスト戦記"
-,"hachi-nan tte sore wa nai deshou" : "八男って、それはないでしょう！"
-,"hakushon daimaou" : "ハクション大魔王"
-,"happy sugar life" : "ハッピーシュガーライフ"
-,"harem ace" : "ハーレムエース"
-,"harukoi otome" : "春恋＊乙女"
-,"helios rising heroes" : "エリオスライジングヒーローズ"
-,"heroic age" : "ヒロイック・エイジ"
-,"hikarian" : "超特急ヒカリアン"
-,"himekishi angelica" : "姫騎士アンジェリカ"
-,"holy knight" : "Holy Knight"
-,"in search of the lost future" : "失われた未来を求めて"
-,"inspector gadget" : "ガジェット警部"
-,"irisu syndrome" : "いりす症候群!"
-,"isekai cheat magician" : "異世界チート魔術師"
-,"josou jinja" : "女装神社"
-,"juuni taisen" : "十二大戦"
-,"kakushigoto" : "かくしごと"
-,"kanpani girls" : "かんぱに☆ガールズ"
-,"kick-ass" : "キック・アス"
-,"king of races" : "KING OF RACES"
-,"kinnikuman lady" : "キン肉マンレディー"
-,"kizuna striker" : "キズナストライカー！"
-,"koi iro marriage" : "恋色マリアージュ"
-,"kokuran" : "黒蘭"
-,"koto no ha no niwa" : "言の葉の庭"
-,"koukou kyuuji zawa-san" : "高校球児ザワさん"
-,"kousoku card battle card hero" : "高速カードバトル カードヒーロー"
-,"kowaku no toki" : "蠱惑の刻"
-,"kyojin no hoshi" : "巨人の星"
-,"les miserables shoujo cosette" : "レ・ミゼラブル 少女コゼット"
-,"little monica monogatari" : "リトルモニカ物語"
-,"m3gan" : "M3GAN ミーガン"
-,"macademi wasshoi" : "まかでみ・WAっしょい！"
-,"machine maiden" : "Machine Maiden"
-,"maps" : "マップス"
-,"megami paradise" : "女神天国"
-,"metal max" : "メタルマックス"
-,"monster retsuden oreca battle" : "モンスター烈伝 オレカバトル"
-,"regalia the three sacred stars" : "レガリア The Three Sacred Stars"
-,"obi wo gyuttone" : "帯をギュッとね!"
-,"ojisan to marshmallow" : "おじさんとマシュマロ"
-,"ori and the blind forest" : "オリとくらやみの森"
-,"pandemonium majutsushi no mura" : "パンデモニウム ―魔術師の村―"
-,"planet of the apes" : "猿の惑星"
-,"prostudent g" : "ぷろすちゅーでんとG"
-,"r-type" : "R-TYPE"
-,"reibaishi izuna" : "霊媒師いずな"
-,"saikyou densetsu kurosawa" : "最強伝説 黒沢"
-,"samurai usagi" : "侍兎"
-,"shingu secret of the stellar wars" : "学園戦記ムリョウ"
-,"shugaten" : "しゅがてん！"
-,"sora no kanata no dystopia" : "天穹ノ彼方の錬星郷"
-,"thumbelina" : "おやゆび姫"
-,"tonari no onee-san" : "となりのお姉さんシリーズ"
-,"uchouten kazoku" : "有頂天家族"
-,"wan wan celeb soreyuke tetsunoshin" : "ワンワンセレプー それゆけ！徹之進"
-,"watashi no tame no nuginasai" : "わたしのために脱ぎなさいっ！"
-,"yakushiji ryouko no kaiki jikenbo" : "薬師寺涼子の怪奇事件簿"
-,"yuukyuu no sharin" : "悠久の車輪"
-,"shiunji-ke no kodomotachi" : "紫雲寺家の子供たち"
-,"sakura moyu." : "さくら、もゆ。"
-,"buttobi cpu" : "ぶっとび!!CPU"
-,"final fantasy brave exvius" : "ファイナルファンタジー ブレイブエクスヴィアス"
-,"one room hiatari futsuu tenshi-tsuki" : "ワンルーム、日当たり普通、天使つき。"
-,"sei juushi bismark" : "星銃士ビスマルク"
-,"uchuu senshi baldios" : "宇宙戦士バルディオス"
+,"akaneiro ni somaru saka" : "あかね色に染まる坂"
+,"akatsuki blitzkampf" : "アカツキ電光戦記"
+,"akatsuki no goei" : "暁の護衛"
+,"akatsuki no yona" : "暁のヨナ"
+,"akazukin chacha" : "赤ずきんチャチャ"
+,"akb49" : "AKB49～恋愛禁止条例～"
+,"akebi no mi" : "山姫の実"
+,"akebi-chan no sailor fuku" : "明日ちゃんのセーラー服"
+,"aki sora" : "あきそら"
+,"akiba kei kanojo" : "アキバ系彼女"
+,"akiba maid sensou" : "アキバ冥途戦争"
+,"akibas trip" : "AKIBA'S TRIP"
+,"akihabara dennou gumi" : "アキハバラ電脳組"
+,"akira" : "AKIRA"
+,"aku no onna kanbu" : "悪の女幹部"
 ,"akuma no memumemu-chan" : "悪魔のメムメムちゃん"
-,"iyashite agerun saiyuuki" : "癒してあげルン 西遊記"
-,"mayonaka no tantei nightwalker" : "Night Walker -真夜中の探偵-"
-,"megami no cafe terrace" : "女神のカフェテラス"
-,"omniscient readers viewpoint" : "Omniscient Reader's Viewpoint"
-,"shuu ni ichido classmate o kau hanashi" : "週に一度クラスメイトを買う話"
-,"jackie chan adventures" : "ジャッキー・チェン・アドベンチャー"
-,".hackroots" : ".hack//Roots"
-,"3000 leagues in search of mother" : "母をたずねて三千里"
+,"akuma no riddle" : "悪魔のリドル"
+,"akuma-kun" : "悪魔くん"
+,"akuyaku reijo level 99" : "悪役令嬢レベル99 ～私は裏ボスですが魔王ではありません～"
+,"aladdin" : "アラジン"
+,"albatross koukairoku" : "信天翁航海録"
+,"alchemy stars" : "白夜極光"
+,"aldnoah.zero" : "アルドノア・ゼロ"
+,"alias carnival" : "ALIA's CARNIVAL!"
+,"alice gear aegis" : "アリス・ギア・アイギス"
+,"alice in the country of hearts" : "ハートの国のアリス"
+,"alice in wonderland" : "ふしぎの国のアリス"
+,"alice no yakata" : "アリスの館"
+,"alien 9" : "エイリアン9"
+,"alien vs predator" : "エイリアンVS.プレデター"
+,"aliens" : "エイリアン"
+,"all out" : "ALL OUT!!"
+,"all purpose cultural cat girl nuku nuku" : "万能文化猫娘"
+,"all you need is kill" : "ALL YOU NEED IS KILL"
+,"alps no shoujo heidi" : "アルプスの少女ハイジ"
+,"alternative girls" : "オルタナティブガールズ"
+,"amaama to inazuma" : "甘々と稲妻"
+,"amagami" : "アマガミ"
+,"amagami-san chi no enmusubi" : "甘神さんちの縁結び"
+,"amagi brilliant park" : "甘城ブリリアントパーク"
+,"amairo islenauts" : "天色＊アイルノーツ"
+,"amakano" : "アマカノ"
+,"amakano 2" : "アマカノ2"
+,"amanchu" : "あまんちゅ！"
+,"amano megumi ha sukidarake" : "天野めぐみはスキだらけ!"
+,"amazing nurse nanako" : "菜々子解体診書"
+,"american mcgees alice" : "アリス イン ナイトメア"
+,"amesarasa" : "アメサラサ ～雨と不思議な君に、恋をする～"
+,"amnesia" : "AMNESIA"
+,"among us" : "Among Us"
+,"amphibia" : "ふしぎの国 アンフィビア"
+,"anarchy reigns" : "マックス アナーキー"
+,"anata no shiranai kangofu" : "あなたの知らない看護婦～性的病棟24時～"
+,"ane doki" : "あねどきっ"
+,"ane haramix" : "姉☆孕みっくす"
+,"ane naru mono" : "姉なるもの"
+,"anejiru" : "姉汁"
+,"ange vierge" : "アンジュ・ヴィエルジュ"
+,"angel beats" : "Angel Beats!"
+,"angel blade" : "エンジェルブレイド"
+,"angel halo" : "Angel Halo"
+,"angel links" : "星方天使エンジェルリンクス"
+,"angelic layer" : "ANGELIC LAYER"
+,"angelique" : "アンジェリーク"
+,"animal crossing" : "どうぶつの森"
+,"animal yokochou" : "アニマル横町"
+,"animaniacs" : "アニマニアックス"
+,"anitore" : "あにトレ！"
+,"anna millers" : "アンナミラーズ"
+,"anne happy" : "あんハピ♪"
+,"anne of green gables" : "赤毛のアン"
+,"ano hi mita hana no namae wo bokutachi wa mada shiranai" : "あの日見た花の名前を僕達はまだ知らない。"
+,"ano hito no i ni wa boku ga tarinai" : "あの人の胃には僕が足りない"
+,"ano natsu de matteru" : "あの夏で待ってる"
+,"another" : "Another"
+,"another lady innocent" : "フロントイノセント"
+,"anothereidos of dragon vein r" : "龍脈のアナザーエイドスR"
+,"anpanman" : "アンパンマン"
+,"ansatsu kyoushitsu" : "暗殺教室"
+,"anyamaru tantei kiruminzoo" : "あにゃまる探偵キルミンずぅ"
+,"ao no exorcist" : "青の祓魔師"
+,"ao no hako" : "アオのハコ"
+,"ao no kanata no four rhythm" : "蒼の彼方のフォーリズム"
+,"aoharu tetsudo" : "青春鉄道"
+,"aoi hana" : "青い花"
+,"aoi shiro" : "アオイシロ"
+,"ape escape" : "サルゲッチュ"
+,"apex legends" : "エーペックスレジェンズ"
+,"appleseed" : "アップルシード"
+,"aquarian age" : "アクエリアンエイジ"
+,"aquarion" : "創聖のアクエリオン"
+,"aquarion evol" : "アクエリオンEVOL"
+,"aquarion logos" : "アクエリオンロゴス"
+,"ar tonelico" : "アルトネリコ"
+,"ar tonelico qoga" : ["アルトネリコ3", "アルトネリコ3 世界終焉の引鉄は少女の詩が弾く"]
+,"arakawa under the bridge" : "荒川アンダー ザ ブリッジ"
+,"arakusa ninpouchou" : "あらくさ忍法帖"
+,"arashi no yoru ni" : "あらしのよるに"
+,"arc the lad" : "アークザラッド"
+,"arcade gamer fubuki" : "アーケードゲーマーふぶき"
+,"arcaea" : "Arcaea	"
+,"arcana famiglia" : "アルカナ・ファミリア"
+,"arcana heart" : "アルカナハート"
+,"arena of valor" : "伝説対決 -Arena of Valor-"
+,"ares no tsubasa" : "アレスの翼"
+,"aria" : "ARIA"
+,"arifureta shokugyou de sekai saikyou" : "ありふれた職業で世界最強"
+,"arknights" : "アークナイツ"
+,"arknights endfield" : "アークナイツ：エンドフィールド"
+,"armitage iii" : "アミテージ・ザ・サード"
+,"armored core" : "アーマード・コア"
+,"armored trooper votoms" : "装甲騎兵ボトムズ"
+,"arms" : "ARMS"
+,"arpeggio of blue steel" : "蒼き鋼のアルペジオ"
+,"arrow emblem hawk of the grand prix" : "アローエンブレム グランプリの鷹"
+,"arslan senki" : "アルスラーン戦記"
+,"art of fighting" : "龍虎の拳"
+,"asatte no houkou" : "あさっての方向。"
+,"ase to sekken" : "あせとせっけん"
+,"ash arms" : "アッシュアームズ-灰燼戦線-"
+,"ashita no joe" : "あしたのジョー"
+,"ashita no nadja" : "明日のナージャ"
+,"ashitaba-san chi no mukogurashi" : "明日葉さんちのムコ暮らし"
+,"ask dr. rin" : "Dr.リンにきいてみて!"
+,"asobi asobase" : "あそびあそばせ"
+,"asobi ni iku yo" : "あそびにいくヨ!"
+,"asoko de hataraku musubu-san" : "あそこではたらくムスブさん"
+,"assassins creed" : "アサシン クリード"
+,"assault lily" : "アサルトリリィ"
+,"asteroid in love" : "恋する小惑星"
+,"astralair no shiroki towa" : "アストラエアの白き永遠"
+,"astro boy" : "鉄腕アトム"
+,"astro fighter sunred" : "天体戦士サンレッド"
+,"asu no yoichi" : "明日のよいち！"
+,"asuka 120" : "あすか120%"
+,"asura cryin" : "アスラクライン"
+,"atashinchi" : "あたしンち"
+,"atelier ayesha" : ["アーシャのアトリエ", "アーシャのアトリエ ～黄昏の大地の錬金術士～"]
+,"atelier elie" : "エリーのアトリエ"
+,"atelier escha and logy" : "エスカ&ロジーのアトリエ"
+,"atelier firis" : "フィリスのアトリエ"
 ,"atelier iris" : "イリスのアトリエ"
+,"atelier judie" : "ユーディーのアトリエ"
+,"atelier lilie" : "リリーのアトリエ"
+,"atelier lina" : "リーナのアトリエ"
+,"atelier lulua" : "ルルアのアトリエ"
+,"atelier marie" : "マリーのアトリエ"
+,"atelier meruru" : "メルルのアトリエ"
+,"atelier rorona" : "ロロナのアトリエ"
+,"atelier ryza" : "ライザのアトリエ"
+,"atelier series" : "アトリエシリーズ"
+,"atelier shallie" : "シャリーのアトリエ"
+,"atelier sophie" : "ソフィーのアトリエ"
+,"atelier tanaka" : "田中のアトリエ"
+,"atelier totori" : "トトリのアトリエ"
+,"athena" : "アテナ"
+,"atlach-nacha" : "アトラク＝ナクア"
+,"atomic betty" : "アトミック・ベティ"
+,"atomic heart" : "ATOMIC HEART"
+,"atsumare fushigi kenkyuubu" : "あつまれ!ふしぎ研究部"
+,"attack no. 1" : "アタックNo.1"
+,"aura battler dunbine" : "聖戦士ダンバイン"
+,"avatar" : "アバター"
+,"avatar the last airbender" : "アバター 伝説の少年アン"
+,"avataro sentai donbrothers" : "暴太郎戦隊ドンブラザーズ"
+,"avengers" : "アベンジャーズ"
+,"axis powers hetalia" : "Axis powers ヘタリア"
+,"ayakashi rumble" : "あやかしランブル!"
+,"ayakashi triangle" : "あやかしトライアングル"
+,"ayakashibito" : "あやかしびと"
+,"azuki-chan" : "あずきちゃん"
+,"azumanga daioh" : "あずまんが大王"
+,"azur lane" : "アズールレーン"
+,"azure striker gunvolt" : "蒼き雷霆 ガンヴォルト"
+,"b.b.idol" : "B.B.IDOL"
+,"baby princess" : "Baby Princess"
+,"baby steps" : "Baby Steps"
+,"baccano" : "バッカーノ！"
+,"backbeard-sama ga miteru" : "バックベアード様がみてる"
+,"bagi the monster of mighty nature" : "大自然の魔獣バギ"
+,"bahamut lagoon" : "バハムートラグーン"
+,"baka to test to shoukanjuu" : "バカとテストと召喚獣"
+,"bakemono no ko" : "バケモノの子"
+,"bakemonogatari" : "化物語"
+,"bakuage sentai boonboomger" : "爆上戦隊ブンブンジャー"
+,"bakugan" : "爆丸バトルブローラーズ"
+,"bakugan battle planet" : "爆丸バトルプラネット"
+,"bakuman" : "バクマン。"
+,"bakumatsu jinchuu houkoku resshiden miburo" : "幕末尽忠報国烈士伝MIBURO"
+,"bakumatsu rock" : "幕末Rock"
+,"bakunyuu maid kari" : "爆乳メイド狩り"
+,"bakuon" : "ばくおん!!"
+,"bakuretsu hunters" : "爆れつハンター"
+,"bakusou kyoudai lets and go" : "爆走兄弟レッツ&ゴー!!"
+,"baldr force" : "BALDR FORCE"
+,"baldurs gate" : "バルダーズ・ゲート"
+,"ballroom e youkoso" : "ボールルームへようこそ"
+,"bamboo blade" : "BAMBOO BLADE"
+,"banana fish" : "BANANA FISH"
+,"band yarouze" : "バンドやろうぜ！"
+,"bang dream" : "BanG Dream!"
+,"banished from the heros party i decided to live a quiet life in the countryside" : "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました"
+,"banner of the stars" : "星界の戦旗"
+,"barakamon" : "ばらかもん"
+,"barcode fighter" : "バーコードファイター"
+,"basilisk" : "バジリスク ～甲賀忍法帖～"
+,"basquash" : "バスカッシュ!"
+,"bastard" : "BASTARD"
+,"batman" : "バットマン"
+,"batsuichi de nakimushi na otonari-san" : "バツイチで泣き虫なおとなりさん"
+,"battle angel alita" : "銃夢"
+,"battle arena toshinden" : "闘神伝"
+,"battle athletes" : "バトルアスリーテス大運動会"
+,"battle fever j" : "バトルフィーバーJ"
+,"battle girl high school" : "バトルガール ハイスクール"
+,"battle programmer shirase" : "BPS バトルプログラマーシラセ"
+,"battle royale" : "バトル・ロワイアル"
+,"battle spirits" : "バトルスピリッツ"
+,"battle spirits double drive" : "バトルスピリッツ ダブルドライブ"
+,"battlefield" : "バトルフィールド"
+,"bayonetta" : "ベヨネッタ"
+,"b-daman" : "ビーダマン"
+,"beast wars" : "ビーストウォーズ 超生命体トランスフォーマー"
+,"beastars" : "BEASTARS"
+,"beat blades haruka" : "超昂閃忍ハルカ"
+,"beatmania" : "Beatmania"
+,"beatstream" : "BeatStream"
+,"beautiful gunbari" : "Beautiful Gunbari"
+,"beauty and the beast" : "美女と野獣"
+,"beelzebub" : "べるぜバブ"
+,"beet the vandel buster" : "冒険王ビィト"
+,"ben 10" : "ベン10"
+,"ben-to" : "ベン・トー"
+,"bernd and the mystery of unteralterbach" : "ベルントとウンターアルターバッハの謎"
+,"beroncho karada kensa joshi koukou hen" : "ベロンチョ身体検査 1 女子高校編"
+,"berserk" : "ベルセルク"
+,"betterman" : "ベターマン"
+,"beyblade" : "ベイブレード"
+,"bible black" : "Bible Black"
+,"biblia koshodou no jiken techou" : "ビブリア古書堂の事件手帖"
+,"big hero 6" : "ベイマックス"
+,"bijin onna joushi takizawa-san" : "美人女上司滝沢さん"
+,"bijo de yajuu" : "美女で野獣"
+,"bikini warriors" : "ビキニ・ウォリアーズ"
+,"bikkuriman" : "ビックリマン"
+,"binan koukou chikyuu bouei-bu love" : "美男高校地球防衛部LOVE!"
+,"binbougami ga" : "貧乏神が！"
+,"binzume yousei" : "瓶詰妖精"
+,"birdy the mighty" : "鉄腕バーディー"
+,"bishoujo kamen poitrine" : "美少女仮面ポワトリン"
+,"bishoujo mangekyou" : "美少女万華鏡"
+,"bishounen tanteidan" : "美少年探偵団"
+,"black bullet" : "ブラック・ブレット"
+,"black butler" : "黒執事"
+,"black cat" : "BLACK CAT"
+,"black clover" : "ブラッククローバー"
+,"black desert online" : "黒い砂漠"
+,"black jack" : "ブラックジャック"
+,"black lagoon" : "ブラックラグーン"
+,"black myth wukong" : "黒神話：悟空"
+,"black panther" : "ブラックパンサー"
+,"black rock shooter" : "ブラック ロックシューター"
+,"black souls" : "BLACKSOULS"
+,"black survival" : "BLACK SURVIVAL"
+,"blade and soul" : "ブレイドアンドソウル"
+,"blade of the immortal" : "無限の住人"
+,"bladedance of elementalers" : "精霊使いの剣舞"
+,"blame" : "BLAME!"
+,"blassreiter" : "BLASSREITER"
+,"blast of tempest" : "絶園のテンペスト"
+,"blaster master zero 2" : "ブラスターマスター ゼロ 2"
+,"blazblue" : "BLAZBLUE"
+,"bleach" : "BLEACH"
+,"blend s" : "ブレンド・S"
+,"blood lad" : "ブラッドラッド"
+,"blood plus" : "BLOOD+"
+,"blood royale" : "BLOOD ROYAL"
+,"bloodborne" : "Bloodborne"
+,"blood-c" : "BLOOD-C"
+,"bloodstained" : "Bloodstained: Ritual of the Night"
+,"bloody roar" : "ブラッディロア"
+,"blue archive" : "ブルーアーカイブ"
+,"blue breaker" : "ブルーブレイカー"
+,"blue comet spt layzner" : "蒼き流星SPTレイズナー"
+,"blue dragon" : "BLUE DRAGON"
+,"blue lock" : "ブルーロック"
+,"blue period" : "ブルーピリオド"
+,"blue reflection" : "ブルー リフレクション 幻に舞う少女の剣"
+,"blue seed" : "ブルーシード"
+,"blue submarine no. 6" : "青の6号"
+,"bluey" : "ブルーイ"
+,"bna brand new animal" : "BNA ビー・エヌ・エー"
+,"bobobo-bo bo-bobo" : "ボボボーボ・ボーボボ"
+,"bocchi kaibutsu to moumoku shoujo" : "ぼっち怪物と盲目少女"
+,"bocchi the rock" : "ぼっち・ざ・ろっく！"
+,"bojack horseman" : "ボージャック・ホースマン"
+,"boku dake ga inai machi" : "僕だけがいない街"
+,"boku girl" : "ボクガール"
+,"boku no kanojo ga majimesugiru shobitch na ken" : "僕の彼女がマジメ過ぎる処女ビッチな件"
+,"boku no kokoro no yabai yatsu" : "僕の心のヤバイやつ"
+,"boku no pico" : "ぼくのぴこ"
+,"boku no shoukibo na seikatsu" : "僕の小規模な生活"
+,"boku to roboko" : "僕とロボコ"
+,"boku wa tomodachi ga sukunai" : "僕は友達が少ない"
+,"bokura wa mahou shounen" : "ボクらは魔法少年"
+,"bokura wa minna kawaisou" : "僕らはみんな河合荘"
+,"bokusatsu tenshi dokuro-chan" : "撲殺天使ドクロちゃん"
+,"bokutachi no remake" : "ぼくたちのリメイク"
+,"bokutachi wa benkyou ga dekinai" : "ぼくたちは勉強ができない"
+,"bomber girl" : "ボンバーガール"
+,"bomberman" : "ボンバーマン"
+,"bomberman jetters" : "ボンバーマンジェッターズ"
+,"border break" : "ボーダーブレイク"
+,"borderlands" : "ボーダーランズ"
+,"boruto" : "BORUTO-ボルト-"
+,"bosco adventure" : "ボスコアドベンチャー"
+,"bra-ban" : "ぶらばん! -The bonds of melody-"
+,"brain powerd" : "ブレンパワード"
+,"brandish" : "Brandish"
+,"branmarker" : "ブランマーカー"
+,"brave beats" : "ブレイブビーツ"
+,"brave express might gaine" : "勇者特急マイトガイン"
+,"brave girl ravens" : "ブレイヴガール レイヴンズ"
+,"brave nine" : "BRAVE NINE"
+,"brave police j-decker" : "勇者警察ジェイデッカー"
+,"brave story" : "ブレイブ ストーリー"
+,"brave sword x blaze soul" : "ブレイブソード×ブレイズソウル"
+,"brave witches" : "ブレイブウィッチーズ"
+,"bravely default" : "ブレイブリーデフォルト"
+,"bravestarr" : "BraveStarr"
+,"bravoman" : "超絶倫人ベラボーマン"
+,"brawl stars" : "ブロスタ"
+,"breath of fire" : "ブレス オブ ファイア"
+,"breath of fire ii" : ["ブレス オブ ファイアII", "ブレス オブ ファイアII 使命の子"]
+,"breath of fire iii" : "ブレス オブ ファイアIII"
+,"breath of fire iv" : ["ブレス オブ ファイアIV", "ブレス オブ ファイアIV うつろわざるもの"]
+,"breath of fire v" : "ブレス オブ ファイアV ドラゴンクォーター"
+,"brigadoon" : "BRIGADOON まりんとメラン"
+,"brocken blood" : "ブロッケンブラッド"
+,"broken blade" : "ブレイク ブレイド"
+,"brothers conflict" : "BROTHERS CONFLICT"
+,"brynhildr in the darkness" : "極黒のブリュンヒルデ"
+,"bt x" : "B'T-X"
+,"btooom" : "BTOOOM!"
+,"bubblegum crisis" : "バブルガムクライシス"
+,"bucchigire" : "ブッチギレ!"
+,"buddy complex" : "バディ・コンプレックス"
+,"buddy mission bond" : "バディミッション BOND"
+,"bug fables" : "バグ・フェイブルズ"
+,"bungaku shoujo" : "文学少女"
+,"bungou stray dogs" : "文豪ストレイドッグス"
+,"bungou to alchemist" : "文豪とアルケミスト"
+,"bunny black" : "BUNNYBLACK"
+,"bunny garden" : "バニーガーデン"
+,"buraiden gai" : "無頼伝涯"
+,"burn the witch" : "BURN THE WITCH"
+,"burn up" : "BURN-UP"
+,"burn up w" : "BURN-UP W"
+,"burning force" : "バーニングフォース"
+,"burning rangers" : "バーニングレンジャー"
+,"burst angel" : "爆裂天使"
+,"busou renkin" : "武装錬金"
+,"busou shinki" : "武装神姫"
+,"busou shoujo machiavellianism" : "武装少女マキャヴェリズム"
+,"bust a groove" : "バスト ア ムーブ"
+,"buta no gotoki" : "豚の如き山賊に捕らわれて処女を奪われる巨乳姫騎士&女戦士～絶対チ○ポなんかに負けたりしない！！～ THE ANIMATION"
+,"buttobi cpu" : "ぶっとび!!CPU"
+,"c cube" : "C³ -シーキューブ-"
+,"c the money of soul and possibility control" : "C -THE MONEY OF SOUL AND POSSIBILITY CONTROL-"
+,"cafe junkie" : "カフェ･ジャンキー"
+,"cafe sourire" : "CAFE SOURIRE"
+,"cafe stella to shinigami no chou" : "喫茶ステラと死神の蝶"
+,"cage of eden" : "Cage of Eden"
+,"calabiyau" : "Strinova"
+,"caligula" : "Caligula -カリギュラ"
+,"call of duty" : "Call of Duty"
+,"camp buddy" : "Camp Buddy"
+,"campione" : "カンピオーネ!"
+,"can can bunny" : "きゃんきゃんバニー"
+,"canaan" : "CANAAN"
+,"candy boy" : "Candy☆Boy"
+,"candy candy" : "キャンディ・キャンディ"
+,"canvas" : ["CANVAS", "Canvas セピア色のモチーフ"]
+,"capricorn" : "カプリコン"
+,"captain commando" : "キャプテンコマンドー"
+,"captain earth" : "キャプテン・アース"
+,"captain tsubasa" : "キャプテン翼"
+,"caravan kidd" : "キャラバン・キッド"
+,"cardcaptor sakura" : "カードキャプターさくら"
+,"cardfight vanguard" : "カードファイト!! ヴァンガード"
+,"casshan" : "新造人間キャシャーン"
+,"casshern sins" : "キャシャーンSins"
+,"castlevania" : "悪魔城ドラキュラ"
+,"casual romance club" : "放課後恋愛クラブ"
+,"cat busters" : "キャットバスターズ"
+,"caterpillar" : "キャタピラー-CATERPILLAR-"
+,"catherine" : "キャサリン・フルボディ"
+,"cats eye" : "キャッツ・アイ"
+,"cave story" : "洞窟物語"
+,"cerberus" : "ケルベロス"
+,"cevio" : "CeVIO"
+,"chain chronicle" : "チェインクロニクル"
+,"chainsaw man" : "チェンソーマン"
+,"challenge first-year-student" : "チャレンジ1年生"
+,"changed" : "Changed"
+,"chaos angels" : "カオスエンジェルズ"
+,"chaos breaker" : "カオスブレイカー"
+,"chaos child" : "CHAOS;CHILD"
+,"chaos code" : "カオスコード"
+,"chaos head" : "CHAOS;HEAD"
+,"charisma" : "超人的シェアハウスストーリー『カリスマ』"
+,"charlotte" : "Charlotte"
+,"chibi vampire" : "かりん"
+,"chichi chichi" : "チチチチ"
+,"chihayafuru" : "ちはやふる"
+,"chinpui" : "チンプイ"
+,"chip n dale rescue rangers" : "チップとデールの大作戦 レスキュー・レンジャーズ"
+,"chiyu mahou no machigatta tsukaikata" : "治癒魔法の間違った使い方"
+,"chizuru-chan kaihatsu nikki" : "千鶴ちゃん開発日記"
+,"chobits" : "ちょびっツ"
+,"chocolate melancholy" : "チョコレート・メランコリー"
+,"chokotto sister" : "ちょこッとSister"
+,"chou kuse ni narisou" : "超くせになりそう"
+,"choudenshi bioman" : "超電子バイオマン"
+,"choujin koukousei-tachi wa isekai demo yoyuu de ikinuku you desu" : "超人高校生たちは異世界でも余裕で生き抜くようです!"
 ,"choujin sentai jetman" : "鳥人戦隊ジェットマン"
+,"choujuu kishin dancougar" : "超獣機神ダンクーガ"
+,"choujuu sentai liveman" : "超獣戦隊ライブマン"
+,"choukou shinki ixseal" : "超昂神騎エクシール"
+,"choukou tenshi escalayer" : "超昂天使エスカレイヤー"
+,"chouriki sentai ohranger" : "超力戦隊オーレンジャー"
+,"chousoku henkei gyrozetter" : "超速変形ジャイロゼッター"
+,"chou-tantei jikenbo rain code" : "超探偵事件簿 レインコード"
+,"chrome shelled regios" : "鋼殻のレギオス"
+,"chrono cross" : "クロノ・クロス"
+,"chrono crusade" : "クロノクルセイド"
+,"chrono trigger" : "クロノ・トリガー"
+,"chuunibyou demo koi ga shitai" : "中二病でも恋がしたい！"
+,"ciel nosurge" : "シェルノサージュ～失われた星へ捧ぐ詩～"
+,"cinderella" : "シンデレラ"
+,"cinderella blade" : "シンデレラブレイド"
+,"cinnamoroll" : "シナモロール"
+,"city hunter" : "シティーハンター"
+,"clannad" : "CLANNAD"
+,"class of heroes" : "剣と魔法と学園モノ。"
+,"claymore" : "CLAYMORE"
+,"cleavage" : "CLEAVAGE"
+,"closers" : "CLOSERS"
+,"clover days" : "Clover Day’s"
+,"clover hearts" : "Clover Heart's"
+,"clover point" : "Clover Point"
+,"cluster edge" : "クラスターエッジ"
+,"coco" : "リメンバー・ミー"
+,"cocoro restarter" : "こころリスタ！"
+,"code geass" : "コードギアス"
+,"code vein" : "CODE VEIN"
+,"codename kids next door" : "KND ハチャメチャ大作戦"
+,"collar x malice" : "Collar×Malice"
+,"combat mecha xabungle" : "戦闘メカ ザブングル"
+,"combattler v" : "コンバトラーV"
+,"comic girls" : "こみっくがーるず"
+,"comic party" : "こみっくパーティー"
+,"compass" : "コンパス"
+,"concon-collector" : "コンコンコレクター"
+,"control" : "操作"
+,"cookie run" : "クッキーラン"
+,"cooking idol ai mai main" : "クッキンアイドル アイ!マイ!まいん!"
+,"cooking papa" : "クッキングパパ"
+,"cool devices" : "クール・ディバイシスシリーズ"
+,"corpse party" : "コープスパーティー"
+,"corrector yui" : "コレクター・ユイ"
+,"cosmic baton girl comet-san" : "Cosmic Baton Girl コメットさん☆"
+,"cosmic break" : "コズミックブレイク"
+,"cotton" : "COTTON"
+,"counter side" : "カウンターサイド"
+,"cowboy bebop" : "カウボーイビバップ"
+,"coyote ragtime show" : "コヨーテ ラグタイムショー"
+,"crash bandicoot" : "クラッシュバンディクー"
+,"crash b-daman" : "爆球Hit! クラッシュビーダマン"
+,"crave saga" : "クレイヴ・サーガ 神絆の導師"
+,"crayon shin-chan" : "クレヨンしんちゃん"
+,"cream lemon" : "くりいむレモン"
+,"creamy mami" : "魔法の天使クリィミーマミ"
+,"criminal girls" : "クリミナルガールズ"
+,"cross ange" : ["クロスアンジュ", "クロスアンジュ 天使と竜の輪舞"]
+,"crusaders quest" : "クルセイダークエスト"
+,"crush gear nitro" : "クラッシュギアNitro"
+,"crusher joe" : "クラッシャー・ジョー"
+,"crystal maidens" : "Crystal Maidens"
+,"cthulhu mythos" : "クトゥルフ神話"
+,"cue" : "CUE!"
+,"culdcept" : "カルドセプト"
+,"cult of the lamb" : "Cult of the Lamb"
+,"cuphead" : "CUPHEAD"
+,"cutey honey" : "キューティーハニー"
+,"cyberbots" : "サイバーボッツ"
+,"cyberpunk" : "サイバーパンク"
+,"cyborg 009" : "サイボーグ009"
+,"cyborg kuro-chan" : "サイボーグクロちゃん"
+,"cyphers online" : "Cyphers Online"
+,"d.gray-man" : "D.Gray-man"
+,"d.n.angel" : "D・N・ANGEL"
+,"d.p.s." : "D.P.S."
+,"da capo" : "D.C. ～ダ・カーポ～"
+,"da capo ii" : "D.C.II ～ダ・カーポII～"
+,"da capo iii" : "D.C.III ～ダ・カーポIII～"
+,"daa daa daa" : "だぁ!だぁ!だぁ!"
+,"dagashi kashi" : "だがしかし"
+,"dai sentai goggle v" : "大戦隊ゴーグルファイブ"
+,"daiakuji" : "大悪司"
+,"daibanchou -big bang age-" : "大番長-Big Bang Age-"
+,"daicon" : "DAICON FILM"
+,"dai-guard" : "地球防衛企業ダイ・ガード"
+,"daihanjou manpuku marche" : "大繁盛!まんぷくマルシェ"
+,"daikaijuu monogatari" : "大貝獣物語"
+,"daiku no gen-san" : "大工の源さん"
+,"daiteikoku" : "大帝国"
+,"daitoshokan no hitsujikai" : "大図書館の羊飼い"
+,"daiya no ace" : "ダイヤのA"
+,"dakara boku wa h ga dekinai" : "だから僕は、Hができない。"
+,"dalk" : "DALK"
+,"dalk gaiden" : "DALK外伝"
+,"dame x prince" : "DAME×PRINCE"
+,"danball senki" : "ダンボール戦機"
+,"dance in the vampire bund" : "ダンス イン ザ ヴァンパイアバンド"
+,"dance with devils" : "Dance with Devils"
+,"dandadan" : "ダンダダン"
+,"dangaioh" : "破邪大星ダンガイオー"
+,"danganronpa" : "ダンガンロンパ"
+,"dankira" : "ダンキラ!!! - Boys, be DANCING! -"
+,"danna ga nani o itteiru ka wakaranai ken" : "旦那が何を言っているかわからない件"
+,"danny phantom" : "ダニー・ファントム"
+,"danshi koukousei de urekko light novel sakka o shiteiru keredo" : "男子高校生で売れっ子ライトノベル作家をしているけれど、年下のクラスメイトで声優の女の子に首を絞められている。"
+,"danshi koukousei no nichijou" : "男子高校生の日常"
+,"daphne in the brilliant blue" : "光と水のダフネ"
+,"darcrows" : "DARCROWS"
+,"dark avengers" : "ダークアベンジャーズ"
+,"dark gathering" : "ダークギャザリング"
+,"darker than black" : "DARKER THAN BLACK"
+,"darkest dungeon" : "Darkest Dungeon"
+,"darkstalkers" : "ヴァンパイア ダークストーカーズ"
+,"darling in the franxx" : "ダーリン・イン・ザ・フランキス"
+,"dasei 67 percent" : "惰性67パーセント"
+,"date a live" : "デート・ア・ライブ"
+,"days" : "DAYS"
+,"dead by daylight" : "Dead by Daylight"
 ,"dead dead demons dededededestruction" : "デッドデッドデーモンズデデデデデストラクション"
+,"dead or alive" : "デッド オア アライブ"
+,"dead rising" : "デッドライジング"
+,"dead space" : "DEAD SPACE"
+,"deadman wonderland" : "デッドマン・ワンダーランド"
+,"deadpool" : "デッドプール"
+,"deaimon" : "であいもん"
+,"dears" : "DearS"
+,"death march kara hajimaru isekai kyousoukyoku" : "デスマーチからはじまる異世界狂想曲"
+,"death note" : "DEATH NOTE"
+,"deathsmiles" : "デススマイルズ"
+,"debby the corsifa wa makezugirai" : "デビィ・ザ・コルシファは負けず嫌い"
+,"deception" : "刻命館"
+,"defense of the ancients" : ["DotA", "Defense of the Ancients"]
+,"de-ja" : "DE・JA"
+,"delicious party precure" : "デリシャスパーティ♡プリキュア"
+,"deltarune" : "DELTARUNE"
+,"deltora quest" : "デルトラ・クエスト"
+,"demento" : "DEMENTO"
+,"demi-chan wa kataritai" : "亜人ちゃんは語りたい"
+,"demonbane" : "デモンベイン"
+,"demonion" : "デモニオン"
+,"demonophobia" : "DEMONOPHOBIA"
+,"demons souls" : "Demon's Souls"
+,"denji sentai megaranger" : "電磁戦隊メガレンジャー"
+,"denkigai no honya-san" : "デンキ街の本屋さん"
+,"dennou boukenki webdiver" : "電脳冒険記ウェブダイバー"
+,"dennou coil" : "電脳コイル"
+,"dennou tenshi djibril" : "電脳天使ジブリール"
+,"denpa onna to seishun otoko" : "電波女と青春男"
+,"densetsu no ogre battle" : "伝説のオウガバトル"
+,"densetsu no yuusha da garn" : "伝説の勇者ダ・ガーン"
+,"dero dero" : "でろでろ"
+,"destiny" : "DESTINY"
+,"destiny child" : "デスティニーチャイルド"
+,"detective conan" : "名探偵コナン"
+,"detroit become human" : "デトロイト ビカム ヒューマン"
+,"detroit metal city" : "デトロイト・メタル・シティ"
+,"devil connection" : "でびるコネクショん"
+,"devil hunter yohko" : "魔物ハンター妖子"
+,"devil may cry" : "デビルメイクライ"
+,"devil summoner soul hackers" : "デビルサマナー ソウルハッカーズ"
+,"devil survivor" : "女神異聞録デビルサバイバー"
+,"devil survivor 2" : "デビルサバイバー2"
+,"devilman" : "デビルマン"
+,"devilman lady" : "デビルマン レディ"
+,"dexters laboratory" : "デクスターズ ラボ"
+,"d-frag" : "ディーふらぐ!"
+,"di gi charat" : "デ・ジ・キャラット"
+,"diablo" : "ディアブロ"
+,"diabolik lovers" : "DIABOLIK LOVERS"
+,"diebuster" : "トップをねらえ2!"
+,"dies irae" : ["Dies irae", "Dies irae -Also sprach Zarathustra-"]
+,"dig delight direct drive dj" : "D4DJ"
+,"digimon" : "デジモン"
+,"digimon adventure" : "デジモンアドベンチャー"
+,"digimon adventure tri." : "デジモンアドベンチャー tri."
+,"digimon frontier" : "デジモンフロンティア"
+,"digimon ghost game" : "デジモンゴーストゲーム"
+,"digimon liberator" : "デジモンリベレイター"
+,"digimon savers" : "デジモンセイバーズ"
+,"digimon story cyber sleuth" : "デジモンストーリー サイバースルゥース"
+,"digimon survive" : "デジモンサヴァイブ"
+,"digimon tamers" : "デジモンテイマーズ"
+,"digimon universe appli monsters" : "デジモンユニバース アプリモンスターズ"
+,"digimon world re digitize decode" : "デジモンワールド Re:Digitize Decode"
+,"digimon xros wars" : "デジモンクロスウォーズ"
+,"dimension w" : "Dimension W"
+,"dino crisis" : "ディノクライシス"
+,"dinosaur king" : "古代王者恐竜キング"
+,"dirty pair" : "ダーティペア"
+,"dirty pair flash" : "ダーティペア FLASH"
+,"discipline" : "DISCIPLINE"
+,"disgaea" : "魔界戦記ディスガイア"
+,"dislyte" : "DISLYTE-神世代ネオンシティ-"
+,"disney twisted-wonderland" : "ディズニー ツイステッドワンダーランド"
+,"dissidia final fantasy" : "ディシディア ファイナルファンタジー"
+,"divergence eve" : "ダイバージェンス・イヴ"
+,"divine gate" : "ディバインゲート"
+,"dna2" : "D・N・A² ～何処かで失くしたあいつのアイツ～"
+,"do it yourself" : "Do It Yourself!! -どぅー・いっと・ゆあせるふ-"
+,"doctor strange" : "ドクター・ストレンジ"
+,"dodge danko" : "炎の闘球女 ドッジ弾子"
+,"dodge danpei" : "炎の闘球児 ドッジ弾平"
+,"dog days" : "DOG DAYS"
+,"dogeza de tanondemita" : "土下座で頼んでみた"
+,"dohna dohna issho ni warui koto o shiyou" : "ドーナドーナ いっしょにわるいことをしよう"
+,"doki doki literature club" : "ドキドキ文芸部!"
+,"doki doki majo shinpan" : "どきどき魔女神判"
+,"doki doki pretty league" : "ドキドキプリティリーグ"
+,"dokidoki precure" : "ドキドキ！プリキュア"
+,"dokkin minako-sensei" : "ドッキン美奈子先生"
+,"dokkiri doctor" : "どっきりドクター"
+,"dokkoida" : "住めば都のコスモス荘"
+,"dokonjou gaeru" : "ど根性ガエル"
+,"dokyuu hentai hxeros" : "ド級編隊エグゼロス"
+,"dolphin wave" : "ドルフィンウェーブ"
+,"domestic na kanojo" : "ドメスティックな彼女"
+,"dominion tank police" : "ドミニオン"
+,"donkey kong" : "ドンキーコング"
+,"doom" : "DOOM"
+,"dora the explorer" : "ドーラといっしょに大冒険"
+,"doraemon" : "ドラえもん"
+,"dorei to no seikatsu" : "奴隷との生活 -Teaching Feeling-"
+,"dorohedoro" : "ドロヘドロ"
+,"dororo" : "どろろ"
+,"dororon enma-kun" : "ドロロンえん魔くん"
+,"dosanko gal wa namaramenkoi" : "道産子ギャルはなまらめんこい"
+,"doubutsu sentai zyuohger" : "動物戦隊ジュウオウジャー"
+,"doukyuusei" : "同級生"
+,"doukyuusei 2" : "同級生２"
+,"douluo continent" : "Soul Land - Douluo Continent"
+,"doupo cangqiong" : ["蒼穹の剣", "斗破苍穹"]
+,"dousoukai" : "同窓会"
+,"dr. slump" : "Dr.スランプ アラレちゃん"
+,"dr. stone" : "Dr.STONE"
+,"dra plus koi" : "竜†恋"
+,"dracu-riot" : "DRACU-RIOT！"
+,"dragalia lost" : "Dragalia Lost"
+,"dragon ball" : "ドラゴンボール"
+,"dragon ball daima" : "ドラゴンボールDAIMA"
+,"dragon ball gt" : "ドラゴンボールGT"
+,"dragon ball heroes" : "ドラゴンボールヒーローズ"
+,"dragon ball super" : "ドラゴンボール超"
+,"dragon ball z" : "ドラゴンボールＺ"
+,"dragon crisis" : "ドラゴンクライシス！"
+,"dragon force" : "ドラゴンフォース"
+,"dragon half" : "ドラゴンハーフ"
+,"dragon knight" : "ドラゴンナイト"
+,"dragon nest" : "ドラゴンネスト"
+,"dragon pink" : "ドラゴンピンク"
+,"dragon poker" : "ドラゴンポーカー"
+,"dragon quest" : "ドラゴンクエスト"
+,"dragon quest builders 2" : "ドラゴンクエストビルダーズ2 破壊神シドーとからっぽの島"
+,"dragon quest dai no daibouken" : "DRAGON QUEST -ダイの大冒険-"
+,"dragon quest heroes" : "ドラゴンクエストヒーローズ"
+,"dragon quest i" : "ドラゴンクエストⅠ"
+,"dragon quest ii" : "ドラゴンクエストII"
+,"dragon quest iii" : "ドラゴンクエストIII"
+,"dragon quest iv" : "ドラゴンクエストIV"
+,"dragon quest ix" : "ドラゴンクエストIX"
+,"dragon quest monsters" : "ドラゴンクエストモンスターズ"
+,"dragon quest monsters terrys wonderland" : "ドラゴンクエストモンスターズ テリーのワンダーランド"
+,"dragon quest retsuden roto no monshou" : "ドラゴンクエスト列伝 ロトの紋章"
+,"dragon quest swords" : "ドラゴンクエストソード 仮面の女王と鏡の塔"
+,"dragon quest v" : "ドラゴンクエストV"
+,"dragon quest vi" : "ドラゴンクエストVI"
+,"dragon quest vii" : "ドラゴンクエストVII"
+,"dragon quest viii" : "ドラゴンクエストVIII"
+,"dragon quest x" : "ドラゴンクエストX"
+,"dragon quest xi" : "ドラゴンクエストXI"
+,"dragon quest yuusha abel densetsu" : "ドラゴンクエスト 勇者アベル伝説"
+,"dragonaut" : "ドラゴノーツ -ザ・レゾナンス-"
+,"dragons crown" : "ドラゴンズクラウン"
+,"dragons dogma" : "Dragon's Dogma"
+,"drakengard" : "ドラッグオンドラグーン"
+,"dramatical murder" : "DRAMAtical Murder"
+,"dreadout" : "DreadOut"
+,"dream c club" : "ドリームクラブ"
+,"dream daddy" : "Dream Daddy: A Dad Dating Simulator"
+,"dream festival" : "ドリフェス！R"
+,"dream hunter rem" : "ドリームハンター麗夢"
+,"drifters" : "ドリフターズ"
+,"dual parallel trouble adventure" : "デュアル!ぱられルンルン物語"
+,"duck dodgers" : "ダック・ドジャース"
+,"ducktales" : "わんぱくダック夢冒険"
+,"duel masters" : "デュエル・マスターズ"
+,"dumbbell nan kilo moteru" : "ダンベル何キロ持てる？"
+,"dungeon fighter online" : "アラド戦記"
+,"dungeon meshi" : "ダンジョン飯"
+,"dungeon ni deai o motomeru no wa machigatteiru darou ka" : "ダンジョンに出会いを求めるのは間違っているだろうか"
+,"dungeons and dragons" : "ダンジョンズ&ドラゴンズ"
+,"duolingo" : "Duolingo"
+,"durarara" : "デュラララ！！"
+,"dynasty warriors" : "真・三國無双"
+,"earth defense force" : "地球防衛軍"
+,"earthbound" : "MOTHER2 ギーグの逆襲"
+,"earthbound zero" : "MOTHER"
+,"echocalypse" : "Echocalypse"
+,"ecoko" : "エコアイスちゃん"
+,"edens bowy" : "ヱデンズボゥイ"
+,"edens zero" : "EDENS ZERO"
+,"edomae elf" : "江戸前エルフ"
+,"ef a tale of memories" : "ef - a tale of memories."
+,"eiken" : "エイケン"
+,"eiyuu senki" : "英雄＊戦姫"
+,"eiyuu-ou bu o kiwameru tame tenseisu" : "英雄王、武を極めるため転生す"
+,"el cazador de la bruja" : "エル・カザド"
+,"el hazard" : "神秘の世界エルハザード"
+,"el shaddai" : "エルシャダイ"
+,"el viento" : "エル・ヴィエント"
+,"elden ring" : "ELDEN RING"
+,"elden ring nightreign" : "ELDEN RING NIGHTREIG"
+,"element hunters" : "エレメントハンター"
+,"elemental gelade" : "エレメンタル ジェレイド"
+,"elf 17" : "エルフ・17"
+,"elfen lied" : "エルフェンリート"
+,"elf-san wa yaserarenai." : "エルフさんは痩せられない。"
+,"elite beat agents" : "エリート・ビート・エージェント"
+,"elsword" : "エルソード"
+,"emil chronicle online" : "エミル・クロニクル・オンライン"
+,"emma a victorian romance" : "エマ"
+,"emperors saga" : "エンペラーズ サガ"
+,"endless frontier" : "無限のフロンティア"
+,"endro" : "えんどろ～！"
+,"enen no shouboutai" : "炎炎ノ消防隊"
+,"energy kyouka" : "えなじぃキョーカ!!"
+,"engage kiss" : "Engage Kiss"
+,"engine sentai go-onger" : "炎神戦隊ゴーオンジャー"
+,"enjou genmu tan" : "艷娘幻夢譚"
+,"ensemble stars" : "あんさんぶるスターズ！！"
+,"enzai" : "冤罪"
+,"epic seven" : "Epic Seven-エピックセブン-"
+,"equestria girls" : ["エクエストリア・ガールズ", "マイリトルポニー: エクエストリア・ガールズ"]
+,"ero trap dungeon" : "エロトラップダンジョン"
+,"eromanga sensei" : "エロマンガ先生"
+,"esp ra.de." : "エスプレイド"
+,"esper mami" : "エスパー魔美"
+,"eternal melody" : "エターナルメロディ"
+,"eto rangers" : "十二戦支 爆烈エトレンジャー"
+,"etotama" : "えとたま"
+,"etrian odyssey" : "世界樹の迷宮"
+,"etsuraku hyakka alegria" : "悦楽百華アレグリア"
+,"euphoria" : "ユーフォリア"
+,"eureka 7" : "エウレカセブン"
+,"eureka seven ao" : "エウレカセブンAO"
+,"eve burst error" : "EVE burst error"
+,"evenicle" : "イブニクル"
+,"ever 17" : "Ever17 -the out of infinity-"
+,"evolution" : "EVOLUTION"
+,"excel saga" : "エクセル・サーガ"
+,"expelled from paradise" : "楽園追放"
+,"eyeshield 21" : "アイシールド21"
+,"fairy fencer f" : "フェアリーフェンサー エフ"
+,"fairy ranmaru anata no kokoro otasuke shimasu" : "Fairy蘭丸～あなたの心お助けします～"
+,"fairy tail" : "FAIRY TAIL"
+,"fallout" : "Fallout"
+,"famicom rocky" : "ファミコンロッキー"
+,"family guy" : "ファミリー・ガイ"
+,"family project" : "家族計画"
+,"fancy lala" : "魔法のステージファンシーララ"
+,"fantasista doll" : "ファンタジスタドール"
+,"fantastic four" : "ファンタスティック・フォー"
+,"fantasy bishoujo juniku ojisan to" : "異世界美少女受肉おじさんと"
+,"fantasy earth zero" : "ファンタジーアース ゼロ"
+,"far cry" : "FAR CRY"
 ,"far east of eden kabuki klash" : "天外魔境 真伝"
+,"fatal frame" : "零"
+,"fatal fury" : "餓狼伝説"
+,"fate apocrypha" : "Fate/Apocrypha"
+,"fate extra" : "Fate/EXTRA"
+,"fate grand order" : "Fate/Grand Order"
+,"fate hollow ataraxia" : "Fate/hollow ataraxia"
+,"fate kaleid liner prisma illya" : "Fate/kaleid liner プリズマ☆イリヤ"
+,"fate prototype" : "Fate/Prototype"
+,"fate samurai remnant" : "Fate/Samurai Remnant"
+,"fate stay night" : "Fate/stay night"
+,"fate zero" : "Fate/Zero"
+,"fear and hunger" : "FEAR&HUNGER"
+,"fifth twin" : "Fifth～Twin～"
+,"fight class 3" : "Fight Class 3"
+,"fight ippatsu juuden-chan" : "ファイト一発! 充電ちゃん!!"
+,"fighting vipers" : "ファイティングバイパーズ"
+,"figure 17" : "フィギュア17 つばさ&ヒカル"
+,"final fantasy" : "ファイナルファンタジー"
+,"final fantasy brave exvius" : "ファイナルファンタジー ブレイブエクスヴィアス"
+,"final fantasy crystal chronicles" : "ファイナルファンタジー・クリスタルクロニクル"
+,"final fantasy fables chocobos dungeon" : "チョコボの不思議なダンジョン 時忘れの迷宮"
+,"final fantasy gaiden" : "光の4戦士 -ファイナルファンタジー外伝-"
+,"final fantasy ii" : "ファイナルファンタジーII"
+,"final fantasy iii" : "ファイナルファンタジーIII"
+,"final fantasy iv" : "ファイナルファンタジーIV"
+,"final fantasy ix" : "ファイナルファンタジーIX"
+,"final fantasy legend ii" : "ファイナルファンタジーレジェンズII 時空の水晶"
+,"final fantasy tactics" : "ファイナルファンタジータクティクス"
+,"final fantasy tactics a2" : "ファイナルファンタジータクティクス A2 封穴のグリモア"
+,"final fantasy tactics advance" : "ファイナルファンタジータクティクスアドバンス"
+,"final fantasy type-0" : "ファイナルファンタジー零式"
+,"final fantasy unlimited" : "FF：U～ファイナルファンタジー：アンリミテッド"
+,"final fantasy v" : "ファイナルファンタジーV"
+,"final fantasy vi" : "ファイナルファンタジーVI"
+,"final fantasy vii" : "ファイナルファンタジーVII"
+,"final fantasy viii" : "ファイナルファンタジーVIII"
+,"final fantasy x" : "ファイナルファンタジーX"
+,"final fantasy x-2" : "ファイナルファンタジーX-2"
+,"final fantasy xi" : "ファイナルファンタジーXI"
+,"final fantasy xii" : "ファイナルファンタジーXII"
+,"final fantasy xiii" : "ファイナルファンタジーXIII"
+,"final fantasy xiv" : "ファイナルファンタジーXIV"
+,"final fantasy xv" : "ファイナルファンタジーXV"
+,"final fantasy xvi" : "ファイナルファンタジーXVI"
+,"final fight" : "ファイナルファイト"
+,"final romance" : "アイドル麻雀ファイナルロマンス"
+,"fire emblem" : "ファイアーエムブレム"
+,"fire emblem awakening" : "ファイアーエムブレム 覚醒"
+,"fire emblem engage" : "ファイアーエムブレム エンゲージ"
+,"fire emblem fates" : "ファイアーエムブレムif"
+,"fire emblem gaiden" : "ファイアーエムブレム外伝"
+,"fire emblem genealogy of the holy war" : "ファイアーエムブレム 聖戦の系譜"
+,"fire emblem heroes" : "ファイアーエムブレム ヒーローズ"
+,"fire emblem if" : "ファイアーエムブレムif"
+,"fire emblem mystery of the emblem" : "ファイアーエムブレム 紋章の謎"
+,"fire emblem path of radiance" : "ファイアーエムブレム 蒼炎の軌跡"
+,"fire emblem radiant dawn" : "ファイアーエムブレム 暁の女神"
+,"fire emblem the binding blade" : "ファイアーエムブレム 封印の剣"
+,"fire emblem the blazing blade" : "ファイアーエムブレム 烈火の剣"
+,"fire emblem the sacred stones" : "ファイアーエムブレム 聖魔の光石"
+,"fire emblem thracia 776" : "ファイアーエムブレム トラキア776"
+,"fire emblem three houses" : "ファイアーエムブレム 風花雪月"
+,"fireball" : "ファイアボール"
+,"firefighter daigo of fire company m" : "め組の大吾"
+,"fist of the north star" : "北斗の拳"
+,"fit boxing" : "Fit Boxing"
+,"five nights at freddys" : "Five Nights at Freddy's"
+,"flame of recca" : "烈火の炎"
+,"flcl" : "フリクリ"
+,"flip flappers" : "フリップフラッパーズ"
+,"floral magician mary bell" : "花の魔法使いマリーベル"
+,"flower knight girl" : "FLOWER KNIGHT GIRL"
+,"flying witch" : "ふらいんぐうぃっち"
+,"forgotten worlds" : "ロストワールド"
+,"fortnite" : "フォートナイト"
+,"fortune arterial" : "FORTUNE ARTERIAL"
+,"fortune quest" : "フォーチュンクエスト"
+,"fosters home for imaginary friends" : "フォスターズ・ホーム"
+,"fractale" : "フラクタル-FRACTALE-"
+,"frame arms girl" : "フレームアームズ・ガール"
+,"franken fran" : "フランケン・ふらん"
+,"frankenstein" : "フランケンシュタイン"
+,"free" : "Free!"
+,"freezing" : "フリージング"
+,"fresh precure" : "フレッシュプリキュア！"
+,"friday night funkin" : "フライデーナイトファンキン"
+,"friday the 13th" : "13日の金曜日"
+,"from argonavis" : "from ARGONAVIS"
+,"frozen" : "アナと雪の女王"
+,"fruits basket" : "フルーツバスケット"
+,"fujiyama-san wa shishunki" : "富士山さんは思春期"
+,"fukai ni nemuru oujo no abaddon" : "腐界に眠る王女のアバドーン"
+,"full bokko heroes" : "フルボッコヒーローズ"
+,"full metal daemon muramasa" : "装甲悪鬼村正"
+,"full metal panic" : "フルメタルパニック！"
+,"full moon o sagashite" : "満月をさがして"
+,"full service" : "FULL SERVICE"
+,"fullmetal alchemist" : "鋼の錬金術師"
+,"fumetsu no anata e" : "不滅のあなたへ"
+,"fun fun pharmacy" : "ふしぎ魔法ファンファンファーマシィー"
+,"furai no shiren gaiden onna kenshi asuka kenzan" : "不思議のダンジョン 風来のシレン外伝 女剣士アスカ見参!"
+,"fushigi no umi no nadia" : "ふしぎの海のナディア"
+,"fushigi tsuushin toilet no hanako-san" : "ふしぎ通信 トイレの花子さん"
+,"fushigi yuugi" : "ふしぎ遊戯"
+,"fushigiboshi no futagohime" : "ふしぎ星のふたご姫"
+,"futaba channel" : "ふたば☆ちゃんねる"
+,"futakoi" : "双恋"
+,"futari ecchi" : "ふたりエッチ"
+,"futari no lotte" : "ふたりのロッテ"
+,"futari wa precure splash star" : "ふたりはプリキュア Splash Star"
+,"futari wa pretty cure" : "ふたりはプリキュア"
+,"futoku no guild" : "不徳のギルド"
+,"futsuu no joshikousei ga locodol yattemita." : "普通の女子校生が【ろこどる】やってみた。"
+,"futurama" : "フューチュラマ"
+,"future boy conan" : "未来少年コナン"
+,"future card buddyfight" : "フューチャーカード バディファイト"
+,"future gpx cyber formula" : "新世紀GPXサイバーフォーミュラ"
+,"fuurai no shiren" : "風来のシレン"
+,"fuuun ishin dai shogun" : "風雲維新ダイ☆ショーグン"
+,"f-zero" : "F-ZERO"
+,"g gundam" : "機動武闘伝Gガンダム"
+,"g senjou no maou" : "G線上の魔王"
+,"ga geijutsuka art design class" : "GA 芸術科アートデザインクラス"
+,"gabriel dropout" : "ガブリールドロップアウト"
+,"gad guard" : "GAD GUARD"
+,"gag manga biyori" : "ギャグマンガ日和"
+,"gaiking" : "ガイキング"
+,"gaikotsu kishi-sama tadaima isekai e odekakechuu" : "骸骨騎士様、只今異世界へお出掛け中"
+,"gaist crusher" : "ガイストクラッシャー"
+,"gakkou gurashi" : "がっこうぐらし!"
+,"gakkou no kaidan" : "学校の怪談"
+,"gakuen alice" : "学園アリス"
+,"gakuen heaven" : "学園ヘヴン BOY'S LOVE SCRAMBLE!"
+,"gakuen saimin reido" : "学園催眠隷奴 ～さっきまで、大嫌いだったはずなのに"
+,"gakuen sousei nekoten" : "学園創世 猫天！"
+,"gakusen toshi asterisk" : "学戦都市アスタリスク"
+,"galactic drifter vifam" : "銀河漂流バイファム"
+,"galaxy angel" : "ギャラクシーエンジェル"
+,"galaxy cyclone braiger" : "銀河旋風ブライガー"
+,"galaxy express 999" : "銀河鉄道999"
+,"galaxy fight" : "ギャラクシーファイト"
+,"galaxy fraulein yuna" : "銀河お嬢様伝説ユナ"
+,"galilei donna" : "ガリレイドンナ"
+,"gall force" : "ガルフォース"
+,"galleria no chika meikyuu to majo no ryodan" : "ガレリアの地下迷宮と魔女ノ旅団"
+,"gals panic" : "ギャルズパニック"
+,"galzoo island" : "GALZOOアイランド"
+,"gamba no bouken" : "ガンバの冒険"
+,"game of thrones" : "ゲーム・オブ・スローンズ"
+,"game tengoku" : "ゲーム天国"
+,"gamers" : "ゲーマーズ"
+,"ganbare goemon" : "がんばれゴエモン"
+,"gangsta." : "GANGSTA."
+,"gankutsuou" : "巌窟王"
+,"gantz" : "GANZ"
+,"gaogaigar" : "勇者王ガオガイガー"
+,"ga-rei" : "喰霊"
+,"garo vanishing line" : "牙狼-GARO- -VANISHING LINE-"
+,"gasaraki" : "ガサラキ"
+,"gatchaman" : "ガッチャマン"
+,"gatchaman crowds" : "ガッチャマン クラウズ"
+,"gate - jieitai kano chi nite kaku tatakaeri" : "ゲート 自衛隊 彼の地にて、斯く戦えり"
+,"gate keepers" : "ゲートキーパーズ"
+,"gau gau wata" : "ガウガウわー太"
+,"gdgd fairies" : "gdgd妖精s"
+,"gear fighter dendoh" : "GEAR戦士電童"
+,"gears of war" : "Gears of War"
+,"gegege no kitarou" : "ゲゲゲの鬼太郎"
+,"gekkan shoujo nozaki-kun" : "月刊少女野崎くん"
+,"generation of chaos" : "ジェネレーションオブカオス"
+,"geneshaft" : "ジーンシャフト"
+,"genji tsuushin agedama" : "ゲンジ通信あげだま"
+,"genjitsu shugi yuusha no oukoku saikenki" : "現実主義勇者の王国再建記"
+,"genki bakuhatsu ganbaruger" : "元気爆発ガンバルガー"
+,"genmu senki leda" : "幻夢戦記レダ"
+,"genshiken" : "げんしけん"
+,"genshin impact" : "原神"
+,"gensou suikoden" : "幻想水滸伝"
+,"geobreeders" : "ジオブリーダーズ"
+,"getbackers" : "GetBackers-奪還屋-"
+,"getsumen to heiki mina" : "月面兎兵器ミーナ"
+,"getsuyoubi no tawawa" : "月曜日のたわわ"
+,"getter robo" : "ゲッターロボ"
+,"ghost in the shell" : "攻殻機動隊"
+,"ghost sweeper mikami" : "GS美神 極楽大作戦!!"
+,"ghostbusters" : "ゴーストバスターズ"
+,"ghosts n goblins" : "魔界村"
+,"giant gorg" : "巨神ゴーグ"
+,"giant killing" : "GIANT KILLING"
+,"giant robo" : "ジャイアントロボ"
+,"gigant" : "GIGANT"
+,"ginga e kickoff" : "銀河へキックオフ!!"
+,"ginga sengoku gun yuuden rai" : "銀河戦国群雄伝ライ"
+,"gingitsune" : "ぎんぎつね"
+,"gintama" : "銀魂"
+,"girl friend beta" : "ガールフレンド（仮）"
+,"girlish number" : "ガーリッシュ ナンバー"
+,"girls band cry" : "ガールズバンドクライ"
+,"girls bravo" : "GIRLSブラボー"
+,"girls frontline" : ["ガールズフロントライン", "ドールズフロントライン"]
+,"girls frontline neural cloud" : "ドールズフロントライン：ニューラルクラウド"
+,"girls high" : "女子高生"
+,"girls und panzer" : "ガールズ＆パンツァー"
+,"girumasu" : "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います"
+,"gj-bu" : "GJ部"
+,"glass mask" : "ガラスの仮面"
+,"gleipnir" : "グレイプニル"
+,"gnosia" : "グノーシア"
+,"go princess precure" : "Go！プリンセスプリキュア"
+,"goblin slayer" : "ゴブリンスレイヤー"
+,"gochuumon wa usagi desu ka" : "ご注文はうさぎですか？"
+,"god eater" : "ゴッドイーター"
+,"goddess kiss" : "女神にキスを～Goddess Kiss～"
+,"goddess of victory nikke" : "勝利の女神：NIKKE"
+,"godzilla" : "ゴジラ"
+,"gogo sentai boukenger" : "轟轟戦隊ボウケンジャー"
+,"gokujou seitokai" : "極上生徒会"
+,"gokuto jihen" : "獄都事変"
+,"golden axe" : "ゴールデンアックス"
+,"golden boy" : "GOLDEN BOY"
+,"golden kamuy" : "ゴールデンカムイ"
+,"golden time" : "ゴールデンタイム"
+,"goldfish warning" : "きんぎょ注意報!"
+,"goldieblox" : "GoldieBlox"
+,"g-on riders" : "G-onらいだーす"
+,"goof troop" : "パパはグーフィー"
+,"gosei sentai dairanger" : "五星戦隊ダイレンジャー"
+,"gosenzo san-e" : "御先祖賛江"
+,"goshogun" : "戦国魔神ゴーショーグン"
+,"goshujin-sama to kemonomimi no shoujo mel" : "ご主人様と獣耳の少女メル"
+,"goshuushou-sama ninomiya-kun" : "ご愁傷さま二ノ宮くん"
+,"gosick" : "GOSICK -ゴシック-"
+,"gotcha force" : "ガチャフォース"
+,"gothic wa mahou otome" : "ゴシックは魔法乙女"
+,"gotoubun no hanayome" : "五等分の花嫁"
+,"graduation" : "卒業"
+,"granado espada" : "グラナド・エスパダ"
+,"granblue fantasy" : "グランブルーファンタジー"
+,"grancrest senki" : "グランクレスト戦記"
+,"grand blue" : "ぐらんぶる"
+,"grand chase" : "グランドチェイス"
+,"grander musashi" : "スーパーフィッシング グランダー武蔵"
+,"grandia" : "グランディア"
+,"grandmaster of demonic cultivation" : "魔道祖師"
+,"grappler baki" : "グラップラー刃牙"
+,"gravion" : "超重神グラヴィオン"
+,"gravity falls" : "怪奇ゾーン グラビティフォールズ"
+,"gravity rush" : "GRAVITY DAZE"
+,"great dangaioh" : "破邪巨星Gダンガイオー"
+,"great mazinger" : "グレートマジンガー"
+,"green akizora no screen" : "GREEN～秋空のスクリーン～"
+,"green green" : "グリーングリーン"
+,"grenadier" : "グレネーダー"
+,"grendizer" : ["グレンダイザー", "UFOロボ グレンダイザー"]
+,"grimms notes" : "グリムノーツ"
 ,"grimoire shiritsu grimoire mahou gakuen" : "グリモア～私立グリモワール魔法学園～"
+,"grisaia no kajitsu" : "グリザイアの果実"
+,"groove adventure rave" : "RAVE"
+,"ground defense force mao-chan" : "陸上防衛隊まおちゃん"
+,"growlanser" : "グローランサー"
+,"g-taste" : "G-taste"
+,"guardian heroes" : "ガーディアンヒーローズ"
+,"guardian tales" : "ガーディアンテイルズ"
+,"guardians of the galaxy" : "ガーディアンズ・オブ・ギャラクシー"
+,"gu-gu ganmo" : "Gu-Guガンモ"
+,"gugure kokkuri-san" : "繰繰れ! コックリさん"
+,"guild wars" : "ギルドウォーズ"
+,"guilty crown" : "ギルティクラウン"
+,"guilty gear" : "ギルティギア"
+,"guitarfreaks and drummania" : "GITADORA"
+,"gun x sword" : "ガン×ソード"
+,"gunbird" : "Gunbird"
+,"gunbuster" : "トップをねらえ!"
+,"gundam" : "ガンダム"
+,"gundam 00" : "機動戦士ガンダム00"
+,"gundam 0080" : "機動戦士ガンダム0080"
+,"gundam 0083" : "機動戦士ガンダム0083"
+,"gundam age" : "機動戦士ガンダムAGE"
+,"gundam breaker mobile" : "ガンダムブレイカーモバイル"
+,"gundam build divers" : "ガンダムビルドダイバーズ"
+,"gundam build fighters" : "ガンダムビルドファイターズ"
+,"gundam build fighters try" : "ガンダムビルドファイターズトライ"
+,"gundam exa" : "ガンダムEXA"
+,"gundam f91" : "機動戦士ガンダムF91"
+,"gundam g no reconguista" : "ガンダム Gのレコンギスタ"
+,"gundam seed" : "機動戦士ガンダムSEED"
+,"gundam seed destiny" : "機動戦士ガンダムSEED DESTINY"
+,"gundam unicorn" : "機動戦士ガンダムUC"
+,"gundam wing" : "新機動戦記ガンダムW"
+,"gundam x" : "機動新世紀ガンダムX"
+,"gundam zz" : "機動戦士ガンダムZZ"
+,"gunparade march" : "ガンパレード・マーチ"
+,"gunparade orchestra" : "ガンパレード・オーケストラ"
+,"gunslinger girl" : "GUNSLINGER GIRL"
+,"gunslinger stratos" : "ガンスリンガー ストラトス"
+,"gunsmith cats" : "ガンスミスキャッツ"
+,"guyver" : ["ガイバー", "強殖装甲ガイバー"]
+,"gyee" : "サンクタス戦記-GYEE-"
+,"gyousatsu shinsengumi" : "行殺♥新選組"
+,"h2" : "H2"
+,"hachigatsu no cinderella nine" : "八月のシンデレラナイン"
+,"hachi-nan tte sore wa nai deshou" : "八男って、それはないでしょう！"
+,"hacka doll" : "ハッカドール"
+,"hadaka shitsuji" : "裸執事"
+,"hades" : "HADES"
+,"hades project zeorymer" : "冥王計画ゼオライマー"
+,"hai to gensou no grimgar" : "灰と幻想のグリムガル"
+,"haikyuu" : "ハイキュー！！"
+,"haite kudasai takamine-san" : "履いてください、鷹峰さん"
+,"haiyore nyaruko-san" : "這いよれ! ニャル子さん"
+,"hajime no ippo" : "はじめの一歩"
+,"hajimete no aku" : "はじめてのあく"
+,"hajimete no gal" : "はじめてのギャル"
+,"hajimete no hitozuma" : "初めてのヒトヅマ"
+,"hajimete no oishasan" : "はじめてのおいしゃさん"
+,"hajimete no orusuban" : "はじめてのおるすばん"
+,"hajimete no otetsudai" : "はじめてのおてつだい"
+,"hakkenden" : "八犬伝"
+,"hakuouki" : "薄桜鬼"
+,"hakushon daimaou" : "ハクション大魔王"
+,"halloween" : "ハロウィン"
+,"halo" : "HALO"
+,"hamidashi creative" : "ハミダシクリエイティブ"
+,"hamtaro" : "とっとこハム太郎"
 ,"hana awase" : "華あわせ"
+,"hana no ko lunlun" : "花の子ルンルン"
+,"hanamaru youchien" : "はなまる幼稚園"
+,"hanasaku iroha" : "花咲くいろは"
+,"hanaukyo maid tai" : "花右京メイド隊"
+,"hanayamata" : "ハナヤマタ"
+,"hanazuki full of treasures" : "Hanazuki: Full of Treasures"
+,"hand maid may" : "HAND MAID メイ"
+,"hanebado" : "はねバド!"
+,"hansel and gretel" : "ヘンゼルとグレーテル"
+,"happiness" : "はぴねす！"
+,"happinesscharge precure" : "ハピネスチャージプリキュア！"
+,"happy lesson" : "HAPPY★LESSON"
+,"happy sugar life" : "ハッピーシュガーライフ"
+,"happy tree friends" : "Happy Tree Friends"
+,"hapymaher" : "ハピメア"
+,"harbor light story fashion lala yori" : "ハーバーライト物語 ファッションララより"
+,"hare tokidoki buta" : "はれときどきぶた"
+,"harem ace" : "ハーレムエース"
+,"harry potter" : "ハリーポッター"
+,"haruka ni aogi uruwashi no" : "遥かに仰ぎ、麗しの"
+,"harukana receive" : "はるかなレシーブ"
+,"harukanaru toki no naka de" : "遙かなる時空の中で"
+,"harukanaru toki no naka de 3" : "遙かなる時空の中で3"
+,"harukoi otome" : "春恋＊乙女"
+,"haruru minamo ni" : "はるるみなもに！"
+,"harvest moon" : "牧場物語"
+,"hataage kemono michi" : "旗揚!けものみち"
+,"hataraku maou-sama" : "はたらく魔王さま!"
+,"hataraku onii-san" : "働くお兄さん！"
+,"hataraku saibou" : "はたらく細胞"
+,"hateshinaku aoi kono sora no shita de..." : "果てしなく青い、この空の下で…"
+,"hatsukoi" : "初恋"
+,"hatsukoi limited" : "初恋限定。"
+,"hatsukoi zombie" : "初恋ゾンビ"
+,"hatsuyuki sakura" : "はつゆきさくら"
+,"hayate no gotoku" : "ハヤテのごとく！！"
+,"haydee" : "Haydee"
+,"hazbin hotel" : "ハズビン・ホテル"
+,"he is my master" : "これが私の御主人様"
+,"healin good precure" : "ヒーリングっど♥プリキュア"
+,"heart catch izumi-chan" : "ハートキャッチいずみちゃん"
+,"heartcatch precure" : "ハートキャッチプリキュア！"
+,"heartful maman" : "は～とふるママン"
+,"heaven burns red" : "ヘブンバーンズレッド"
+,"heavens memo pad" : "神様のメモ帳"
+,"heavy metal l-gaim" : "重戦機エルガイム"
+,"heavy object" : "ヘヴィーオブジェクト"
+,"heike monogatari" : "平家物語"
+,"heion sedai no idaten-tachi" : "平穏世代の韋駄天達"
+,"helios rising heroes" : "エリオスライジングヒーローズ"
+,"hell teacher nube" : "地獄先生ぬーべー"
+,"helldivers" : "HELLDIVERS"
+,"hello kitty" : "ハローキティ"
+,"hellsing" : "HELLSING"
+,"helltaker" : "Helltaker"
+,"helluva boss" : "ヘルヴァ・ボス"
+,"hengen sennin asuka" : "変幻戦忍アスカ"
+,"henshin" : "へんし～ん！"
+,"hentai heroes" : "Hentai Heroes"
+,"hentai ouji to warawanai neko" : "変態王子と笑わない猫。"
+,"hercules" : "ハーキュリーズ"
+,"hero bank" : "ヒーローバンク"
+,"heroic age" : "ヒロイック・エイジ"
+,"heroman" : "HEROMAN"
+,"heybot" : "ヘボット！"
 ,"hi hi puffy amiyumi" : "ハイ!ハイ! パフィー・アミユミ"
+,"hibike euphonium" : "響け! ユーフォニアム"
+,"hidamari sketch" : "ひだまりスケッチ"
+,"hidan no aria" : "緋弾のアリア"
+,"hi-fi rush" : "Hi-Fi RUSH"
+,"higanbana no saku yoru ni" : "彼岸花の咲く夜に"
+,"hige o soru. soshite joshikousei o hirou." : "ひげを剃る。そして女子高生を拾う。"
+,"high school fleet" : "ハイスクール・フリート"
+,"high school kimengumi" : "ハイスクール!奇面組"
 ,"high school mystery gakuen nanafushigi" : "ハイスクールミステリー学園七不思議"
+,"high score girl" : "ハイスコアガール"
+,"highschool dxd" : "ハイスクールD×D"
+,"highschool of the dead" : "学園黙示録 HIGHSCHOOL OF THE DEAD"
+,"higurashi no naku koro ni" : "ひぐらしのなく頃に"
+,"hihouden" : "秘宝伝"
+,"hikarian" : "超特急ヒカリアン"
+,"hikaru ga shinda natsu" : "光が死んだ夏"
+,"hikaru no go" : "ヒカルの碁"
+,"hikikomari kyuuketsuki no monmon" : "ひきこまり吸血姫の悶々"
+,"hikounin sentai akibaranger" : "非公認戦隊アキバレンジャー"
+,"hilda" : "ヒルダの冒険"
+,"hima-ten" : "ひまてん！"
+,"hime chen otogi chikku idol lilpri" : "ひめチェン！おとぎちっくアイドル リルぷりっ"
+,"hime kishi lilia" : "姫騎士リリア"
+,"hime to boin" : "姫とボイン"
+,"hime-chans ribbon" : "姫ちゃんのリボン"
+,"himekishi angelica" : "姫騎士アンジェリカ"
+,"himesama goumon no jikan desu" : "姫様“拷問”の時間です"
+,"himitsu no aipri" : "ひみつのアイプリ"
+,"himitsu no akko-chan" : "ひみつのアッコちゃん"
+,"himitsu sentai metamor v" : "ひみつ戦隊メタモルV"
+,"himouto umaru-chan" : "干物妹!うまるちゃん"
+,"hinabita" : "ひなビタ♪"
+,"hinako note" : "ひなこのーと"
+,"hinamatsuri" : "ヒナまつり"
+,"hinomaru-zumou" : "火ノ丸相撲"
+,"hirogaru sky precure" : "ひろがるスカイ！プリキュア"
+,"hiseki shinki arcana saber" : "秘蹟神姫アルカナセイバー"
+,"historys strongest disciple kenichi" : "史上最強の弟子ケンイチ"
+,"hitomi no karte" : "ひとみのカルテ"
+,"hitori bocchi no marumaru seikatsu" : "ひとりぼっちの○○生活"
+,"hitsugi no chaika" : "棺姫のチャイカ"
+,"hizashi no naka no real" : "陽射しの中のリアル"
+,"hokenshitsu no shinigami" : "保健室の死神"
+,"hollow knight" : "Hollow Knight"
+,"hololive" : "ホロライブ"
+,"holy knight" : "Holy Knight"
+,"homestuck" : "Homestuck"
+,"honey and clover" : "ハチミツとクローバー"
+,"honkai gakuen" : "崩壊学園"
+,"honkai star rail" : "崩壊スターレイル"
+,"honor of kings" : "王者栄耀"
+,"honzuki no gekokujou" : "本好きの下剋上"
+,"hoozuki no reitetsu" : "鬼灯の冷徹"
+,"horimiya" : "ホリミヤ"
+,"horizon zero dawn" : "Horizon Zero Dawn"
+,"hoshi no samidare" : "惑星のさみだれ"
+,"hoshizora e kakaru hashi" : "星空へ架かる橋"
+,"hoshizora no memoria" : "星空のメモリア"
+,"hotel transylvania" : "モンスター・ホテル"
+,"houkago no pleiades" : "放課後のプレアデス"
+,"houkago play" : "放課後プレイ"
+,"houkago saikoro club" : "放課後さいころ倶楽部"
+,"houkago teibou nisshi" : "放課後ていぼう日誌"
+,"hourou musuko" : "放浪息子"
+,"houseki no kuni" : "宝石の国"
+,"housekishou richard-shi no nazo kantei" : "宝石商リチャード氏の謎鑑定"
+,"houshin engi" : "封神演義"
+,"how to train your dragon" : "ヒックとドラゴン"
+,"howls moving castle" : "ハウルの動く城"
+,"hugtto precure" : "HUGっと！プリキュア"
+,"hulu xiongdi" : "ひょうたん童子"
+,"hundred" : "ハンドレッド"
+,"huniepop" : "ハニーポップ"
+,"hunter x hunter" : "HUNTER×HUNTER"
+,"hurricane polymar" : "破裏拳ポリマー"
+,"huyao xiao hongniang" : "縁結びの妖狐ちゃん"
+,"hyakka ryouran samurai girls" : "百花繚乱 SAMURAI GIRLS"
+,"hyakko" : "ヒャッコ"
+,"hyakugojuunenme no mahoutsukai" : "百五十年目の魔法使い"
+,"hyakujuu sentai gaoranger" : "百獣戦隊ガオレンジャー"
+,"hyakuren no haou to seiyaku no valkyria" : "百錬の覇王と聖約の戦乙女"
+,"hyoui henshin extra souls" : "憑依変身エクストラソウルズ"
+,"hyouka" : "氷菓"
+,"hyouryuu kyoushitsu" : "漂流教室"
+,"hyper anna" : "ハイパーあんな"
+,"hyper doll" : "ハイパードール"
+,"hyper police" : "はいぱーぽりす"
+,"hyperdimension neptunia" : "超次元ゲイム ネプテューヌ"
+,"hypnosis mic" : "ヒプノシスマイク"
+,"i my me strawberry eggs" : "あぃまぃみぃ！ストロベリー・エッグ"
+,"ib" : "Ib"
+,"ibara no ou" : "いばらの王"
+,"ichiban ushiro no daimaou" : "いちばんうしろの大魔王"
 ,"ichibanyu no kanata" : "一番湯のカナタ"
 ,"ichigeki sacchu hoihoi-san" : "一撃殺虫!!ホイホイさん"
-,"juusenshi gulkeeva" : "獣戦士ガルキーバ"
-,"kimi wa 008" : "君は008"
-,"koori zokusei danshi to cool na douryou joshi" : "氷属性男子とクールな同僚女子"
-,"kuma kuma kuma bear" : "くまクマ熊ベアー"
-,"kyuukyoku hentai kamen" : "究極!!変態仮面"
-,"l no kisetsu" : "Lの季節 ～A piece of memories～"
-,"ninja sentai kakuranger" : "忍者戦隊カクレンジャー"
-,"oyakodon oppai tokumori bonyuu tsuyudaku de" : "母娘丼 おっぱい特盛母乳汁だくで"
-,"ran to haiiro no sekai" : "乱と灰色の世界"
-,"rikei ga koi ni ochita no de shuomei shite mita." : "理系が恋に落ちたので証明してみた。"
-,"rougo ni sonaete isekai de 8-man-mai no kinka o tamemasu" : "老後に備えて異世界で8万枚の金貨を貯めます"
-,"saint young men" : "聖☆おにいさん"
-,"sekai saikou no ansatsusha isekai kizoku ni tensei suru" : "世界最高の暗殺者、異世界貴族に転生する"
-,"shoujo mahou gaku little witch romanesque" : "少女魔法学リトルウィッチロマネスク"
-,"subete no jinrui o hakai suru. sorera wa saisei dekinai." : "すべての人類を破壊する。それらは再生できない。"
-,"suki na mono wa suki dakara shouganai" : "好きなものは好きだからしょうがない!!"
-,"takuan to batsu no nichijou enmachou" : "たくあんとバツの日常閻魔帳"
-,"tensei kizoku kantei skill de nariagaru" : "転生貴族、鑑定スキルで成り上がる"
-,"the grim adventures of billy and mandy" : "ビリー&マンディ"
-,"the iron giant" : "アイアン・ジャイアント"
-,"umibe no etranger" : "海辺のエトランゼ"
-,"unlimited saga" : "アンリミテッド:サガ"
-,"zeikin de katta hon" : "税金で買った本"
-,"zoids field of rebellion" : "ZOIDS FIELD OF REBELLION"
-,"final fantasy tactics a2" : "ファイナルファンタジータクティクス A2 封穴のグリモア"
-,"mouthwashing" : "Mouthwashing"
-,"ok k.o. lets be heroes" : "OK K.O.! めざせヒーロー"
-,"seiken gakuin no maken tsukai" : "聖剣学院の魔剣使い"
-,"goldieblox" : "GoldieBlox"
-,"chiyu mahou no machigatta tsukaikata" : "治癒魔法の間違った使い方"
-,"jaiden animations" : "Jaiden Animations"
-,"roblox" : "ROBLOX"
-,"the secret of kells" : "ブレンダンとケルズの秘密"
-,"jinzou konchuu kabutoborg vxv" : "人造昆虫カブトボーグ V×V"
-,"mamoru-kun wa norowarete shimatta" : "まもるクンは呪われてしまった!"
-,"hikikomari kyuuketsuki no monmon" : "ひきこまり吸血姫の悶々"
-,"grandmaster of demonic cultivation" : "魔道祖師"
-,"dosanko gal wa namaramenkoi" : "道産子ギャルはなまらめんこい"
-,"isekai harem monogatari" : "異世界ハーレム物語"
-,"3-nen b-gumi kinpachi sensei densetsu no kyoudan ni tate" : "3年B組金八先生 伝説の教壇に立て！"
-,"actraiser" : "アクトレイザー"
-,"akuyaku reijo level 99" : "悪役令嬢レベル99 ～私は裏ボスですが魔王ではありません～"
-,"all you need is kill" : "ALL YOU NEED IS KILL"
-,"ane haramix" : "姉☆孕みっくす"
-,"beroncho karada kensa joshi koukou hen" : "ベロンチョ身体検査 1 女子高校編"
-,"burning rangers" : "バーニングレンジャー"
-,"danna ga nani o itteiru ka wakaranai ken" : "旦那が何を言っているかわからない件"
-,"final fantasy ii" : "ファイナルファンタジーII"
-,"fire emblem if" : "ファイアーエムブレムif"
-,"galleria no chika meikyuu to majo no ryodan" : "ガレリアの地下迷宮と魔女ノ旅団"
-,"grimms notes" : "グリムノーツ"
-,"gundam breaker mobile" : "ガンダムブレイカーモバイル"
-,"hyper doll" : "ハイパードール"
-,"kamen rider amazon" : "仮面ライダーアマゾン"
-,"kamen rider den-o" : "仮面ライダー電王"
-,"kamen rider kabuto" : "仮面ライダーカブト"
-,"kandagawa jet girls" : "神田川JET GIRLS"
-,"katsute mahou shoujo to aku wa tekitai shite ita." : "かつて魔法少女と悪は敵対していた。"
-,"kawaikereba hentai demo suki ni natte kuremasu ka" : "可愛ければ変態でも好きになってくれますか？"
-,"kuromajo-san ga tooru" : "黒魔女さんが通る!!"
-,"kyouryuu sentai zyuranger" : "恐竜戦隊ジュウレンジャー"
-,"magne robo ga-keen" : "マグネロボ ガ・キーン"
-,"maou no ore ga dorei elf o yome ni shitanda ga dou medereba ii" : "魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？"
-,"miracle giants dome-kun" : "ミラクルジャイアンツ童夢くん"
-,"neko to wakai seyo" : "ネコと女子寮せよ"
-,"nelke to densetsu no renkinjutsushi-tachi" : "ネルケと伝説の錬金術士たち"
-,"nora to toki no koubou kiri no mori no majo" : "ノーラと刻の工房 霧の森の魔女"
-,"oira uchuu no tankoufu" : "おいら宇宙の探鉱夫"
-,"omae wo otaku ni shiteyaru kara ore wo riaju ni shite kure" : "おまえをオタクにしてやるから、俺をリア充にしてくれ！"
-,"omaera zenin mendokusai" : "お前ら全員めんどくさい!"
-,"oshi ga budoukan ittekuretara shinu" : "推しが武道館いってくれたら死ぬ"
-,"pp -pianissimo- ayatsuri ningyou no rinbu" : "PP -ピアニッシモ- 操リ人形ノ輪舞"
-,"rin x sen hakudaku onna kyoushi to yaroudomo" : "RIN×SEN～白濁女教師と野郎ども～"
-,"saijaku tamer wa gomi hiroi no tabi o hajimemashita." : "最弱テイマーはゴミ拾いの旅を始めました。"
-,"saikyou tank no meikyuu kouryaku" : "最強タンクの迷宮攻略"
-,"seijuu sentai gingaman" : "星獣戦隊ギンガマン"
-,"sentimental journey" : "センチメンタルジャーニー"
-,"shachiku-san wa youjo yuurei ni iyasaretai." : "社畜さんは幼女幽霊に癒されたい。"
-,"shiei no sona-nyl -what a beautiful memories-" : "紫影のソナーニル -What a beautiful memories-"
-,"shijou saikyou no daimaou murabito a ni tensei suru" : "史上最強の大魔王、村人Aに転生する"
-,"shining ark" : "シャイニング・アーク"
-,"shining in the darkness" : "シャイニング&ザ・ダクネス"
-,"super robot wars k" : "スーパーロボット大戦K"
-,"taiyou no yuusha fighbird" : "太陽の勇者ファイバード"
-,"tales of asteria" : "テイルズ オブ アスタリア"
-,"the adventures of tom sawyer" : "トム・ソーヤーの冒険"
-,"tsuihou sareta cheat fuyo majutsushi" : "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する"
-,"uchu sentai kyuranger" : "宇宙戦隊キュウレンジャー"
-,"zannen onna kanbu black general-san" : "残念女幹部ブラックジェネラルさん"
-,"a.i. ga tomaranai" : "A.I.が止まらない"
-,"lv2 kara cheat datta motoyuusha kouho no mattari isekai life" : "Lv2からチートだった元勇者候補のまったり異世界ライフ"
-,"duolingo" : "Duolingo"
-,"shuumatsu nani shitemasu ka isogashii desu ka sukutte moratte ii desu ka" : "終末なにしてますか？忙しいですか？救ってもらっていいですか？"
-,"akiba kei kanojo" : "アキバ系彼女"
-,"shinja zero no megami-sama to hajimeru isekai kouryaku" : "信者ゼロの女神サマと始める異世界攻略"
-,"abunai tengu densetsu - yomigaetta tengu ga yozora o mau" : "あぶない天狗伝説 よみがえった天狗が夜空を舞う"
-,"ai mai mi" : "あいまいみー"
-,"arrow emblem hawk of the grand prix" : "アローエンブレム グランプリの鷹"
-,"atelier lina" : "リーナのアトリエ"
-,"batsuichi de nakimushi na otonari-san" : "バツイチで泣き虫なおとなりさん"
-,"bernd and the mystery of unteralterbach" : "ベルントとウンターアルターバッハの謎"
-,"blue breaker" : "ブルーブレイカー"
-,"boku no kanojo ga majimesugiru shobitch na ken" : "僕の彼女がマジメ過ぎる処女ビッチな件"
-,"dai sentai goggle v" : "大戦隊ゴーグルファイブ"
-,"daihanjou manpuku marche" : "大繁盛!まんぷくマルシェ"
-,"dragon quest monsters terrys wonderland" : "ドラゴンクエストモンスターズ テリーのワンダーランド"
-,"fairy ranmaru anata no kokoro otasuke shimasu" : "Fairy蘭丸～あなたの心お助けします～"
-,"firefighter daigo of fire company m" : "め組の大吾"
-,"fractale" : "フラクタル-FRACTALE-"
-,"gosei sentai dairanger" : "五星戦隊ダイレンジャー"
-,"goshujin-sama to kemonomimi no shoujo mel" : "ご主人様と獣耳の少女メル"
-,"hanazuki full of treasures" : "Hanazuki: Full of Treasures"
-,"hikounin sentai akibaranger" : "非公認戦隊アキバレンジャー"
-,"hime to boin" : "姫とボイン"
-,"housekishou richard-shi no nazo kantei" : "宝石商リチャード氏の謎鑑定"
-,"hyakuren no haou to seiyaku no valkyria" : "百錬の覇王と聖約の戦乙女"
+,"ichigo 100" : "いちご100％"
+,"ichigo mashimaro" : "苺ましまろ"
+,"iczer" : "戦え!!イクサー1"
+,"id invaded" : "ID：INVADED イド：インヴェイデッド"
 ,"idejuu" : "いでじゅう！"
+,"identity v" : "IdentityV 第五人格"
+,"idol defense force hummingbird" : "アイドル防衛隊ハミングバード"
+,"idol densetsu eriko" : "アイドル伝説えり子"
+,"idol janshi suchie-pai" : "アイドル雀士スーチーパイ"
+,"idol project" : "アイドルプロジェクト"
+,"idol tenshi youkoso yoko" : "アイドル天使ようこそようこ"
+,"idol wars z" : "アイドルうぉーずZ"
+,"idola phantasy star saga" : "イドラ ファンタシースターサーガ"
+,"idolish7" : "アイドリッシュセブン"
+,"idoly pride" : "IDOLY PRIDE"
+,"igpx" : "IGPX"
+,"ijiranaide nagatoro-san" : "イジらないで、長瀞さん"
+,"ikemen sengoku" : ["イケメン戦国", "イケメン戦国◆時をかける恋"]
+,"ikenai luna sensei" : "いけない!ルナ先生"
+,"ikkitousen" : "一騎当千"
+,"ikoku meiro no croisee" : "異国迷路のクロワーゼ"
 ,"ikusa otome suvia" : "戦乙女スヴィア"
+,"ikusa otome valkyrie" : "戦乙女ヴァルキリー"
+,"imouto sae ireba ii." : "妹さえいればいい。"
+,"in search of the lost future" : "失われた未来を求めて"
+,"inaka ni kaeru to yakeni natsuita kasshoku ponytail shota ga iru" : "田舎に帰るとやけになついた褐色ポニテショタがいる"
+,"inari konkon koi iroha" : "いなり、こんこん、恋いろは。"
+,"inazuma eleven" : "イナズマイレブン"
+,"inazuma eleven go" : "イナズマイレブンGO"
+,"inbi na doukutsu no sono oku de" : "淫靡な洞窟のその奥で"
+,"inda no himekishi janne" : "淫堕の姫騎士ジャンヌ"
+,"indigo park" : "Indigo Park"
+,"infinite ryvius" : "無限のリヴァイアス"
+,"infinite stratos" : "IS 〈インフィニット・ストラトス〉"
+,"ingoku danchi" : "淫獄団地"
+,"ingoshima" : "インゴシマ"
+,"initial d" : "頭文字D"
+,"injuu genmu" : "淫獣幻夢"
+,"inkya lovecome" : "陰キャラブコメ"
+,"inma kourin devil carnival" : "淫魔降臨デビル カーニバル"
+,"inou-battle wa nichijou-kei no naka de" : "異能バトルは日常系のなかで"
+,"inside out" : "インサイド・ヘッド"
+,"inspector gadget" : "ガジェット警部"
+,"inu x boku ss" : "妖狐×僕SS"
+,"inukami" : "いぬかみっ！"
+,"inuyasha" : "犬夜叉"
+,"invincible" : "インビンシブル ～無敵のヒーロー～"
+,"inyouchuu" : "淫妖蟲"
+,"iris mysteria" : "あいりすミスティリア！"
+,"irisu syndrome" : "いりす症候群!"
+,"iron man" : "アイアンマン"
+,"irotoridori no sekai" : "いろとりどりのセカイ"
+,"irresponsible captain tylor" : "無責任艦長タイラー"
+,"is" : "I”s"
+,"isaku" : "遺作"
+,"isekai cheat magician" : "異世界チート魔術師"
+,"isekai harem monogatari" : "異世界ハーレム物語"
+,"isekai maou to shoukan shoujo no dorei majutsu" : "異世界魔王と召喚少女の奴隷魔術"
+,"isekai meikyuu de harem o" : "異世界迷宮でハーレムを"
+,"isekai no seikishi monogatari" : "異世界の聖機師物語"
+,"isekai nonbiri nouka" : "異世界のんびり農家"
+,"isekai ojisan" : "異世界おじさん"
+,"isekai shokudou" : "異世界食堂"
+,"isekai wa smartphone to tomo ni." : "異世界はスマートフォンとともに。"
+,"ishuzoku reviewers" : "異種族レビュアーズ"
+,"issho ni training" : "いっしょにとれーにんぐ"
+,"itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu." : "痛いのは嫌なので防御力に極振りしたいと思います。"
+,"its not my fault that im not popular" : "私がモテないのはどう考えてもお前らが悪い!"
+,"itsuka tenma no kuro usagi" : "いつか天魔の黒ウサギ"
+,"ixion saga dt" : "イクシオン サーガ DT"
 ,"iya na kao sare nagara opantsu misete moraitai" : "嫌な顔されながらおパンツ見せてもらいたい"
+,"iyashite agerun saiyuuki" : "癒してあげルン 西遊記"
+,"izumo" : "IZUMO"
+,"izuna legend of the unemployed ninja" : "降魔霊符伝イヅナ"
 ,"jack and the beanstalk" : "ジャックと豆の木"
+,"jack jeanne" : "ジャックジャンヌ"
+,"jackie chan adventures" : "ジャッキー・チェン・アドベンチャー"
+,"jahy-sama wa kujikenai" : "ジャヒー様はくじけない!"
+,"jaiden animations" : "Jaiden Animations"
+,"jaja uma grooming up" : "じゃじゃ馬グルーミン★UP!"
+,"jaku-chara tomozaki-kun" : "弱キャラ友崎くん"
+,"jarinko chie" : "じゃりン子チエ"
+,"jashin-chan dropkick" : "邪神ちゃんドロップキック"
+,"jet set radio" : "ジェットセットラジオ"
+,"jewelpet" : "ジュエルペット"
+,"jewelpet happiness" : "ジュエルペット ハッピネス"
+,"jewelpet kira deco" : "ジュエルペット きら☆デコッ！"
+,"jewelpet magical change" : "ジュエルペット マジカルチェンジ"
+,"jewelpet sunshine" : "ジュエルペットサンシャイン"
+,"jewelpet tinkle" : "ジュエルペット てぃんくる☆"
+,"jibaku shounen hanako-kun" : "地縛少年花子くん"
+,"jigoku shoujo" : "地獄少女"
+,"jigokuraku" : "地獄楽"
+,"jijou wo shiranai tenkousei ga guigui kuru." : "事情を知らない転校生がグイグイくる。"
+,"jikkyou powerful pro yakyuu" : "実況パワフルプロ野球"
+,"jimoto saikou" : "地元最高！"
+,"jin ping mei" : "金瓶梅"
+,"jinki" : "ジンキ"
+,"jinrou judgement" : "人狼 ジャッジメント"
+,"jinrui wa suitai shimashita" : "人類は衰退しました"
+,"jinsei" : "人生"
+,"jinzou konchuu kabutoborg vxv" : "人造昆虫カブトボーグ V×V"
+,"jitaku keibiin" : "自宅警備員"
+,"jitsu wa ore saikyou deshita" : "実は俺、最強でした？"
+,"jitsu wa watashi wa" : "実は私は"
+,"jojos bizarre adventure" : "ジョジョの奇妙な冒険"
+,"joker game" : "ジョーカー・ゲーム"
+,"jormungand" : "ヨルムンガンド"
 ,"joshi kausei" : "女子かう生"
+,"joshiraku" : "じょしらく"
+,"josou jinja" : "女装神社"
+,"josou sanmyaku" : "女装山脈"
+,"joukamachi no dandelion" : "城下町のダンデライオン"
+,"jouki toshi no tantei shoujo" : "蒸気都市の探偵少女"
+,"journey to the west" : "西遊記"
+,"jubei-chan" : "十兵衛ちゃん"
+,"jujutsu kaisen" : "呪術廻戦"
+,"jungle de ikou" : "ジャングルDEいこう！"
+,"jungle wa itsumo hare nochi guu" : "ジャングルはいつもハレのちグゥ"
+,"junketsu no maria" : "純潔のマリア"
+,"jurassic tripper" : "恐竜冒険記ジュラトリッパー"
+,"just because" : "Just Because!"
+,"justice league" : "ジャスティス・リーグ"
+,"jutaijima" : "受胎島"
+,"juujika" : "十字架"
+,"juuken sentai gekiranger" : "獣拳戦隊ゲキレンジャー"
+,"juuni taisen" : "十二大戦"
+,"juusenshi gulkeeva" : "獣戦士ガルキーバ"
+,"juusou kikou dancougar nova" : "獣装機攻ダンクーガノヴァ"
+,"juuza engi" : "十三支演義"
+,"k" : "K"
+,"k.o. beast" : "KO世紀ビースト三獣士"
+,"kaerunyo panyorn" : "かえるにょぱにょーん"
+,"kagaku chop" : "カガクチョップ"
+,"kagaku na yatsura" : "カガクなヤツら"
+,"kage no jitsuryokusha ni naritakute" : "陰の実力者になりたくて！"
+,"kagerou project" : "カゲロウプロジェクト"
 ,"kagihime monogatari eikyuu alice rondo" : "鍵姫物語 永久アリス輪舞曲"
+,"kagura douchuuki" : "神楽道中記"
+,"kagura reimeiki" : "神楽黎明記"
+,"kaguya-sama wa kokurasetai" : "かぐや様は告らせたい"
+,"kaichou wa maid-sama" : "会長はメイド様!"
+,"kaidan restaurant" : "怪談レストラン"
+,"kaifuku jutsushi no yarinaoshi" : "回復術士のやり直し"
+,"kaii to otome to kamikakushi" : "怪異と乙女と神隠し"
+,"kaiji" : "賭博黙示録カイジ"
+,"kaijin kaihatsubu no kuroitsu-san" : "怪人開発部の黒井津さん"
+,"kaiju girls" : ["怪獣娘", "怪獣娘 ～ウルトラ怪獣擬人化計画～"]
+,"kaijuu 8-gou" : "怪獣8号"
+,"kaiketsu zorori" : "かいけつゾロリ"
 ,"kaiko sareta ankoku heishi 30-dai no slow na second life" : "解雇された暗黒兵士（30代）のスローなセカンドライフ"
+,"kaiten mutenmaru" : "回転むてん丸"
+,"kaitou joker" : "怪盗ジョーカー"
+,"kaitou sentai lupinranger vs keisatsu sentai patranger" : "快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー"
+,"kaitou tenshi twin angel" : "快盗天使ツインエンジェル"
+,"kaizoku sentai gokaiger" : "海賊戦隊ゴーカイジャー"
+,"kakegurui" : "賭ケグルイ"
+,"kakkou no iinazuke" : "カッコウの許嫁"
+,"kakuchou shoujo-kei trinary" : "拡張少女系トライナリー"
+,"kaku-san-sei million arthur" : "拡散性ミリオンアーサー"
+,"kakushigoto" : "かくしごと"
+,"kakyuusei" : "下級生"
+,"kaleido star" : "カレイドスター"
+,"kamen no maid guy" : "仮面のメイドガイ"
+,"kamen rider" : "仮面ライダー"
+,"kamen rider 555" : "仮面ライダー555"
+,"kamen rider amazon" : "仮面ライダーアマゾン"
 ,"kamen rider black sun" : "仮面ライダーBLACK SUN"
 ,"kamen rider blade" : "仮面ライダー剣"
+,"kamen rider build" : "仮面ライダービルド"
+,"kamen rider decade" : "仮面ライダーディケイド"
+,"kamen rider den-o" : "仮面ライダー電王"
+,"kamen rider drive" : "仮面ライダードライブ"
+,"kamen rider ex-aid" : "仮面ライダーエグゼイド"
+,"kamen rider fourze" : "仮面ライダーフォーゼ"
+,"kamen rider gavv" : "仮面ライダーガヴ"
+,"kamen rider geats" : "仮面ライダーギーツ"
+,"kamen rider gotchard" : "仮面ライダーガッチャード"
+,"kamen rider hibiki" : "仮面ライダー響鬼"
+,"kamen rider kabuto" : "仮面ライダーカブト"
+,"kamen rider kuuga" : "仮面ライダークウガ"
+,"kamen rider ooo" : "仮面ライダーオーズ"
+,"kamen rider revice" : "仮面ライダーリバイス"
+,"kamen rider saber" : "仮面ライダーセイバー"
+,"kamen rider w" : "仮面ライダーW"
+,"kamen rider wizard" : "仮面ライダーウィザード"
+,"kamen rider zero-one" : "仮面ライダーゼロワン"
+,"kamen rider zi-o" : "仮面ライダージオウ"
+,"kami no rhapsody" : "神のラプソディ"
+,"kamichu" : "かみちゅ!"
+,"kamidori alchemy meister" : "神採りアルケミーマイスター"
+,"kamigami no asobi" : "神々の遊び"
+,"kamihime project" : "神姫PROJECT"
+,"kamikaze kaitou jeanne" : "神風怪盗ジャンヌ"
+,"kaminaki sekai no kamisama katsudou" : "神無き世界のカミサマ活動"
+,"kamisama dolls" : "神様ドォルズ"
+,"kamisama minarai himitsu no cocotama" : "かみさまみならい ヒミツのここたま"
+,"kamisama ni natta hi" : "神様になった日"
+,"kami-sama no inai nichiyoubi" : "神さまのいない日曜日"
+,"kampfer" : "けんぷファー"
+,"kanamemo" : "かなめも"
+,"kanata no astra" : "彼方のアストラ"
+,"kandagawa jet girls" : "神田川JET GIRLS"
+,"kangoku senkan" : "監獄戦艦"
+,"kangokutou mary skelter" : "神獄塔 メアリスケルター"
+,"kannagi" : "かんなぎ"
+,"kannagi no tori" : "神無ノ鳥"
+,"kannazuki no miko" : "神無月の巫女"
+,"kanojo mo kanojo" : "カノジョも彼女"
+,"kanojo okarishimasu" : "彼女、お借りします"
+,"kanojo x kanojo x kanojo" : "彼女×彼女×彼女"
+,"kanokon" : "かのこん"
+,"kanon" : "KANON"
+,"kanpani girls" : "かんぱに☆ガールズ"
+,"kantai collection" : "艦隊これくしょん"
+,"kaoru hana wa rin to saku" : "薫る花は凛と咲く"
+,"kara no kyoukai" : "空の境界"
+,"kara no naka no kotori" : "殻の中の小鳥"
+,"kara no shoujo" : "殻ノ少女"
+,"karakai jouzu no takagi-san" : "からかい上手の高木さん"
+,"karakuri circus" : "からくりサーカス"
+,"kare kano" : "彼氏彼女の事情"
+,"kashimashi" : ["かしまし", "かしまし ～ガール・ミーツ・ガール～"]
+,"kasumin" : "カスミン"
+,"katanagatari" : "刀語"
+,"katawa shoujo" : "かたわ少女"
+,"katekyo hitman reborn" : "家庭教師ヒットマンREBORN!"
+,"katri girl of the meadows" : "牧場の少女カトリ"
+,"katsute mahou shoujo to aku wa tekitai shite ita." : "かつて魔法少女と悪は敵対していた。"
+,"kawaii dake ja nai shikimori-san" : "可愛いだけじゃない式守さん"
+,"kawaikereba hentai demo suki ni natte kuremasu ka" : "可愛ければ変態でも好きになってくれますか？"
+,"kawarazaki-ke no ichizoku" : "河原崎家の一族"
 ,"kaze no naka no shoujo kinpatsu no jeanie" : "風の中の少女 金髪のジェニー"
+,"keio flying squadron" : "慶応遊撃隊"
+,"kekkai sensen" : "血界戦線"
+,"kekkaishi" : "結界師"
+,"kekko kamen" : "けっこう仮面"
+,"kemeko deluxe" : "ケメコデラックス!"
+,"kemo coliseum" : "ケモコロシアム"
+,"kemono friends" : "けものフレンズ"
+,"kemono jihen" : "怪物事変"
+,"kemurikusa" : "ケムリクサ"
+,"kengan ashura" : "ケンガンアシュラ"
+,"kenja no mago" : "賢者の孫"
+,"kenkou zenrakei suieibu umishou" : "ケンコー全裸系水泳部 ウミショー"
+,"kenzen robo daimidaler" : "健全ロボ ダイミダラー"
+,"kero kero chime" : "ケロケロちゃいむ"
+,"keroro gunsou" : "ケロロ軍曹"
+,"key the metal idol" : "KEY THE METAL IDOL"
+,"kibou no chikara otona pretty cure 23" : "キボウノチカラ～オトナプリキュア'23～"
+,"kichiku megane" : "鬼畜眼鏡"
+,"kick-ass" : "キック・アス"
+,"kid icarus" : "パルテナの鏡"
+,"kiddy grade" : "キディ・グレイド"
+,"kikai sentai zenkaiger" : "機界戦隊ゼンカイジャー"
+,"kikaider" : "人造人間キカイダー"
+,"kiki kaikai" : "奇々怪々"
+,"kikis delivery service" : "魔女の宅急便"
+,"kill blue" : "キルアオ"
+,"kill la kill" : "キルラキル"
+,"kill me baby" : "キルミーベイベー"
+,"killing bites" : "キリングバイツ"
+,"killing stalking" : "Killing Stalking"
+,"kim possible" : "キム・ポッシブル"
+,"kimagure orange road" : "きまぐれオレンジロード"
+,"kimba the white lion" : "ジャングル大帝"
+,"kimetsu no yaiba" : "鬼滅の刃"
+,"kimi ga nozomu eien" : "君が望む永遠"
+,"kimi ni todoke" : "君に届け"
+,"kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo" : "君のことが大大大大大好きな100人の彼女"
+,"kimi no na wa." : "君の名は。"
+,"kimi no suizou o tabetai" : "君の膵臓をたべたい"
+,"kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen" : "キミと僕の最後の戦場、あるいは世界が始まる聖戦"
+,"kimi to idol precure" : "キミとアイドルプリキュア"
+,"kimi wa 008" : "君は008"
+,"kimi wa houkago insomnia" : "君は放課後インソムニア"
+,"kimi wa midara na boku no joou" : "君は淫らな僕の女王"
+,"kimikiss" : "キミキス"
+,"kindaichi shounen no jikenbo" : "金田一少年の事件簿"
+,"king of fighters" : "ザ・キング・オブ・ファイターズ"
+,"king of races" : "KING OF RACES"
+,"kingdom" : "キングダム"
+,"kingdom hearts" : "キングダム ハーツ"
+,"kings raid" : "キングスレイド"
+,"kin-iro loveriche" : "金色ラブリッチェ"
+,"kiniro mosaic" : "きんいろモザイク"
+,"kinnikuman" : "キン肉マン"
+,"kinnikuman lady" : "キン肉マンレディー"
+,"kino no tabi" : "キノの旅"
+,"kinsou no vermeil" : "金装のヴェルメイユ"
+,"kira kira" : "キラ☆キラ"
+,"kirakira precure a la mode" : "キラキラ☆プリキュアアラモード"
+,"kirara fantasia" : "きららファンタジア"
+,"kiratto pri chan" : "キラッとプリ チャン"
+,"kirby" : "星のカービィ"
+,"kisaku" : "鬼作"
+,"kisei juui suzune" : "寄性獣医・鈴音"
+,"kisetsu no hanayome" : "季節の花嫁"
+,"kishin douji zenki" : "鬼神童子ZENKI"
+,"kishiryu sentai ryusoulger" : "騎士竜戦隊リュウソウジャー"
+,"kishuku gakkou no juliet" : "寄宿学校のジュリエット"
+,"kiss x sis" : "kiss×sis"
+,"kite" : "A KITE"
+,"kiteretsu daihyakka" : "キテレツ大百科"
+,"kizuato" : "痕"
+,"kizuna striker" : "キズナストライカー！"
+,"klonoa" : "風のクロノア"
+,"knights and magic" : "ナイツ&マジック"
+,"knights college" : "Knights College"
+,"knights of ramune" : "VS騎士ラムネ"
+,"knights of sidonia" : "シドニアの騎士"
+,"kobayashi-san-chi no maid dragon" : "小林さんちのメイドラゴン"
+,"kochikame" : "こち亀"
+,"kodoku no gourmet" : "孤独のグルメ"
+,"kodomo no jikan" : "こどものじかん"
+,"kodomo no omocha" : "こどものおもちゃ"
+,"koe de oshigoto" : "こえでおしごと！"
+,"koe no katachi" : "聲の形"
+,"koi iro marriage" : "恋色マリアージュ"
+,"koi kaze" : "恋風"
+,"koi to senkyo to chocolate" : "恋と選挙とチョコレート"
+,"koi wa ameagari no you ni" : "恋は雨上がりのように"
+,"koi wa sekai seifuku no ato de" : "恋は世界征服のあとで"
+,"koihime musou" : "恋姫無双"
+,"koikatsu" : "コイカツ"
+,"koikishi purely kiss" : "恋騎士 Purely☆Kiss"
+,"koimoku" : "こいもく"
+,"kojin taxi" : "股人タクシー"
+,"ko-ko-ro" : "コ・コ・ロ…"
+,"kokoro connect" : "ココロコネクト"
+,"kokoro ga sakebitagatterunda." : "心が叫びたがってるんだ。"
+,"kokoro library" : "ココロ図書館"
+,"kokoro navi" : "こころナビ"
+,"kokuran" : "黒蘭"
+,"komi-san wa komyushou desu." : "古見さんは、コミュ症です。"
+,"komori-san wa kotowarenai" : "小森さんは断れない！"
+,"k-on" : "けいおん！"
+,"konbini shoujo z" : "コンビニ少女Z"
 ,"konchu ouja mushiking mori no tami no densetsu" : "甲虫王者ムシキング ～森の民の伝説"
+,"konjiki no gash" : "金色のガッシュ!!"
+,"kono bijutsubu ni wa mondai ga aru" : "この美術部には問題がある!"
+,"kono healer mendokusai" : "このヒーラー、めんどくさい"
+,"kono naka ni hitori imouto ga iru" : "この中に1人、妹がいる！"
+,"kono subarashii sekai ni syukufuku o" : "この素晴らしい世界に祝福を！"
 ,"kono yo no hate de koi wo utau shoujo yu-no" : "この世の果てで恋を唄う少女YU-NO"
+,"konohana kitan" : "このはな綺譚"
+,"koori zokusei danshi to cool na douryou joshi" : "氷属性男子とクールな同僚女子"
+,"kore wa zombie desu ka" : "これはゾンビですか?"
+,"kotetsu jeeg" : "鋼鉄ジーグ"
+,"koto no ha no niwa" : "言の葉の庭"
+,"kotoura-san" : "琴浦さん"
+,"kouchuu ouja mushiking" : "甲虫王者　ムシキング"
+,"koufuku graffiti" : "幸腹グラフィティ"
+,"koukou kyuuji zawa-san" : "高校球児ザワさん"
+,"kourin tenshi en ciel rena" : "光臨天使エンシェル・レナ"
+,"kouryuu densetsu villgust" : "甲竜伝説ヴィルガスト"
+,"kousoku card battle card hero" : "高速カードバトル カードヒーロー"
+,"koutarou makaritooru" : "コータローまかりとおる！"
+,"koutetsu no majo annerose" : "鋼鉄の魔女アンネローゼ"
+,"koutetsujou no kabaneri" : "甲鉄城のカバネリ"
+,"kouya no kotobuki hikoutai" : "荒野のコトブキ飛行隊"
+,"kouyoku senki exs-tia" : "光翼戦姫エクスティア"
+,"kowaku no toki" : "蠱惑の刻"
+,"kowloon youma gakuenki" : "九龍妖魔學園紀"
+,"kujibiki unbalance" : "くじびきアンバランス"
+,"kuma kuma kuma bear" : "くまクマ熊ベアー"
+,"kuma miko" : "くまみこ"
+,"kumo desu ga nani ka" : "蜘蛛ですが、なにか?"
+,"kumo no ito" : "蜘蛛の糸"
+,"ku-neru maruta" : "くーねるまるた"
+,"kung fu panda" : "カンフー・パンダ"
+,"kunoichi" : "Kunoichi -忍-"
+,"kunoichi tsubaki no mune no uchi" : "くノ一ツバキの胸の内"
+,"kuon no kizuna" : "久遠の絆"
+,"kurai mirai" : "クライミライ"
 ,"kurama-chan ni guitte shitara pishatte sareta" : "くらまちゃんにグイってしたらピシャってされた！"
+,"kurenai" : "紅"
+,"kurogane no linebarrels" : "鉄のラインバレル"
+,"kuroinu kedakaki seijo wa hakudaku ni somaru" : "黒獣 ～気高き聖女は白濁に染まる～"
+,"kuroiwa medaka ni watashi no kawaii ga tsuujinai" : "黒岩メダカに私の可愛いが通じない"
+,"kurokami" : "黒神"
+,"kuroko no basuke" : "黒子のバスケ"
+,"kuromajo-san ga tooru" : "黒魔女さんが通る!!"
+,"kuromukuro" : "クロムクロ"
+,"kurukuru rinne" : "くるくるりんね"
+,"kusarihime" : "腐り姫"
+,"kusuriya no hitorigoto" : "薬屋のひとりごと"
+,"kutsujoku" : "屈辱"
+,"kuttsukiboshi" : "くっつきぼし"
+,"kuzu no honkai" : "クズの本壊"
+,"kyo kara maoh" : "今日から㋮王!"
+,"kyojin no hoshi" : "巨人の星"
+,"kyokou suiri" : "虚構推理"
+,"kyonyuu fantasy" : "巨乳ファンタジー"
+,"kyonyuu majo" : "巨乳魔女"
+,"kyou no go no ni" : "今日の5の2"
+,"kyoukai no kanata" : "境界の彼方"
+,"kyoukai senjou no horizon" : "境界線上のホライゾン"
+,"kyouran kazoku nikki" : "狂乱家族日記"
+,"kyouryuu sentai zyuranger" : "恐竜戦隊ジュウレンジャー"
+,"kyouryuu wakusei" : "恐竜惑星"
+,"kyuujou lovers" : "球場ラヴァーズ"
+,"kyuuketsu senki vjedogonia" : "吸血殲鬼ヴェドゴニア"
+,"kyuuketsuki sugu shinu" : "吸血鬼すぐ死ぬ"
+,"kyuukyoku choujin r" : "究極超人あ～る"
+,"kyuukyoku hentai kamen" : "究極!!変態仮面"
+,"kyuukyoku shinka shita full dive rpg ga genjitsu yori mo kusogee dattara" : "究極進化したフルダイブRPGが現実よりもクソゲーだったら"
 ,"kyuukyuu sentai gogofive" : "救急戦隊ゴーゴーファイブ"
+,"kyuushu sentai danjija" : "急襲戦隊ダンジジャー"
+,"l no kisetsu" : "Lの季節 ～A piece of memories～"
+,"la blue girl" : "淫獣学園 La☆BlueGirl"
+,"la corda doro" : "金色のコルダ"
+,"la pucelle" : "ラ・ピュセル 光の聖女伝説"
+,"la seine no hoshi" : "ラ・セーヌの星"
+,"ladies versus butlers" : "れでぃ×ばと！"
+,"lagoon engine" : "ラグーンエンジン"
+,"lamento" : ["Lamento", "Lamento -BEYOND THE VOID-"]
+,"lamento beyond the void" : "Lamento -BEYOND THE VOID-"
+,"langrisser" : "ラングリッサー"
+,"lapis relights" : "ラピスリライツ ～この世界のアイドルは魔法が使える～"
+,"laputa castle in the sky" : "天空の城ラピュタ"
+,"last bronx" : ["ラストブロンクス", "ラストブロンクス -東京番外地-"]
+,"last exile" : "LAST EXILE"
+,"last inning" : "ラストイニング―私立彩珠学院高校野球部の逆襲"
+,"last origin" : "ラストオリジン"
+,"last period" : ["ラストピリオド", "ラストピリオド -終わりなき螺旋の物語-"]
 ,"leadale no daichi nite" : "リアデイルの大地にて"
+,"league of legends" : "リーグオブレジェンド"
+,"legend clover" : "れじぇくろ！ ～レジェンド・クローバー～"
+,"legend of lemnear" : "極黒の翼バルキサス"
+,"legend of lyon flare" : "リヨン伝説フレア"
+,"legend of queen opala" : "Legend Of Queen Opala"
+,"legendz" : "レジェンズ"
+,"lemon angel" : "レモンエンジジェル"
+,"les miserables shoujo cosette" : "レ・ミゼラブル 少女コゼット"
+,"letter bee" : "テガミバチ"
+,"library of ruina" : "Library Of Ruina"
+,"licca vignette" : "リカヴィネ"
+,"lightning warrior raidy" : "雷の戦士ライディ"
+,"lilim kiss" : "りりむキッス"
+,"lilo and stitch" : "リロ・アンド・スティッチ"
+,"limbus company" : "Limbus Company"
+,"little busters" : "リトルバスターズ!"
+,"little memole" : "とんがり帽子のメモル"
+,"little monica monogatari" : "リトルモニカ物語"
+,"little nightmares" : "LITTLE NIGHTMARES-リトルナイトメア-"
+,"little noah" : "リトル ノア 楽園の後継者"
+,"little red riding hood" : "赤ずきん"
+,"little twins sugu ni toriko ni shite ageru" : "りとる☆ついんず ～すぐにトリコにしてあげる♪～"
+,"little witch academia" : "リトルウィッチアカデミア"
+,"little witch nobeta" : "Little Witch Nobeta"
+,"little witch parfait" : "リトルウィッチ☆パルフェ"
+,"live a hero" : "ライブ・ア・ヒーロー！"
+,"live a live" : "ライブ・ア・ライブ"
+,"live on cardliver kakeru" : "ライブオン CARDLIVER 翔"
+,"lobotomy corporation" : "Lobotomy Corporation"
+,"lodoss-tou senki" : "ロードス島戦記"
+,"log horizon" : "ログ・ホライズン"
+,"lollipop chainsaw" : "ロリポップチェーンソー"
+,"long riders" : "ろんぐらいだぁす！"
+,"looney tunes" : "ルーニー・テューンズ"
+,"lord el-melloi ii sei no jikenbo" : "ロード・エルメロイII世の事件簿"
+,"lord of lords ryu knight" : "覇王大系リューナイト"
+,"lord of vermilion" : "ロード オブ ヴァーミリオン"
+,"lord of walkure" : "ロードオブワルキューレ"
+,"lost ark" : "LOST ARK"
+,"lost universe" : "ロストユニバース"
+,"lotte no omocha" : "ロッテのおもちゃ!"
+,"love cube" : "Love³ -ラヴキューブ-"
+,"love hina" : "ラブひな"
+,"love lab" : "恋愛ラボ"
+,"love live" : "ラブライブ！"
+,"love live hasunosora jogakuin school idol club" : "ラブライブ！蓮ノ空女学院スクールアイドルクラブ"
+,"love live nijigasaki high school idol club" : "ラブライブ！虹ヶ咲学園スクールアイドル同好会"
+,"love live sunshine" : "ラブライブ！サンシャイン！！"
+,"love live superstar" : "ラブライブ!スーパースター!!"
+,"love plus" : "ラブプラス"
+,"loveless" : "LOVELESS"
+,"lovely x cation" : "LOVELY×CATION"
+,"lover" : "LoveR"
+,"lovers koi ni ochitara..." : "LOVERS～恋に落ちたら…"
+,"love-yan" : "ラブやん"
+,"lucky dog 1" : "ラッキードッグ1"
+,"lucky star" : "らき☆すた"
+,"lucu lucu" : "るくるく"
+,"lucy of the southern rainbow" : "南の虹のルーシー"
+,"luminous arc" : "ルミナスアーク"
+,"lunar eternal blue" : "LUNARエターナルブルー"
+,"lunar silver star story" : "LUNAR ザ・シルバースター"
+,"lupin iii" : "ルパン三世"
+,"lust geass" : "ラストギアス"
+,"lv1 maou to one room yuusha" : "Lv1魔王とワンルーム勇者"
+,"lv2 kara cheat datta motoyuusha kouho no mattari isekai life" : "Lv2からチートだった元勇者候補のまったり異世界ライフ"
+,"lycoris recoil" : "リコリス・リコイル"
+,"m.u.g.e.n" : "M.U.G.E.N"
+,"m3gan" : "M3GAN ミーガン"
+,"ma ga ochiru yoru" : "魔が堕ちる夜"
+,"mabinogi" : "マビノギ"
+,"maburaho" : "まぶらほ"
+,"macademi wasshoi" : "まかでみ・WAっしょい！"
+,"mach breakers" : "マッハブレイカーズ"
+,"machikado mazoku" : "まちカドまぞく"
+,"machine maiden" : "Machine Maiden"
+,"machine robo" : "マシンロボ"
+,"machine robo rescue" : "出撃!マシンロボレスキュー"
+,"machine robo revenge of cronos" : "マシンロボ クロノスの大逆襲"
+,"machine-doll wa kizutsukanai" : "機巧少女は傷つかない"
+,"macross" : "マクロス"
+,"macross 7" : "マクロス7"
+,"macross delta" : "マクロスΔ"
+,"macross frontier" : "マクロスF"
+,"mad rat dead" : "MAD RAT DEAD"
+,"madan no ou to vanadis" : "魔弾の王と戦姫"
+,"made in abyss" : "メイドインアビス"
+,"madlax" : "MADLAX"
+,"madou king granzort" : "魔動王グランゾート"
+,"magi the labyrinth of magic" : "マギ"
+,"magic kaito" : "まじっく快斗"
+,"magic knight rayearth" : "魔法騎士レイアース"
+,"magic sword" : "マジックソード"
+,"magic the gathering" : "マジック:ザ・ギャザリング"
+,"magic woman m" : "魔法少女メルル"
+,"magical angel sweet mint" : "魔法のエンジェルスイートミント"
+,"magical antique" : "まじかるアンティーク"
+,"magical arms angel nana" : "魔法戦姫エンジェル☆ナナ"
+,"magical canan" : "SeptemCharm まじかるカナン"
+,"magical drop" : "マジカルドロップ"
+,"magical emi" : "魔法のスターマジカルエミ"
+,"magical halloween" : "マジカルハロウィン"
+,"magical kanan" : "まじかるカナン"
+,"magical suite prism nana" : "まじかるすいーと プリズム・ナナ"
+,"magical taruruuto-kun" : "まじかる☆タルるートくん"
+,"magicalo magical" : "マジカロマジカル"
+,"magicami" : "マジカミ"
+,"magna carta" : "マグナカルタ"
+,"magne robo ga-keen" : "マグネロボ ガ・キーン"
+,"mahjong fight girl" : "麻雀ファイトガール"
+,"mahjong monogatari" : "麻雀物語"
+,"mahjong soul" : "雀魂 -じゃんたま-"
+,"maho girls precure" : "魔法つかいプリキュア！"
+,"mahoraba" : "まほらば"
+,"mahoromatic" : "まほろまてぃっく"
+,"mahou no juujin foxy rena" : "魔法の獣人フォクシィ・レナ"
+,"mahou no kangofu magical nurse" : "魔法の看護婦マジカル・ナース"
+,"mahou no mako-chan" : "魔法のマコちゃん"
+,"mahou no yousei persia" : "魔法の妖精ペルシャ"
+,"mahou sensei negima" : "魔法先生ネギま！"
+,"mahou senshi sweet knights" : "魔法戦士スイートナイツ"
+,"mahou senshi symphonic knights" : "魔法戦士シンフォニックナイツ"
+,"mahou sentai magiranger" : "魔法戦隊マジレンジャー"
+,"mahou shoujo ai" : "魔法少女アイ"
+,"mahou shoujo celesphonia" : "魔法少女セレスフォニア"
+,"mahou shoujo ikusei keikaku" : "魔法少女育成計画"
+,"mahou shoujo lalabel" : "魔法少女ララベル"
+,"mahou shoujo lyrical nanoha" : "魔法少女リリカルなのは"
+,"mahou shoujo nante mouiidesukara." : "魔法少女なんてもういいですから。"
+,"mahou shoujo neko x" : "魔法少女猫X"
+,"mahou shoujo ni akogarete" : "魔法少女にあこがれて"
+,"mahou shoujo no majo saiban" : "魔法少女ノ魔女裁判"
+,"mahou shoujo sae" : "魔法少女沙枝"
+,"mahou shoujo tai arusu" : "魔法少女隊アルス"
+,"mahou shoujo tokushusen asuka" : "魔法少女特殊戦あすか"
+,"mahou tsukai chappy" : "魔法使いチャッピー"
+,"mahou tsukai no yoru" : "魔法使いの夜"
+,"mahou tsukai tai" : "魔法使いTai!"
+,"mahoujin guru guru" : "魔法陣グルグル"
+,"mahouka koukou no rettousei" : "魔法科高校の劣等生"
+,"mahoutsukai no yakusoku" : "魔法使いの約束"
+,"mahoutsukai no yome" : "魔法使いの嫁"
+,"mahoutsukai reimeiki" : "魔法使い黎明期"
+,"mai-hime" : "舞-HiME"
+,"mai-otome" : "舞-乙HiME"
+,"mairimashita iruma-kun" : "魔入りました!入間くん"
+,"maison ikkoku" : "めぞん一刻"
+,"maitetsu" : "まいてつ"
+,"majestic prince" : ["マジェスティックプリンス", "銀河機攻隊 マジェスティックプリンス"]
+,"maji de watashi ni koi shinasai" : "真剣で私に恋しなさい！"
+,"majin bone" : "マジンボーン"
+,"majin tantei nougami neuro" : "魔人探偵脳噛ネウロ"
+,"majo no tabitabi" : "魔女の旅々"
+,"majo to hyakkihei" : "魔女と百騎兵"
+,"majokko a la mode" : "魔女っ娘ア・ラ・モード"
+,"majokko megu-chan" : "魔女っ子メグちゃん"
+,"major" : "MAJOR"
+,"makai kingdom" : "ファントム・キングダム"
+,"makai kishi ingrid" : "魔界騎士イングリッド"
+,"makai tenshi jibril" : "魔界天使ジブリール"
+,"make heroine ga oosugiru" : "負けヒロインが多すぎる！"
+,"maken-ki" : "マケン姫っ!"
+,"mama is a 4th grader" : "ママは小学4年生"
+,"mamatoto" : "ママトト"
+,"mamono musume zukan" : "魔物娘図鑑"
+,"mamoru-kun" : "まもるくん"
+,"mamoru-kun ni megami no shukufuku wo" : "護くんに女神の祝福を！"
+,"mamoru-kun wa norowarete shimatta" : "まもるクンは呪われてしまった!"
+,"mamotte shugogetten" : "まもって守護月天！"
+,"manabi straight" : ["まなびストレート!", "がくえんゆーとぴあ まなびストレート!"]
+,"manaria friends" : "マナリアフレンズ"
+,"manatsu no yo no inmu" : "真夏の夜の淫夢"
+,"manga science" : "まんがサイエンス"
+,"mantradeva" : "Mantradeva"
+,"manyuu hikenchou" : "魔乳秘剣帖"
+,"mao mao heroes of pure heart" : "マオマオ ピュアハートのヒーロー"
+,"maou gakuin no futekigousha" : ["魔王学院の不適合者", "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～"]
+,"maou no ore ga dorei elf o yome ni shitanda ga dou medereba ii" : "魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？"
+,"maou to ore no hangyakuki" : "魔王と俺の叛逆記"
+,"maoujou de oyasumi" : "魔王城でおやすみ"
+,"maoyuu maou yuusha" : "まおゆう魔王勇者"
+,"maple colors" : "Maple Colors"
+,"maple town monogatari" : "メイプルタウン物語"
+,"maplestory" : "メイプルストーリー"
+,"maps" : "マップス"
+,"mar" : "MÄR - Märchen Awakens Romance"
+,"marchen maze" : "メルヘンメイズ"
+,"maria holic" : "まりあ†ほりっく"
+,"maria-sama ga miteru" : "マリア様がみてる"
+,"marine a go go" : "Marine A Go Go"
+,"maritsu loli succubus youmaen" : "魔立ロリサキュバス妖魔園"
+,"marmalade boy" : "ママレード・ボーイ"
+,"mars daybreak" : ["マーズ・デイブレイク", "絢爛舞踏祭 ザ・マーズ・デイブレイク"]
+,"martial champion" : "マーシャルチャンピオン"
+,"martian successor nadesico" : "機動戦艦ナデシコ"
+,"marvel disk wars the avengers" : "ディスク・ウォーズ:アベンジャーズ"
+,"marvel vs capcom" : "MARVEL vs. CAPCOM"
+,"marvelous melmo" : "ふしぎなメルモ"
+,"masamune-kun no revenge" : "政宗くんのリベンジ"
+,"mashin hero wataru" : "魔神英雄伝ワタル"
+,"mashin sentai kiramager" : "魔進戦隊キラメイジャー"
+,"mashiro iro symphony" : "ましろ色シンフォニー"
+,"mashle" : "マッシュル"
+,"masou gakuen hxh" : "魔装学園H×H"
+,"mass effect" : "Mass Effect"
+,"master of epic" : ["Master of Epic", "Master of Epic -The ResonanceAge Universe-"]
+,"matai toshi" : "魔胎都市"
+,"matantei loki ragnarok" : "魔探偵ロキ"
+,"mato seihei no slave" : "魔都精兵のスレイブ"
+,"matou kitan zankan" : "魔討綺譚 ZANKAN！"
+,"mawaru penguindrum" : "輪るピングドラム"
+,"maximum ride" : "マキシマム・ライド"
+,"mayo chiki" : "まよチキ!"
+,"mayoi neko overrun" : "迷い猫オーバーラン!"
+,"mayonaka no tantei nightwalker" : "Night Walker -真夜中の探偵-"
+,"mazinger z" : "マジンガーZ"
+,"mecha mote" : "極上！！めちゃモテ委員長"
+,"medabots" : "メダロット"
+,"medaka box" : "めだかボックス"
+,"medalist" : "メダリスト"
+,"mega man legends" : "ロックマンDASH 鋼の冒険心"
+,"mega man star force" : "流星のロックマン"
+,"mega man x" : "ロックマンX"
+,"megaman" : "ロックマン"
+,"megaman battle network" : "ロックマンエグゼ"
+,"megaman zero" : "ロックマン ゼロ"
+,"megaman zx" : "ロックマンゼクス"
+,"megami device" : "メガミデバイス"
+,"megami no cafe terrace" : "女神のカフェテラス"
+,"megami paradise" : "女神天国"
+,"megazone 23" : "メガゾーン23"
+,"megido 72" : "メギド72"
+,"meiji tokyo renka" : "明治東亰恋伽"
+,"meikyuu black company" : "迷宮ブラックカンパニー"
+,"mekakucity actors" : "メカクシティアクターズ"
+,"meltys quest" : "メルティス・クエスト"
+,"memories off" : "Memories Off"
+,"men in black" : "メン・イン・ブラック"
+,"merc storia" : ["メルクストーリア", "メルクストーリア - 癒術士と鐘の音色 -"]
+,"mermaid melody pichi pichi pitch" : "マーメイドメロディーぴちぴちピッチ"
+,"metal armor dragonar" : "機甲戦記ドラグナー"
+,"metal fighter miku" : "メタルファイター・MIKU"
+,"metal gear solid" : "メタルギアソリッド"
+,"metal max" : "メタルマックス"
+,"metal saga" : "メタルサーガ ～砂塵の鎖～"
+,"metal slug" : "メタルスラッグ"
+,"metaphor refantazio" : "メタファー:リファンタジオ"
+,"metroid" : "メトロイド"
+,"mewkledreamy" : "ミュークルドリーミー"
+,"midnight girls" : "ミッドナイトガールズ"
+,"midnight panther" : "ミッドナイトパンサー"
+,"midori no hibi" : "美鳥の日々"
+,"midori no makibao" : "みどりのマキバオー"
+,"mieruko-chan" : "見える子ちゃん"
+,"mika ni harassment" : "みかにハラスメント"
+,"mikakunin de shinkoukei" : "未確認で進行形"
+,"milky season" : "Milky Season"
+,"mimi wo sumaseba" : "耳をすませば"
+,"minami-ke" : "みなみけ"
+,"minecraft" : "マインクラフト"
+,"minky momo" : "魔法のプリンセス ミンキーモモ"
+,"miracle giants dome-kun" : "ミラクルジャイアンツ童夢くん"
+,"miracle girl limit-chan" : "ミラクル少女リミットちゃん"
+,"miracle girls" : "ミラクル☆ガールズ"
+,"miraculous ladybug" : ["ミラキュラス レディバグ", "ミラキュラス レディバグ&シャノワール"]
+,"mirai nikki" : "未来日記"
+,"mirai sentai timeranger" : "未来戦隊タイムレンジャー"
+,"mirmo de pon" : "ミルモでポン!"
+,"miru tights" : "みるタイツ"
+,"miside" : "MiSide -ミサイド-"
+,"miss machiko" : "まいっちんぐマチコ先生"
+,"mister ajikko" : "ミスター味っ子"
+,"misty moon metropolis" : "朧月都市"
+,"mitsuboshi colors" : "三ツ星カラーズ"
+,"mitsudomoe" : "みつどもえ"
+,"miyuki" : "みゆき"
+,"mizuiro" : "みずいろ"
+,"mizuiro jidai" : "水色時代"
+,"mm" : "えむえむっ!"
+,"mob psycho 100" : "モブサイコ100"
+,"mobile legends bang bang" : "モバイル・レジェンド： Bang Bang"
+,"mobile suit gundam" : "機動戦士ガンダム"
+,"mobile suit gundam gquuuuuux" : "機動戦士Gundam GQuuuuuuX"
+,"mobile suit gundam hathaways flash" : "機動戦士ガンダム 閃光のハサウェイ"
+,"mobile suit gundam lost war chronicles" : "機動戦士ガンダム戦記 Lost War Chronicles"
+,"mobile suit gundam tekketsu no orphans" : "機動戦士ガンダム 鉄血のオルフェンズ"
+,"mobile suit gundam the 08th ms team" : "機動戦士ガンダム 第08MS小隊"
+,"mobile suit gundam the witch from mercury" : "機動戦士ガンダム 水星の魔女"
+,"moekan" : "モエかん"
+,"moero robocon" : "燃えろ!!ロボコン"
+,"moetan" : "もえたん"
+,"mokke" : "もっけ"
+,"moldiver" : "モルダイバー"
+,"momo kyun sword" : "モモキュンソード"
+,"momotarou densetsu" : "桃太郎伝説"
+,"mon colle knights" : "六門天外モンコレナイト"
+,"mondaiji-tachi ga isekai kara kuru sou desu yo" : "問題児たちが異世界から来るそうですよ？"
+,"monobeno" : "ものべの"
+,"mononoke" : "モノノ怪"
+,"monster collection" : "モンスター・コレクション"
+,"monster girl quest" : "もんむす・くえすと!"
+,"monster hunter" : "モンスターハンター"
+,"monster musume no iru nichijou" : "モンスター娘のいる日常"
+,"monster park" : "Monster Park"
+,"monster prom" : "Monster Prom"
+,"monster rancher" : "モンスターファーム"
+,"monster retsuden oreca battle" : "モンスター烈伝 オレカバトル"
+,"monster strike" : "モンスターストライク"
+,"monster super league" : "モンスタースーパーリーグ"
+,"monsters inc." : "モンスターズ・インク"
+,"monsuno" : "獣旋バトル モンスーノ"
+,"moomintroll" : "ムーミントロール"
+,"moonlight lady" : "顔のない月"
+,"morenatsu" : "漏れなつ。"
+,"mortal kombat" : "モータルコンバット"
+,"moshidora" : ["もしドラ", "もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら"]
+,"mother 3" : "MOTHER 3"
+,"mount celeb kaneda-san" : "マウントセレブ金田さん"
+,"mouretsu pirates" : "モーレツ宇宙海賊"
+,"mousou kagaku series wandaba style" : "妄想科学シリーズ ワンダバスタイル"
+,"mouthwashing" : "Mouthwashing"
+,"moyashimon" : "もやしもん"
+,"muchi muchi pork" : "むちむちポーク！"
+,"mugen senshi valis" : "夢幻戦士ヴァリス"
+,"muhyo to rouji no mahouritsu soudan jimusho" : "ムヒョとロージーの魔法律相談事務所"
+,"mujaki no rakuen" : "無邪気の楽園"
+,"muka muka paradise" : "ムカムカパラダイス"
+,"mulan" : "ムーラン"
+,"munou na nana" : "無能なナナ"
+,"murder drones" : "マーダー・ドローンズ"
+,"murenase seton gakuen" : "群れなせ! シートン学園"
+,"mushibugyo" : "ムシブギョー"
+,"mushihime-sama" : "虫姫さま"
+,"mushishi" : "蟲師"
+,"mushoku tensei" : "無職転生"
+,"muteki koujin daitarn 3" : "無敵鋼人ダイターン3"
+,"muten no kaito" : "武天のカイト"
+,"muv-luv" : "マブラヴ"
+,"muv-luv alternative total eclipse" : "マブラヴ オルタネイティヴ トータル・イクリプス"
+,"mx0" : "エム×ゼロ"
+,"my hero academia" : "僕のヒーローアカデミア"
+,"my life as a teenage robot" : "ジェニーはティーン☆ロボット"
+,"my little pony friendship is magic" : "マイリトルポニー ～トモダチは魔法～"
+,"my neighbor totoro" : "となりのトトロ"
+,"my sweet umadonna boku wa kimi no uma" : "My sweet ウマドンナ ～僕は君のウマ"
+,"myo-chan sensei wa kaku katariki" : "みょーちゃん先生はかく語りき"
+,"myriad colors phantom world" : "無彩限のファントム・ワールド"
+,"mystery flesh pit national park" : "Mystery Flesh Pit National Park"
+,"nagasarete airantou" : "ながされて藍蘭島"
+,"nagi no asukara" : "凪のあすから"
+,"najica blitz tactics" : "ナジカ電撃作戦"
+,"nami sos first battle" : "奈美SOS! ファースト・バトル"
+,"namiuchigiwa no muromi-san" : "波打際のむろみさん"
+,"nana to kaoru" : "ナナとカオル"
+,"nanabun no nijyuuni" : "22/7(ナナブンノニジュウニ)"
+,"nanaka 6-17" : "ななか6/17"
+,"nanako sos" : "ななこSOS"
+,"nanami to konomi no oshiete a-b-c" : "ななみとこのみのおしえてA・B・C"
+,"nanatsu no fushigi no owaru toki" : "七つのふしぎの終わるとき"
+,"nanatsu no taizai" : "七つの大罪"
+,"nanatsuiro drops" : "ななついろ★ドロップス"
+,"nande koko ni sensei ga" : "なんでここに先生が！？"
+,"nangoku shounen papuwa-kun" : "南国少年パプワくん"
+,"nano core" : "nanocore"
+,"narue no sekai" : "成恵の世界"
+,"narutaru" : "なるたる"
+,"naruto" : "NARUTO"
+,"natsu no ame" : "夏ノ雨"
+,"natsu no kumo" : "ナツノクモ"
 ,"natsuiro high school seishun hakusho" : "夏色ハイスクル★青春白書"
+,"natsuiro kiseki" : "夏色キセキ"
+,"natsumes book of friends" : "夏目友人帳"
+,"natsuyuki rendezvous" : "夏雪ランデブー"
+,"natural mi mo kokoro mo" : "Natural -身も心も-"
+,"nausicaa of the valley of the wind" : "風の谷のナウシカ"
+,"nazo no kanojo x" : "謎の彼女X"
+,"nee chanto shiyou yo" : "姉、ちゃんとしようよっ！"
+,"nee summer" : "姉SUMMER!"
+,"needless" : "NEEDLESS"
+,"needy streamer overload" : "NEEDY GIRL OVERDOSE"
+,"nejimaki kagyuu" : "ねじまきカギュー"
 ,"nejimaki seirei senki tenkyou no alderamin" : "ねじ巻き精霊戦記 天鏡のアルデラミン"
+,"nekketsu saikyou go-saurer" : "熱血最強ゴウザウラー"
+,"neko musume michikusa nikki" : "ねこむすめ道草日記"
+,"neko no otera no chion-san" : "猫のお寺の知恩さん"
+,"neko to wakai seyo" : "ネコと女子寮せよ"
+,"nekojishi" : "家有大猫 Nekojishi"
+,"nekopara" : "ネコぱら"
+,"nelke to densetsu no renkinjutsushi-tachi" : "ネルケと伝説の錬金術士たち"
+,"neo ranga" : "南海奇皇ネオランガ"
+,"neo steam" : "ネオスチーム"
+,"neon genesis evangelion" : "新世紀エヴァンゲリオン"
+,"net ghost pipopa" : "ネットゴーストPIPOPA"
+,"netoge no yome wa onnanoko ja nai to omotta" : "ネトゲの嫁は女の子じゃないと思った?"
+,"nettou bemani stadium" : "熱闘！BEMANIスタジアム"
+,"new game" : "NEW GAME!"
+,"new horizon" : "NEW HORIZON"
+,"ng knight lamune and 40" : "NG騎士ラムネ&40"
+,"nichijou" : "日常"
+,"nier" : "NieR"
+,"nier automata" : "NieR：Automata"
+,"nige jouzu no wakagimi" : "逃げ上手の若君"
+,"night shift nurses" : "夜勤病棟"
+,"night wizard" : "ナイトウィザード"
+,"nijisanji" : "にじさんじ"
+,"nijiura maids" : "虹裏メイド"
+,"nikujo no susume" : "肉女のススメ"
+,"ninja gaiden" : "忍者龍剣伝"
+,"ninja sentai kakuranger" : "忍者戦隊カクレンジャー"
+,"ninja slayer" : "ニンジャスレイヤー"
+,"ninpuu sentai hurricaneger" : "忍風戦隊ハリケンジャー"
+,"nintama rantarou" : "忍たま乱太郎"
+,"nisekoi" : "ニセコイ"
+,"nishikida keibu wa dorobou ga osuki" : "錦田警部はどろぼうがお好き"
+,"no game no life" : "ノーゲーム・ノーライフ"
+,"no more heroes" : "ノーモア★ヒーローズ"
+,"no. 6" : "NO.6"
+,"no.1 sentai gozyuger" : "ナンバーワン戦隊ゴジュウジャー"
+,"nobunaga no shinobi" : "信長の忍び"
+,"nodame cantabile" : "のだめカンタービレ"
+,"noein" : "ノエイン もうひとりの君へ"
+,"nogizaka haruka no himitsu" : "乃木坂春香の秘密"
+,"noir" : "NOIR"
+,"non non biyori" : "のんのんびより"
+,"nonomura byouin no hitobito" : "野々村病院の人々"
+,"nora to toki no koubou kiri no mori no majo" : "ノーラと刻の工房 霧の森の魔女"
+,"noragami" : "ノラガミ"
+,"no-rin" : "のうりん"
+,"nu carnival" : "NU：カーニバル"
+,"nue no onmyouji" : "鵺の陰陽師"
+,"nurarihyon no mago" : "ぬらりひょんの孫"
+,"nurse angel ririka sos" : "ナースエンジェルりりかSOS"
+,"nurse witch komugi" : "ナースウィッチ小麦ちゃん"
+,"nyan koi" : "にゃんこい!"
+,"nyanda kamen" : "ニャニがニャンだー ニャンダーかめん"
+,"nyanko daisensou" : "にゃんこ大戦争"
 ,"obey me one master to rule them all" : "Obey Me!"
+,"obi wo gyuttone" : "帯をギュッとね!"
+,"oboro muramasa" : "朧村正"
+,"occult academy" : "世紀末オカルト学院"
+,"occultic nine" : "Occultic;Nine -オカルティック・ナイン-"
+,"ochame na futago" : "おちゃめなふたご"
+,"ochamegami monogatari korokoro pollon" : "おちゃめ神物語コロコロポロン"
+,"ochikobore fruit tart" : "おちこぼれフルーツタルト"
+,"octopath traveler" : "OCTOPATH TRAVELER"
+,"oda nobuna no yabou" : "織田信奈の野望"
+,"odd taxi" : "オッドタクシー"
+,"odin sphere" : "オーディンスフィア"
+,"odoru daisousasen" : "踊る大捜査線"
+,"ohsama sentai king-ohger" : "王様戦隊キングオージャー"
+,"oide yo mizuryuu kei land" : "おいでよ！水龍敬ランド"
+,"oira uchuu no tankoufu" : "おいら宇宙の探鉱夫"
+,"ojamajo doremi" : "おジャ魔女どれみ"
+,"ojisan to marshmallow" : "おじさんとマシュマロ"
+,"ok k.o. lets be heroes" : "OK K.O.! めざせヒーロー"
+,"okami" : "大神"
 ,"okhotsk ni kiyu hokkaido rensa satsujin jiken" : "北海道連鎖殺人 オホーツクに消ゆ"
+,"okujou no yurirei-san" : "屋上の百合霊さん"
+,"okusama ga seito kaichou" : "おくさまが生徒会長！"
+,"oku-sama wa joshi kousei" : "おくさまは女子高生"
+,"okusama wa mahou shoujo" : "奥さまは魔法少女"
+,"okusan" : "おくさん"
+,"ole tower" : "俺タワー"
+,"omae umasou da na" : "おまえうまそうだな"
+,"omae wo otaku ni shiteyaru kara ore wo riaju ni shite kure" : "おまえをオタクにしてやるから、俺をリア充にしてくれ！"
+,"omaera zenin mendokusai" : "お前ら全員めんどくさい!"
+,"omakase peace denkiten" : "おまかせ! ピース電器店"
+,"omamori himari" : "おまもりひまり"
+,"omishi magical theater risky safety" : "臣士魔法劇場 リスキー☆セフティ"
+,"omniscient readers viewpoint" : "Omniscient Reader's Viewpoint"
 ,"omoide no marnie" : "思い出のマーニー"
+,"omoikkiri kagaku adventure sou nanda" : "おもいっきり科学アドベンチャー そーなんだ!"
+,"omori" : "OMORI"
+,"one kagayaku kisetsu e" : "ONE ～輝く季節へ～"
+,"one piece" : "ONE PIECE"
+,"one punch man" : "ワンパンマン"
+,"one room hiatari futsuu tenshi-tsuki" : "ワンルーム、日当たり普通、天使つき。"
+,"one week friends" : "一週間フレンズ。"
+,"onegai my melody" : "おねがいマイメロディ"
+,"onegai teacher" : "おねがいティーチャー"
+,"onegai twins" : "おねがい☆ツインズ"
+,"oneshot" : "OneShot"
+,"ongeki" : "オンゲキ"
+,"oni chichi" : "鬼父"
+,"onidere" : "オニデレ"
+,"onigokko" : "鬼ごっこ！"
+,"onihime vs" : "鬼姫VS"
+,"onii-chan asa made zutto gyutte shite yoru made motto ecchi shite" : "お兄ちゃん、朝までずっとギュッてして！夜までもっとエッチして！"
+,"onii-chan dakedo ai sae areba kankeinai yo ne" : "お兄ちゃんだけど愛さえあれば関係ないよねっ"
+,"oniichan no koto nanka zenzen suki janain dakara ne" : "お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!"
+,"onii-chan wa oshimai" : "お兄ちゃんはおしまい！"
+,"onimusha" : "鬼武者"
+,"onmyoji" : "陰陽師"
+,"onmyou taisenki" : "陰陽大戦記"
+,"ookami kodomo no ame to yuki" : "おおかみこどもの雨と雪"
+,"ookami-san to shichinin no nakama-tachi" : "オオカミさんと七人の仲間たち"
+,"ookii onnanoko wa suki desu ka" : "大きい女の子は好きですか"
+,"ookiku furikabutte" : "おおきく振りかぶって"
+,"ooyasan wa shishunki" : "大家さんは思春期!"
+,"ore ga suki nano wa imouto dakedo imouto ja nai" : "俺が好きなのは妹だけど妹じゃない"
+,"ore monogatari" : "俺物語!!"
+,"ore no imouto ga konna ni kawaii wake ga nai" : "俺の妹がこんなに可愛いわけがない"
+,"ore no kanojo to osananajimi ga shuraba sugiru" : "俺の彼女と幼なじみが修羅場すぎる"
+,"ore no natsuyasumi" : "おれのなつやすみ"
+,"ore no nounai sentakushi ga gakuen love comedy wo zenryoku de jama shiteiru" : "俺の脳内選択肢が、学園ラブコメを全力で邪魔している"
+,"ore no shikabane wo koeteyuke" : "俺の屍を越えてゆけ"
+,"ore o suki nano wa omae dake kayo" : "俺を好きなのはお前だけかよ"
+,"ore twintail ni narimasu." : "俺、ツインテールになります。"
+,"ore wa lolicon ja nai" : "俺はロリコンじゃない！"
+,"oretachi ni tsubasa wa nai" : "俺たちに翼はない"
+,"ori and the blind forest" : "オリとくらやみの森"
+,"original" : "オリジナル"
+,"osana najimi wa bed yakuza" : "幼なじみはベッドヤクザ!"
+,"osananajimi ga zettai ni makenai love comedy" : "幼なじみが絶対に負けないラブコメ"
+,"osawari island" : "大冒険！ゆけゆけ☆おさわりアイランド"
+,"oshi ga budoukan ittekuretara shinu" : "推しが武道館いってくれたら死ぬ"
+,"oshi no ko" : "推しの子"
+,"oshiete galko-chan" : "おしえて! ギャル子ちゃん"
+,"oshioki sweetie" : "オシオキSweetie"
+,"oshiro project" : "御城プロジェクト"
+,"osomatsu-san" : "おそ松さん"
+,"os-tan" : "OSたん"
+,"otaku no video" : "おたくのビデオ"
+,"otogi-jushi akazukin" : "おとぎ銃士 赤ずきん"
+,"otokonoko wa maid fuku ga osuki" : "オトコのコはメイド服がお好き！？"
+,"otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta..." : "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった …"
+,"otome game sekai wa mob ni kibishii sekai desu" : "乙女ゲー世界はモブに厳しい世界です"
+,"otome wa boku ni koishiteru" : "処女はお姉さまに恋してる"
+,"otome youkai zakuro" : "おとめ妖怪 ざくろ"
+,"otomedius" : "オトメディウス"
+,"otonari no tenshi-sama ni itsunomanika dame ningen ni sareteita ken" : "お隣の天使様にいつの間にか駄目人間にされていた件"
+,"otoyomegatari" : "乙嫁語り"
+,"ouchi ni kaeru made ga mashimaro desu" : "お家に帰るまでがましまろです"
+,"ouendan" : "押忍!闘え!応援団"
+,"oumagadoki zoo" : "逢魔ヶ刻動物園"
+,"ouran high school host club" : "桜蘭高校ホスト部"
+,"ousama ranking" : "王様ランキング"
+,"outbreak company" : "アウトブレイク・カンパニー 萌える侵略者"
+,"outer zone" : "アウターゾーン"
+,"outlanders" : "アウトランダーズ"
+,"outlaw star" : "星方武侠アウトロースター"
+,"overlord" : "オーバーロード"
+,"overman king gainer" : "OVERMANキングゲイナー"
+,"overwatch" : "オーバーウォッチ"
+,"owari no seraph" : "終わりのセラフ"
+,"oyakodon oppai tokumori bonyuu tsuyudaku de" : "母娘丼 おっぱい特盛母乳汁だくで"
+,"p2 lets play pingpong" : "P2! - let's Play Pingpong!"
+,"pachique next" : "CRAパチクエネクスト"
+,"pacific rim" : "パシフィック・リム"
+,"pac-man" : "PAC-MAN"
+,"paladins" : "PALADINS"
+,"palworld" : "パルワールド"
+,"panda kopanda" : "パンダコパンダ"
+,"pandemonium majutsushi no mura" : "パンデモニウム ―魔術師の村―"
+,"pandora hearts" : "PandoraHearts"
+,"panel de pon" : "パネルでポン"
+,"pangya" : "スカッとゴルフ パンヤ"
+,"pani poni dash" : "ぱにぽにだっしゅ！"
+,"panty and stocking with garterbelt" : "パンティ&ストッキングwithガーターベルト"
+,"panzer world galient" : "機甲界ガリアン"
+,"papa no iu koto wo kikinasai" : "パパのいうことを聞きなさい!"
+,"parallel paradise" : "パラレルパラダイス"
 ,"paranormasight the seven mysteries of honjo" : "パラノマサイト FILE23 本所七不思議"
+,"parasite eve" : "パラサイト・イヴ"
+,"parasyte" : "寄生獣"
+,"paripi koumei" : "パリピ孔明"
+,"pastel chime" : "ぱすてるチャイム"
+,"pastel chime continue" : "ぱすてるチャイムContinue"
+,"pastel yumi" : "魔法のアイドルパステルユーミ"
+,"patlabor" : "パトレーバー"
+,"paw patrol" : "パウパトロール"
+,"peace hame" : "ピスはめっ！"
+,"penguin highway" : "ペンギン・ハイウェイ"
+,"perman" : "パーマン"
+,"persona" : "ペルソナ"
+,"persona 2" : "ペルソナ2 罪"
+,"persona 3" : "ペルソナ3"
+,"persona 4" : "ペルソナ4"
+,"persona 5" : "ペルソナ5"
+,"persona q" : ["ペルソナQ", "ペルソナQ シャドウ オブ ザ ラビリンス"]
+,"peter pan" : "ピーターパン"
+,"petite princess yucie" : "ぷちぷり＊ユーシィ"
+,"petopeto-san" : "ぺとぺとさん"
+,"phantasy star" : "ファンタシースター"
+,"phantasy star online" : "ファンタシースターオンライン"
+,"phantasy star online 2" : "ファンタシースターオンライン2"
+,"phantasy star portable" : "ファンタシースターポータブル"
+,"phantasy star portable 2" : "ファンタシースターポータブル2"
+,"phantasy star universe" : "ファンタシースターユニバース"
+,"phantom brave" : "ファントム・ブレイブ"
+,"phantom of inferno" : "Phantom -PHANTOM OF INFERNO-"
+,"phantom of the kill" : "ファントム オブ キル"
+,"phelios" : "フェリオス"
+,"phi brain puzzle of god" : "ファイ・ブレイン 神のパズル"
+,"phineas and ferb" : "フィニアスとファーブ"
+,"photo kano" : "フォトカノ"
+,"photon" : "フォトン"
+,"pia carrot e youkoso" : "Piaキャロットへようこそ!!"
+,"pia carrot e youkoso 2" : "Piaキャロットへようこそ!!2"
+,"pia carrot e youkoso 3" : "Piaキャロットへようこそ!!3"
+,"pieces" : "PIECES"
+,"pigeon blood" : "PIGEON BLOOD"
+,"pikmin" : "ピクミン"
+,"pinkerton" : "PINKERTON"
+,"pinocchio" : "ピノキオ"
+,"pita ten" : "ぴたテン"
+,"planet of the apes" : "猿の惑星"
+,"planet with" : "プラネット・ウィズ"
+,"planetes" : "プラネテス"
+,"plants vs. zombies" : "PLANTS VS. ZOMBIES"
+,"plastic little" : "プラスチックリトル"
+,"plastic memories" : "プラスティック・メモリーズ"
+,"plawres sanshiro" : "プラレス3四郎"
+,"playerunknowns battlegrounds" : "PUBG"
+,"pokemon" : "ポケモン"
+,"pokonyan" : "ポコニャン"
+,"pon no michi" : "ぽんのみち"
+,"ponkotsu quest" : "ポンコツクエスト～魔王と派遣の魔物たち～"
+,"ponyo" : "ぽにょ"
+,"pop team epic" : "ポプテピピック"
+,"popful mail" : "ぽっぷるメイル"
+,"popn music" : "pop'n music"
+,"popolocrois" : ["ポポロクロイス物語", "PoPoLoCrois"]
+,"popotan" : "ぽぽたん"
+,"poppy playtime" : "Poppy Playtime"
+,"pop-up story" : "ポップアップストーリー～魔法の本と聖樹の学園～"
+,"porco rosso" : "紅の豚"
+,"portal" : "PORTAL"
+,"power instinct" : "豪血寺一族"
+,"power pack" : "POWER PACK"
+,"power pro kun pocket" : "パワプロクンポケット"
+,"power rangers" : "パワーレンジャー"
+,"power stone" : "パワーストーン"
+,"powerpuff girls z" : "出ましたっ!パワパフガールズZ"
+,"pp -pianissimo- ayatsuri ningyou no rinbu" : "PP -ピアニッシモ- 操リ人形ノ輪舞"
+,"predator" : "プレデター"
+,"pretty cure" : "プリキュア"
+,"pretty face" : "プリティフェイス"
+,"pretty rhythm" : "プリティーリズム"
+,"pretty sammy" : "魔法少女プリティサミー"
+,"primal x hearts" : "PRIMAL×HEARTS"
+,"prince of tennis" : "テニスの王子様"
+,"princess connect" : "プリンセスコネクト！"
+,"princess crown" : "プリンセスクラウン"
+,"princess evangile" : "Princess Evangile 〜プリンセスエヴァンジール〜"
+,"princess holiday" : "Princess Holiday 〜転がるりんご亭千夜一夜〜"
+,"princess knight" : "リボンの騎士"
+,"princess lover" : "プリンセスラバー！"
+,"princess maker" : "プリンセスメーカー"
+,"princess mononoke" : "もののけ姫"
+,"princess nine" : "プリンセスナイン 如月女子高野球部"
+,"princess princess" : "Princess×Princess"
+,"princess principal" : "プリンセス・プリンシパル"
+,"princess resurrection" : "怪物王女"
+,"princess sarah" : "小公女セーラ"
+,"princess tears" : "プリンセスティアーズ"
+,"princess tutu" : "プリンセスチュチュ"
+,"pripara" : "プリパラ"
+,"pripri chi-chan" : "プリプリちぃちゃん!!"
+,"prism ark" : "PRISM ARK"
+,"prison school" : "監獄学園"
+,"private garden" : "PRIVATE GARDEN"
+,"professor layton" : "レイトン教授"
+,"project a-ko" : "プロジェクトA子"
+,"project kv" : "プロジェクトKV"
+,"project sekai" : "プロジェクトセカイ"
+,"promare" : "プロメア"
+,"prostudent g" : "ぷろすちゅーでんとG"
+,"prunus girl" : "プラナス・ガール"
+,"psychic force" : "サイキックフォース"
+,"psycho soldier" : "サイコソルジャー"
+,"psycho-pass" : "PSYCHO-PASS"
+,"psyren" : "PSYREN -サイレン-"
+,"puella magi madoka magica" : "魔法少女まどか マギカ"
+,"puella magi madoka magica side story magia record" : "マギアレコード 魔法少女まどか マギカ外伝"
+,"puella magi suzune magica" : "魔法少女すずね☆マギカ"
+,"pu-li-ru-la" : "Pu・Li・Ru・La"
+,"pumpkin scissors" : "パンプキン・シザーズ"
+,"punch-out" : "パンチアウト!!"
+,"puniru wa kawaii slime" : "ぷにるはかわいいスライム"
+,"punishing gray raven" : "パニシング:グレイレイヴン"
+,"puppet princess of marl kingdom" : "マール王国の人形姫"
+,"puss in boots the last wish" : "長ぐつをはいたネコ"
+,"puyo puyo" : "ぷよぷよ"
+,"puzzle and dragons" : "パズル＆ドラゴンズ"
+,"qualidea code" : "クオリディア・コード"
+,"quartett" : "Quartett!"
+,"queen emeraldas" : "クイーン・エメラルダス"
+,"queens blade" : "クイーンズブレイド"
+,"queens blade rebellion" : "クイーンズブレイドリベリオン"
+,"quiz magic academy" : "クイズマジックアカデミー"
+,"quiz nanairo dreams" : "クイズなないろDREAMS 虹色町の奇跡"
+,"quiz rpg mahoutsukai to kuroneko no wiz" : "クイズRPG 魔法使いと黒猫のウィズ"
+,"r-15" : "R-15"
+,"radiata stories" : "ラジアータ ストーリーズ"
+,"rage of bahamut" : "神撃のバハムート"
+,"rage of the dragons" : "レイジ・オブ・ザ・ドラゴンズ"
+,"ragnarok online" : "ラグナロクオンライン"
+,"ragnarok the animation" : "RAGNAROK THE ANIMATION"
+,"rahxephon" : "ラーゼフォン"
+,"rail wars" : ["RAIL WARS!", "RAIL WARS! -日本國有鉄道公安隊-"]
 ,"rainbow sentai robin" : "レインボー戦隊ロビン"
+,"rakudai kishi no cavalry" : "落第騎士の英雄譚"
+,"ramen daisuki koizumi-san" : "ラーメン大好き小泉さん"
+,"rampo kitan game of laplace" : "乱歩奇譚 Game of Laplace"
+,"ran to haiiro no sekai" : "乱と灰色の世界"
+,"rance" : "Rance"
+,"ranma 12" : "らんま1/2"
 ,"ran-sem hakudaku delmo tsuma no miira tori" : "Ran→Sem～白濁デルモ妻のミイラ捕り～"
+,"rapelay" : "レイプレイ"
+,"rapunzel" : "ラプンツェル"
+,"raramagi honyarara magic" : "ららマジ ホニャららMAGIC"
+,"re creators" : "Re:CREATORS"
+,"re zero kara hajimeru isekai seikatsu" : "Re：ゼロから始める異世界生活"
+,"read or die" : "R.O.D -READ OR DIE"
+,"real bout high school" : "召喚教師リアルバウトハイスクール"
+,"real drive" : "RD 潜脳調査室"
+,"rebirth the lunatic taker" : "リバース Re:BIRTH -The Lunatic Taker"
+,"reco love" : "レコラヴ"
+,"red baron" : "スーパーロボット レッド・バロン"
+,"red photon zillion" : "赤い光弾ジリオン"
+,"refrain no chika meikyuu to majo no ryodan" : "ルフランの地下迷宮と魔女ノ旅団"
+,"regalia the three sacred stars" : "レガリア The Three Sacred Stars"
+,"reibaishi izuna" : "霊媒師いずな"
 ,"rekishi ni nokoru akujo ni naru zo" : "歴史に残る悪女になるぞ"
+,"remi nobodys girl" : "家なき子レミ"
+,"renkin san-kyuu magical pokaan" : "錬金3級 まじかる?ぽか～ん"
+,"rental magica" : "レンタルマギカ"
+,"resident evil" : "バイオハザード"
+,"resort boin" : "リゾートBOIN"
+,"ressha sentai toqger" : "烈車戦隊トッキュウジャー"
+,"return to shironagasu island" : "シロナガス島への帰還"
+,"reverse 1999" : "リバース:1999"
+,"revolutionary girl utena" : "少女革命ウテナ"
+,"rewrite" : "Rewrite"
+,"rick and morty" : "リック・アンド・モーティ"
+,"riddle joker" : "RIDDLE JOKER"
+,"ridge racer" : "リッジレーサー"
+,"rignetta-san no bouken" : "リジネッタさんの冒険"
+,"rikei ga koi ni ochita no de shuomei shite mita." : "理系が恋に落ちたので証明してみた。"
+,"rilakkuma" : "リラックマ"
+,"rimworld" : "RimWorld"
+,"rin x sen hakudaku onna kyoushi to yaroudomo" : "RIN×SEN～白濁女教師と野郎ども～"
+,"ring dream" : "リング☆ドリーム 女子プロレス大戦"
+,"ring fit adventure" : "リングフィット アドベンチャー"
+,"ring ni kakero" : "リングにかけろ"
+,"rinkan biyaku chuudoku" : "輪姦媚薬中毒"
+,"rinne no lagrange" : "輪廻のラグランジェ"
+,"rio paradise" : "リオパラダイス"
+,"rising force online" : "RF online"
+,"rising impact" : "ライジングインパクト"
+,"rival schools" : "ジャスティス学園"
+,"river city girls" : "熱血硬派くにおくん外伝 River City Girls"
+,"rizelmine" : "りぜるまいん"
+,"robin hood" : "ロビンフッド"
+,"roblox" : "ROBLOX"
+,"robocop" : "ロボコップ"
+,"robokko beaton" : "ろぼっ子ビートン"
+,"robopon" : "ロボットポンコッツ"
+,"robot girls z" : "ロボットガールズZ"
+,"robot neoanthropinae polynian" : "ポリニアン リリー"
+,"robotics notes" : "ROBOTICS;NOTES"
+,"rokka no yuusha" : "六花の勇者"
+,"rokudenashi majutsu koushi to akashic records" : "ロクでなし魔術講師と禁忌教典"
+,"rokujouma no shinryakusha" : "六畳間の侵略者！？"
+,"ro-kyu-bu" : "ロウきゅーぶ!"
+,"romance of the three kingdoms" : "三國志演義"
+,"romancing saga" : "ロマンシング サ・ガ"
+,"romancing saga 2" : "ロマンシング サ・ガ2"
+,"romeos blue skies" : "ロミオの青い空"
+,"rosario vampire" : "ロザリオとバンパイア"
+,"rose of versailles" : "ベルサイユのばら"
+,"rougo ni sonaete isekai de 8-man-mai no kinka o tamemasu" : "老後に備えて異世界で8万枚の金貨を貯めます"
+,"rozen maiden" : "ローゼンメイデン"
+,"rpg densetsu hepoi" : "RPG伝説ヘポイ"
+,"r-type" : "R-TYPE"
+,"ruin explorers" : "秘境探検ファム&イーリー"
+,"rumble fish" : "ザ・ランブルフィッシュ"
+,"rumble roses" : "ランブルローズ"
+,"rune factory" : "ルーンファクトリー"
+,"rune factory 3" : "ルーンファクトリー3"
+,"rune factory 4" : "ルーンファクトリー4"
+,"rune soldier" : "魔法戦士リウイ"
+,"ruri dragon" : "ルリドラゴン"
+,"ruri no houseki" : "瑠璃の宝石"
+,"rurouni kenshin" : "るろうに剣心"
+,"rwby" : "RWBY"
+,"ryu ga gotoku" : "龍が如く"
+,"ryuugajou nanana no maizoukin" : "龍ヶ嬢七々々の埋蔵金"
+,"ryuuou no oshigoto" : "りゅうおうのおしごと!"
+,"sabagebu" : "さばげぶっ！"
+,"saber marionette" : "セイバーマリオネット"
+,"sacred seven" : "セイクリッドセブン"
+,"saenai heroine no sodatekata" : "冴えない彼女の育てかた"
+,"saga frontier" : "サガ フロンティア"
+,"saijaku muhai no bahamut" : "最弱無敗の神装機竜《バハムート》"
+,"saijaku tamer wa gomi hiroi no tabi o hajimemashita." : "最弱テイマーはゴミ拾いの旅を始めました。"
+,"saikano" : "最終兵器彼女"
+,"saiki kusuo no psi nan" : "斉木楠雄のΨ難"
+,"saikin yatotta maid ga ayashii" : "最近雇ったメイドが怪しい"
+,"saikyou densetsu kurosawa" : "最強伝説 黒沢"
+,"saikyou tank no meikyuu kouryaku" : "最強タンクの迷宮攻略"
+,"sailor moon" : "セーラームーン"
+,"saimin seishidou" : "催眠性指導"
+,"saimin yuugi" : "催眠遊戯"
+,"saint october" : "Saint October"
+,"saint seiya" : "聖闘士星矢"
+,"saint tail" : "怪盗セイント・テール"
+,"saint young men" : "聖☆おにいさん"
+,"saiyuki" : "最遊記"
+,"sakamoto days" : "SAKAMOTO DAYS"
+,"saki" : "咲-Saki-"
+,"sakuna of rice and ruin" : "天穂のサクナヒメ"
+,"sakura hime" : "桜姫"
+,"sakura moyu." : "さくら、もゆ。"
+,"sakura musubi" : "さくらむすび"
+,"sakura quest" : "サクラクエスト"
+,"sakura taisen" : "サクラ大戦"
+,"sakura trick" : "桜Trick"
 ,"sakurako-san no ashimoto ni wa shitai ga umatteiru" : "櫻子さんの足下には死体が埋まっている"
+,"sakurasou no pet na kanojo" : "さくら荘のペットな彼女"
 ,"sakushi shoujo shi o nameteta watashi ga shitta 8-tsu no gijutsu to yuuki no han" : "作詞少女～詞をなめてた私が知った8つの技術と勇気の話～"
+,"sally the witch" : "魔法使いサリー"
+,"samon-kun wa summoner" : "左門くんはサモナー"
+,"samurai 7" : "SAMURAI7"
+,"samurai champloo" : "サムライチャンプルー"
+,"samurai flamenco" : "サムライフラメンコ"
+,"samurai pizza cats" : "キャッ党忍伝てやんでえ"
+,"samurai sentai shinkenger" : "侍戦隊シンケンジャー"
+,"samurai spirits" : "サムライスピリッツ"
+,"samurai usagi" : "侍兎"
+,"samurai warriors" : "戦国無双"
+,"sangoku rensenki" : "三国恋戦記"
+,"sangokushi puzzle taisen" : "三国志パズル大戦"
+,"sangokushi taisen" : "三国志大戦"
+,"sankarea" : "さんかれあ"
+,"sanoba witch" : "サノバウィッチ"
+,"sansha sanyou" : "三者三葉"
+,"sarazanmai" : "さらざんまい"
+,"sasameki koto" : "ささめきこと"
+,"sasami magical girls club" : "砂沙美☆魔法少女クラブ"
+,"sasami-san ganbaranai" : "ささみさん@がんばらない"
+,"sasayaku you ni koi wo utau" : "さやくように恋を唄う"
+,"sasuga no sarutobi" : "さすがの猿飛"
+,"satsuriku no tenshi" : "殺戮の天使"
+,"savage reign" : "風雲黙示録"
+,"saya no uta" : "沙耶の唄"
+,"sayonara zetsubou sensei" : "さよなら絶望先生"
+,"scared rider xechs" : "スカーレッドライダーゼクス"
+,"scarlet nexus" : "SCARLET NEXUS"
+,"school days" : "School Days"
+,"school rumble" : "スクールランブル"
+,"schoolgirl strikers" : "スクールガールストライカーズ"
+,"schwarzesmarken" : "シュヴァルツェスマーケン"
+,"scooby-doo" : "スクービー・ドゥー"
+,"scott pilgrim" : "スコット・ピルグリム"
+,"scp foundation" : "SCP財団"
+,"scrapped princess" : "スクラップド・プリンセス"
+,"s-cry-ed" : "スクライド"
+,"sd gundam sangokuden" : "SDガンダム三国伝"
+,"sdorica" : "Sdorica"
+,"seer" : "Seer"
+,"sei juushi bismark" : "星銃士ビスマルク"
+,"seijuu sentai gingaman" : "星獣戦隊ギンガマン"
+,"seiken densetsu" : "聖剣伝説"
+,"seiken densetsu 2" : "聖剣伝説2"
+,"seiken densetsu 3" : "聖剣伝説3"
+,"seiken gakuin no maken tsukai" : "聖剣学院の魔剣使い"
+,"seiken manifestia" : "政剣マニフェスティア"
+,"seikon no qwaser" : "聖痕のクェイサー"
+,"seirei gensouki" : "精霊幻想記"
+,"seirei kishi aquael" : "精霊騎士アクエアル"
+,"seirei no moribito" : "精霊の守り人"
+,"seiren" : "セイレン"
+,"seishokuki" : "性食鬼"
+,"seishoujo sentai lakers" : "聖少女戦隊レイカーズ"
+,"seishun buta yarou wa bunny girl senpai no yume o minai" : "青春ブタ野郎はバニーガール先輩の夢を見ない"
+,"seitenshi yumieru" : "聖天使ユミエル"
+,"seitokai ni mo ana wa aru" : "生徒会にも穴はある！"
+,"seitokai no ichizon" : "生徒会の一存"
+,"seitokai yakuindomo" : "生徒会役員共"
+,"sekai de ichiban tsuyoku naritai" : "世界でいちばん強くなりたい！"
+,"sekai saikou no ansatsusha isekai kizoku ni tensei suru" : "世界最高の暗殺者、異世界貴族に転生する"
+,"sekai seifuku bouryaku no zvezda" : "世界征服～謀略のズヴィズダー～"
+,"sekaiichi hatsukoi" : "世界一初恋"
+,"sekirei" : "セキレイ"
+,"sekiro shadows die twice" : "SEKIRO: SHADOWS DIE TWICE"
+,"selector infected wixoss" : "selector infected WIXOSS"
+,"sen no hatou tsukisome no kouki" : "千の刃濤、桃花染の皇姫"
+,"sengoku ace" : "戦国エース"
+,"sengoku basara" : "戦国バサラ"
+,"sengoku bushouki muramasa" : "戦国武将姫-MURAMASA-"
+,"sengoku collection" : "戦国コレクション"
+,"sengoku gakuen senki nobunaga" : "仙獄学艶戦姫ノブナガッ！"
+,"sengoku night blood" : "戦刻ナイトブラッド"
+,"sengoku otome" : "戦国乙女"
+,"sengoku puzzle animal daigassen" : "戦国パズル!!あにまる大合戦"
+,"senjou no fuga" : "戦場のフーガ"
+,"senki zesshou symphogear" : "戦姫絶唱シンフォギア"
+,"senko no ronde" : "旋光の輪舞"
+,"sennen sensou aigis" : "千年戦争アイギス"
+,"senpai ga uzai kouhai no hanashi" : "先輩がうざい後輩の話"
+,"senran kagura" : "閃乱カグラ"
+,"senren banka" : "千恋*万花"
 ,"sentai daishikkaku" : "戦隊大失格"
+,"sentai red isekai de boukensha ni naru" : "戦隊レッド 異世界で冒険者になる"
+,"sentimental graffiti" : "センチメンタルグラフィティ"
+,"sentimental journey" : "センチメンタルジャーニー"
+,"sentouin hakenshimasu" : "戦闘員、派遣します！"
+,"senyuu." : "戦勇。"
+,"servant x service" : "サーバント×サービス"
+,"seto no hanayome" : "瀬戸の花嫁"
+,"seven knights" : "セブンナイツ"
+,"seven mortal sins" : "sin 七つの大罪"
+,"seven of seven" : "七人のナナ"
+,"sewayaki kitsune no senko-san" : "世話やきキツネの仙狐さん"
+,"sexfriend" : "SEXFRIEND"
+,"shachiku-san wa youjo yuurei ni iyasaretai." : "社畜さんは幼女幽霊に癒されたい。"
+,"shadow hearts" : "シャドウハーツ"
+,"shadow lady" : "SHADOW LADY"
+,"shadow of the colossus" : "ワンダと巨像"
+,"shadow skill" : "SHADOW SKILL -影技-"
+,"shadows house" : "シャドーハウス"
+,"shadowverse" : "Shadowverse"
+,"shakugan no shana" : "灼眼のシャナ"
+,"shakunetsu no takkyuu musume" : "灼熱の卓球娘"
+,"shaman king" : "シャーマンキング"
+,"shamanic princess" : "シャーマニックプリンセス"
+,"shangri-la frontier" : "シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす"
+,"shantae" : "シャンティ"
+,"sharin no kuni himawari no shoujo" : "車輪の国、向日葵の少女"
+,"she-ra and the princesses of power" : "シーラとプリンセス戦士"
+,"sherlock hound" : "名探偵ホームズ"
+,"shiei no sona-nyl -what a beautiful memories-" : "紫影のソナーニル -What a beautiful memories-"
+,"shiin" : "死印"
+,"shijou saikyou no daimaou murabito a ni tensei suru" : "史上最強の大魔王、村人Aに転生する"
+,"shikabane hime" : "屍姫"
+,"shikanoko nokonoko koshitantan" : "しかのこのこのここしたんたん"
+,"shiki" : "屍鬼"
+,"shikigami no shiro" : "式神の城"
+,"shikkoku no sharnoth" : "漆黒のシャルノス"
+,"shimaizuma" : "姉妹妻"
+,"shimoneta to iu gainen ga sonzai shinai taikutsu na sekai" : "下ネタという概念が存在しない退屈な世界"
+,"shin megami tensei" : "真・女神転生"
+,"shin megami tensei devil children" : "真・女神転生デビルチルドレン"
+,"shinazu no himegimi" : "死なずの姫君"
+,"shinchou yuusha kono yuusha ga ore tueee kuse ni shinchou sugiru" : "この勇者が俺TUEEEくせに慎重すぎる"
+,"shingeki no kyojin" : "進撃の巨人"
+,"shingu secret of the stellar wars" : "学園戦記ムリョウ"
+,"shinigami bocchan to kuro maid" : "死神坊ちゃんと黒メイド"
+,"shining" : "シャイニング・シリーズ"
+,"shining ark" : "シャイニング・アーク"
+,"shining blade" : "シャイニング・ブレイド"
+,"shining force" : "シャイニング・フォース"
+,"shining force exa" : "シャイニング・フォース イクサ"
+,"shining force neo" : "シャイニング・フォース ネオ"
+,"shining hearts" : "シャイニング・ハーツ"
+,"shining in the darkness" : "シャイニング&ザ・ダクネス"
 ,"shining may" : "シャイNing・めい"
+,"shining resonance" : "シャイニング・レゾナンス"
+,"shining star" : "シャイニングスター"
+,"shining sword romance" : "ロマンスは剣の輝き"
+,"shining tears" : "シャイニング・ティアーズ"
+,"shining wind" : "シャイニング・ウィンド"
+,"shinja zero no megami-sama to hajimeru isekai kouryaku" : "信者ゼロの女神サマと始める異世界攻略"
+,"shinkansen henkei robo shinkalion" : "新幹線変形ロボ シンカリオン"
+,"shinken" : "しんけん!!"
+,"shinken zemi koukou kouza" : "進研ゼミ高校講座"
+,"shinkon gattai godannar" : "神魂合体ゴーダンナー"
+,"shinmai fukei kiruko-san" : "新米婦警キルコさん"
+,"shinmai maou no testament" : "新米魔王の契約者"
+,"shinmai renkinjutsushi no tenpo keiei" : "新米錬金術師の店舗経営"
+,"shinrabansho" : "神羅万象"
+,"shinryaku ika musume" : "侵略!イカ娘"
+,"shinseiki inma seiden" : "新世紀 淫魔聖伝"
+,"shinsekai yori" : "新世界より"
+,"shippuu iron leaguer" : "疾風!アイアンリーガー"
+,"shiro seijo to kuro bokushi" : "白聖女と黒牧師"
+,"shirobako" : "SHIROBAKO"
+,"shiroi suna no aquatope" : "白い砂のアクアトープ"
+,"shirokuma cafe" : "しろくまカフェ"
+,"shironeko project" : "白猫プロジェクト"
+,"shishunki na adam" : "思春期なアダム"
+,"shiunji-ke no kodomotachi" : "紫雲寺家の子供たち"
+,"shizuku" : "雫"
+,"shock troopers" : "ショックトルーパーズ"
 ,"shojo no shimobe-kun" : "処女のシモベくん♪"
+,"shokugeki no soma" : "食戟のソーマ"
+,"shomin sample" : "俺がお嬢様学校に「庶民サンプル」として拉致られた件"
+,"shoujo kageki revue starlight" : "少女☆歌劇 レヴュー・スタァライト"
+,"shoujo mahou gaku little witch romanesque" : "少女魔法学リトルウィッチロマネスク"
+,"shoujo no toge" : "少女のトゲ"
+,"shoujo ramune" : "少女ラムネ"
+,"shoujo shuumatsu ryokou" : "少女終末旅行"
+,"shoujo x shoujo x shoujo" : "少女×少女×少女"
+,"shoukan yuusha to f-kei kareshi" : "召喚勇者とF系彼氏"
+,"shounen maid" : "少年メイド"
+,"show by rock" : "SHOW BY ROCK!!"
+,"shrek" : "シュレック"
+,"shrine of the morning mist" : "朝霧の巫女"
+,"shuffle" : "SHUFFLE!"
+,"shugaten" : "しゅがてん！"
+,"shugo chara" : "しゅごキャラ!"
+,"shukufuku no campanella" : "祝福のカンパネラ"
+,"shuriken sentai ninninger" : "手裏剣戦隊ニンニンジャー"
+,"shuu ni ichido classmate o kau hanashi" : "週に一度クラスメイトを買う話"
+,"shuukan watashi no onii-chan" : "週刊わたしのおにいちゃん"
+,"shuumatsu nani shitemasu ka isogashii desu ka sukutte moratte ii desu ka" : "終末なにしてますか？忙しいですか？救ってもらっていいですか？"
+,"shuumatsu no harem" : "終末のハーレム"
+,"shuumatsu no izetta" : "終末のイゼッタ"
+,"shuumatsu no valkyrie" : "終末のワルキューレ"
+,"shuusen no lorelei" : "終戦のローレライ"
+,"signalis" : "SIGNALIS"
+,"silent hill" : "サイレントヒル"
+,"silent mobius" : "サイレントメビウス"
+,"silver spoon" : "銀の匙"
+,"simoun" : "シムーン"
+,"sing" : "SING/シング"
+,"sinisistar" : "SiNiSistar"
+,"sinoalice" : ["SINoALICE", "SINoALICE -シノアリス-"]
+,"sister princess" : "シスタープリンセス"
+,"sister quest" : "Sister Quest"
+,"sisters natsu no saigo no hi" : "SISTERS ～夏の最後の日～"
+,"sk8 the infinity" : "SK∞ エスケーエイト"
+,"sket dance" : "SKET DANCE"
+,"skies of arcadia" : "エターナルアルカディア"
+,"skullgirls" : "スカルガールズ"
+,"sky girls" : "スカイガールズ"
+,"slam dunk" : "SLAM DUNK"
+,"slay the spire" : "Slay the Spire"
+,"slayers" : "スレイヤーズ"
+,"sleeping beauty" : "眠れる森の美女"
+,"slime taoshite 300-nen shiranai uchi ni level max ni nattemashita" : "スライム倒して300年、知らないうちにレベルMAXになってました"
+,"slow loop" : "スローループ"
+,"slow start" : "スロウスタート"
+,"sly cooper" : "怪盗スライ・クーパー"
+,"smile precure" : "スマイルプリキュア!"
+,"snow white and the seven dwarfs" : "白雪姫と七人の小人"
+,"snowbreak containment zone" : "スノウブレイク：禁域降臨"
+,"solatorobo" : "Solatorobo"
+,"soleil" : "ソレイユシリーズ"
+,"solo leveling" : "俺だけレベルアップな件"
+,"soltyrei" : "SoltyRei"
+,"sonic soldier borgman" : "超音戦士ボーグマン"
+,"sonic the hedgehog" : "ソニック・ザ・ヘッジホッグ"
+,"sono bisque doll wa koi o suru" : "その着せ替え人形は恋をする"
+,"sono hanabira ni kuchizuke o" : "その花びらにくちづけを"
+,"sonzai shinai manga no hitokoma" : "存在しない漫画の1コマ"
+,"sora no iro mizu no iro" : "そらのいろ、みずのいろ"
+,"sora no kanata no dystopia" : "天穹ノ彼方の錬星郷"
+,"sora no manimani" : "宙のまにまに"
+,"sora no method" : "天体のメソッド"
+,"sora no otoshimono" : "そらのおとしもの"
+,"sora no woto" : "ソ・ラ・ノ・ヲ・ト"
+,"sora wo kakeru shoujo" : "宇宙をかける少女"
+,"sora yori mo tooi basho" : "宇宙よりも遠い場所"
+,"sorcerous stabber orphen" : "魔術士オーフェン"
+,"soredemo ayumu wa yosetekuru" : "それでも歩は寄せてくる"
+,"soredemo machi wa mawatteiru" : "それでも町は廻っている"
+,"soredemo tsuma o aishiteru" : "それでも妻を愛してる"
+,"soukyuu no fafner" : "蒼穹のファフナー"
+,"soul catchers" : "SOUL CATCHER(S)"
+,"soul eater" : "ソウルイーター"
+,"soul eater not" : "ソウルイーターノット!"
+,"soul knight" : "Soul Knight"
+,"soulcalibur" : "ソウルキャリバー"
+,"soulworker" : "ソウルワーカー"
+,"sound horizon" : "Sound Horizon"
+,"sound voltex" : "SOUND VOLTEX"
+,"souran no chikai" : "蒼藍の誓い"
+,"sousei no onmyouji" : "双星の陰陽師"
+,"sousei tenshi cross emotion" : "想聖天使クロスエモーション"
+,"sousou no frieren" : "葬送のフリーレン"
+,"south park" : "サウスパーク"
+,"space adventure cobra" : "コブラ"
+,"space battleship yamato" : "宇宙戦艦ヤマト"
+,"space battleship yamato 2199" : "宇宙戦艦ヤマト2199"
+,"space channel 5" : "スペースチャンネル5"
+,"space dandy" : "スペース☆ダンディ"
+,"space patrol luluco" : "宇宙パトロールルル子"
+,"space pirate captain harlock" : "宇宙海賊キャプテンハーロック"
+,"space pirate mito" : "宇宙海賊ミトの大冒険"
+,"space runaway ideon" : "伝説巨神イデオン"
+,"spaceship agga ruter" : "Space Ofera アッガ・ルター"
 ,"spectral force" : "スペクトラルフォース"
+,"spice and wolf" : "狼と香辛料"
+,"spider-man" : "スパイダーマン"
+,"spiral" : "スパイラル ～推理の絆～"
+,"spirited away" : "千と千尋の神隠し"
+,"splatoon" : "スプラトゥーン"
+,"spongebob squarepants" : "スポンジ・ボブ"
+,"spy kyoushitsu" : "スパイ教室"
+,"spy x family" : "SPY×FAMILY"
+,"spyro the dragon" : "スパイロ・ザ・ドラゴン"
+,"squid game" : "イカゲーム"
+,"ssss.dynazenon" : "SSSS.DYNAZENON"
+,"ssss.gridman" : "SSSS.GRIDMAN"
+,"stand my heroes" : "スタンドマイヒーローズ"
+,"star driver" : "STAR DRIVER 輝きのタクト"
+,"star fox" : "スターフォックス"
+,"star gladiator" : "スターグラディエイター"
+,"star ocean" : "スターオーシャン"
+,"star ocean 2" : "スターオーシャン2"
+,"star ocean 3" : "スターオーシャン3"
+,"star ocean 4" : "スターオーシャン4"
+,"star trek" : "スタートレック"
+,"star twinkle precure" : "スター☆トゥインクルプリキュア"
+,"star vs. the forces of evil" : "悪魔バスター★スター・バタフライ"
+,"star wars" : "スター・ウォーズ"
+,"starcraft" : "スタークラフト"
+,"stardew valley" : "Stardew Valley"
+,"starless" : "STARLESS"
+,"star-myu" : "スタミュ"
+,"starship girl yamamoto yohko" : "それゆけ!宇宙戦艦ヤマモト・ヨーコ"
+,"starzinger" : "SF西遊記スタージンガー"
+,"station memories" : "ステーションメモリーズ！ - 駅メモ！"
+,"steam detectives" : "快傑蒸気探偵団"
+,"steel angel kurumi" : "鋼鉄天使くるみ"
+,"steinsgate" : "STEINS;GATE"
+,"stella glow" : "ステラ グロウ"
+,"stellar blade" : "Stellar Blade"
+,"steven universe" : "スティーブン・ユニバース"
+,"stop hibari-kun" : "ストップ!! ひばりくん!"
 ,"strange case of dr jekyll and mr hyde" : "ジキル博士とハイド氏"
+,"strange journey" : "真・女神転生 STRANGE JOURNEY"
+,"stranger things" : "ストレンジャー・シングス 未知の世界"
+,"stratos 4" : "ストラトス・フォー"
+,"strawberry panic" : "ストロベリー・パニック！"
+,"street fighter" : "ストリートファイター"
+,"streets of rage" : "ベア・ナックル"
+,"strider" : "ストライダー飛竜"
+,"strike the blood" : "ストライク・ザ・ブラッド"
+,"strike witches" : "ストライクウィッチーズ"
+,"stringendo" : "ストリンジェンド"
+,"subarashiki hibi" : "素晴らしき日々 ～不連続存在～"
+,"subete no jinrui o hakai suru. sorera wa saisei dekinai." : "すべての人類を破壊する。それらは再生できない。"
+,"submarine 707r" : "サブマリン707R"
+,"subverse" : "Subverse"
+,"sugarbunnies" : "シュガーバニーズ"
+,"suguri" : "スグリ"
+,"suigetsu" : "水月"
+,"suika" : "水夏"
+,"suikoden v" : "幻想水滸伝V"
+,"suisei no gargantia" : "翠星のガルガンティア"
+,"suisei tenshi prima veil zwei" : "彗聖天使プリマヴェールZwei"
+,"suite precure" : "スイートプリキュア♪"
+,"suki na ko ga megane wo wasureta" : "好きな子がめがねを忘れた"
+,"suki na mono wa suki dakara shouganai" : "好きなものは好きだからしょうがない!!"
+,"summer pockets" : "Summer Pockets"
+,"summer wars" : "サマーウォーズ"
+,"summertime render" : "サマータイムレンダ"
+,"summon night" : "サモンナイト"
+,"sumomomo momomo" : "すもももももも～地上最強のヨメ～"
+,"sunohara-sou no kanrinin-san" : "すのはら荘の管理人さん"
+,"super black jack" : "スーパーブラックジャック"
+,"super cub" : "スーパーカブ"
+,"super dimension century orguss" : "超時空世紀オーガス"
+,"super doctor k" : "スーパードクターK"
+,"super doll licca-chan" : "スーパードール リカちゃん"
+,"super gals" : "超GALS！寿蘭"
+,"super mario brothers" : "スーパーマリオブラザーズ"
+,"super radical gag family" : "浦安鉄筋家族"
+,"super real mahjong" : "スーパーリアル麻雀"
+,"super robot wars" : "スーパーロボット大戦"
+,"super robot wars k" : "スーパーロボット大戦K"
+,"super robot wars w" : "スーパーロボット大戦W"
+,"super robot wars z 2nd" : "第2次スーパーロボット大戦Z"
+,"super sentai" : "スーパー戦隊"
+,"super sonico" : "すーぱーそに子"
+,"super sons" : "スーパーサンズ"
+,"superman" : "スーパーマン"
+,"supernatural" : "スーパーナチュラル"
+,"suzuka" : "涼風"
+,"suzume no tojimari" : "すずめの戸締まり"
+,"suzunone seven" : "スズノネセブン！"
+,"swat kats" : "SWAT Kats: The Radical Squadron"
+,"sword art online" : "ソードアート・オンライン"
+,"sword art online alternative gun gale online" : "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン"
+,"sword world 2.0" : "ソード・ワールド2.0"
+,"sword world rpg" : "ソード・ワールドRPG"
+,"sylvanian families" : "シルバニアファミリー"
+,"taboo charming mother" : "艶母"
+,"tachibana-san-chi no dansei jijou" : "橘さん家ノ男性事情"
+,"tactics ogre" : "タクティクスオウガ"
+,"taimadou gakuen 35 shiken shoutai" : "対魔導学園35試験小隊"
+,"taimanin asagi" : "対魔忍アサギ"
 ,"taimanin gogo" : "対魔忍GOGO"
+,"taimanin rpg" : "対魔忍RPG"
+,"taimanin yukikaze" : "対魔忍ユキカゼ"
+,"taisen hot gimmick" : "対戦ホットギミック"
+,"taishou yakyuu musume" : "大正野球娘。"
+,"taiyou no yuusha fighbird" : "太陽の勇者ファイバード"
+,"takamare takamaru" : "たかまれ!タカマル"
+,"tako no marine" : "タコのマリネ"
+,"takopii no genzai" : "タコピーの原罪"
+,"takuan to batsu no nichijou enmachou" : "たくあんとバツの日常閻魔帳"
+,"tales of" : "テイルズ オブ シリーズ"
+,"tales of arise" : "テイルズ オブ アライズ"
+,"tales of asteria" : "テイルズ オブ アスタリア"
+,"tales of berseria" : "テイルズ オブ ベルセリア"
+,"tales of destiny" : "テイルズ オブ デスティニー"
+,"tales of destiny 2" : "テイルズ オブ デスティニー2"
+,"tales of eternia" : "テイルズ オブ エターニア"
+,"tales of graces" : "テイルズ オブ グレイセス"
+,"tales of hearts" : "テイルズ オブ ハーツ"
+,"tales of innocence" : "テイルズ オブ イノセンス"
+,"tales of legendia" : "テイルズ オブ レジェンディア"
+,"tales of phantasia" : "テイルズ オブ ファンタジア"
+,"tales of rebirth" : "テイルズ オブ リバース"
+,"tales of symphonia" : "テイルズ オブ シンフォニア"
+,"tales of the abyss" : "テイルズ オブ ジ アビス"
+,"tales of the world" : "テイルズ オブ ザ ワールド"
+,"tales of vesperia" : "テイルズ オブ ヴェスペリア"
+,"tales of xillia" : "テイルズ オブ エクシリア"
+,"tales of zestiria" : "テイルズ オブ ゼスティリア"
+,"tamacolle" : "魂これ"
+,"tamagotchi" : "たまごっち"
+,"tamako market" : "たまこまーけっと"
+,"tamayura" : "たまゆら"
+,"tanaka-kun wa itsumo kedaruge" : "田中くんはいつもけだるげ"
+,"tangled" : "塔の上のラプンツェル"
+,"tanken driland" : "探検ドリランド"
+,"tantei opera milky holmes" : "探偵オペラ ミルキィホームズ"
+,"tantei wa mou shindeiru." : "探偵はもう、死んでいる。"
+,"tari tari" : "TARI TARI"
+,"tartaros" : "Tartaros-タルタロス"
+,"tarzan" : "ターザン"
+,"tasogare otome x amnesia" : "黄昏乙女×アムネジア"
+,"tate no yuusha no nariagari" : "盾の勇者の成り上がり"
+,"tayutama" : "タユタマ"
+,"team fortress" : "Team Fortress"
+,"tear ring saga" : "ティアリングサーガ ユトナ英雄戦記"
+,"tearmoon teikoku monogatari" : "ティアムーン帝国物語"
+,"tears to tiara" : "ティアーズ・トゥ・ティアラ"
+,"tech romancer" : "超鋼戦紀キカイオー"
+,"teekyuu" : "てーきゅう"
+,"teen titans" : "ティーン・タイタンズ"
+,"teenage mutant ninja turtles" : "ティーンエイジ・ミュータント・ニンジャ・タートルズ"
+,"teisou gyakuten sekai" : "貞操逆転世界"
+,"tejina senpai" : "手品先輩"
+,"tekkaman blade" : "宇宙の騎士テッカマンブレード"
+,"tekken" : "鉄拳"
+,"ten tenhoudoori no kaidanji" : "天 天和通りの快男児"
+,"tenchi muyo" : "天地無用！"
+,"tenchi muyo gxp" : "天地無用! GXP"
+,"tenchu" : "天誅"
+,"tengai makyou" : "天外魔境"
+,"tengen toppa gurren lagann" : "天元突破グレンラガン"
+,"tengoku daimakyou" : "天国大魔境"
+,"tenjou tenge" : "天上天下"
+,"tenka hyakken" : "天華百剣"
+,"tenkai knights" : "テンカイナイト"
+,"tenki no ko" : "天気の子"
+,"tensai ouji no akaji kokka saisei jutsu" : "天才王子の赤字国家再生術"
+,"tensei kizoku kantei skill de nariagaru" : "転生貴族、鑑定スキルで成り上がる"
+,"tensei oujo to tensai reijou no mahou kakumei" : "転生王女と天才令嬢の魔法革命"
+,"tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu" : "転生したら第七王子だったので、気ままに魔術を極めます"
+,"tensei shitara ken deshita" : "転生したら剣でした"
+,"tensei shitara slime datta ken" : "転生したらスライムだった件"
+,"tenshi na konamaiki" : "天使な小生意気"
+,"tenshi ni narumon" : "天使になるもんっ!"
+,"tenshi no 3p" : "天使の3P!"
+,"tenshi no inai 12-gatsu" : "天使のいない12月"
 ,"tenshi no nichou kenjuu -angelos armas-" : "天使ノ二挺拳銃-Angelos Armas-"
+,"tenshi no shippo" : ["天使のしっぽ", "おとぎストーリー 天使のしっぽ"]
+,"tenshi souzou re-boot" : "天使☆騒々 RE-BOOT!"
+,"tenshin ranman" : "天神乱漫"
+,"tensou sentai goseiger" : "天装戦隊ゴセイジャー"
+,"tera" : "TERA"
+,"terao the next generation machine" : "テラオ The next generation machine"
+,"terminator" : "ターミネーター"
+,"terra formars" : "テラフォーマーズ"
+,"terraria" : "Terraria"
+,"tetsujin 28-gou" : "鉄人28号"
+,"tetsunabe no jan" : "鉄鍋のジャン！"
 ,"the adventures of jimmy neutron boy genius" : "ジミー・ニュートロン 僕は天才発明家！"
+,"the adventures of tom sawyer" : "トム・ソーヤーの冒険"
+,"the amazing 3" : "W3"
+,"the amazing digital circus" : "ザ・アメイジング・デジタル・サーカス"
+,"the amazing world of gumball" : "おかしなガムボール"
+,"the bad guys" : "バッドガイズ"
+,"the big o" : "THE ビッグオー"
+,"the bush baby" : "大草原の小さな天使 ブッシュベイビー"
+,"the cat returns" : "猫の恩返し"
+,"the coffin of andy and leyley" : "The Coffin of Andy and Leyley"
+,"the elder scrolls" : "The Elder Scrolls"
+,"the eternity sword" : "エターニティソードシリーズ"
+,"the evil within" : "サイコブレイク"
+,"the exit 8" : "8番出口"
+,"the fairly oddparents" : "Oops!フェアリーペアレンツ"
+,"the genius bakabon" : "天才バカボン"
+,"the ghost and molly mcgee" : "ゴースト&モリー"
+,"the girl who leapt through time" : "時をかける少女"
 ,"the goose that laid the golden eggs" : "ガチョウと黄金の卵"
+,"the great escape" : "The Great Escape"
+,"the grim adventures of billy and mandy" : "ビリー&マンディ"
+,"the hunchback of notre dame" : "ノートルダムの鐘"
+,"the idolmaster" : "アイドルマスター"
+,"the idolmaster sidem" : "アイドルマスター SideM"
+,"the incredibles" : "Mr.インクレディブル"
+,"the iron giant" : "アイアン・ジャイアント"
+,"the jungle book" : "ジャングル・ブック"
+,"the kabocha wine" : "かぼちゃワイン"
+,"the last blade" : "月華の剣士"
+,"the last of us" : "The Last of Us"
+,"the last story" : "ラストストーリー"
+,"the law of ueki" : "うえきの法則"
 ,"the legend of dragoon" : "レジェンドオブドラグーン"
+,"the legend of heroes" : "英雄伝説"
+,"the legend of korra" : "レジェンド･オブ･コーラ"
+,"the legend of luo xiaohei" : "羅小黒戦記"
+,"the legend of the legendary heroes" : "伝説の勇者の伝説"
+,"the legend of zelda" : "ゼルダの伝説"
+,"the lion king" : "ライオンキング"
+,"the little match girl" : "マッチ売りの少女"
+,"the little mermaid" : "リトル・マーメイド"
+,"the lord of the rings" : "THE LOAD OF THE RINGS"
+,"the loud house" : "ラウド・ハウス"
+,"the marshmallow times" : "マシュマロ通信"
+,"the mask" : "マスク"
+,"the melancholy of haruhi suzumiya" : "涼宮ハルヒの憂鬱"
+,"the melody of oblivion" : "忘却の旋律"
+,"the momotaroh" : "THE MOMOTAROH"
+,"the onechanbara" : "お姉チャンバラ"
+,"the owl house" : "アウルハウス"
+,"the powerpuff girls" : "パワーパフガールズ"
+,"the ring" : "リング"
+,"the road to el dorado" : "エル・ドラド 黄金の都"
+,"the sacred blacksmith" : "聖剣の刀鍛冶"
+,"the secret of kells" : "ブレンダンとケルズの秘密"
+,"the secret world of arrietty" : "借りぐらしのアリエッティ"
+,"the severing crime edge" : "断裁分離のクライムエッジ"
+,"the silence of the lambs" : "羊たちの沈黙"
+,"the simpsons" : "ザ・シンプソンズ"
+,"the smoke room" : "The Smoke Room"
+,"the story of perrine" : "ペリーヌ物語"
+,"the story of pollyanna" : "ポリアンナ物語"
+,"the summoning" : "The Summoning"
+,"the super dimension fortress macross" : "超時空要塞マクロス"
+,"the swiss family robinson flone of the mysterious island" : "家族ロビンソン漂流記 ふしぎな島のフローネ"
+,"the tale of the bamboo cutter" : "竹取物語"
+,"the three little pigs" : "三匹の子豚"
+,"the tortoise and the hare" : "ウサギとカメ"
+,"the unbeatable squirrel girl" : "The Unbeatable Squirrel Girl"
+,"the unbelievable gwenpool" : "アンビリーバブル・グウェンプール"
+,"the vision of escaflowne" : "天空のエスカフローネ"
+,"the wing of madoola" : "マドゥーラの翼"
+,"the witcher" : "ウィッチャー"
+,"the wolf and the seven young kids" : "狼と七匹の子山羊"
+,"the world ends with you" : "すばらしきこのせかい"
+,"the world god only knows" : "神のみぞ知るセカイ"
+,"they are my noble masters" : "君が主で執事が俺で"
 ,"this ugly yet beautiful world" : "この醜くも美しい世界"
+,"threads of fate" : "デュープリズム"
+,"thumbelina" : "おやゆび姫"
+,"thunder claps" : "サンダークラップス！"
+,"tico of the seven seas" : "七つの海のティコ"
+,"tiger and bunny" : "TIGER & BUNNY"
+,"tiger mask" : "タイガーマスク"
+,"time bokan" : "タイムボカン"
+,"time gal" : "タイムギャル"
+,"to heart" : "ToHeart"
+,"to love-ru" : "To LOVEる"
+,"toaru project" : "とあるプロジェクト"
+,"tobaku haouden zero" : "賭博覇王伝 零"
+,"tobe isami" : "飛べ!イサミ"
+,"tobikage" : "忍者戦士飛影"
+,"togainu no chi" : "咎狗の血"
+,"toheart2" : "ToHeart2"
+,"toji no miko" : "刀使ノ巫女"
+,"tokidoki bosotto russia-go de dereru tonari no alya-san" : "時々ボソッとロシア語でデレる隣のアーリャさん"
+,"tokimeki memorial" : "ときめきメモリアル"
+,"tokimeki tonight" : "ときめきトゥナイト"
+,"tokkyuu" : "トッキュー！！"
+,"tokumei sentai go-busters" : "特命戦隊ゴーバスターズ"
+,"tokusou sentai dekaranger" : "特捜戦隊デカレンジャー"
+,"tokyo 7th sisters" : "Tokyo 7th シスターズ"
+,"tokyo afterschool summoners" : "東京放課後サモナーズ"
+,"tokyo ghoul" : "東京喰種"
+,"tokyo jungle" : "TOKYO JUNGLE"
+,"tokyo mew mew" : "東京ミュウミュウ"
+,"tokyo mirage sessions fe" : "幻影異聞録♯FE"
+,"tokyo necro suicide mission" : ["凍京NECRO", "凍京NECRO＜トウキョウ・ネクロ＞ SUICIDE MISSION"]
+,"tokyo ravens" : "東京レイヴンズ"
+,"tokyo revengers" : "東京卍リベンジャーズ"
+,"tokyo underground" : "東京アンダーグラウンド"
+,"tokyo xanadu" : "東亰ザナドゥ"
+,"tom and jerry" : "トムとジェリー"
+,"tom clancys rainbow six" : "レインボーシックス"
+,"tomb raider" : "トゥームレイダー"
+,"tomica hyper rescue drive head" : "ドライブヘッド～トミカハイパーレスキュー 機動救急警察～"
+,"tomo-chan wa onnanoko" : "トモちゃんは女の子!"
+,"tonagura" : "となグラ！"
+,"tonari no ie no anette-san" : "となりの家のアネットさん"
+,"tonari no kyuuketsuki-san" : "となりの吸血鬼さん"
+,"tonari no miko-san wa minna warau" : "隣の巫女さんは皆笑う"
+,"tonari no onee-san" : "となりのお姉さんシリーズ"
+,"tonari no seki-kun" : "となりの関くん"
+,"tonde buurin" : "とんでぶーりん"
+,"tondemo skill de isekai hourou meshi" : "とんでもスキルで異世界放浪メシ"
+,"tongari boushi no atelier" : "とんがり帽子のアトリエ"
+,"tonikaku kawaii" : "トニカクカワイイ"
+,"toradora" : "とらドラ！"
+,"toriko" : "トリコ"
+,"toshokan sensou" : "図書館戦争"
+,"total drama island" : "トータル・ドラマ"
+,"totally spies" : "トータリー・スパイズ！"
+,"tottemo luckyman" : "とっても！ラッキーマン"
+,"tottemo yasashii amae-chan" : "とっても優しいあまえちゃん！"
+,"touch" : "タッチ"
+,"touch detective" : "おさわり探偵 小沢里奈"
+,"touhou project" : "東方プロジェクト"
+,"touken ranbu" : "刀剣乱舞"
+,"touki denshou angel eyes" : "闘姫伝承 ANGEL EYES"
+,"toukiden" : "討鬼伝"
+,"toushin toshi" : "闘神都市"
+,"toushou daimos" : "闘将ダイモス"
+,"toward the terra" : "地球へ…"
+,"tower of druaga" : "ドルアーガの塔"
+,"tower of fantasy" : "Tower of Fantasy（幻塔）"
+,"tower of god" : "神之塔"
+,"tp bon" : "T・Pぼん"
+,"transformers" : "トランスフォーマー"
+,"trapezium" : "トラペジウム"
+,"trapp family story" : "トラップ一家物語"
+,"trapt" : "刻命館シリーズ"
+,"trauma center" : "TRAUMA CENTER"
+,"treasure planet" : "トレジャー・プラネット"
+,"tree of savior" : "Tree of Savior"
+,"triage x" : "トリアージX"
+,"triangle heart" : "とらいあんぐるハート"
+,"triggerheart exelica" : "トリガーハート エグゼリカ"
+,"trigun" : "トライガン"
+,"trinity seven" : "スローループ"
+,"tropical kiss" : "トロピカルKISS"
+,"tropical-rouge precure" : "トロピカル～ジュ!プリキュア"
+,"trouble evocation" : "Trouble evocation"
+,"true love story" : "トゥルー・ラブストーリー"
+,"tsubasa reservoir chronicle" : "ツバサ-RESERVoir CHRoNiCLE-"
+,"tsugumomo" : "つぐもも"
+,"tsuihou sareta cheat fuyo majutsushi" : "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する"
+,"tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka" : "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？"
+,"tsuki ga michibiku isekai douchuu" : "月が導く異世界道中"
+,"tsuki ni yorisou otome no sahou" : "月に寄りそう乙女の作法"
+,"tsuki wa higashi ni hi wa nishi ni" : "月は東に日は西に"
+,"tsukiatte yo satsuki-chan" : "つきあってよ！五月ちゃん"
+,"tsukihime" : "月姫"
+,"tsukikagerou" : "月陽炎"
+,"tsukuyomi moon phase" : "月詠 -MOON PHASE-"
+,"tsuma shougakusei ni naru." : "妻、小学生になる。"
+,"tsumamigui" : "妻みぐい"
+,"tsurikichi sanpei" : "釣りキチ三平"
+,"tsuritama" : "つり球"
+,"tsurune kazemai koukou kyuudoubu" : "ツルネ ―風舞高校弓道部―"
+,"tsuyokiss" : "つよきす"
+,"turn a gundam" : "∀ガンダム"
+,"turning red" : "私ときどきレッサーパンダ"
+,"twelve kingdoms" : "十二国記"
+,"twin angels" : "淫獣聖戦"
+,"twinbee" : "ツインビー"
+,"twinkle crusaders" : "ティンクル くるせいだーす"
+,"twinkle star sprites" : "ティンクルスタースプライツ"
+,"uchi no kaisha no chiisai senpai no hanashi" : "うちの会社の小さい先輩の話"
+,"uchi no maid ga uzasugiru" : "うちのメイドがウザすぎる!"
+,"uchi no musume ni te o dasuna" : "ウチのムスメに手を出すな！"
+,"uchi no otouto maji de dekain dakedo mi ni konai" : "ウチの弟マジでデカイんだけど見にこない？"
+,"uchouten kazoku" : "有頂天家族"
+,"uchu sentai kyuranger" : "宇宙戦隊キュウレンジャー"
+,"uchuu eiyuu monogatari" : "宇宙英雄物語"
+,"uchuu kazoku carlvinson" : "宇宙家族カールビンソン"
+,"uchuu no stellvia" : "宇宙のステルビア"
+,"uchuu senshi baldios" : "宇宙戦士バルディオス"
+,"ueno-san wa bukiyou" : "上野さんは不器用"
+,"ufo princess valkyrie" : "円盤皇女ワるきゅーレ"
+,"ukagaka" : "伺か"
+,"ultimate girls" : "UG☆アルティメットガール"
+,"ultraman" : "ウルトラマン"
 ,"ulysses jeanne darc to renkin no kishi" : "ユリシーズ ジャンヌ・ダルクと錬金の騎士"
+,"uma musume pretty derby" : "ウマ娘プリティーダービー"
+,"umi monogatari" : "海物語"
+,"umibe no etranger" : "海辺のエトランゼ"
+,"umihara kawase" : "海腹川背"
+,"umineko no naku koro ni" : "うみねこのなく頃に"
+,"unbalance x unbalance" : "アンバランス×2"
 ,"undead girl murder farce" : "アンデッドガール・マーダーファルス"
+,"undead unluck" : "アンデッドアンラック"
+,"under night in-birth" : "UNDER NIGHT IN-BIRTH"
+,"undertale" : "Undertale"
+,"un-go" : "UN-GO"
+,"unicorn overlord" : "ユニコーンオーバーロード"
+,"uninhabited planet survive" : "無人惑星サヴァイヴ"
+,"unitia" : "UNITIA 神託の使徒×終焉の女神"
+,"unlight" : ["Unlight", "アンライト～Unlight～"]
+,"unlimited saga" : "アンリミテッド:サガ"
+,"upotte" : "うぽって!!"
+,"uq holder" : "UQ HOLDER!"
+,"ura kyoushi haitoku no in etsu jugyou" : "裏教師～背徳の淫悦授業～"
+,"ura sekai picnic" : "裏世界ピクニック"
+,"urara meirochou" : "うらら迷路帖"
+,"urotsukidoji" : "超神伝説うろつき童子"
+,"urusei yatsura" : "うる星やつら"
+,"usagi drop" : "うさぎドロップ"
+,"ushio to tora" : "うしおととら"
+,"usodere" : "嘘デレ!"
+,"uta kata" : "うた∽かた"
+,"uta no prince-sama" : "うたのプリンスさまっ"
+,"utau" : "UTAU"
+,"utawarerumono" : "うたわれるもの"
+,"utawarerumono itsuwari no kamen" : "うたわれるもの 偽りの仮面"
+,"utsukushiki sei no dendoushi rei rei" : "美しき聖の伝道師麗麗"
+,"uzaki-chan wa asobitai" : "宇崎ちゃんは遊びたい!"
+,"va-11 hall-a" : "VA-11 Hall-A ヴァルハラ"
+,"valkyria chronicles" : "戦場のヴァルキュリア"
+,"valkyria chronicles 2" : "戦場のヴァルキュリア2"
+,"valkyria chronicles 3" : "戦場のヴァルキュリア3"
+,"valkyrie drive" : "ヴァルキリードライブ"
+,"valkyrie no bouken" : "ワルキューレの冒険"
+,"valkyrie profile" : "ヴァルキリープロファイル"
+,"valorant" : "VALORANT"
+,"valvrave the liberator" : "革命機ヴァルヴレイヴ"
+,"vampire knight" : "ヴァンパイア騎士"
+,"vampire princess miyu" : "吸血姫美夕"
+,"vampiyan kids" : "バンパイヤン・キッズ"
+,"vandread" : "ヴァンドレッド"
+,"vanguard princess" : "ヴァンガードプリンセス"
+,"variable geo" : "ヴァリアブル・ジオ"
+,"various" : "よろず"
+,"venus 5" : "セーラー戦士ヴィーナス・ファイブ"
+,"venus eleven vivid" : "ビーナスイレブンびびっど！"
+,"veritas" : "Veritas"
+,"victory gundam" : "機動戦士Vガンダム"
+,"video girl ai" : "電影少女"
+,"vindictus" : "マビノギ英雄伝"
+,"violated heroine" : "VHゲーム01"
+,"violet evergarden" : "ヴァイオレット・エヴァーガーデン"
+,"violinist of hameln" : "ハーメルンのバイオリン弾き"
+,"viper" : "VIPER"
+,"viper ctr" : "VIPER CTR ～あすか～"
+,"viper f40" : "VIPER -F40-"
+,"viper gtb" : "VIPER GTB -RISE AFTER-"
+,"viper gts" : "VIPER -GTS- 悪魔は再び"
+,"viper rsr" : "VIPER -RSR-"
+,"viper v16" : "VIPER -V16-"
+,"virtua fighter" : "バーチャファイター"
+,"virtuacall" : "バーチャコール"
+,"virtual on" : "電脳戦機バーチャロン"
+,"vividred operation" : "ビビッドレッド・オペレーション"
+,"vocaloid" : "VOCALOID"
+,"voiceroid" : "VOICEROID"
+,"voicevox" : "VOICEVOX"
+,"voltage fighter gowcaizer" : "超人学園ゴウカイザー"
+,"voltes v" : ["ボルテスV", "超電磁マシーン ボルテスV"]
+,"voltron" : "ボルトロン"
+,"w.l.o. sekai renai kikou" : "W.L.O.世界恋愛機構"
+,"waccha primagi" : "ワッチャプリマジ！"
+,"wagamama high spec" : "ワガママハイスペック"
+,"wagaya no oinari-sama" : "我が家のお稲荷さま。"
+,"wahhaman" : "ワッハマン"
+,"waka okami wa shougakusei" : "若おかみは小学生!"
+,"wakakusa monogatari nan to jo-sensei" : "若草物語 ナンとジョー先生"
+,"wake up girls" : "Wake Up,Girls!"
+,"wakfu" : "ワクフ"
+,"waku waku 7" : "わくわく7"
+,"walkure romanze" : "ワルキューレロマンツェ"
+,"wan sheng jie" : "万聖街"
+,"wan wan celeb soreyuke tetsunoshin" : "ワンワンセレプー それゆけ！徹之進"
+,"wander crown" : ["WANDER CROWN", "WANDER CROWN ～七つの大陸と忘れられた島国"]
+,"wander over yonder" : "なんだかんだワンダー"
+,"warframe" : "WARFRAME"
+,"warhammer" : "ウォーハンマー"
+,"warioware" : "メイド イン ワリオシリーズ"
+,"warriors orochi" : "無双OROCHI"
+,"warship girls" : "戦艦少女"
+,"warzard" : "ウォーザード"
+,"washio sumi wa yuusha de aru" : "鷲尾須美は勇者である"
+,"watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta" : "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）"
+,"watashi ni tenshi ga maiorita" : "私に天使が舞い降りた!"
+,"watashi no ashinaga ojisan" : "私のあしながおじさん"
+,"watashi no tame no nuginasai" : "わたしのために脱ぎなさいっ！"
+,"watashi nouryoku wa heikinchi de tte itta yo ne" : "私、能力は平均値でって言ったよね!"
+,"we bare bears" : "ぼくらベアベアーズ"
+,"wedding peach" : "愛天使伝説ウェディングピーチ"
+,"weiss kreuz" : "ヴァイスクロイツ"
+,"welcome to the n.h.k." : "NHKにようこそ!"
+,"whistle" : "ホイッスル!"
+,"white album" : "WHITE ALBUM"
+,"who framed roger rabbit" : "ロジャー・ラビット"
+,"wii fit" : "Wii Fit"
+,"wild arms" : "ワイルドアームズ"
+,"wild arms 2" : "ワイルドアームズ セカンドイグニッション"
+,"wild arms 3" : "ワイルドアームズ3"
+,"wild arms 4" : "ワイルドアームズ4"
+,"wild arms 5" : ["ワイルドアームズ5", "ワイルドアームズ ザ フィフスヴァンガード"]
+,"windbreaker" : "WIND BREAKER"
+,"wingman" : "ウィングマン"
+,"winnie the pooh" : "クマのプーさん"
+,"witch craft works" : "ウィッチクラフトワークス"
+,"witchblade" : "ウィッチブレイド"
+,"witchs weapon" : "Witch's Weapon -魔女兵器"
+,"with you" : "With You"
+,"wizard of oz" : "オズの魔法使い"
+,"wizardry" : "ウィーザードリィ"
+,"wolfs rain" : "WOLF'S RAIN"
+,"wonder egg priority" : "ワンダーエッグ プライオリティ"
+,"wonder festival mascot" : "ワンダーフェスティバルマスコット"
+,"wonder momo" : "ワンダーモモ"
+,"wonder project j2" : "ワンダープロジェクトJ2 コルロの森のジョゼット"
+,"wonder woman" : "ワンダーウーマン"
+,"wonderful precure" : "わんだふるぷりきゅあ！"
+,"wonderland wars" : "Wonderland Wars"
+,"words worth" : "ワーズ・ワース"
+,"working" : "WORKING!!!"
+,"world flipper" : "ワールドフリッパー"
+,"world heroes" : "ワールドヒーローズ"
+,"world masterpiece theater" : "世界名作劇場"
+,"world of warcraft" : "World of Warcraft"
 ,"world teacher isekaishiki kyouiku agent" : "ワールド・ティーチャー -異世界式教育エージェント-"
+,"world trigger" : "ワールドトリガー"
+,"wotaku ni koi wa muzukashii" : "ヲタクに恋は難しい"
+,"wreck it ralph" : "シュガー・ラッシュ"
+,"wrestle angels" : "レッスルエンジェルス"
+,"wuqi mitu" : "無期迷途"
+,"wuthering waves" : "鳴潮"
+,"x change" : "XChange"
+,"xenoblade" : "ゼノブレイド"
+,"xenoblade chronicles 2" : "ゼノブレイド2"
+,"xenoblade chronicles 3" : "ゼノブレイド3"
+,"xenoblade x" : "ゼノブレイドクロス"
+,"xenogears" : "ゼノギアス"
+,"xenon mugen no shitai" : "XENON -夢幻の肢体-"
+,"xenosaga" : "ゼノサーガ"
+,"x-men" : "X-MEN"
+,"xxl woofia" : "XXL漢気二丁目"
+,"xxxholic" : "XXXHOLiC"
+,"yadamon" : "ヤダモン"
+,"yagate kimi ni naru" : "やがて君になる"
+,"yahari ore no seishun love come wa machigatteiru" : "やはり俺の青春ラブコメはまちがっている"
+,"yakitate japan" : "焼きたて!!ジャぱん"
+,"yakushiji ryouko no kaiki jikenbo" : "薬師寺涼子の怪奇事件簿"
+,"yakusoku no neverland" : "約束のネバーランド"
+,"yama no susume" : "ヤマノススメ"
+,"yamato gensouki" : "邪馬台幻想記"
+,"yamato takeru" : "ヤマトタケル"
+,"yami no matsuei" : "闇の末裔"
+,"yami to boushi to hon no tabibito" : "ヤミと帽子と本の旅人"
+,"yamitsuki" : "やみツキ！"
+,"yanineko" : "ヤニねこ"
+,"yarukkya knight" : "やるっきゃ騎士"
+,"yat space travel agency" : "YAT安心!宇宙旅行"
+,"yatterman" : "ヤッターマン"
+,"yawara" : "YAWARA!"
+,"yes precure 5" : "Yes！プリキュア5"
+,"yoake mae yori ruriiro na" : "夜明け前より瑠璃色な"
+,"yofukashi no uta" : "よふかしのうた"
+,"yokohama kaidashi kikou" : "ヨコハマ買い出し紀行"
+,"yomawari" : "夜廻"
+,"yondemasuyo azazel-san" : "よんでますよ、アザゼルさん。"
+,"yoru ga kuru" : "夜が来る!"
+,"yoru no kurage wa oyogenai" : "夜のクラゲは泳げない"
+,"yoru no yatterman" : "夜のヤッターマン"
+,"yoru to asa no uta" : "よるとあさの歌"
+,"yoshinaga-san chi no gargoyle" : "吉永さん家のガーゴイル"
+,"yosuga no sora" : "ヨスガノソラ"
+,"yotsubato" : "よつばと！"
+,"yotsunoha" : "よつのは"
+,"you shou yan" : "妖獣之獣"
+,"youjo senki" : "幼女戦記"
+,"youjuu club" : "妖獣クラブ"
+,"youjuu senki a.d. 2048" : "妖獣戦記 -A.D.2048-"
+,"youkai hyakkitan" : "妖怪百姫たん！"
+,"youkai watch" : "妖怪ウォッチ"
+,"youkoso jitsuryoku shijou shugi no kyoushitsu e" : "ようこそ実力至上主義の教室へ"
+,"youkoso sukebe elf no mori e" : "ようこそ！スケベエルフの森へ"
+,"young justice" : "ヤング・ジャスティス"
+,"youre under arrest" : "逮捕しちゃうぞ"
+,"yowamushi pedal" : "弱虫ペダル"
+,"ys" : "Ys"
+,"yu yu hakusho" : "幽遊白書"
+,"yu-gi-oh" : "遊☆戯☆王"
+,"yu-gi-oh 5ds" : "遊☆戯☆王5D's"
+,"yu-gi-oh arc-v" : "遊☆戯☆王ARC-V"
+,"yu-gi-oh go rush" : "遊☆戯☆王ゴーラッシュ!!"
+,"yu-gi-oh gx" : "遊☆戯☆王GX"
 ,"yu-gi-oh ocg structures" : "遊戯王OCG"
+,"yu-gi-oh sevens" : "遊☆戯☆王SEVENS"
+,"yu-gi-oh tag force" : "遊☆戯☆王 タッグフォース"
+,"yu-gi-oh vrains" : "遊☆戯☆王VRAINS"
+,"yu-gi-oh zexal" : "遊☆戯☆王ZEXAL"
 ,"yui to onii-chan no koko dake no hanashi" : "結衣とお兄ちゃんの＊だけの話"
+,"yukikaze" : "戦闘妖精・雪風"
+,"yume nikki" : "ゆめにっき"
+,"yume no crayon oukoku" : "夢のクレヨン王国"
+,"yume oukoku to nemureru 100-nin no ouji-sama" : "夢王国と眠れる100人の王子様"
 ,"yume shokunin to wasureji no kuroi yousei" : "夢職人と忘れじの黒い妖精"
+,"yumekui merry" : "夢喰いメリー"
+,"yumeria" : "ゆめりあ"
+,"yu-no" : "この世の果てで恋を唄う少女YU-NO"
+,"yuragisou no yuuna-san" : "ゆらぎ荘の幽奈さん"
+,"yuri on ice" : "ユーリ!!! on ICE"
+,"yurikuma arashi" : "ユリ熊嵐"
+,"yuru camp" : "ゆるキャン"
+,"yuruyuri" : "ゆるゆり"
+,"yuuki bakuhatsu bang bravern" : "勇気爆発バーンブレイバーン"
+,"yuuki yuuna wa yuusha de aru" : "結城友奈は勇者である"
+,"yuukyuu gensoukyoku" : "悠久幻想曲"
+,"yuukyuu no sharin" : "悠久の車輪"
+,"yuusha ni narenakatta ore wa shibushibu shuushoku wo ketsui shimashita." : "勇者になれなかった俺はしぶしぶ就職を決意しました。"
+,"yuusha no kuse ni namaiki da" : "勇者のくせになまいきだ。"
+,"yuusha party o tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau" : "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う"
+,"yuusha raideen" : "勇者ライディーン"
+,"yuusha to maou" : "まおゆう魔王勇者"
+,"yuyushiki" : "ゆゆ式"
+,"z slash x" : "Z/X -Zillions of enemy X-"
+,"zambot 3" : "無敵超人ザンボット3"
+,"zannen onna kanbu black general-san" : "残念女幹部ブラックジェネラルさん"
+,"zaregoto" : "戯言シリーズ"
+,"zegapain" : "ゼーガペイン"
+,"zeikin de katta hon" : "税金で買った本"
+,"zenkoku seifuku bishoujo grand prix" : "全国制服美少女グランプリ"
+,"zenless zone zero" : "ゼンレスゾーンゼロ"
+,"zero kara hajimeru mahou no sho" : "ゼロから始める魔法の書"
+,"zero no tsukaima" : "ゼロの使い魔"
+,"zeroin" : "ゼロイン"
+,"zeta gundam" : "機動戦士Ζガンダム"
+,"zetman" : "ZETMAN"
+,"zetsubou" : "絶望"
+,"zettai bouei leviathan" : "絶対防衛レヴィアタン"
+,"zettai junpaku mahou shoujo" : "絶対純白魔法少女"
+,"zettai karen children" : "絶対可憐チルドレン"
+,"zettai muteki raijin-oh" : "絶対無敵ライジンオー"
+,"ziga" : "ジガ-ZIGA-"
+,"zoids" : "ZOIDS"
+,"zoids field of rebellion" : "ZOIDS FIELD OF REBELLION"
 ,"zoids fuzors" : "ゾイドフューザーズ"
+,"zoids genesis" : "ゾイドジェネシス"
+,"zoids new century" : "ゾイド新世紀／ゼロ"
 ,"zoids wild" : "ゾイドワイルド"
-,"heion sedai no idaten-tachi" : "平穏世代の韋駄天達"
-,"bahamut lagoon" : "バハムートラグーン"
+,"zoids wild zero" : "ゾイドワイルド Zero"
+,"zom 100 zombie ni naru made ni shitai 100 no koto" : "ゾン100 ～ゾンビになるまでにしたい100のこと"
+,"zombie land saga" : "ゾンビランドサガ"
+,"zombie revenge" : "ゾンビリベンジ"
+,"zombiepowder." : "ZOMBIEPOWDER."
+,"zone of the enders" : "ZONE OF THE ENDERS"
+,"zootopia" : "ズートピア"
+,"zyuden sentai kyoryuger" : "獣電戦隊キョウリュウジャー"
 };
 var tags_ejdic = {
  "already uploaded" : {n:"アップロード済"}
@@ -17952,6 +17995,7 @@ var tags_ejdic = {
 ,"monkey" : {n:"猿"}
 ,"bull" : {m:"牡牛"}
 ,"tutor" : {n:"家庭教師"}
+,"widower" : {m:"寡夫"}
 ,"moth girl" : {f:"蛾少女"}
 ,"pirate" : {n:"海賊"}
 ,"nurse" : {n:"看護師",f:"看護婦"}
@@ -18005,7 +18049,6 @@ var tags_ejdic = {
 ,"octopus" : {n:"蛸"}
 ,"tomgirl" : {m:"男の娘"}
 ,"otokofutanari" : {m:"男ふたなり"}
-,"widower" : {m:"寡夫"}
 ,"schoolboy" : {m:"男子学生"}
 ,"ssbbm" : {m:"超肥満男性"}
 ,"tall man" : {m:"長身男"}
@@ -23552,72 +23595,72 @@ var chars_ejdic = {
 ,"gran" : {v:"グラン"}
 ,"shielder" : {v:"シールダー", m:{"fate grand order" : "マシュ・キリエライト(シールダー)"}}
 ,"nami" : {v:"ナミ"}
-,"shinji ikari" : {v:"碇シンジ"}
 ,"shikikan" : {v:"指揮官"}
+,"shinji ikari" : {v:"碇シンジ"}
 ,"sakuya izayoi" : {v:"十六夜咲夜"}
 ,"patchouli knowledge" : {v:"パチュリー・ノーレッジ"}
 ,"rei ayanami" : {v:"綾波レイ"}
 ,"naruto uzumaki" : {v:"うずまきナルト"}
 ,"sanae kochiya" : {v:"東風谷早苗"}
 ,"flandre scarlet" : {v:"フランドール・スカーレット"}
-,"rito yuuki" : {v:"結城梨斗"}
-,"asuna yuuki" : {v:"結城明日奈"}
 ,"tifa lockhart" : {v:"ティファ・ロックハート"}
+,"asuna yuuki" : {v:"結城明日奈"}
+,"rito yuuki" : {v:"結城梨斗"}
 ,"remilia scarlet" : {v:"レミリア・スカーレット"}
-,"fate testarossa" : {v:"フェイト・テスタロッサ"}
 ,"marisa kirisame" : {v:"霧雨魔理沙"}
+,"fate testarossa" : {v:"フェイト・テスタロッサ"}
 ,"chun-li" : {v:"春麗"}
 ,"kazuto kirigaya" : {v:"桐ヶ谷和人"}
-,"atago" : {v:"愛宕", m:{"azur lane" : "愛宕(IJN Atago)"}}
 ,"shirou emiya" : {v:"衛宮士郎"}
+,"atago" : {v:"愛宕", m:{"azur lane" : "愛宕(IJN Atago)"}}
 ,"mai shiranui" : {v:"不知火舞"}
+,"sailor mercury" : {v:"水野亜美(セーラーマーキュリー)"}
 ,"illyasviel von einzbern" : {v:"イリヤスフィール・フォン・アインツベルン"}
 ,"shimakaze" : {v:"島風", m:{"azur lane" : "島風(IJN Shimakaze)"}}
-,"sailor mercury" : {v:"水野亜美(セーラーマーキュリー)"}
 ,"sakura haruno" : {v:"春野サクラ"}
 ,"jeanne alter" : {v:"ジャンヌ［オルタ］"}
 ,"sakura kinomoto" : {v:"木之本桜"}
-,"alice margatroid" : {v:"アリス・マーガトロイド"}
 ,"gudako" : {v:"ぐだ子"}
+,"alice margatroid" : {v:"アリス・マーガトロイド"}
 ,"yukari yakumo" : {v:"八雲紫"}
-,"nanoha takamachi" : {v:"高町なのは"}
+,"sailor moon" : {v:"月野うさぎ(セーラームーン)"}
 ,"hinata hyuga" : {v:"日向ヒナタ"}
-,"aya shameimaru" : {v:"射命丸文"}
+,"nanoha takamachi" : {v:"高町なのは"}
 ,"minamoto no raikou" : {v:"源頼光"}
 ,"rin tosaka" : {v:"遠坂凛"}
+,"aya shameimaru" : {v:"射命丸文"}
 ,"satori komeiji" : {v:"古明地さとり"}
-,"reisen udongein inaba" : {v:"鈴仙・優曇華院・イナバ"}
 ,"ganyu" : {v:"甘雨"}
-,"kaga" : {v:"加賀", m:{"azur lane" : "加賀(IJN Kaga)"}}
-,"sailor moon" : {v:"月野うさぎ(セーラームーン)"}
 ,"asuna ichinose" : {v:"一之瀬アスナ"}
+,"reisen udongein inaba" : {v:"鈴仙・優曇華院・イナバ"}
+,"sailor jupiter" : {v:"木野まこと(セーラージュピター)"}
+,"kaga" : {v:"加賀", m:{"azur lane" : "加賀(IJN Kaga)"}}
 ,"saber" : {v:"セイバー"}
 ,"tsunade" : {v:"綱手"}
-,"kasumi" : {v:"カスミ", m:{"kantai collection" : "霞", "blue archive" : "鬼怒川カスミ", "azur lane" : "霞(IJN Kasumi)", "dead or alive" : "霞"}}
-,"sailor jupiter" : {v:"木野まこと(セーラージュピター)"}
 ,"nico robin" : {v:"ニコ・ロビン"}
+,"kasumi" : {v:"カスミ", m:{"kantai collection" : "霞", "blue archive" : "鬼怒川カスミ", "azur lane" : "霞(IJN Kasumi)", "dead or alive" : "霞"}}
+,"yuuka hayase" : {v:"早瀬ユウカ"}
 ,"kashima" : {v:"鹿島"}
 ,"youmu konpaku" : {v:"魂魄妖夢"}
-,"takao" : {v:"高雄", m:{"azur lane" : "高雄(IJN Takao)"}}
 ,"mikoto misaka" : {v:"御坂美琴"}
+,"takao" : {v:"高雄", m:{"azur lane" : "高雄(IJN Takao)"}}
 ,"artoria pendragon" : {v:"アルトリア・ペンドラゴン"}
-,"yuuka hayase" : {v:"早瀬ユウカ"}
-,"jeanne darc" : {v:"ジャンヌ・ダルク", m:{"azur lane" : "ジャンヌ・ダルク(FFNF Jeanne D'Arc)", "granblue fantasy" : "ジャンヌダルク"}}
 ,"miku hatsune" : {v:"初音ミク"}
-,"izuku midoriya" : {v:"緑谷出久"}
-,"aether" : {v:"空"}
-,"kyousuke kousaka" : {v:"高坂京介"}
-,"raiden shogun" : {v:"雷電将軍"}
+,"jeanne darc" : {v:"ジャンヌ・ダルク", m:{"azur lane" : "ジャンヌ・ダルク(FFNF Jeanne D'Arc)", "granblue fantasy" : "ジャンヌダルク"}}
 ,"sailor mars" : {v:"火野レイ(セーラーマーズ)"}
-,"scathach" : {v:"スカサハ"}
+,"aether" : {v:"空"}
+,"izuku midoriya" : {v:"緑谷出久"}
 ,"sailor venus" : {v:"愛野美奈子(セーラービーナス)"}
+,"raiden shogun" : {v:"雷電将軍"}
+,"kyousuke kousaka" : {v:"高坂京介"}
+,"scathach" : {v:"スカサハ"}
 ,"astolfo" : {v:"アストルフォ"}
 ,"mikan yuuki" : {v:"結城美柑"}
 ,"android 18" : {v:"18号"}
 ,"megumin" : {v:"めぐみん"}
+,"bulma briefs" : {v:"ブルマ・ブリーフ"}
 ,"mio akiyama" : {v:"秋山澪"}
 ,"koishi komeiji" : {v:"古明地こいし"}
-,"bulma briefs" : {v:"ブルマ・ブリーフ"}
 ,"maki nishikino" : {v:"西木野真姫"}
 ,"eli ayase" : {v:"絢瀬絵里"}
 ,"homura akemi" : {v:"暁美ほむら"}
@@ -23625,2289 +23668,2307 @@ var chars_ejdic = {
 ,"rin shibuya" : {v:"渋谷凛"}
 ,"haruhi suzumiya" : {v:"涼宮ハルヒ"}
 ,"kazuma satou" : {v:"佐藤和真"}
-,"golden darkness" : {v:"金色の闇"}
-,"touma kamijou" : {v:"上条当麻"}
-,"madoka kaname" : {v:"鹿目まどか"}
-,"koyomi araragi" : {v:"阿良々木暦"}
 ,"arisu tachibana" : {v:"橘ありす"}
-,"bb" : {v:"BB"}
-,"aqua" : {v:"アクア"}
+,"golden darkness" : {v:"金色の闇"}
 ,"lumine" : {v:"蛍"}
-,"kirino kousaka" : {v:"高坂桐乃"}
+,"touma kamijou" : {v:"上条当麻"}
+,"aqua" : {v:"アクア"}
+,"madoka kaname" : {v:"鹿目まどか"}
+,"bb" : {v:"BB"}
+,"koyomi araragi" : {v:"阿良々木暦"}
 ,"katsuki bakugou" : {v:"爆豪勝己"}
+,"kirino kousaka" : {v:"高坂桐乃"}
+,"suguha kirigaya" : {v:"桐ヶ谷直葉"}
 ,"belldandy" : {v:"ベルダンディー"}
 ,"kallen stadtfeld" : {v:"紅月カレン"}
 ,"sena kashiwazaki" : {v:"柏崎星奈"}
-,"suguha kirigaya" : {v:"桐ヶ谷直葉"}
 ,"azusa nakano" : {v:"中野梓"}
-,"mami tomoe" : {v:"巴マミ"}
 ,"chino kafuu" : {v:"香風智乃"}
 ,"hong meiling" : {v:"紅美鈴"}
+,"mami tomoe" : {v:"巴マミ"}
 ,"lelouch vi britannia" : {v:"ルルーシュ・ランペルージ"}
 ,"nico yazawa" : {v:"矢澤にこ"}
 ,"ran yakumo" : {v:"八雲藍"}
 ,"djeeta" : {v:"ジータ"}
+,"chloe von einzbern" : {v:"クロエ・フォン・アインツベルン"}
+,"rider" : {v:"ライダー"}
 ,"eren jaeger" : {v:"エレン・イェーガー"}
+,"toki asuma" : {v:"飛鳥馬トキ"}
 ,"nozomi tojo" : {v:"東條希"}
 ,"ayane" : {v:"綾音", m:{"nagasarete airantou" : "あやね"}}
-,"rider" : {v:"ライダー"}
-,"koakuma" : {v:"小悪魔"}
 ,"nightingale" : {v:"ナイチンゲール"}
-,"chloe von einzbern" : {v:"クロエ・フォン・アインツベルン"}
+,"koakuma" : {v:"小悪魔"}
+,"houshou marine" : {v:"宝鐘マリン"}
 ,"c.c." : {v:"C.C."}
-,"toki asuma" : {v:"飛鳥馬トキ"}
-,"ruri gokou" : {v:"五更瑠璃"}
 ,"hamakaze" : {v:"浜風", m:{"azur lane" : "浜風(IJN Hamakaze)"}}
+,"ruri gokou" : {v:"五更瑠璃"}
 ,"maya" : {v:"マヤ", m:{"kantai collection" : "摩耶", "azur lane" : "摩耶(IJN Maya)", "dragon quest iv" : "マーニャ", "dragon quest" : "マーニャ"}}
 ,"levi ackerman" : {v:"レヴィ・アッカーマン"}
 ,"suzuya" : {v:"鈴谷", m:{"azur lane" : "鈴谷(IJN Suzuya)"}}
-,"mika jougasaki" : {v:"城ヶ崎美嘉"}
 ,"yuuka kazami" : {v:"風見幽香"}
-,"yuyuko saigyouji" : {v:"西行寺幽々子"}
-,"suwako moriya" : {v:"洩矢諏訪子"}
-,"kotori minami" : {v:"南ことり"}
-,"houshou marine" : {v:"宝鐘マリン"}
-,"yae miko" : {v:"八重神子"}
-,"taihou" : {v:"大鳳", m:{"azur lane" : "大鳳(IJN Taihō)"}}
+,"mika jougasaki" : {v:"城ヶ崎美嘉"}
 ,"fern" : {v:"フェルン", m:{"pokemon" : "コージ"}}
+,"suwako moriya" : {v:"洩矢諏訪子"}
+,"yae miko" : {v:"八重神子"}
+,"yuyuko saigyouji" : {v:"西行寺幽々子"}
+,"taihou" : {v:"大鳳", m:{"azur lane" : "大鳳(IJN Taihō)"}}
+,"kotori minami" : {v:"南ことり"}
+,"mika misono" : {v:"聖園ミカ"}
 ,"kodaka hasegawa" : {v:"羽瀬川小鷹"}
-,"kongou" : {v:"金剛", m:{"azur lane" : "金剛(IJN Kongō)", "arpeggio of blue steel" : "コンゴウ"}}
 ,"yui kotegawa" : {v:"小手川唯"}
-,"haruka nanase" : {v:"七瀬遙"}
-,"warrior" : {v:"戦士"}
+,"kongou" : {v:"金剛", m:{"azur lane" : "金剛(IJN Kongō)", "arpeggio of blue steel" : "コンゴウ"}}
 ,"tomoyo daidouji" : {v:"大道寺知世"}
+,"warrior" : {v:"戦士"}
 ,"nagato" : {v:"長門", m:{"azur lane" : "長門(IJN Nagato)"}}
+,"haruka nanase" : {v:"七瀬遙"}
+,"sakura matou" : {v:"間桐桜"}
 ,"haruna" : {v:"榛名", m:{"azur lane" : "榛名(IJN Haruna)", "arpeggio of blue steel" : "ハルナ", "kore wa zombie desu ka" : "ハルナ"}}
 ,"rika jougasaki" : {v:"城ヶ崎莉嘉"}
 ,"hu tao" : {v:"胡桃"}
 ,"morrigan aensland" : {v:"モリガン・アーンスランド"}
-,"sakura matou" : {v:"間桐桜"}
-,"mika misono" : {v:"聖園ミカ"}
-,"shuten douji" : {v:"酒吞童子"}
-,"bianca whitaker" : {v:"ビアンカ"}
-,"boa hancock" : {v:"ボア・ハンコック"}
-,"umi sonoda" : {v:"園田海未"}
-,"makoto tachibana" : {v:"橘真琴"}
 ,"orihime inoue" : {v:"井上織姫"}
-,"mona megistus" : {v:"モナ"}
-,"minami nitta" : {v:"新田美波"}
-,"hina sorasaki" : {v:"空崎ヒナ"}
-,"ranma saotome" : {v:"早乙女らんま"}
-,"fumika sagisawa" : {v:"鷺沢文香"}
-,"karin kakudate" : {v:"角楯カリン"}
-,"yamato" : {v:"大和", m:{"one piece" : "ヤマト", "naruto" : "ヤマト", "arpeggio of blue steel" : "ヤマト"}}
+,"boa hancock" : {v:"ボア・ハンコック"}
+,"shuten douji" : {v:"酒吞童子"}
 ,"marin kitagawa" : {v:"喜多川海夢"}
-,"ako amau" : {v:"天雨アコ"}
-,"miyu edelfelt" : {v:"美遊・エーデルフェルト"}
-,"miki hoshii" : {v:"星井美希"}
-,"rangiku matsumoto" : {v:"松本乱菊"}
-,"prinz eugen" : {v:"プリンツ・オイゲン", m:{"kantai collection" : "Prinz Eugen(プリンツ・オイゲン)", "azur lane" : "プリンツ・オイゲン(KMS Prinz Eugen)"}}
-,"ichika orimura" : {v:"織斑一夏"}
+,"hina sorasaki" : {v:"空崎ヒナ"}
+,"bianca whitaker" : {v:"ビアンカ"}
+,"mona megistus" : {v:"モナ"}
+,"karin kakudate" : {v:"角楯カリン"}
+,"umi sonoda" : {v:"園田海未"}
 ,"kisaki ryuuge" : {v:"竜華キサキ"}
-,"yuki nagato" : {v:"長門有希"}
+,"minami nitta" : {v:"新田美波"}
+,"makoto tachibana" : {v:"橘真琴"}
+,"miyu edelfelt" : {v:"美遊・エーデルフェルト"}
+,"ranma saotome" : {v:"早乙女らんま"}
+,"ako amau" : {v:"天雨アコ"}
+,"yamato" : {v:"大和", m:{"one piece" : "ヤマト", "naruto" : "ヤマト", "arpeggio of blue steel" : "ヤマト"}}
+,"fumika sagisawa" : {v:"鷺沢文香"}
+,"rangiku matsumoto" : {v:"松本乱菊"}
 ,"yor forger" : {v:"ヨル・フォージャー"}
-,"shigure" : {v:"時雨", m:{"azur lane" : "時雨(IJN Shigure)", "hataage kemono michi" : "シグレ"}}
-,"uzuki shimamura" : {v:"島村卯月"}
+,"miki hoshii" : {v:"星井美希"}
+,"ichika orimura" : {v:"織斑一夏"}
+,"prinz eugen" : {v:"プリンツ・オイゲン", m:{"kantai collection" : "Prinz Eugen(プリンツ・オイゲン)", "azur lane" : "プリンツ・オイゲン(KMS Prinz Eugen)"}}
+,"yuki nagato" : {v:"長門有希"}
+,"pyra" : {v:"ホムラ"}
 ,"byakuren hijiri" : {v:"聖白蓮"}
 ,"kokkoro" : {v:"コッコロ"}
-,"pyra" : {v:"ホムラ"}
+,"rio tsukatsuki" : {v:"調月リオ"}
+,"rosa" : {v:"ローザ", m:{"pokemon" : "メイ", "arknights" : "ロサ", "king of fighters" : "エル・ローザ", "dragon quest iv" : "ロザリー"}}
+,"shigure" : {v:"時雨", m:{"azur lane" : "時雨(IJN Shigure)", "hataage kemono michi" : "シグレ"}}
+,"uzuki shimamura" : {v:"島村卯月"}
 ,"rem" : {v:"レム"}
 ,"darkness" : {v:"ダクネス"}
-,"rosa" : {v:"ローザ", m:{"pokemon" : "メイ", "arknights" : "ロサ", "king of fighters" : "エル・ローザ", "dragon quest iv" : "ロザリー"}}
-,"keqing" : {v:"刻晴"}
 ,"cirno" : {v:"チルノ"}
 ,"musashi miyamoto" : {v:"宮本武蔵"}
+,"hoshino takanashi" : {v:"小鳥遊ホシノ"}
+,"keqing" : {v:"刻晴"}
+,"link" : {v:"リンク"}
 ,"takane shijou" : {v:"四条貴音"}
 ,"charlotte dunois" : {v:"シャルロット・デュノア"}
-,"link" : {v:"リンク"}
-,"tenshi hinanai" : {v:"比那名居天子"}
-,"tamaki kousaka" : {v:"向坂環"}
+,"kyouko sakura" : {v:"佐倉杏子"}
 ,"pecorine" : {v:"ぺコリーヌ"}
 ,"abigail williams" : {v:"アビゲイル・ウィリアムズ"}
-,"hoshino takanashi" : {v:"小鳥遊ホシノ"}
-,"kyouko sakura" : {v:"佐倉杏子"}
+,"tenshi hinanai" : {v:"比那名居天子"}
+,"mari iochi" : {v:"伊落マリー"}
+,"tamaki kousaka" : {v:"向坂環"}
+,"noa ushio" : {v:"生塩ノア"}
 ,"misato katsuragi" : {v:"葛城ミサト"}
-,"nitori kawashiro" : {v:"河城にとり"}
 ,"hibiki" : {v:"響", m:{"azur lane" : "響(IJN Hibiki)", "gundam build fighters try" : "ヒビキ"}}
 ,"kyon" : {v:"キョン"}
-,"mari iochi" : {v:"伊落マリー"}
-,"may" : {v:"メイ", m:{"pokemon" : "ハルカ"}}
-,"cammy white" : {v:"キャミィ・ホワイト"}
-,"tamamo no mae" : {v:"玉藻の前"}
-,"hero" : {v:"ヒーロー(HMS Hero)", m:{"dragon quest iii" : "勇者", "dragon quest" : "勇者", "etrian odyssey" : "ヒーロー", "goblin slayer" : "ゴブリンスレイヤー", "omori" : "ヒロ"}}
-,"rio tsukatsuki" : {v:"調月リオ"}
-,"tenryuu" : {v:"天龍"}
+,"nitori kawashiro" : {v:"河城にとり"}
 ,"frieren" : {v:"フリーレン"}
+,"may" : {v:"メイ", m:{"pokemon" : "ハルカ"}}
+,"hero" : {v:"ヒーロー(HMS Hero)", m:{"dragon quest iii" : "勇者", "dragon quest" : "勇者", "etrian odyssey" : "ヒーロー", "goblin slayer" : "ゴブリンスレイヤー", "omori" : "ヒロ"}}
+,"tamamo no mae" : {v:"玉藻の前"}
 ,"yoruichi shihoin" : {v:"四楓院夜一"}
-,"nakoruru" : {v:"ナコルル"}
-,"sakura kasugano" : {v:"春日野さくら"}
-,"iori minase" : {v:"水瀬伊織"}
-,"rin kaenbyou" : {v:"火焔猫燐"}
-,"belfast" : {v:"ベルファスト", m:{"azur lane" : "ベルファスト(HMS Belfast)"}}
-,"ruri hoshino" : {v:"ホシノ・ルリ"}
-,"honoka kosaka" : {v:"高坂穂乃果"}
-,"noa ushio" : {v:"生塩ノア"}
-,"cleric" : {v:"僧侶"}
-,"eula lawrence" : {v:"エウルア・ローレンス"}
-,"utsuho reiuji" : {v:"霊烏路空"}
-,"eirin yagokoro" : {v:"八意永琳"}
-,"hoshimachi suisei" : {v:"星街すいせい"}
-,"yui hirasawa" : {v:"平沢唯"}
-,"momo velia deviluke" : {v:"モモ・ベリア・デビルーク"}
-,"shenhe" : {v:"申鶴"}
+,"cammy white" : {v:"キャミィ・ホワイト"}
+,"tenryuu" : {v:"天龍"}
 ,"sailor chibi moon" : {v:"ちびうさ(セーラーちびムーン)"}
-,"momoka sakurai" : {v:"櫻井桃華"}
+,"hoshimachi suisei" : {v:"星街すいせい"}
+,"sakura kasugano" : {v:"春日野さくら"}
+,"nakoruru" : {v:"ナコルル"}
+,"rin kaenbyou" : {v:"火焔猫燐"}
+,"iori minase" : {v:"水瀬伊織"}
+,"belfast" : {v:"ベルファスト", m:{"azur lane" : "ベルファスト(HMS Belfast)"}}
+,"eula lawrence" : {v:"エウルア・ローレンス"}
+,"ruri hoshino" : {v:"ホシノ・ルリ"}
 ,"sailor saturn" : {v:"土萠ほたる(セーラーサターン)"}
+,"doctor" : {v:"ドクター"}
+,"honoka kosaka" : {v:"高坂穂乃果"}
+,"cleric" : {v:"僧侶"}
+,"utsuho reiuji" : {v:"霊烏路空"}
+,"nekomata okayu" : {v:"猫又おかゆ"}
+,"eirin yagokoro" : {v:"八意永琳"}
 ,"lillie" : {v:"リーリエ"}
-,"miho nishizumi" : {v:"西住みほ"}
+,"momoka sakurai" : {v:"櫻井桃華"}
+,"shenhe" : {v:"申鶴"}
+,"momo velia deviluke" : {v:"モモ・ベリア・デビルーク"}
+,"yui hirasawa" : {v:"平沢唯"}
 ,"2b" : {v:"2B"}
+,"cynthia" : {v:"シンシア", m:{"pokemon" : "シロナ"}}
+,"hestia" : {v:"ヘスティア"}
+,"miho nishizumi" : {v:"西住みほ"}
 ,"sage" : {v:"賢者", m:{"ragnarok online" : "セージ", "sonic the hedgehog" : "セージ"}}
 ,"hachiman hikigaya" : {v:"比企谷八幡"}
-,"hestia" : {v:"ヘスティア"}
-,"mari illustrious makinami" : {v:"真希波・マリ・イラストリアス"}
-,"doctor" : {v:"ドクター"}
-,"narmaya" : {v:"ナルメア"}
-,"subaru natsuki" : {v:"ナツキ・スバル"}
-,"rin matsuoka" : {v:"松岡凛"}
-,"cynthia" : {v:"シンシア", m:{"pokemon" : "シロナ"}}
-,"akagi" : {v:"赤城", m:{"azur lane" : "赤城(IJN Akagi)"}}
-,"lala satalin deviluke" : {v:"ララ・サタリン・デビルーク"}
 ,"ayaka kamisato" : {v:"神里綾華"}
+,"subaru natsuki" : {v:"ナツキ・スバル"}
+,"mari illustrious makinami" : {v:"真希波・マリ・イラストリアス"}
+,"rin matsuoka" : {v:"松岡凛"}
+,"narmaya" : {v:"ナルメア"}
+,"nino nakano" : {v:"中野二乃"}
+,"lala satalin deviluke" : {v:"ララ・サタリン・デビルーク"}
+,"akagi" : {v:"赤城", m:{"azur lane" : "赤城(IJN Akagi)"}}
+,"sailor uranus" : {v:"天王はるか(セーラーウラヌス)"}
+,"hasumi hanekawa" : {v:"羽川ハスミ"}
+,"nahida" : {v:"ナヒーダ"}
 ,"kuroko shirai" : {v:"白井黒子"}
 ,"rumia" : {v:"ルーミア"}
-,"nahida" : {v:"ナヒーダ"}
-,"nino nakano" : {v:"中野二乃"}
-,"haruna sairenji" : {v:"西連寺春奈"}
-,"mikasa ackerman" : {v:"ミカサ・アッカーマン"}
-,"tsumugi kotobuki" : {v:"琴吹紬"}
-,"mythra" : {v:"ミスラ", m:{"xenoblade chronicles 2" : "ヒカリ", "xenoblade" : "ヒカリ", "xenoblade chronicles 3" : "ヒカリ"}}
-,"shiho nishizumi" : {v:"西住しほ"}
-,"madoka higuchi" : {v:"樋口円香"}
-,"sasuke uchiha" : {v:"うちはサスケ"}
-,"kasen ibara" : {v:"茨木華扇"}
-,"sayaka miki" : {v:"美樹さやか"}
-,"hitori gotou" : {v:"後藤ひとり"}
-,"dark magician girl" : {v:"ダークマジシャンガール"}
-,"mikuru asahina" : {v:"朝比奈ミクル"}
-,"sailor uranus" : {v:"天王はるか(セーラーウラヌス)"}
-,"archer" : {v:"アーチャー", m:{"pokemon" : "アポロ", "dragons crown" : "エルフ"}}
-,"ritsu tainaka" : {v:"田井中律"}
-,"tewi inaba" : {v:"因幡てゐ"}
-,"hasumi hanekawa" : {v:"羽川ハスミ"}
-,"souji okita" : {v:"沖田総司", m:{"sengoku collection" : "白蓮・沖田総司"}}
 ,"firefly" : {v:"ホタル"}
-,"chie sasaki" : {v:"佐々木千枝"}
-,"yoko ritona" : {v:"ヨーコ・リットナー"}
-,"senritsu no tatsumaki" : {v:"戦慄のタツマキ"}
+,"mythra" : {v:"ミスラ", m:{"xenoblade chronicles 2" : "ヒカリ", "xenoblade" : "ヒカリ", "xenoblade chronicles 3" : "ヒカリ"}}
+,"hitori gotou" : {v:"後藤ひとり"}
+,"madoka higuchi" : {v:"樋口円香"}
+,"mikasa ackerman" : {v:"ミカサ・アッカーマン"}
+,"haruna sairenji" : {v:"西連寺春奈"}
+,"tsumugi kotobuki" : {v:"琴吹紬"}
+,"dark magician girl" : {v:"ダークマジシャンガール"}
+,"sasuke uchiha" : {v:"うちはサスケ"}
+,"shiho nishizumi" : {v:"西住しほ"}
+,"sayaka miki" : {v:"美樹さやか"}
+,"kasen ibara" : {v:"茨木華扇"}
+,"shirakami fubuki" : {v:"白上フブキ"}
 ,"makima" : {v:"マキマ"}
-,"athena asamiya" : {v:"麻宮アテナ"}
-,"lana" : {v:"ラナ", m:{"pokemon" : "スイレン", "mega man star force" : "ラーナ", "fire emblem genealogy of the holy war" : "ラーナ"}}
+,"mikuru asahina" : {v:"朝比奈ミクル"}
+,"alice tendou" : {v:"天童アリス"}
+,"tewi inaba" : {v:"因幡てゐ"}
+,"ritsu tainaka" : {v:"田井中律"}
+,"souji okita" : {v:"沖田総司", m:{"sengoku collection" : "白蓮・沖田総司"}}
+,"archer" : {v:"アーチャー", m:{"pokemon" : "アポロ", "dragons crown" : "エルフ"}}
+,"chie sasaki" : {v:"佐々木千枝"}
 ,"chisato nishikigi" : {v:"錦木千束"}
+,"senritsu no tatsumaki" : {v:"戦慄のタツマキ"}
+,"miku nakano" : {v:"中野美玖"}
+,"lana" : {v:"ラナ", m:{"pokemon" : "スイレン", "mega man star force" : "ラーナ", "fire emblem genealogy of the holy war" : "ラーナ"}}
+,"princess zelda" : {v:"ゼルダ王女"}
+,"yoko ritona" : {v:"ヨーコ・リットナー"}
+,"red saber" : {v:"赤セイバー"}
+,"shiroko sunaookami" : {v:"砂狼シロコ"}
+,"koharu shimoe" : {v:"下江コハル"}
+,"videl" : {v:"ビーデル"}
+,"athena asamiya" : {v:"麻宮アテナ"}
+,"kafka" : {v:"カフカ"}
+,"kazusa kyouyama" : {v:"杏山カズサ"}
 ,"serena" : {v:"セレナ"}
 ,"hayate yagami" : {v:"八神はやて"}
-,"red saber" : {v:"赤セイバー"}
-,"videl" : {v:"ビーデル"}
-,"princess zelda" : {v:"ゼルダ王女"}
 ,"ash ketchum" : {v:"サトシ"}
-,"koharu shimoe" : {v:"下江コハル"}
+,"ochako uraraka" : {v:"麗日お茶子"}
 ,"hatate himekaidou" : {v:"姫海棠はたて"}
-,"kafka" : {v:"カフカ"}
-,"alice tendou" : {v:"天童アリス"}
-,"shiroko sunaookami" : {v:"砂狼シロコ"}
-,"keine kamishirasawa" : {v:"上白沢慧音"}
+,"nilou" : {v:"ニィロウ"}
+,"barbara pegg" : {v:"バーバラ"}
 ,"fujiwara no mokou" : {v:"藤原妹紅"}
 ,"louise francoise le blanc de la valliere" : {v:"ルイズ・フランソワーズ・ル・ブラン・ド・ラ・ヴァリエール"}
-,"miku nakano" : {v:"中野美玖"}
-,"ochako uraraka" : {v:"麗日お茶子"}
-,"barbara pegg" : {v:"バーバラ"}
+,"keine kamishirasawa" : {v:"上白沢慧音"}
+,"focalors" : {v:"フォカロルス"}
 ,"misty" : {v:"ミスティ", m:{"pokemon" : "カスミ"}}
-,"shirakami fubuki" : {v:"白上フブキ"}
-,"lunamaria hawke" : {v:"ルナマリア・ホーク"}
 ,"lum" : {v:"ラム"}
 ,"inazuma" : {v:"電", m:{"azur lane" : "電(IJN Inazuma)"}}
-,"chen" : {v:"橙(ちぇん)"}
-,"kazusa kyouyama" : {v:"杏山カズサ"}
-,"nilou" : {v:"ニィロウ"}
-,"ahri" : {v:"アーリ"}
-,"focalors" : {v:"フォカロルス"}
-,"gilgamesh" : {v:"ギルガメッシュ", m:{"tower of druaga" : "ギルガメス"}}
 ,"kama" : {v:"カーマ"}
-,"maho nishizumi" : {v:"西住まほ"}
-,"miria akagi" : {v:"赤城みりあ"}
-,"riko sakurauchi" : {v:"桜内梨子"}
-,"you watanabe" : {v:"渡辺曜"}
-,"kaede takagaki" : {v:"高垣楓"}
-,"shinobu kochou" : {v:"胡蝶しのぶ"}
-,"kokoa hoto" : {v:"保登心愛"}
+,"lunamaria hawke" : {v:"ルナマリア・ホーク"}
+,"chen" : {v:"橙(ちぇん)"}
+,"ahri" : {v:"アーリ"}
 ,"son goku" : {v:"孫悟空"}
-,"shoukaku" : {v:"翔鶴", m:{"azur lane" : "翔鶴(IJN Shōkaku)"}}
-,"son gohan" : {v:"孫悟飯"}
-,"yuuki" : {v:"ユウキ"}
-,"kyaru" : {v:"キャル"}
-,"onpu segawa" : {v:"瀬川おんぷ"}
-,"chi chi" : {v:"チチ"}
 ,"hanako urawa" : {v:"浦和ハナコ"}
-,"lacus clyne" : {v:"ラクス・クライン"}
-,"nekomata okayu" : {v:"猫又おかゆ"}
-,"kagami hiiragi" : {v:"柊かがみ"}
-,"cattleya" : {v:"カトレア"}
-,"nue houjuu" : {v:"封獣ぬえ"}
-,"isuzu sento" : {v:"千斗いすず"}
+,"gilgamesh" : {v:"ギルガメッシュ", m:{"tower of druaga" : "ギルガメス"}}
+,"son gohan" : {v:"孫悟飯"}
+,"shinobu kochou" : {v:"胡蝶しのぶ"}
+,"miria akagi" : {v:"赤城みりあ"}
+,"kaede takagaki" : {v:"高垣楓"}
+,"maho nishizumi" : {v:"西住まほ"}
+,"chi chi" : {v:"チチ"}
+,"kokoa hoto" : {v:"保登心愛"}
+,"you watanabe" : {v:"渡辺曜"}
+,"riko sakurauchi" : {v:"桜内梨子"}
+,"onpu segawa" : {v:"瀬川おんぷ"}
+,"shoukaku" : {v:"翔鶴", m:{"azur lane" : "翔鶴(IJN Shōkaku)"}}
 ,"hilichurl" : {v:"ヒルチャール"}
-,"bremerton" : {v:"ブレマートン", m:{"azur lane" : "ブレマートン(USS Bremerton)"}}
+,"kyaru" : {v:"キャル"}
+,"yuuki" : {v:"ユウキ"}
 ,"formidable" : {v:"フォーミダブル", m:{"azur lane" : "フォーミダブル(HMS Formidable)"}}
-,"cecilia alcott" : {v:"セシリア・オルコット"}
+,"nue houjuu" : {v:"封獣ぬえ"}
+,"bremerton" : {v:"ブレマートン", m:{"azur lane" : "ブレマートン(USS Bremerton)"}}
+,"lacus clyne" : {v:"ラクス・クライン"}
 ,"cure black" : {v:"美墨なぎさ(キュアブラック)"}
+,"kagami hiiragi" : {v:"柊かがみ"}
+,"oozora subaru" : {v:"大空スバル"}
+,"cattleya" : {v:"カトレア"}
 ,"zuikaku" : {v:"瑞鶴", m:{"azur lane" : "瑞鶴(IJN Zuikaku)"}}
+,"isuzu sento" : {v:"千斗いすず"}
 ,"hilda" : {v:"ヒルダ", m:{"pokemon" : "トウコ"}}
-,"kagerou imaizumi" : {v:"今泉影狼"}
 ,"misaki shokuhou" : {v:"食蜂操祈"}
+,"cecilia alcott" : {v:"セシリア・オルコット"}
+,"morgan le fay" : {v:"ルガン・ル・フェ"}
+,"kagerou imaizumi" : {v:"今泉影狼"}
+,"gardevoir" : {v:"サーナイト"}
 ,"yukari yuzuki" : {v:"結月ゆかり"}
+,"samus aran" : {v:"サムス・アラン"}
 ,"akatsuki" : {v:"暁", m:{"azur lane" : "暁(IJN Akatsuki)", "log horizon" : "アカツキ"}}
 ,"shino asada" : {v:"朝田詩乃"}
-,"amatsukaze" : {v:"天津風"}
-,"samus aran" : {v:"サムス・アラン"}
-,"azusa miura" : {v:"三浦あずさ"}
 ,"master roshi" : {v:"亀仙人"}
+,"amatsukaze" : {v:"天津風"}
+,"azusa miura" : {v:"三浦あずさ"}
+,"cure white" : {v:"雪城ほのか(キュアホワイト)"}
 ,"monkey d. luffy" : {v:"モンキー・D・ルフィ"}
 ,"rinko iori" : {v:"イオリ・リン子"}
-,"gardevoir" : {v:"サーナイト"}
-,"morgan le fay" : {v:"ルガン・ル・フェ"}
+,"shirogane noel" : {v:"白銀ノエル"}
 ,"len kagamine" : {v:"鏡音レン"}
 ,"ikazuchi" : {v:"雷", m:{"azur lane" : "雷(IJN Ikazuchi)"}}
-,"riesz" : {v:"リーズ"}
-,"cure white" : {v:"雪城ほのか(キュアホワイト)"}
-,"mutsuki asagi" : {v:"浅黄ムツキ"}
-,"ritsuko akagi" : {v:"赤城リツコ"}
-,"akiko minase" : {v:"水瀬秋子"}
-,"bismarck" : {v:"ビスマルク", m:{"kantai collection" : "Bismarck(ビスマルク)", "azur lane" : "ビスマルク(KMS Bismarck)"}}
 ,"fuyuko mayuzumi" : {v:"黛冬優子"}
+,"riesz" : {v:"リーズ"}
+,"bismarck" : {v:"ビスマルク", m:{"kantai collection" : "Bismarck(ビスマルク)", "azur lane" : "ビスマルク(KMS Bismarck)"}}
+,"mutsuki asagi" : {v:"浅黄ムツキ"}
 ,"nene anegasaki" : {v:"姉ヶ崎寧々"}
+,"akiko minase" : {v:"水瀬秋子"}
+,"ritsuko akagi" : {v:"赤城リツコ"}
+,"minato aqua" : {v:"湊あくあ"}
 ,"saito hiraga" : {v:"平賀才人"}
 ,"darjeeling" : {v:"ダージリン"}
 ,"cagliostro" : {v:"カリオストロ"}
-,"shinobu oshino" : {v:"忍野忍"}
 ,"cloud strife" : {v:"クラウド・ストライフ"}
 ,"konata izumi" : {v:"泉こなた"}
-,"oozora subaru" : {v:"大空スバル"}
-,"shirogane noel" : {v:"白銀ノエル"}
+,"shinobu oshino" : {v:"忍野忍"}
 ,"doremi harukaze" : {v:"春風どれみ"}
-,"minato aqua" : {v:"湊あくあ"}
-,"jean gunnhildr" : {v:"ジン・グンヒルド"}
-,"ro-500" : {v:"呂500"}
-,"jessica albert" : {v:"ゼシカ・アルバート"}
 ,"mallow" : {v:"マロウ", m:{"pokemon" : "マオ", "super mario brothers" : "マロ"}}
+,"jean gunnhildr" : {v:"ジン・グンヒルド"}
+,"jessica albert" : {v:"ゼシカ・アルバート"}
+,"kanna ogata" : {v:"尾刃カンナ"}
+,"sailor neptune" : {v:"海王みちる(セーラーネプチューン)"}
+,"nonomi izayoi" : {v:"十六夜ノノミ"}
 ,"akira kurusu" : {v:"来栖暁"}
+,"ro-500" : {v:"呂500"}
 ,"chiyuki kuwayama" : {v:"桑山千雪"}
+,"dawn" : {v:"ドーン", m:{"pokemon" : "ヒカリ"}}
 ,"bridget" : {v:"ブリジット"}
 ,"tsubasa hanekawa" : {v:"羽川翼"}
-,"chihaya kisaragi" : {v:"如月千早"}
-,"unicorn" : {v:"ユニコーン", m:{"azur lane" : "ユニコーン(HMS Unicorn)"}}
-,"dawn" : {v:"ドーン", m:{"pokemon" : "ヒカリ"}}
-,"mutsu" : {v:"陸奥", m:{"azur lane" : "陸奥(IJN Mutsu)"}}
-,"cure beauty" : {v:"青木れいか(キュアビューティ)"}
 ,"saren sasaki" : {v:"佐々木咲恋(サレン)"}
-,"artoria pendragon alter" : {v:"アルトリア・ペンドラゴン［オルタ］"}
-,"rin hoshizora" : {v:"星空凛"}
-,"meer campbell" : {v:"ミーア・キャンベル"}
+,"unicorn" : {v:"ユニコーン", m:{"azur lane" : "ユニコーン(HMS Unicorn)"}}
+,"karamatsu matsuno" : {v:"松野カラ松"}
 ,"sakamata chloe" : {v:"沙花叉クロヱ"}
+,"artoria pendragon alter" : {v:"アルトリア・ペンドラゴン［オルタ］"}
+,"mutsu" : {v:"陸奥", m:{"azur lane" : "陸奥(IJN Mutsu)"}}
+,"chihaya kisaragi" : {v:"如月千早"}
+,"cure beauty" : {v:"青木れいか(キュアビューティ)"}
+,"aru rikuhachima" : {v:"陸八幡アル"}
+,"rin hoshizora" : {v:"星空凛"}
+,"ishtar" : {v:"イシュタル"}
+,"kayoko onikata" : {v:"鬼方カヨコ"}
+,"meer campbell" : {v:"ミーア・キャンベル"}
+,"aerith gainsborough" : {v:"エアリス・ゲインズブール"}
+,"kiyohime" : {v:"清姫"}
+,"yuu narukami" : {v:"鳴上悠"}
 ,"ichigo kurosaki" : {v:"黒崎一護"}
 ,"saori joumae" : {v:"錠前サオリ"}
 ,"ritsuko akizuki" : {v:"秋月律子"}
-,"hitagi senjougahara" : {v:"戦場ヶ原ひたぎ"}
-,"ishtar" : {v:"イシュタル"}
-,"nonomi izayoi" : {v:"十六夜ノノミ"}
-,"kiyohime" : {v:"清姫"}
-,"aerith gainsborough" : {v:"エアリス・ゲインズブール"}
-,"yuu narukami" : {v:"鳴上悠"}
-,"yoshiko tsushima" : {v:"津島善子"}
-,"aru rikuhachima" : {v:"陸八幡アル"}
-,"kayoko onikata" : {v:"鬼方カヨコ"}
 ,"mordred pendragon" : {v:"モードレッド・ペンドラゴン"}
-,"cure march" : {v:"緑川なお(キュアマーチ)"}
-,"nazrin" : {v:"ナズーリン"}
+,"hitagi senjougahara" : {v:"戦場ヶ原ひたぎ"}
 ,"marnie" : {v:"マリィ", m:{"omoide no marnie" : "マーニー"}}
+,"boudica" : {v:"ブーディカ"}
+,"jigoku no fubuki" : {v:"地獄のフブキ"}
+,"nazrin" : {v:"ナズーリン"}
+,"yoshiko tsushima" : {v:"津島善子"}
+,"cure march" : {v:"緑川なお(キュアマーチ)"}
+,"yelan" : {v:"夜蘭"}
 ,"ayase aragaki" : {v:"新垣あやせ"}
+,"yui kusano" : {v:"草野優衣(ユイ)"}
+,"komachi onozuka" : {v:"小野塚小町"}
+,"makoto kikuchi" : {v:"菊地真"}
 ,"ranko kanzaki" : {v:"神崎蘭子"}
-,"saber alter" : {v:"セイバー［オルタ］"}
+,"musashi" : {v:"武蔵", m:{"azur lane" : "武蔵(IJN Musashi)", "ganbare goemon" : "ムサシ"}}
 ,"alena" : {v:"アリーナ"}
 ,"shinobu maehara" : {v:"前原しのぶ"}
 ,"takaaki kouno" : {v:"河野貴明"}
-,"yelan" : {v:"夜蘭"}
-,"boudica" : {v:"ブーディカ"}
-,"kanako yasaka" : {v:"八坂神奈子"}
-,"komachi onozuka" : {v:"小野塚小町"}
-,"makoto kikuchi" : {v:"菊地真"}
+,"tokoyami towa" : {v:"常闇トワ"}
 ,"cure peace" : {v:"黄瀬やよい(キュアピース)"}
-,"jigoku no fubuki" : {v:"地獄のフブキ"}
-,"musashi" : {v:"武蔵", m:{"azur lane" : "武蔵(IJN Musashi)", "ganbare goemon" : "ムサシ"}}
-,"sailor neptune" : {v:"海王みちる(セーラーネプチューン)"}
-,"karamatsu matsuno" : {v:"松野カラ松"}
-,"mysterious heroine x" : {v:"謎のヒロインX"}
-,"momo yaoyorozu" : {v:"八百万百"}
 ,"emilia" : {v:"エミリア", m:{"houkago saikoro club" : "エミーリア"}}
+,"saber alter" : {v:"セイバー［オルタ］"}
+,"kanako yasaka" : {v:"八坂神奈子"}
+,"ookami mio" : {v:"大神ミオ"}
+,"shouko komi" : {v:"古見硝子"}
+,"ellen joe" : {v:"エレン・ジョー"}
+,"momo yaoyorozu" : {v:"八百万百"}
+,"mysterious heroine x" : {v:"謎のヒロインX"}
 ,"yuffie kisaragi" : {v:"ユフィ・キサラギ"}
 ,"iku nagae" : {v:"永江衣玖"}
-,"yui kusano" : {v:"草野優衣(ユイ)"}
-,"naru narusegawa" : {v:"成瀬川なる"}
 ,"suika ibuki" : {v:"伊吹萃香"}
-,"kanna ogata" : {v:"尾刃カンナ"}
 ,"index librorum prohibitorum" : {v:"インデックス"}
 ,"lyfa" : {v:"リーファ"}
-,"rukia kuchiki" : {v:"朽木ルキア"}
-,"shouko komi" : {v:"古見硝子"}
-,"kobato hasegawa" : {v:"羽瀬川小鳩"}
-,"kokomi sangonomiya" : {v:"珊瑚宮心海"}
-,"koume shirasaka" : {v:"白坂小梅"}
-,"meena" : {v:"ミネア", m:{"brave story" : "ミーナ"}}
-,"yuuichi aizawa" : {v:"相沢祐一"}
-,"lei fang" : {v:"レイファン"}
-,"ruiko saten" : {v:"佐天涙子"}
-,"haruka amami" : {v:"天海春香"}
-,"lucy heartfilia" : {v:"ルーシィ・ハートフィリア"}
-,"eiki shiki" : {v:"四季映姫"}
-,"ino yamanaka" : {v:"山中いの"}
-,"gawr gura" : {v:"がうる・ぐら"}
-,"ushiwakamaru" : {v:"牛若丸"}
 ,"yukihana lamy" : {v:"雪花ラミィ"}
-,"rikka takanashi" : {v:"小鳥遊六花"}
-,"yukiho hagiwara" : {v:"萩原雪歩"}
-,"murasaki shion" : {v:"紫シオン"}
+,"kokomi sangonomiya" : {v:"珊瑚宮心海"}
+,"naru narusegawa" : {v:"成瀬川なる"}
+,"koume shirasaka" : {v:"白坂小梅"}
+,"kobato hasegawa" : {v:"羽瀬川小鳩"}
+,"meena" : {v:"ミネア", m:{"brave story" : "ミーナ"}}
+,"rukia kuchiki" : {v:"朽木ルキア"}
+,"yuuichi aizawa" : {v:"相沢祐一"}
+,"ruiko saten" : {v:"佐天涙子"}
+,"gawr gura" : {v:"がうる・ぐら"}
+,"lei fang" : {v:"レイファン"}
+,"lucy heartfilia" : {v:"ルーシィ・ハートフィリア"}
 ,"rex" : {v:"レックス", m:{"animal crossing" : "サンデー"}}
-,"tokoyami towa" : {v:"常闇トワ"}
-,"leonardo da vinci" : {v:"レオナルド・ダ・ヴィンチ"}
+,"sparkle" : {v:"花火"}
+,"ino yamanaka" : {v:"山中いの"}
+,"chris yukine" : {v:"雪音クリス"}
+,"haruka amami" : {v:"天海春香"}
+,"eiki shiki" : {v:"四季映姫"}
+,"murasaki shion" : {v:"紫シオン"}
+,"itsuki nakano" : {v:"中野五月"}
+,"ushiwakamaru" : {v:"牛若丸"}
+,"yukiho hagiwara" : {v:"萩原雪歩"}
 ,"wriggle nightbug" : {v:"リグル・ナイトバグ"}
+,"ichika nakano" : {v:"中野一花"}
+,"leonardo da vinci" : {v:"レオナルド・ダ・ヴィンチ"}
+,"rikka takanashi" : {v:"小鳥遊六花"}
+,"seia yurizono" : {v:"百合園セイア"}
+,"kogasa tatara" : {v:"多々良小傘"}
+,"nobara kugisaki" : {v:"釘崎野薔薇"}
+,"rumi usagiyama" : {v:"兎山ルミ"}
 ,"junichi tachibana" : {v:"橘純一"}
-,"ellen joe" : {v:"エレン・ジョー"}
+,"murakumo" : {v:"叢雲", m:{"senran kagura" : "叢"}}
 ,"hanayo koizumi" : {v:"小泉花陽"}
 ,"hinagiku katsura" : {v:"桂ヒナギク"}
-,"murakumo" : {v:"叢雲", m:{"senran kagura" : "叢"}}
-,"chris yukine" : {v:"雪音クリス"}
-,"rumi usagiyama" : {v:"兎山ルミ"}
 ,"aiko senoo" : {v:"妹尾あいこ"}
-,"sachiko koshimizu" : {v:"輿水幸子"}
-,"kogasa tatara" : {v:"多々良小傘"}
-,"fumina hoshino" : {v:"ホシノ・フミナ"}
-,"sparkle" : {v:"花火"}
+,"ereshkigal" : {v:"エレシュキガル"}
 ,"anira" : {v:"アニラ"}
 ,"kaguya houraisan" : {v:"蓬莱山輝夜"}
-,"nobara kugisaki" : {v:"釘崎野薔薇"}
-,"skuld" : {v:"スクルド"}
+,"sachiko koshimizu" : {v:"輿水幸子"}
+,"wise" : {v:"ワイズ", m:{"zenless zone zero" : "アキラ"}}
 ,"bell cranel" : {v:"ベル・クラネル"}
-,"ichika nakano" : {v:"中野一花"}
-,"itsuki nakano" : {v:"中野五月"}
-,"yuri sakazaki" : {v:"ユリ・サカザキ"}
-,"ookami mio" : {v:"大神ミオ"}
-,"shizuku oikawa" : {v:"及川雫"}
-,"yu takasaki" : {v:"高咲侑"}
-,"roronoa zoro" : {v:"ロロノア・ゾロ"}
-,"setsuna yuki" : {v:"優木せつ菜"}
-,"kaworu nagisa" : {v:"渚カヲル"}
-,"anzu futaba" : {v:"双葉杏"}
-,"ereshkigal" : {v:"エレシュキガル"}
-,"osakabehime" : {v:"刑部姫"}
-,"erina nakiri" : {v:"薙切えりな"}
-,"takagi" : {v:"高木"}
-,"yotsuba nakano" : {v:"中野四葉"}
-,"asashio" : {v:"朝潮", m:{"azur lane" : "朝潮(IJN Asashio)"}}
+,"fumina hoshino" : {v:"ホシノ・フミナ"}
 ,"robin" : {v:"ロビン", m:{"animal crossing" : "パーチク"}}
-,"gloria" : {v:"グロリア", m:{"pokemon" : "ユウリ", "animal crossing" : "スワンソン"}}
-,"lilith aensland" : {v:"リリス・アーンスランド"}
+,"ichimatsu matsuno" : {v:"松野一松"}
+,"skuld" : {v:"スクルド"}
+,"yotsuba nakano" : {v:"中野四葉"}
+,"yuri sakazaki" : {v:"ユリ・サカザキ"}
+,"takagi" : {v:"高木"}
+,"yu takasaki" : {v:"高咲侑"}
+,"osakabehime" : {v:"刑部姫"}
+,"shizuku oikawa" : {v:"及川雫"}
+,"setsuna yuki" : {v:"優木せつ菜"}
 ,"takina inoue" : {v:"井ノ上たきな"}
+,"yuri" : {v:"ユリ", m:{"yu-gi-oh arc-v" : "ユーリ", "harvest moon" : "ユーリ"}}
+,"illustrious" : {v:"イラストリアス", m:{"azur lane" : "イラストリアス(HMS Illustrious)"}}
+,"kaworu nagisa" : {v:"渚カヲル"}
+,"roronoa zoro" : {v:"ロロノア・ゾロ"}
+,"usada pekora" : {v:"兎田ぺこら"}
+,"erina nakiri" : {v:"薙切えりな"}
+,"anzu futaba" : {v:"双葉杏"}
+,"gloria" : {v:"グロリア", m:{"pokemon" : "ユウリ", "animal crossing" : "スワンソン"}}
+,"hoshikawa sara" : {v:"星川サラ"}
+,"lilith aensland" : {v:"リリス・アーンスランド"}
+,"asashio" : {v:"朝潮", m:{"azur lane" : "朝潮(IJN Asashio)"}}
+,"tomoe gozen" : {v:"巴御前"}
+,"satoru gojo" : {v:"五条悟"}
+,"st. louis" : {v:"セントルイス(USS St.Louis)"}
+,"neko musume" : {v:"ねこ娘"}
+,"sister claire" : {v:"シスター・クレア"}
 ,"yozora mikazuki" : {v:"三日月夜空"}
 ,"mayu sakuma" : {v:"佐久間まゆ"}
 ,"hata no kokoro" : {v:"秦こころ"}
 ,"miku maekawa" : {v:"前川みく"}
-,"tomoe gozen" : {v:"巴御前"}
-,"yuri" : {v:"ユリ", m:{"yu-gi-oh arc-v" : "ユーリ", "harvest moon" : "ユーリ"}}
-,"neko musume" : {v:"ねこ娘"}
-,"satoru gojo" : {v:"五条悟"}
+,"tuxedo mask" : {v:"地場衛(タキシード仮面)"}
 ,"yuudachi" : {v:"夕立", m:{"azur lane" : "夕立(IJN Yūdachi)"}}
-,"tsuyu asui" : {v:"蛙吹梅雨"}
 ,"hazuki fujiwara" : {v:"藤原はづき"}
-,"st. louis" : {v:"セントルイス(USS St.Louis)"}
-,"yuuta togashi" : {v:"富樫勇太"}
-,"mizuho kazami" : {v:"風見みずほ"}
-,"nodoka haramura" : {v:"原村和"}
-,"asuna kagurazaka" : {v:"神楽坂明日菜"}
-,"rin kagamine" : {v:"鏡音リン"}
-,"hotaru shidare" : {v:"枝垂ほたる"}
-,"sister claire" : {v:"シスター・クレア"}
-,"yui yuigahama" : {v:"由比ヶ浜結衣"}
-,"hana uzaki" : {v:"宇崎花"}
-,"hibiki ganaha" : {v:"我那覇響"}
-,"holo" : {v:"ホロ"}
-,"seia yurizono" : {v:"百合園セイア"}
-,"chika takami" : {v:"高海千歌"}
 ,"tsuki uzaki" : {v:"宇崎月"}
+,"tsuyu asui" : {v:"蛙吹梅雨"}
+,"hana uzaki" : {v:"宇崎花"}
+,"caelus" : {v:"穹"}
+,"reisalin stout" : {v:"ライザ(ライザリン・シュタウト)"}
+,"nodoka haramura" : {v:"原村和"}
+,"holo" : {v:"ホロ"}
+,"iono" : {v:"ナンジャモ"}
+,"mizuho kazami" : {v:"風見みずほ"}
+,"yui yuigahama" : {v:"由比ヶ浜結衣"}
+,"yuuta togashi" : {v:"富樫勇太"}
+,"asuna kagurazaka" : {v:"神楽坂明日菜"}
+,"hotaru shidare" : {v:"枝垂ほたる"}
+,"rin kagamine" : {v:"鏡音リン"}
+,"hibiki ganaha" : {v:"我那覇響"}
+,"lize helesta" : {v:"リゼ・ヘルエスタ"}
+,"plana" : {v:"プラナ"}
+,"sirius" : {v:"シリウス", m:{"azur lane" : "シリアス(HMS Sirius)"}}
+,"chika takami" : {v:"高海千歌"}
+,"sagiri izumi" : {v:"和泉紗霧"}
+,"shizuku osaka" : {v:"桜坂しずく"}
 ,"dia kurosawa" : {v:"黒澤ダイヤ"}
 ,"hayate ayasaki" : {v:"綾崎ハヤテ"}
 ,"ichiro ogami" : {v:"大神一郎"}
-,"suzaku kururugi" : {v:"枢木スザク"}
-,"murrue ramius" : {v:"マリュー・ラミアス"}
-,"sagiri izumi" : {v:"和泉紗霧"}
-,"shizuku osaka" : {v:"桜坂しずく"}
-,"tatsuta" : {v:"龍田"}
-,"ushio" : {v:"潮"}
-,"sirius" : {v:"シリウス", m:{"azur lane" : "シリアス(HMS Sirius)"}}
-,"murasaki shikibu" : {v:"紫式部"}
-,"reisalin stout" : {v:"ライザ(ライザリン・シュタウト)"}
-,"ichimatsu matsuno" : {v:"松野一松"}
-,"kanan matsuura" : {v:"松浦果南"}
-,"laura bodewig" : {v:"ラウラ・ボーデヴィッヒ"}
 ,"lucario" : {v:"ルカリオ"}
+,"lanas mom" : {v:"スイレンママ"}
+,"murrue ramius" : {v:"マリュー・ラミアス"}
+,"suzaku kururugi" : {v:"枢木スザク"}
+,"tatsuta" : {v:"龍田"}
 ,"midori saiba" : {v:"才羽ミドリ"}
-,"nera briscoletti" : {v:"フローラ"}
-,"hoshikawa sara" : {v:"星川サラ"}
 ,"renko usami" : {v:"宇佐見蓮子"}
-,"lize helesta" : {v:"リゼ・ヘルエスタ"}
+,"laura bodewig" : {v:"ラウラ・ボーデヴィッヒ"}
 ,"shouto todoroki" : {v:"轟焦凍"}
 ,"anastasia" : {v:"アナスタシア"}
-,"hitomi" : {v:"ヒトミ"}
+,"arona" : {v:"アロナ"}
+,"murasaki shikibu" : {v:"紫式部"}
+,"ushio" : {v:"潮"}
+,"kanan matsuura" : {v:"松浦果南"}
+,"lusamine" : {v:"ルザミーネ"}
+,"nera briscoletti" : {v:"フローラ"}
 ,"vita" : {v:"ヴィータ", m:{"honkai gakuen" : "ヴィタ"}}
+,"hitomi" : {v:"ヒトミ"}
+,"akane tendo" : {v:"天道あかね"}
+,"byleth eisner" : {v:"ベレス=アイスナー"}
+,"neru mikamo" : {v:"美甘ネル"}
+,"shun sunohara" : {v:"春原シュン"}
+,"juri han" : {v:"ハン・ジュリ"}
 ,"martina" : {v:"マルティナ"}
 ,"sharo kirima" : {v:"桐間紗路"}
-,"usada pekora" : {v:"兎田ぺこら"}
-,"juri han" : {v:"ハン・ジュリ"}
-,"lanas mom" : {v:"スイレンママ"}
-,"meguru hachimiya" : {v:"八宮めぐる"}
-,"edward elric" : {v:"エドワード・エルリック"}
+,"amane kanata" : {v:"天音かなた"}
 ,"ayumu uehara" : {v:"上原歩夢"}
-,"plana" : {v:"プラナ"}
-,"urd" : {v:"ウルド"}
-,"akane tendo" : {v:"天道あかね"}
-,"arona" : {v:"アロナ"}
-,"byleth eisner" : {v:"ベレス=アイスナー"}
-,"caelus" : {v:"穹"}
-,"illustrious" : {v:"イラストリアス", m:{"azur lane" : "イラストリアス(HMS Illustrious)"}}
-,"iono" : {v:"ナンジャモ"}
+,"meguru hachimiya" : {v:"八宮めぐる"}
 ,"mitsuri kanroji" : {v:"甘露寺蜜璃"}
 ,"super sonico" : {v:"すーぱーそに子"}
+,"baobhan sith" : {v:"バーヴァン・シー"}
+,"edward elric" : {v:"エドワード・エルリック"}
 ,"cure twinkle" : {v:"天ノ川きらら(キュアトゥインクル)"}
+,"hex maniac" : {v:"オカルトマニア"}
 ,"jack the ripper" : {v:"ジャック・ザ・リッパー"}
 ,"tanjirou kamado" : {v:"竈門炭治郎"}
-,"tuxedo mask" : {v:"地場衛(タキシード仮面)"}
+,"urd" : {v:"ウルド"}
+,"yuuji itadori" : {v:"虎杖悠仁"}
 ,"chie satonaka" : {v:"里中千枝"}
-,"neru mikamo" : {v:"美甘ネル"}
-,"gintoki sakata" : {v:"坂田銀時"}
 ,"sanji vinsmoke" : {v:"ヴィンスモーク・サンジ"}
+,"anne takamaki" : {v:"高巻杏"}
+,"gintoki sakata" : {v:"坂田銀時"}
 ,"shizune" : {v:"シズネ"}
-,"lusamine" : {v:"ルザミーネ"}
-,"signum" : {v:"シグナム"}
 ,"tearju lunatique" : {v:"ティアーユ・ルナティーク"}
-,"wise" : {v:"ワイズ", m:{"zenless zone zero" : "アキラ"}}
-,"amane kanata" : {v:"天音かなた"}
+,"signum" : {v:"シグナム"}
+,"syaoran li" : {v:"李小狼"}
+,"yukikaze mizuki" : {v:"水城ゆきかぜ"}
+,"yunyun" : {v:"ゆんゆん"}
+,"fuutarou uesugi" : {v:"上杉風太郎"}
 ,"ran mouri" : {v:"毛利蘭"}
 ,"arisu shimada" : {v:"島田愛里寿"}
 ,"hanamaru kunikida" : {v:"国木田花丸"}
-,"shun sunohara" : {v:"春原シュン"}
-,"yunyun" : {v:"ゆんゆん"}
-,"yuuji itadori" : {v:"虎杖悠仁"}
-,"hex maniac" : {v:"オカルトマニア"}
-,"keiko ayano" : {v:"綾野珪子"}
-,"naruko anjou" : {v:"安城鳴子"}
-,"ruby kurosawa" : {v:"黒澤ルビィ"}
-,"anne takamaki" : {v:"高巻杏"}
-,"baobhan sith" : {v:"バーヴァン・シー"}
 ,"rei furuya" : {v:"降谷零(安室透)"}
-,"xuanzang" : {v:"玄奘三蔵"}
-,"cure melody" : {v:"北条響(キュアメロディ)"}
-,"jill valentine" : {v:"ジル・バレンタイン"}
-,"saniwa" : {v:"審神者"}
-,"yukikaze mizuki" : {v:"水城ゆきかぜ"}
-,"syaoran li" : {v:"李小狼"}
-,"yamashiro" : {v:"山城", m:{"azur lane" : "山城(IJN Yamashiro)"}}
-,"i-19" : {v:"伊19", m:{"azur lane" : "伊19(IJN I19)"}}
-,"quetzalcoatl" : {v:"ケツァルコアトル"}
-,"yayoi takatsuki" : {v:"高槻やよい"}
-,"momoi saiba" : {v:"才羽モモイ"}
-,"mystia lorelei" : {v:"ミスティア・ローレライ"}
-,"naoto shirogane" : {v:"白鐘直斗"}
-,"tomoko kuroki" : {v:"黒木智子"}
+,"keiko ayano" : {v:"綾野珪子"}
 ,"mahiro oyama" : {v:"緒山まひろ"}
-,"mio honda" : {v:"本田未央"}
-,"ryuuko matoi" : {v:"纏流子"}
-,"rinnosuke morichika" : {v:"森近霖之助"}
-,"kurisu makise" : {v:"牧瀬紅莉栖"}
-,"protagonist" : {v:"主人公"}
-,"yukino yukinoshita" : {v:"雪ノ下雪乃"}
-,"yuna" : {v:"ユウナ", m:{"sword art online" : "ユナ", "mega man legends" : "ユーナ", "tales of" : "ユナ・アゼッタ", "onidere" : "鈴音由那", "kuma kuma kuma bear" : "ユナ"}}
-,"melusine" : {v:"メリュジーヌ"}
+,"momoi saiba" : {v:"才羽モモイ"}
+,"naruko anjou" : {v:"安城鳴子"}
 ,"princess peach" : {v:"ピーチ姫"}
+,"ruby kurosawa" : {v:"黒澤ルビィ"}
+,"xuanzang" : {v:"玄奘三蔵"}
+,"hikari tachibana" : {v:"橘ヒカリ"}
+,"melusine" : {v:"メリュジーヌ"}
+,"saniwa" : {v:"審神者"}
+,"yamashiro" : {v:"山城", m:{"azur lane" : "山城(IJN Yamashiro)"}}
+,"jill valentine" : {v:"ジル・バレンタイン"}
 ,"shigure ui" : {v:"しぐれうい"}
+,"cure melody" : {v:"北条響(キュアメロディ)"}
 ,"risa matoba" : {v:"的場梨沙"}
-,"taiga aisaka" : {v:"逢坂大河"}
-,"yuma tsukumo" : {v:"九十九遊馬"}
-,"kanu unchou" : {v:"関羽雲長", m:{"koihime musou" : "愛紗(関羽 雲長)"}}
-,"masamune izumi" : {v:"和泉正宗"}
+,"yayoi takatsuki" : {v:"高槻やよい"}
+,"kokona sunohara" : {v:"春原ココナ"}
+,"mystia lorelei" : {v:"ミスティア・ローレライ"}
+,"i-19" : {v:"伊19", m:{"azur lane" : "伊19(IJN I19)"}}
+,"kei" : {v:"ケイ"}
+,"naoto shirogane" : {v:"白鐘直斗"}
+,"quetzalcoatl" : {v:"ケツァルコアトル"}
+,"ryuuko matoi" : {v:"纏流子"}
+,"tomoko kuroki" : {v:"黒木智子"}
 ,"renamon" : {v:"レナモン"}
+,"mio honda" : {v:"本田未央"}
+,"rikka takarada" : {v:"宝多六花"}
+,"yukino yukinoshita" : {v:"雪ノ下雪乃"}
+,"ilulu" : {v:"イルル"}
+,"protagonist" : {v:"主人公"}
+,"rinnosuke morichika" : {v:"森近霖之助"}
+,"yoimiya naganohara" : {v:"長野原宵宮"}
+,"taiga aisaka" : {v:"逢坂大河"}
+,"yuna" : {v:"ユウナ", m:{"sword art online" : "ユナ", "mega man legends" : "ユーナ", "tales of" : "ユナ・アゼッタ", "onidere" : "鈴音由那", "kuma kuma kuma bear" : "ユナ"}}
+,"kurisu makise" : {v:"牧瀬紅莉栖"}
+,"amber" : {v:"アンバー"}
+,"kanna kamui" : {v:"カンナカムイ"}
+,"masamune izumi" : {v:"和泉正宗"}
+,"yuma tsukumo" : {v:"九十九遊馬"}
 ,"tina armstrong" : {v:"ティナ・アームストロング"}
 ,"yuugi hoshiguma" : {v:"星熊勇儀"}
-,"poison" : {v:"ポイズン"}
-,"yoimiya naganohara" : {v:"長野原宵宮"}
-,"felicia" : {v:"フェリシア"}
-,"ilulu" : {v:"イルル"}
-,"katsushika hokusai" : {v:"葛飾北斎"}
-,"mami futami" : {v:"双海真美"}
-,"kokona sunohara" : {v:"春原ココナ"}
-,"rikka takarada" : {v:"宝多六花"}
-,"saitama" : {v:"サイタマ"}
-,"fuutarou uesugi" : {v:"上杉風太郎"}
-,"kamui" : {v:"カムイ", m:{"gintama" : "神威", "tokyo afterschool summoners" : "ホロケウカムイ"}}
-,"rias gremory" : {v:"リアス・グレモリー"}
-,"silver wolf" : {v:"銀狼", m:{"langrisser" : "シルバーウルフ"}}
 ,"zeta" : {v:"ゼタ", m:{"kage no jitsuryokusha ni naritakute" : "ゼータ"}}
-,"amber" : {v:"アンバー"}
-,"kanako mimura" : {v:"三村かな子"}
-,"saeko busujima" : {v:"毒島冴子"}
-,"taiga kagami" : {v:"火神大我"}
+,"felicia" : {v:"フェリシア"}
+,"kanu unchou" : {v:"関羽雲長", m:{"koihime musou" : "愛紗(関羽 雲長)"}}
+,"katsushika hokusai" : {v:"葛飾北斎"}
+,"poison" : {v:"ポイズン"}
+,"rias gremory" : {v:"リアス・グレモリー"}
+,"saitama" : {v:"サイタマ"}
+,"silver wolf" : {v:"銀狼", m:{"langrisser" : "シルバーウルフ"}}
 ,"chika fujiwara" : {v:"藤原千花"}
-,"helena douglas" : {v:"エレナ・ダグラス"}
-,"kanna kamui" : {v:"カンナカムイ"}
+,"nozomi tachibana" : {v:"橘ノゾミ"}
+,"kamui" : {v:"カムイ", m:{"gintama" : "神威", "tokyo afterschool summoners" : "ホロケウカムイ"}}
+,"ui kozeki" : {v:"古関ウイ"}
+,"nakiri ayame" : {v:"百鬼あやめ"}
 ,"bea" : {v:"ビー", m:{"pokemon" : "サイトウ", "animal crossing" : "ベーグル"}}
+,"miyu kasumizawa" : {v:"霞沢ミユ"}
+,"saeko busujima" : {v:"毒島冴子"}
 ,"cure diamond" : {v:"菱川六花(キュアダイヤモンド)"}
+,"kanako mimura" : {v:"三村かな子"}
+,"mami futami" : {v:"双海真美"}
+,"taiga kagami" : {v:"火神大我"}
+,"helena douglas" : {v:"エレナ・ダグラス"}
+,"haru yuuki" : {v:"結城晴"}
 ,"karen araragi" : {v:"阿良々木火憐"}
 ,"manaka komaki" : {v:"小牧愛佳"}
+,"z1" : {v:"Z1", m:{"kantai collection" : "Z1(レーベレヒト・マース)", "azur lane" : "Z1(KMS Leberecht Maass)"}}
+,"ikuyo kita" : {v:"喜多郁代"}
+,"suigintou" : {v:"水銀灯"}
 ,"airi totoki" : {v:"十時愛梨"}
 ,"cagalli yula athha" : {v:"カガリ・ユラ・アスハ"}
-,"erika itsumi" : {v:"逸見エリカ"}
-,"z1" : {v:"Z1", m:{"kantai collection" : "Z1(レーベレヒト・マース)", "azur lane" : "Z1(KMS Leberecht Maass)"}}
-,"krillin" : {v:"クリリン"}
 ,"scathach skadi" : {v:"スカサハ=スカディ"}
-,"cure heart" : {v:"相田マナ(キュアハート)"}
-,"haru yuuki" : {v:"結城晴"}
-,"nakiri ayame" : {v:"百鬼あやめ"}
-,"suigintou" : {v:"水銀灯"}
-,"hikari tachibana" : {v:"橘ヒカリ"}
-,"king" : {v:"キング"}
+,"daiyousei" : {v:"大妖精"}
+,"erika itsumi" : {v:"逸見エリカ"}
+,"krillin" : {v:"クリリン"}
 ,"nana asta deviluke" : {v:"ナナ・アスタ・デビルーク"}
 ,"riamu yumemi" : {v:"夢見りあむ"}
+,"ai haibara" : {v:"灰原哀"}
+,"cure heart" : {v:"相田マナ(キュアハート)"}
+,"king" : {v:"キング"}
 ,"seiga kaku" : {v:"霍青娥"}
 ,"siesta" : {v:"シエスタ"}
-,"ai haibara" : {v:"灰原哀"}
 ,"fischl" : {v:"フィッシュル"}
-,"ikuyo kita" : {v:"喜多郁代"}
-,"miyu kasumizawa" : {v:"霞沢ミユ"}
-,"iowa" : {v:"Iowa(アイオワ)"}
-,"cure sunny" : {v:"日野あかね(キュアサニー)"}
-,"satoko houjou" : {v:"北条沙都子"}
-,"maam" : {v:"マァム"}
 ,"meltryllis" : {v:"メルトリリス"}
 ,"miyu mifune" : {v:"三船美優"}
+,"barghest" : {v:"バーゲスト(妖精騎士ガウェイン)", m:{"tokyo afterschool summoners" : "バーゲスト"}}
+,"maam" : {v:"マァム"}
 ,"sakuya shirase" : {v:"白瀬咲耶"}
-,"saratoga" : {v:"サラトガ", m:{"kantai collection" : "Saratoga(サラトガ)", "azur lane" : "サラトガ(USS Saratoga)"}}
-,"daiyousei" : {v:"大妖精"}
 ,"trunks briefs" : {v:"トランクス・ブリーフ"}
-,"ui kozeki" : {v:"古関ウイ"}
-,"daiki aomine" : {v:"青峰大輝"}
 ,"elio" : {v:"エリオ", m:{"pokemon" : "ヨウ"}}
-,"lancer" : {v:"ランサー", m:{"goblin slayer" : "槍使い"}}
-,"multi" : {v:"マルチ(HMX-12)"}
+,"satoko houjou" : {v:"北条沙都子"}
+,"cure sunny" : {v:"日野あかね(キュアサニー)"}
+,"iowa" : {v:"Iowa(アイオワ)"}
+,"suletta mercury" : {v:"スレッタ・マーキュリー"}
 ,"yukiko amagi" : {v:"天城雪子"}
 ,"graf zeppelin" : {v:"Graf Zeppelin(グラーフ・ツェッペリン)", m:{"azur lane" : "グラーフ・ツェッペリン(KMS Graf Zeppelin)"}}
 ,"iroha isshiki" : {v:"一色いろは"}
-,"miyako tsukiyuki" : {v:"月雪ミヤコ"}
-,"barghest" : {v:"バーゲスト(妖精騎士ガウェイン)", m:{"tokyo afterschool summoners" : "バーゲスト"}}
 ,"kaguya shinomiya" : {v:"四宮かぐや"}
 ,"maribel han" : {v:"マエリベリー・ハーン"}
-,"rise kujikawa" : {v:"久慈川りせ"}
-,"negi springfield" : {v:"ネギ・スプリングフィールド"}
-,"poplar taneshima" : {v:"種島ぽぷら"}
-,"kei" : {v:"ケイ"}
+,"miyako tsukiyuki" : {v:"月雪ミヤコ"}
+,"saratoga" : {v:"サラトガ", m:{"kantai collection" : "Saratoga(サラトガ)", "azur lane" : "サラトガ(USS Saratoga)"}}
+,"daiki aomine" : {v:"青峰大輝"}
 ,"kira yamato" : {v:"キラ・ヤマト"}
-,"suletta mercury" : {v:"スレッタ・マーキュリー"}
-,"rintarou okabe" : {v:"岡部倫太郎"}
-,"sousuke yamazaki" : {v:"山崎宗介"}
-,"tetsuya kuroko" : {v:"黒子テツヤ"}
-,"nitocris" : {v:"ニトクリス"}
-,"rize tedeza" : {v:"天々座理世"}
-,"satsuki kitaoji" : {v:"北大路さつき"}
-,"sheryl nome" : {v:"シェリル・ノーム"}
-,"fuuka ayase" : {v:"綾瀬風香"}
-,"nozomi tachibana" : {v:"橘ノゾミ"}
-,"zuihou" : {v:"瑞鳳", m:{"azur lane" : "瑞鳳(IJN Zuihou)"}}
-,"eru chitanda" : {v:"千反田える"}
-,"kari kamiya" : {v:"八神ヒカリ"}
-,"sora" : {v:"ソラ", m:{"genshin impact" : "空", "no game no life" : "空"}}
-,"cure happy" : {v:"星空みゆき(キュアハッピー)"}
-,"kotori otonashi" : {v:"音無小鳥"}
+,"rise kujikawa" : {v:"久慈川りせ"}
+,"lancer" : {v:"ランサー", m:{"goblin slayer" : "槍使い"}}
+,"multi" : {v:"マルチ(HMX-12)"}
+,"ibuki tanga" : {v:"丹花イブキ"}
+,"nicole demara" : {v:"ニコ・デマラ"}
+,"poplar taneshima" : {v:"種島ぽぷら"}
+,"evelyn chevalier" : {v:"イヴリン・シェヴァリエ"}
+,"negi springfield" : {v:"ネギ・スプリングフィールド"}
+,"sakura miko" : {v:"さくらみこ"}
 ,"mina ashido" : {v:"芦戸三奈"}
-,"ryu" : {v:"リュウ"}
-,"sakura shinguji" : {v:"真宮寺さくら"}
-,"temari" : {v:"テマリ"}
-,"ami futami" : {v:"双海亜美"}
-,"hypno" : {v:"ヒプノ", m:{"pokemon" : "スリーパー"}}
 ,"ouro kronii" : {v:"オーロ・クロニー"}
 ,"skyla" : {v:"フウロ"}
-,"yuuri katsuki" : {v:"勝生勇利"}
-,"kyouko kirigiri" : {v:"霧切響子"}
-,"alexis rhodes" : {v:"天上院明日香"}
-,"nadeko sengoku" : {v:"千石撫子"}
-,"nicole demara" : {v:"ニコ・デマラ"}
-,"ryuujou" : {v:"龍驤", m:{"azur lane" : "龍驤(IJN Ryūjō)"}}
+,"sora" : {v:"ソラ", m:{"genshin impact" : "空", "no game no life" : "空"}}
+,"hypno" : {v:"ヒプノ", m:{"pokemon" : "スリーパー"}}
+,"nitocris" : {v:"ニトクリス"}
+,"rintarou okabe" : {v:"岡部倫太郎"}
+,"rize tedeza" : {v:"天々座理世"}
+,"sousuke yamazaki" : {v:"山崎宗介"}
+,"tetsuya kuroko" : {v:"黒子テツヤ"}
+,"satsuki kitaoji" : {v:"北大路さつき"}
+,"sheryl nome" : {v:"シェリル・ノーム"}
 ,"vegeta" : {v:"ベジータ"}
-,"evelyn chevalier" : {v:"イヴリン・シェヴァリエ"}
-,"kanade hayami" : {v:"速水奏"}
-,"mori calliope" : {v:"森カリオペ"}
-,"motoko aoyama" : {v:"青山元子"}
-,"arlecchino" : {v:"アルレッキーノ"}
+,"zuihou" : {v:"瑞鳳", m:{"azur lane" : "瑞鳳(IJN Zuihou)"}}
+,"cure happy" : {v:"星空みゆき(キュアハッピー)"}
+,"fuuka ayase" : {v:"綾瀬風香"}
+,"alexis rhodes" : {v:"天上院明日香"}
+,"eru chitanda" : {v:"千反田える"}
+,"kari kamiya" : {v:"八神ヒカリ"}
+,"kotori otonashi" : {v:"音無小鳥"}
+,"anis" : {v:"アニス"}
+,"rindou mikoto" : {v:"竜胆尊"}
+,"ryu" : {v:"リュウ"}
+,"tanya von degurechaff" : {v:"ターニャ・デグレチャフ"}
+,"temari" : {v:"テマリ"}
+,"kyouko kirigiri" : {v:"霧切響子"}
 ,"galko" : {v:"ギャル子"}
-,"kensou sie" : {v:"椎拳崇"}
-,"kokonotsu shikada" : {v:"鹿田ココノツ"}
+,"sakura shinguji" : {v:"真宮寺さくら"}
+,"yuuri katsuki" : {v:"勝生勇利"}
+,"mori calliope" : {v:"森カリオペ"}
+,"sailor pluto" : {v:"冥王せつな(セーラープルート)"}
+,"venti" : {v:"ウェンティ"}
+,"hina kagiyama" : {v:"鍵山雛"}
+,"nadeko sengoku" : {v:"千石撫子"}
+,"ryuujou" : {v:"龍驤", m:{"azur lane" : "龍驤(IJN Ryūjō)"}}
+,"shishiro botan" : {v:"獅白ぼたん"}
+,"ami futami" : {v:"双海亜美"}
+,"arlecchino" : {v:"アルレッキーノ"}
 ,"rika furude" : {v:"古手梨花"}
+,"hibiki tachibana" : {v:"立花響"}
+,"kanade hayami" : {v:"速水奏"}
+,"kensou sie" : {v:"椎拳崇"}
+,"motoko aoyama" : {v:"青山元子"}
+,"beatrix" : {v:"ベアトリクス"}
+,"fubuki" : {v:"吹雪", m:{"azur lane" : "吹雪(IJN Fubuki)", "one punch man" : "地獄のフブキ", "senran kagura" : "雪不帰", "kamen no maid guy" : "フブキ"}}
+,"kokonotsu shikada" : {v:"鹿田ココノツ"}
 ,"nadia la arwall" : {v:"ナディア・ラ・アルウォール"}
 ,"sasara kusugawa" : {v:"久寿川ささら"}
-,"beatrix" : {v:"ベアトリクス"}
 ,"haruka morishima" : {v:"森島はるか"}
-,"hina kagiyama" : {v:"鍵山雛"}
-,"tanya von degurechaff" : {v:"ターニャ・デグレチャフ"}
-,"anis" : {v:"アニス"}
+,"himiko toga" : {v:"トガヒミコ"}
 ,"kagura" : {v:"神楽", m:{"senran kagura" : "カグラ", "the onechanbara" : "カグラ"}}
+,"shizuka minamoto" : {v:"源静香"}
 ,"keiichi morisato" : {v:"森里螢一"}
-,"shiki ichinose" : {v:"一ノ瀬志希"}
-,"venti" : {v:"ウェンティ"}
-,"cure rhythm" : {v:"南野奏(キュアリズム)"}
-,"rindou mikoto" : {v:"竜胆尊"}
-,"fubuki" : {v:"吹雪", m:{"azur lane" : "吹雪(IJN Fubuki)", "one punch man" : "地獄のフブキ", "senran kagura" : "雪不帰", "kamen no maid guy" : "フブキ"}}
 ,"makoto niijima" : {v:"新島真"}
+,"shiki ichinose" : {v:"一ノ瀬志希"}
+,"shiranui flare" : {v:"不知火フレア"}
+,"yui ohtsuki" : {v:"大槻唯"}
+,"albedo" : {v:"アルベド"}
 ,"sei iori" : {v:"イオリ・セイ"}
 ,"hk416" : {v:"HK416"}
 ,"lisa minci" : {v:"リサ・ミンツ"}
-,"sakura miko" : {v:"さくらみこ"}
+,"cure rhythm" : {v:"南野奏(キュアリズム)"}
+,"shampoo" : {v:"シャンプー"}
 ,"yukari akiyama" : {v:"秋山優花里"}
 ,"dizzy" : {v:"ディズィー", m:{"animal crossing" : "ヒュージ"}}
-,"himiko toga" : {v:"トガヒミコ"}
 ,"simon" : {v:"シモン", m:{"animal crossing" : "エテキチ"}}
-,"yui ohtsuki" : {v:"大槻唯"}
-,"iroha" : {v:"いろは", m:{"blue archive" : "棗イロハ", "beatmania" : "彩葉"}}
-,"shizuka minamoto" : {v:"源静香"}
+,"yu mei-ren" : {v:"虞美人"}
 ,"sophitia alexandra" : {v:"ソフィーティア・アレクサンドル"}
+,"iroha" : {v:"いろは", m:{"blue archive" : "棗イロハ", "beatmania" : "彩葉"}}
+,"izuna kuda" : {v:"久田イズナ"}
+,"parsee mizuhashi" : {v:"水橋パルスィ"}
+,"saki sorai" : {v:"空井サキ"}
+,"urakaze" : {v:"浦風", m:{"azur lane" : "浦風(IJN Urakaze)"}}
 ,"wo-class" : {v:"ヲ級"}
+,"kazari uiharu" : {v:"初春飾利"}
 ,"ooi" : {v:"大井"}
 ,"utaha kasumigaoka" : {v:"霞ヶ丘詩羽"}
-,"albedo" : {v:"アルベド"}
-,"aya toujou" : {v:"東城綾"}
-,"hibiki tachibana" : {v:"立花響"}
-,"ibuki tanga" : {v:"丹花イブキ"}
-,"kazari uiharu" : {v:"初春飾利"}
-,"parsee mizuhashi" : {v:"水橋パルスィ"}
-,"shampoo" : {v:"シャンプー"}
-,"urakaze" : {v:"浦風", m:{"azur lane" : "浦風(IJN Urakaze)"}}
+,"kyouka hikawa" : {v:"氷川鏡華(キョウカ)"}
 ,"cure marine" : {v:"来海えりか(キュアマリン)"}
-,"mitsuru kirijo" : {v:"桐条美鶴"}
-,"neptune" : {v:"ネプテューヌ(パープルハート)"}
-,"sailor pluto" : {v:"冥王せつな(セーラープルート)"}
-,"yu mei-ren" : {v:"虞美人"}
-,"houki shinonono" : {v:"篠ノ之箒"}
+,"aya toujou" : {v:"東城綾"}
 ,"kraft lawrence" : {v:"クラフト・ロレンス"}
+,"mitsuru kirijo" : {v:"桐条美鶴"}
+,"houki shinonono" : {v:"篠ノ之箒"}
 ,"leina vance" : {v:"レイナ・ヴァンス"}
 ,"revy" : {v:"レヴィ"}
 ,"roy mustang" : {v:"ロイ・マスタング"}
-,"shishiro botan" : {v:"獅白ぼたん"}
-,"izuna kuda" : {v:"久田イズナ"}
-,"kyouka hikawa" : {v:"氷川鏡華(キョウカ)"}
-,"victor nikiforov" : {v:"ビクター・ニキフォロフ"}
-,"zhongli" : {v:"鍾離"}
 ,"sarada uchiha" : {v:"うちはサラダ"}
-,"gendo ikari" : {v:"碇ゲンドウ"}
+,"victor nikiforov" : {v:"ビクター・ニキフォロフ"}
 ,"karen hojo" : {v:"北条加蓮"}
 ,"kasumi nakasu" : {v:"中須かすみ"}
-,"saki sorai" : {v:"空井サキ"}
-,"shinka nibutani" : {v:"丹生谷森夏"}
-,"kagome higurashi" : {v:"日暮かごめ"}
+,"osomatsu matsuno" : {v:"松野おそ松"}
+,"texas" : {v:"テキサス"}
+,"zhongli" : {v:"鍾離"}
+,"gendo ikari" : {v:"碇ゲンドウ"}
+,"iori shiromi" : {v:"銀鏡イオリ"}
+,"march 7th" : {v:"三月なのか"}
+,"purple heart" : {v:"パープルハート(ネプテューヌ)"}
 ,"sasami masaki jurai" : {v:"柾木砂沙美樹雷"}
-,"shiranui flare" : {v:"不知火フレア"}
+,"sara kujou" : {v:"九条裟羅"}
+,"kagome higurashi" : {v:"日暮かごめ"}
+,"kaoru ryuzaki" : {v:"龍崎薫"}
 ,"manaka takane" : {v:"高嶺愛花"}
 ,"milly ashford" : {v:"ミレイ・アッシュフォード"}
-,"purple heart" : {v:"パープルハート(ネプテューヌ)"}
+,"neptune" : {v:"ネプテューヌ(パープルハート)"}
+,"shinka nibutani" : {v:"丹生谷森夏"}
 ,"henrietta de tristain" : {v:"アンリエッタ・ド・トリステイン"}
-,"karin asaka" : {v:"朝香果林"}
+,"honolulu" : {v:"Honolulu(ホノルル)", m:{"azur lane" : "ホノルル(USS Honolulu)"}}
 ,"maria" : {v:"マリア", m:{"seven mortal sins" : "十束真莉亜"}}
-,"sara kujou" : {v:"九条裟羅"}
-,"ai amatsu" : {v:"天津亜衣"}
+,"karin asaka" : {v:"朝香果林"}
 ,"ram" : {v:"ラム"}
+,"rebecca" : {v:"レベッカ"}
 ,"souma yukihira" : {v:"幸平創真"}
-,"villetta nu" : {v:"ヴィレッタ・ヌゥ"}
+,"ai amatsu" : {v:"天津亜衣"}
+,"akari" : {v:"アカリ", m:{"pokemon" : "ショウ"}}
+,"alice liddell" : {v:"アリス・リデル"}
+,"makoto naegi" : {v:"苗木誠"}
 ,"mononobe no futo" : {v:"物部布都"}
-,"raku ichijou" : {v:"一条楽"}
-,"texas" : {v:"テキサス"}
-,"vivio takamachi" : {v:"高町ヴィヴィオ"}
-,"yurika misumaru" : {v:"ミスマル・ユリカ"}
+,"stark" : {v:"シュタルク"}
+,"villetta nu" : {v:"ヴィレッタ・ヌゥ"}
 ,"yuusaku fujiki" : {v:"藤木遊作"}
 ,"9s" : {v:"ヨルハ九号S型"}
-,"honolulu" : {v:"Honolulu(ホノルル)", m:{"azur lane" : "ホノルル(USS Honolulu)"}}
-,"kaoru ryuzaki" : {v:"龍崎薫"}
-,"makoto naegi" : {v:"苗木誠"}
-,"wizard" : {v:"魔法使い"}
-,"alice liddell" : {v:"アリス・リデル"}
-,"little red riding hood" : {v:"赤ずきん"}
-,"yuzu hanaoka" : {v:"花岡ユズ"}
-,"kiara sessyoin" : {v:"殺生院キアラ"}
-,"kitakami" : {v:"北上"}
-,"kyoko otonashi" : {v:"音無響子"}
-,"rebecca" : {v:"レベッカ"}
-,"saori takebe" : {v:"武部沙織"}
-,"akari" : {v:"アカリ", m:{"pokemon" : "ショウ"}}
-,"iori shiromi" : {v:"銀鏡イオリ"}
-,"ivy valentine" : {v:"イザベラ・バレンタイン(アイヴィー)"}
+,"koyanskaya" : {v:"コヤンスカヤ"}
+,"raku ichijou" : {v:"一条楽"}
+,"vivio takamachi" : {v:"高町ヴィヴィオ"}
+,"yurika misumaru" : {v:"ミスマル・ユリカ"}
 ,"nessa" : {v:"ネッサ", m:{"pokemon" : "ルリナ"}}
-,"yorumi rena" : {v:"夜見れな"}
-,"lina inverse" : {v:"リナ・インバース"}
-,"march 7th" : {v:"三月なのか"}
-,"tenchi masaki" : {v:"柾木天地"}
-,"conan edogawa" : {v:"江戸川コナン"}
-,"iroha natsume" : {v:"棗イロハ"}
-,"momoko asuka" : {v:"飛鳥ももこ"}
-,"saint martha" : {v:"聖女マルタ"}
-,"amana osaki" : {v:"大崎甘奈"}
-,"hiroyuki fujita" : {v:"藤田浩之"}
+,"wizard" : {v:"魔法使い"}
+,"yuzu hanaoka" : {v:"花岡ユズ"}
+,"hakui koyori" : {v:"博衣こより"}
+,"kyoko otonashi" : {v:"音無響子"}
+,"little red riding hood" : {v:"赤ずきん"}
 ,"shana" : {v:"シャナ"}
+,"yorumi rena" : {v:"夜見れな"}
+,"kitakami" : {v:"北上"}
+,"saori takebe" : {v:"武部沙織"}
+,"ivy valentine" : {v:"イザベラ・バレンタイン(アイヴィー)"}
+,"pekoras mother" : {v:"ぺこらママ"}
+,"ai miyashita" : {v:"宮下愛"}
+,"amana osaki" : {v:"大崎甘奈"}
+,"ichika nakamasa" : {v:"仲正イチカ"}
+,"momoko asuka" : {v:"飛鳥ももこ"}
+,"tenchi masaki" : {v:"柾木天地"}
+,"kiara sessyoin" : {v:"殺生院キアラ"}
+,"oolong" : {v:"ウーロン"}
+,"shinji matou" : {v:"間桐慎二"}
+,"iroha natsume" : {v:"棗イロハ"}
+,"kirika akatsuki" : {v:"暁切歌"}
+,"priestess" : {v:"プリースティス", m:{"ragnarok online" : "プリースト", "goblin slayer" : "女神官"}}
+,"saint martha" : {v:"聖女マルタ"}
+,"sonia" : {v:"ソニア", m:{"berserk" : "ソーニャ"}}
 ,"sylveon" : {v:"ニンフィア"}
-,"anko mitarashi" : {v:"みたらしアンコ"}
+,"conan edogawa" : {v:"江戸川コナン"}
+,"umi ryuuzaki" : {v:"龍咲海"}
+,"cure sword" : {v:"剣崎真琴(キュアソード)"}
 ,"erza scarlet" : {v:"エルザ・スカーレット"}
+,"glaceon" : {v:"グレイシア"}
+,"hiroyuki fujita" : {v:"藤田浩之"}
+,"lina inverse" : {v:"リナ・インバース"}
+,"nao kamiya" : {v:"神谷奈緒"}
+,"anko mitarashi" : {v:"みたらしアンコ"}
+,"keitaro urashima" : {v:"浦島景太郎"}
 ,"martial artist" : {v:"武闘家"}
 ,"meyrin hawke" : {v:"メイリン・ホーク"}
-,"nao kamiya" : {v:"神谷奈緒"}
-,"umi ryuuzaki" : {v:"龍咲海"}
-,"ai miyashita" : {v:"宮下愛"}
-,"cure sword" : {v:"剣崎真琴(キュアソード)"}
-,"hakui koyori" : {v:"博衣こより"}
-,"keitaro urashima" : {v:"浦島景太郎"}
 ,"mitsuha miyamizu" : {v:"宮水三葉"}
-,"ryo akizuki" : {v:"秋月涼"}
-,"yuuya sakaki" : {v:"榊遊矢"}
-,"helena blavatsky" : {v:"エレナ・ブラヴァツキー"}
-,"koyanskaya" : {v:"コヤンスカヤ"}
-,"osomatsu matsuno" : {v:"松野おそ松"}
-,"priestess" : {v:"プリースティス", m:{"ragnarok online" : "プリースト", "goblin slayer" : "女神官"}}
-,"yoshika miyafuji" : {v:"宮藤芳佳"}
-,"athrun zala" : {v:"アスラン・ザラ"}
-,"rika shinozaki" : {v:"篠崎里香(リズ)"}
-,"tsukasa hiiragi" : {v:"柊つかさ"}
+,"belle" : {v:"リン", m:{"beauty and the beast" : "ベル"}}
 ,"clownpiece" : {v:"クラウンピース"}
-,"lynette bishop" : {v:"リネット・ビショップ"}
-,"oolong" : {v:"ウーロン"}
-,"ooyodo" : {v:"大淀"}
-,"ryouta kise" : {v:"黄瀬涼太"}
-,"megumi kato" : {v:"加藤恵"}
-,"ranka lee" : {v:"ランカ・リー"}
-,"takumi mukai" : {v:"向井拓海"}
-,"shou toramaru" : {v:"寅丸星"}
-,"tooru oikawa" : {v:"及川徹"}
-,"ai nanasaki" : {v:"七咲逢"}
-,"aoi inuyama" : {v:"犬山あおい"}
-,"nagi sanzenin" : {v:"三千院ナギ"}
-,"sonia" : {v:"ソニア", m:{"berserk" : "ソーニャ"}}
-,"stark" : {v:"シュタルク"}
-,"hikaru shidou" : {v:"獅堂光"}
-,"kanata konoe" : {v:"近江彼方"}
-,"rinko akiyama" : {v:"秋山凜子"}
-,"souryuu" : {v:"蒼龍", m:{"azur lane" : "蒼龍(IJN Sōryū)"}}
-,"chitoge kirisaki" : {v:"桐崎千棘"}
-,"cure aqua" : {v:"水無月かれん(キュアアクア)"}
-,"glaceon" : {v:"グレイシア"}
-,"hitoha marui" : {v:"丸井ひとは"}
-,"ryuuji takasu" : {v:"高須竜児"}
-,"seija kijin" : {v:"鬼人正邪"}
-,"tea gardner" : {v:"真崎杏子"}
-,"kirika akatsuki" : {v:"暁切歌"}
-,"nijika ijichi" : {v:"伊地知虹夏"}
-,"pekoras mother" : {v:"ぺこらママ"}
-,"rimururu" : {v:"リムルル"}
-,"shirabe tsukuyomi" : {v:"月読調"}
-,"akito tenkawa" : {v:"アキト・テンカワ"}
-,"alisa ilinichina amiella" : {v:"アリサ・イリーニチナ・アミエーラ"}
+,"ryo akizuki" : {v:"秋月涼"}
+,"yoshika miyafuji" : {v:"宮藤芳佳"}
+,"yuuya sakaki" : {v:"榊遊矢"}
+,"athrun zala" : {v:"アスラン・ザラ"}
 ,"hakase fuyuki" : {v:"葉加瀬冬雪"}
 ,"hifumi ajitani" : {v:"阿慈谷ヒフミ"}
-,"maya ibuki" : {v:"伊吹マヤ"}
-,"natarle badgiruel" : {v:"ナタル・バジルール"}
+,"rika shinozaki" : {v:"篠崎里香(リズ)"}
+,"shou toramaru" : {v:"寅丸星"}
+,"tsukasa hiiragi" : {v:"柊つかさ"}
+,"azki" : {v:"AZKi"}
+,"lynette bishop" : {v:"リネット・ビショップ"}
+,"ooyodo" : {v:"大淀"}
+,"takumi mukai" : {v:"向井拓海"}
 ,"eris boreas greyrat" : {v:"エリス・ボレアス・グレイラット"}
-,"shinji matou" : {v:"間桐慎二"}
-,"sofia" : {v:"ソフィア", m:{"dragon quest iv" : "勇者ソフィア", "dragon quest" : "勇者ソフィア", "punishing gray raven" : "ソフィア・銀牙"}}
-,"kotetsu t. kaburagi" : {v:"鏑木・T・虎徹"}
-,"princess of moonbrook" : {v:"ムーンブルクの王女"}
-,"rimuru tempest" : {v:"リムル=テンペスト"}
+,"nagisa kirifuji" : {v:"桐藤ナギサ"}
+,"ranka lee" : {v:"ランカ・リー"}
+,"ryouta kise" : {v:"黄瀬涼太"}
+,"tea gardner" : {v:"真崎杏子"}
+,"aoi inuyama" : {v:"犬山あおい"}
+,"kanata konoe" : {v:"近江彼方"}
 ,"kikyou kiryuu" : {v:"桐生キキョウ"}
-,"toshiro hijikata" : {v:"土方敏郎"}
+,"megumi kato" : {v:"加藤恵"}
+,"nijika ijichi" : {v:"伊地知虹夏"}
+,"rinko akiyama" : {v:"秋山凜子"}
+,"shirabe tsukuyomi" : {v:"月読調"}
+,"souryuu" : {v:"蒼龍", m:{"azur lane" : "蒼龍(IJN Sōryū)"}}
+,"hikaru shidou" : {v:"獅堂光"}
+,"nagi sanzenin" : {v:"三千院ナギ"}
+,"tooru oikawa" : {v:"及川徹"}
+,"ai nanasaki" : {v:"七咲逢"}
+,"helena blavatsky" : {v:"エレナ・ブラヴァツキー"}
+,"hitoha marui" : {v:"丸井ひとは"}
+,"rimuru tempest" : {v:"リムル=テンペスト"}
+,"citlali" : {v:"シトラリ"}
+,"seija kijin" : {v:"鬼人正邪"}
+,"chitoge kirisaki" : {v:"桐崎千棘"}
+,"cure aqua" : {v:"水無月かれん(キュアアクア)"}
+,"natarle badgiruel" : {v:"ナタル・バジルール"}
+,"ryuuji takasu" : {v:"高須竜児"}
+,"rimururu" : {v:"リムルル"}
+,"roxy migurdia" : {v:"ロキシー・ミグルディア"}
+,"akito tenkawa" : {v:"アキト・テンカワ"}
+,"alisa ilinichina amiella" : {v:"アリサ・イリーニチナ・アミエーラ"}
+,"hinata wakaba" : {v:"若葉ヒナタ"}
+,"kazama iroha" : {v:"風真いろは"}
+,"maya ibuki" : {v:"伊吹マヤ"}
+,"princess of moonbrook" : {v:"ムーンブルクの王女"}
+,"sofia" : {v:"ソフィア", m:{"dragon quest iv" : "勇者ソフィア", "dragon quest" : "勇者ソフィア", "punishing gray raven" : "ソフィア・銀牙"}}
+,"dehya" : {v:"ディシア"}
+,"eevee" : {v:"イーブイ"}
+,"klee" : {v:"クレー"}
+,"kotetsu t. kaburagi" : {v:"鏑木・T・虎徹"}
+,"noelle" : {v:"ノエル", m:{"deltarune" : "Noelle"}}
+,"wakana gojou" : {v:"五条新菜"}
+,"kisaragi" : {v:"如月", m:{"azur lane" : "如月(IJN Kisaragi)"}}
 ,"mari ohara" : {v:"小原鞠莉"}
 ,"nemesis" : {v:"ネメシス"}
 ,"satsuki kiryuuin" : {v:"鬼龍院皐月"}
 ,"serval" : {v:"サーバル"}
-,"dehya" : {v:"ディシア"}
+,"soi fon" : {v:"砕蜂"}
+,"toshiro hijikata" : {v:"土方敏郎"}
+,"kyouko kasodani" : {v:"幽谷響子"}
+,"asagi igawa" : {v:"井河アサギ"}
 ,"erio mondial" : {v:"エリオ・モンディアル"}
-,"euryale" : {v:"エウリュアレ", m:{"granblue fantasy" : "エウリュアレー"}}
-,"shiori fujisaki" : {v:"藤崎詩織"}
-,"shirley fenette" : {v:"シャーリー・フェネット"}
-,"tobio kageyama" : {v:"影山飛雄"}
-,"hinata wakaba" : {v:"若葉ヒナタ"}
-,"klee" : {v:"クレー"}
 ,"mitsuba marui" : {v:"丸井みつば"}
 ,"rin kokonoe" : {v:"九重りん"}
-,"soi fon" : {v:"砕蜂"}
+,"sayo hikawa" : {v:"氷川紗夜"}
+,"shirley fenette" : {v:"シャーリー・フェネット"}
+,"tobio kageyama" : {v:"影山飛雄"}
+,"mano sakuragi" : {v:"櫻木真乃"}
+,"rainbow mika" : {v:"レインボー・ミカ"}
+,"shiori fujisaki" : {v:"藤崎詩織"}
+,"tomoko hoshina" : {v:"保科智子"}
 ,"vira" : {v:"ヴィーラ", m:{"punishing gray raven" : "ヴィラ"}}
+,"akeno himejima" : {v:"姫島朱乃"}
 ,"cure blossom" : {v:"花咲つぼみ(キュアブロッサム)"}
 ,"houshou" : {v:"鳳翔", m:{"azur lane" : "鳳翔(IJN Hōshō)"}}
-,"mano sakuragi" : {v:"櫻木真乃"}
-,"tomoko hoshina" : {v:"保科智子"}
-,"citlali" : {v:"シトラリ"}
-,"eevee" : {v:"イーブイ"}
 ,"kosuzu motoori" : {v:"本居小鈴"}
-,"kyouko kasodani" : {v:"幽谷響子"}
-,"noelle" : {v:"ノエル", m:{"deltarune" : "Noelle"}}
+,"mikazuki munechika" : {v:"三日月宗近"}
+,"toyosatomimi no miko" : {v:"豊聡耳神子"}
+,"zero two" : {v:"ゼロツー"}
+,"blue mary" : {v:"ブルー・マリー"}
+,"florian" : {v:"フローリアン", m:{"pokemon" : "ハルト"}}
 ,"paimon" : {v:"パイモン"}
-,"rainbow mika" : {v:"レインボー・ミカ"}
+,"shigeo kageyama" : {v:"影山茂夫"}
+,"shiki tohno" : {v:"遠野志貴"}
+,"shiranui mizuki" : {v:"水城不知火"}
+,"w" : {v:"W"}
 ,"eila ilmatar juutilainen" : {v:"エイラ・イルマタル・ユーティライネン"}
+,"euryale" : {v:"エウリュアレ", m:{"granblue fantasy" : "エウリュアレー"}}
+,"hideyoshi kinoshita" : {v:"木下秀吉"}
 ,"mai amatsu" : {v:"天津麻衣"}
 ,"sanya v. litvyak" : {v:"サーニャ・V・リトヴャク"}
-,"toyosatomimi no miko" : {v:"豊聡耳神子"}
 ,"tsukihi araragi" : {v:"阿良々木月火"}
-,"asagi igawa" : {v:"井河アサギ"}
-,"azki" : {v:"AZKi"}
-,"blue mary" : {v:"ブルー・マリー"}
 ,"cure peach" : {v:"桃園ラブ(キュアピーチ)"}
-,"mikazuki munechika" : {v:"三日月宗近"}
-,"roxy migurdia" : {v:"ロキシー・ミグルディア"}
-,"sayo hikawa" : {v:"氷川紗夜"}
-,"shigeo kageyama" : {v:"影山茂夫"}
-,"zero two" : {v:"ゼロツー"}
-,"akeno himejima" : {v:"姫島朱乃"}
-,"hideyoshi kinoshita" : {v:"木下秀吉"}
-,"akashi" : {v:"明石", m:{"azur lane" : "明石(IJN Akashi)"}}
-,"cure sunshine" : {v:"明堂院いつき(キュアサンシャイン)"}
-,"kaori kanzaki" : {v:"神裂火織"}
-,"nagisa kirifuji" : {v:"桐藤ナギサ"}
-,"seiya kanie" : {v:"可児江西也"}
-,"shiranui mizuki" : {v:"水城不知火"}
-,"tsukasa nishino" : {v:"西野つかさ"}
+,"tartaglia" : {v:"タルタリヤ"}
 ,"hajime hinata" : {v:"日向創"}
-,"ichika nakamasa" : {v:"仲正イチカ"}
-,"kirin" : {v:"キリン", m:{"hoozuki no reitetsu" : "麒麟"}}
-,"shiki tohno" : {v:"遠野志貴"}
-,"shizuo heiwajima" : {v:"平和島静雄"}
+,"hasshaku-sama" : {v:"八尺様"}
+,"killua zoldyck" : {v:"キルア=ゾルディック"}
+,"shiina yuika" : {v:"椎名唯華"}
 ,"tai kamiya" : {v:"八神太一"}
-,"wakana gojou" : {v:"五条新菜"}
+,"akashi" : {v:"明石", m:{"azur lane" : "明石(IJN Akashi)"}}
+,"anastasia nikolaevna romanova" : {v:"アナスタシア・ニコラエヴナ・ロマノヴァ"}
+,"cure sunshine" : {v:"明堂院いつき(キュアサンシャイン)"}
 ,"eijirou kirishima" : {v:"切島鋭児郎"}
-,"elizabeth bathory" : {v:"エリザベート・バートリー"}
-,"kisaragi" : {v:"如月", m:{"azur lane" : "如月(IJN Kisaragi)"}}
+,"ikaruga" : {v:"斑鳩"}
+,"kaori kanzaki" : {v:"神裂火織"}
+,"miorine rembran" : {v:"ミオリネ・レンブラン"}
 ,"motoko kusanagi" : {v:"草薙素子"}
 ,"natsuha arisugawa" : {v:"有栖川夏葉"}
-,"natsumi hinata" : {v:"日向夏美", m:{"sharin no kuni himawari no shoujo" : "日向夏咲"}}
-,"nezuko kamado" : {v:"竈門禰豆子"}
 ,"ryouko mikado" : {v:"御門涼子"}
-,"seolla schweizer" : {v:"ゼオラ・シュバイツァー"}
-,"tomoya aki" : {v:"安芸倫也"}
-,"chris" : {v:"クリス"}
-,"ikaruga" : {v:"斑鳩"}
+,"seiya kanie" : {v:"可児江西也"}
+,"andira" : {v:"アンチラ"}
 ,"kaoruko sazaki" : {v:"サザキ・カオルコ"}
-,"nagi" : {v:"那岐", m:{"kannagi" : "ナギ", "fire emblem mystery of the emblem" : "ナギ", "shin megami tensei" : "凪", "persona q" : "ナギ"}}
+,"kirin" : {v:"キリン", m:{"hoozuki no reitetsu" : "麒麟"}}
+,"nezuko kamado" : {v:"竈門禰豆子"}
 ,"ryoga hibiki" : {v:"響良牙"}
-,"tartaglia" : {v:"タルタリヤ"}
+,"seolla schweizer" : {v:"ゼオラ・シュバイツァー"}
+,"shizuo heiwajima" : {v:"平和島静雄"}
+,"elizabeth bathory" : {v:"エリザベート・バートリー"}
+,"kozue yusa" : {v:"遊佐こずえ"}
+,"mitsuki bakugou" : {v:"爆豪光己"}
+,"natsumi hinata" : {v:"日向夏美", m:{"sharin no kuni himawari no shoujo" : "日向夏咲"}}
+,"tomoya aki" : {v:"安芸倫也"}
+,"tsukasa nishino" : {v:"西野つかさ"}
 ,"yukari takeba" : {v:"岳羽ゆかり"}
 ,"chiyomi anzai" : {v:"安斎千代美(アンチョビ)"}
-,"england" : {v:"イングランド"}
-,"kakashi hatake" : {v:"はたけカカシ"}
-,"mitsuki bakugou" : {v:"爆豪光己"}
-,"sekai kamiki" : {v:"カミキ・セカイ"}
-,"shokudaikiri mitsutada" : {v:"燭台切光忠"}
-,"anastasia nikolaevna romanova" : {v:"アナスタシア・ニコラエヴナ・ロマノヴァ"}
-,"rikku" : {v:"リュック"}
+,"chris" : {v:"クリス"}
 ,"clarisse" : {v:"クラリス"}
-,"kirishima" : {v:"霧島", m:{"azur lane" : "霧島(IJN Kirishima)", "my hero academia" : "切島鋭児郎", "arpeggio of blue steel" : "キリシマ"}}
-,"kogane tsukioka" : {v:"月岡恋鐘"}
-,"miorine rembran" : {v:"ミオリネ・レンブラン"}
+,"england" : {v:"イングランド"}
+,"exusiai" : {v:"エクシア"}
+,"nagi" : {v:"那岐", m:{"kannagi" : "ナギ", "fire emblem mystery of the emblem" : "ナギ", "shin megami tensei" : "凪", "persona q" : "ナギ"}}
 ,"nana abe" : {v:"安部菜々"}
-,"andira" : {v:"アンチラ"}
-,"killua zoldyck" : {v:"キルア=ゾルディック"}
+,"sekai kamiki" : {v:"カミキ・セカイ"}
+,"arcueid brunestud" : {v:"アルクェイド・ブリュンスタッド"}
+,"kakashi hatake" : {v:"はたけカカシ"}
+,"laplus darknesss" : {v:"ラプラス・ダークネス"}
+,"rikku" : {v:"リュック"}
+,"shokudaikiri mitsutada" : {v:"燭台切光忠"}
+,"jane doe" : {v:"ジェーン・ドゥ"}
+,"kirishima" : {v:"霧島", m:{"azur lane" : "霧島(IJN Kirishima)", "my hero academia" : "切島鋭児郎", "arpeggio of blue steel" : "キリシマ"}}
+,"kiritan tohoku" : {v:"東北きりたん"}
+,"kogane tsukioka" : {v:"月岡恋鐘"}
 ,"sakaki" : {v:"榊"}
 ,"shiho kitazawa" : {v:"北沢志保"}
-,"w" : {v:"W"}
 ,"aiko takamori" : {v:"高森藍子"}
-,"florian" : {v:"フローリアン", m:{"pokemon" : "ハルト"}}
 ,"hikari horaki" : {v:"洞木ヒカリ"}
-,"karin kanzuki" : {v:"神月かりん"}
-,"kozue yusa" : {v:"遊佐こずえ"}
+,"kirara" : {v:"キララ", m:{"blue archive" : "夜桜キララ", "genshin impact" : "綺良々", "inuyasha" : "雲母", "kirara fantasia" : "きらら"}}
 ,"kuroyukihime" : {v:"黒雪姫(ブラック・ロータス)"}
-,"ryoko hakubi" : {v:"魎呼"}
-,"shoyo hinata" : {v:"日向翔陽"}
-,"iori yoshizuki" : {v:"葦月伊織"}
-,"leona heidern" : {v:"レオナ・ハイデルン"}
 ,"mea kurosaki" : {v:"黒咲芽亜"}
-,"shiina yuika" : {v:"椎名唯華"}
+,"sorceress" : {v:"魔女", m:{"dragons crown" : "ソーサレス", "diablo" : "ソーサレス"}}
 ,"tear grants" : {v:"ティア・グランツ"}
+,"touya kinomoto" : {v:"木之本桃矢"}
+,"cure magical" : {v:"十六夜リコ(キュアマジカル)"}
+,"cure miracle" : {v:"朝日奈みらい(キュアミラクル)"}
+,"karin kanzuki" : {v:"神月かりん"}
+,"leona heidern" : {v:"レオナ・ハイデルン"}
+,"ryoko hakubi" : {v:"魎呼"}
+,"iori yoshizuki" : {v:"葦月伊織"}
+,"kos-mos" : {v:"KOS-MOS"}
+,"shoyo hinata" : {v:"日向翔陽"}
 ,"tsubaki kasuga" : {v:"春日ツバキ"}
 ,"ui hirasawa" : {v:"平沢憂"}
-,"katori" : {v:"香取", m:{"phantasy star online 2" : "カトリ"}}
-,"kos-mos" : {v:"KOS-MOS"}
-,"teana lanster" : {v:"ティアナ・ランスター"}
-,"touya kinomoto" : {v:"木之本桃矢"}
 ,"yamakaze" : {v:"山風", m:{"azur lane" : "山風(IJN Yamakaze)"}}
 ,"baltimore" : {v:"ボルチモア", m:{"azur lane" : "ボルチモア(USS Baltimore)"}}
-,"belle" : {v:"リン", m:{"beauty and the beast" : "ベル"}}
-,"luka megurine" : {v:"巡音ルカ"}
-,"sorceress" : {v:"魔女", m:{"dragons crown" : "ソーサレス", "diablo" : "ソーサレス"}}
-,"syuko shiomi" : {v:"塩見周子"}
-,"kiritan tohoku" : {v:"東北きりたん"}
-,"shuuichi akai" : {v:"赤井秀一"}
-,"yuel" : {v:"ユエル"}
-,"echidna" : {v:"エキドナ", m:{"queens blade" : "歴戦の傭兵エキドナ"}}
-,"laplus darknesss" : {v:"ラプラス・ダークネス"}
+,"teana lanster" : {v:"ティアナ・ランスター"}
+,"wakamo kosaka" : {v:"狐坂ワカモ"}
 ,"anna mochizuki" : {v:"望月杏奈"}
-,"arcueid brunestud" : {v:"アルクェイド・ブリュンスタッド"}
-,"asuka" : {v:"アスカ", m:{"senran kagura" : "飛鳥", "magic knight rayearth" : "阿洲花", "dream c club" : "あすか", "viper ctr" : "あすか"}}
-,"cure magical" : {v:"十六夜リコ(キュアマジカル)"}
-,"emma verde" : {v:"エマ・ヴェルデ"}
-,"exusiai" : {v:"エクシア"}
 ,"futaba sakura" : {v:"佐倉双葉"}
-,"kirara" : {v:"キララ", m:{"blue archive" : "夜桜キララ", "genshin impact" : "綺良々", "inuyasha" : "雲母", "kirara fantasia" : "きらら"}}
+,"hieda no akyuu" : {v:"稗田阿求"}
+,"kaltsit" : {v:"ケルシー"}
+,"katori" : {v:"香取", m:{"phantasy star online 2" : "カトリ"}}
+,"luka megurine" : {v:"巡音ルカ"}
+,"syuko shiomi" : {v:"塩見周子"}
+,"echidna" : {v:"エキドナ", m:{"queens blade" : "歴戦の傭兵エキドナ"}}
+,"emma verde" : {v:"エマ・ヴェルデ"}
+,"ingrid" : {v:"イングリッド", m:{"resident evil" : "イングリド", "taimanin asagi" : "魔界騎士イングリッド", "sennen sensou aigis" : "魔戦団長イングリッド", "makai kishi ingrid" : "魔界騎士イングリッド", "atelier marie" : "イングリド", "atelier elie" : "イングリド", "atelier lilie" : "イングリド", "nelke to densetsu no renkinjutsushi-tachi" : "イングリド"}}
+,"shuuichi akai" : {v:"赤井秀一"}
+,"tsukino mito" : {v:"月ノ美兎"}
+,"chieri ogata" : {v:"緒方智絵里"}
+,"yuel" : {v:"ユエル"}
+,"z3" : {v:"Z3(マックス・シュルツ)"}
+,"asuka" : {v:"アスカ", m:{"senran kagura" : "飛鳥", "magic knight rayearth" : "阿洲花", "dream c club" : "あすか", "viper ctr" : "あすか"}}
 ,"ningguang" : {v:"凝光"}
 ,"tori aoi" : {v:"葵・トーリ"}
-,"wakamo kosaka" : {v:"狐坂ワカモ"}
-,"z3" : {v:"Z3(マックス・シュルツ)"}
-,"taki" : {v:"多喜"}
-,"chieri ogata" : {v:"緒方智絵里"}
-,"cure miracle" : {v:"朝日奈みらい(キュアミラクル)"}
-,"hieda no akyuu" : {v:"稗田阿求"}
-,"kazama iroha" : {v:"風真いろは"}
 ,"megumi tokoro" : {v:"所恵美"}
-,"reginald kastle" : {v:"神代凌牙"}
-,"yuki mori" : {v:"森雪"}
-,"chii" : {v:"ちぃ"}
-,"elf yamada" : {v:"山田エルフ"}
-,"hasshaku-sama" : {v:"八尺様"}
-,"junpei manaka" : {v:"真中淳平"}
+,"taki" : {v:"多喜"}
 ,"moe kazekura" : {v:"風倉モエ"}
-,"tsukino mito" : {v:"月ノ美兎"}
-,"akiha tohno" : {v:"遠野秋葉"}
+,"reginald kastle" : {v:"神代凌牙"}
 ,"rinze morino" : {v:"杜野凛世"}
-,"akane kotonoha" : {v:"琴葉茜"}
+,"stelle" : {v:"星"}
+,"akiha tohno" : {v:"遠野秋葉"}
 ,"ayeka masaki jurai" : {v:"柾木阿重霞樹雷"}
-,"christie" : {v:"クリスティ"}
-,"ingrid" : {v:"イングリッド", m:{"resident evil" : "イングリド", "taimanin asagi" : "魔界騎士イングリッド", "sennen sensou aigis" : "魔戦団長イングリッド", "makai kishi ingrid" : "魔界騎士イングリッド", "atelier marie" : "イングリド", "atelier elie" : "イングリド", "atelier lilie" : "イングリド", "nelke to densetsu no renkinjutsushi-tachi" : "イングリド"}}
-,"kaltsit" : {v:"ケルシー"}
-,"suiseiseki" : {v:"翠星石"}
-,"ataru moroboshi" : {v:"諸星あたる"}
-,"isokaze" : {v:"磯風", m:{"azur lane" : "磯風(IJN Isokaze)"}}
-,"miles tails prower" : {v:"マイルス“テイルス”パウアー"}
+,"chii" : {v:"ちぃ"}
+,"d.va" : {v:"D.Va"}
+,"elf yamada" : {v:"山田エルフ"}
+,"junpei manaka" : {v:"真中淳平"}
 ,"shioriko mifune" : {v:"三船栞子"}
+,"suzuran" : {v:"スズラン", m:{"monster strike" : "鈴蘭"}}
+,"yamame kurodani" : {v:"黒谷ヤマメ"}
+,"yuki mori" : {v:"森雪"}
+,"christie" : {v:"クリスティ"}
+,"isokaze" : {v:"磯風", m:{"azur lane" : "磯風(IJN Isokaze)"}}
+,"kaori nishino" : {v:"西野かおり"}
+,"suiseiseki" : {v:"翠星石"}
+,"takamiya rion" : {v:"鷹宮リオン"}
 ,"tiki" : {v:"ティキ", m:{"fire emblem" : "チキ", "fire emblem awakening" : "チキ", "fire emblem mystery of the emblem" : "チキ", "fire emblem heroes" : "チキ", "pangya" : "ティッキー"}}
+,"akane kotonoha" : {v:"琴葉茜"}
+,"ataru moroboshi" : {v:"諸星あたる"}
+,"kyoka jiro" : {v:"耳郎響香"}
+,"ling yin huang" : {v:"凰鈴音"}
+,"miles tails prower" : {v:"マイルス“テイルス”パウアー"}
+,"sakurako utazumi" : {v:"歌住サクラコ"}
 ,"yuriko nanao" : {v:"七尾百合子"}
+,"luna" : {v:"ルナ", m:{"queens blade" : "月影の踊り手ルナルナ", "yu-gi-oh zexal" : "瑠那", "defense of the ancients" : "Luna"}}
+,"ninomae inanis" : {v:"一伊那尓栖"}
+,"rinko kobayakawa" : {v:"小早川凛子"}
 ,"houtarou oreki" : {v:"折木奉太郎"}
 ,"ika musume" : {v:"イカ娘"}
-,"ling yin huang" : {v:"凰鈴音"}
-,"rinko kobayakawa" : {v:"小早川凛子"}
-,"yamame kurodani" : {v:"黒谷ヤマメ"}
-,"kaori nishino" : {v:"西野かおり"}
-,"luna" : {v:"ルナ", m:{"queens blade" : "月影の踊り手ルナルナ", "yu-gi-oh zexal" : "瑠那", "defense of the ancients" : "Luna"}}
+,"izaya orihara" : {v:"折原臨也"}
 ,"marie" : {v:"マリー", m:{"pokemon" : "オハギ"}}
+,"niyah" : {v:"ニア"}
 ,"noire" : {v:"ノワール(ブラックハート)", m:{"fire emblem awakening" : "ノワール"}}
 ,"rokuro okajima" : {v:"岡島緑郎"}
-,"wu zetian" : {v:"武則天"}
+,"ayanami" : {v:"綾波", m:{"azur lane" : "綾波(IJN Ayanami)"}}
+,"denji" : {v:"デンジ"}
 ,"hiei" : {v:"比叡(IJN Hiei)"}
 ,"i-401" : {v:"伊401"}
-,"riza hawkeye" : {v:"リザ・ホークアイ"}
-,"izaya orihara" : {v:"折原臨也"}
 ,"kumano" : {v:"熊野", m:{"azur lane" : "熊野(IJN Kumano)"}}
-,"kyoka jiro" : {v:"耳郎響香"}
-,"mayoi hachikuji" : {v:"八九寺真宵"}
-,"ninomae inanis" : {v:"一伊那尓栖"}
-,"sakurako utazumi" : {v:"歌住サクラコ"}
-,"clorinde" : {v:"クロリンデ"}
-,"d.va" : {v:"D.Va"}
 ,"kyouka tachibana" : {v:"橘京香"}
-,"niyah" : {v:"ニア"}
-,"ayanami" : {v:"綾波", m:{"azur lane" : "綾波(IJN Ayanami)"}}
-,"jeanne alter lily" : {v:"ジャンヌ・ダルク・オルタ・サンタ・リリィ"}
-,"kusuha mizuha" : {v:"クスハ・ミズハ"}
+,"riza hawkeye" : {v:"リザ・ホークアイ"}
+,"mayoi hachikuji" : {v:"八九寺真宵"}
+,"the herta" : {v:"マダム・ヘルタ"}
+,"wu zetian" : {v:"武則天"}
+,"anya forger" : {v:"アーニャ・フォージャー"}
+,"maria cadenzavna eve" : {v:"マリア・カデンツァヴナ・イヴ"}
 ,"miyuki shiba" : {v:"司波深雪"}
 ,"son goten" : {v:"孫悟天"}
-,"suzuran" : {v:"スズラン", m:{"monster strike" : "鈴蘭"}}
-,"takamiya rion" : {v:"鷹宮リオン"}
+,"tokitsukaze" : {v:"時津風"}
+,"erica hartmann" : {v:"エーリカ・ハルトマン"}
+,"nepgear" : {v:"ネプギア(パープルシスター)"}
+,"power" : {v:"パワー"}
+,"sendai" : {v:"川内", m:{"azur lane" : "川内(IJN Sendai)"}}
 ,"tsukasa ayatsuji" : {v:"絢辻詞"}
 ,"aichi sendou" : {v:"先導アイチ"}
-,"anya forger" : {v:"アーニャ・フォージャー"}
+,"clorinde" : {v:"クロリンデ"}
 ,"flay allster" : {v:"フレイ・アルスター"}
-,"sumeragi lee noriega" : {v:"スメラギ・李・ノリエガ"}
-,"tiffania westwood" : {v:"ティファニア・ウエストウッド"}
-,"tokitsukaze" : {v:"時津風"}
-,"medaka kurokami" : {v:"黒神めだか"}
-,"nepgear" : {v:"ネプギア(パープルシスター)"}
-,"selvaria bles" : {v:"セルベリア・ブレス"}
-,"sendai" : {v:"川内", m:{"azur lane" : "川内(IJN Sendai)"}}
-,"eri sawachika" : {v:"沢近愛理"}
-,"erica hartmann" : {v:"エーリカ・ハルトマン"}
-,"jane doe" : {v:"ジェーン・ドゥ"}
 ,"kanade tachibana" : {v:"立華かなで"}
 ,"kaori sakuramori" : {v:"桜守歌織"}
-,"kazuma ikezawa" : {v:"池沢佳主馬"}
-,"latifa fleuranza" : {v:"ラティファ・フルーランザ"}
+,"kusuha mizuha" : {v:"クスハ・ミズハ"}
+,"mudrock" : {v:"Mudrock"}
 ,"sakuya" : {v:"サクヤ", m:{"touhou project" : "十六夜咲夜", "sister princess" : "咲耶", "puzzle and dragons" : "麒麟の化身・サクヤ", "shining blade" : "サクヤ・マキシマ・エンフィールド", "okami" : "木精サクヤ姫", "rune factory 3" : "さくや"}}
-,"stelle" : {v:"星"}
-,"lopunny" : {v:"ミミロップ"}
-,"mai fukuyama" : {v:"福山舞"}
-,"rin okumura" : {v:"奥村燐"}
+,"sumeragi lee noriega" : {v:"スメラギ・李・ノリエガ"}
+,"tiffania westwood" : {v:"ティファニア・ウエストウッド"}
+,"inui toko" : {v:"戌亥とこ"}
+,"latifa fleuranza" : {v:"ラティファ・フルーランザ"}
+,"medaka kurokami" : {v:"黒神めだか"}
+,"natsuiro matsuri" : {v:"夏色まつり"}
+,"oboro" : {v:"オボロ", m:{"kantai collection" : "朧", "taimanin asagi" : "朧", "basilisk" : "朧"}}
+,"selvaria bles" : {v:"セルベリア・ブレス"}
 ,"wa2000" : {v:"WA2000"}
-,"hakuno kishinami" : {v:"岸波白野"}
+,"eri sawachika" : {v:"沢近愛理"}
+,"higuchi kaede" : {v:"樋口楓"}
+,"kazuma ikezawa" : {v:"池沢佳主馬"}
+,"lopunny" : {v:"ミミロップ"}
+,"luna child" : {v:"ルナチャイルド"}
+,"mai fukuyama" : {v:"福山舞"}
+,"star sapphire" : {v:"スターサファイア"}
+,"stocking anarchy" : {v:"アナーキー・ストッキング"}
+,"chiyoko sonoda" : {v:"園田智代子"}
+,"jeanne alter lily" : {v:"ジャンヌ・ダルク・オルタ・サンタ・リリィ"}
+,"kashino" : {v:"樫野(IJN Kashino)"}
+,"laffey" : {v:"ラフィー(USS Laffey)"}
+,"rin okumura" : {v:"奥村燐"}
+,"ibaraki douji" : {v:"茨木童子"}
 ,"iris chateaubriand" : {v:"イリス・シャトーブリアン"}
 ,"kyou fujibayashi" : {v:"藤林杏"}
-,"oboro" : {v:"オボロ", m:{"kantai collection" : "朧", "taimanin asagi" : "朧", "basilisk" : "朧"}}
-,"stocking anarchy" : {v:"アナーキー・ストッキング"}
-,"tetsurou kuroo" : {v:"黒尾鉄朗"}
-,"akari kanzaki" : {v:"神崎あかり"}
-,"chiyo shimada" : {v:"島田千代"}
-,"chiyoko sonoda" : {v:"園田智代子"}
-,"ibaraki douji" : {v:"茨木童子"}
-,"inui toko" : {v:"戌亥とこ"}
-,"luna child" : {v:"ルナチャイルド"}
-,"nodoka miyazaki" : {v:"宮崎のどか"}
+,"mai" : {v:"マイ", m:{"pokemon" : "ヨネ", "popotan" : "まい"}}
+,"naganami" : {v:"長波", m:{"azur lane" : "長波(IJN Naganami)"}}
 ,"rose" : {v:"ローズ", m:{"king of fighters" : "ローズ・バーンシュタイン", "dragon quest iv" : "ロザリー", "elsword" : "ロゼ", "tiger and bunny" : "ブルーローズ(カリーナ・ライル)", "tales of zestiria" : "ロゼ", "epic seven" : "カーマイン・ローズ", "the legend of dragoon" : "ロゼ"}}
-,"denji" : {v:"デンジ"}
-,"maria cadenzavna eve" : {v:"マリア・カデンツァヴナ・イヴ"}
+,"tetsurou kuroo" : {v:"黒尾鉄朗"}
+,"vivi nefertari" : {v:"ネフェルタリ・ビビ"}
+,"yuzuki choco" : {v:"癒月ちょこ"}
+,"akari kanzaki" : {v:"神崎あかり"}
+,"aliza" : {v:"アリーザ", m:{"ragnarok online" : "エリザ", "undertale" : "アリザ"}}
+,"cure dream" : {v:"夢原のぞみ(キュアドリーム)"}
+,"gon freecss" : {v:"ゴン=フリークス"}
+,"miyuki takara" : {v:"高良みゆき"}
+,"nodoka miyazaki" : {v:"宮崎のどか"}
+,"vikala" : {v:"ビカラ"}
+,"wiz" : {v:"ウィズ"}
+,"chiyo shimada" : {v:"島田千代"}
+,"kaban" : {v:"かばんちゃん"}
+,"miyabi hoshimi" : {v:"星見雅"}
+,"moon" : {v:"ミヅキ"}
 ,"rina tennoji" : {v:"天王寺璃奈"}
 ,"shinku" : {v:"真紅"}
-,"star sapphire" : {v:"スターサファイア"}
-,"cure dream" : {v:"夢原のぞみ(キュアドリーム)"}
+,"yukimi sajo" : {v:"佐城雪美"}
 ,"hibiki tsukahara" : {v:"塚原響"}
 ,"jotaro kujo" : {v:"空条承太郎"}
-,"kaban" : {v:"かばんちゃん"}
-,"laffey" : {v:"ラフィー(USS Laffey)"}
-,"miyuki takara" : {v:"高良みゆき"}
 ,"rein" : {v:"レイン"}
 ,"subaru nakajima" : {v:"スバル・ナカジマ"}
-,"wiz" : {v:"ウィズ"}
-,"aliza" : {v:"アリーザ", m:{"ragnarok online" : "エリザ", "undertale" : "アリザ"}}
-,"kashino" : {v:"樫野(IJN Kashino)"}
-,"krista lenz" : {v:"クリスタ・レンズ"}
-,"mai" : {v:"マイ", m:{"pokemon" : "ヨネ", "popotan" : "まい"}}
-,"moon" : {v:"ミヅキ"}
-,"navia caspar" : {v:"ナヴィア・カスパール"}
-,"wang liu mei" : {v:"王留美"}
-,"ikuyo hoshizora" : {v:"星空育代"}
-,"misaka-imouto" : {v:"御坂妹"}
-,"mudrock" : {v:"Mudrock"}
-,"naganami" : {v:"長波", m:{"azur lane" : "長波(IJN Naganami)"}}
-,"nayuki minase" : {v:"水瀬名雪"}
-,"power" : {v:"パワー"}
-,"rydia" : {v:"リディア"}
 ,"uruha rushia" : {v:"潤羽るしあ"}
-,"vikala" : {v:"ビカラ"}
-,"yukimi sajo" : {v:"佐城雪美"}
+,"erasa" : {v:"イレーザ"}
+,"hakuno kishinami" : {v:"岸波白野"}
+,"krista lenz" : {v:"クリスタ・レンズ"}
+,"mamizou futatsuiwa" : {v:"二ッ岩マミゾウ"}
+,"misaka-imouto" : {v:"御坂妹"}
+,"roll" : {v:"ロールちゃん"}
+,"sumireko usami" : {v:"宇佐見菫子"}
+,"toriel" : {v:"トリエル"}
+,"ume hanami" : {v:"花海佑芽"}
+,"wang liu mei" : {v:"王留美"}
+,"fuu hououji" : {v:"鳳凰寺風"}
+,"ikuyo hoshizora" : {v:"星空育代"}
+,"kay" : {v:"ケイ"}
+,"lulu" : {v:"ルル", m:{"final fantasy" : "ルールー", "final fantasy x" : "ルールー", "final fantasy x-2" : "ルールー", "tenshi no shippo" : "カエルのルル"}}
+,"luminary" : {v:"勇者"}
+,"nayuki minase" : {v:"水瀬名雪"}
+,"rudeus greyrat" : {v:"ルーデウス・グレイラット"}
+,"rydia" : {v:"リディア"}
+,"shinichi sakurai" : {v:"桜井真一"}
+,"wendy marvell" : {v:"ウェンディ・マーベル"}
+,"zara" : {v:"Zara(ザラ)", m:{"azur lane" : "ザラ(RN Zara)"}}
 ,"cure mint" : {v:"秋元こまち(キュアミント)"}
 ,"giyuu tomioka" : {v:"冨岡義勇"}
-,"luminary" : {v:"勇者"}
-,"mamizou futatsuiwa" : {v:"二ッ岩マミゾウ"}
-,"roll" : {v:"ロールちゃん"}
-,"wendy marvell" : {v:"ウェンディ・マーベル"}
-,"fuu hououji" : {v:"鳳凰寺風"}
-,"higuchi kaede" : {v:"樋口楓"}
-,"lulu" : {v:"ルル", m:{"final fantasy" : "ルールー", "final fantasy x" : "ルールー", "final fantasy x-2" : "ルールー", "tenshi no shippo" : "カエルのルル"}}
+,"ruan mei" : {v:"ルアン・メェイ"}
 ,"sayla mass" : {v:"セイラ・マス"}
-,"vivi nefertari" : {v:"ネフェルタリ・ビビ"}
-,"artoria pendragon rider alter" : {v:"アルトリア・ペンドラゴン ライダー［オルタ］"}
+,"yixuan" : {v:"儀玄"}
+,"akali" : {v:"アカリ	"}
+,"chiya ujimatsu" : {v:"宇治松千夜"}
 ,"gertrud barkhorn" : {v:"ゲルトルート・バルクホルン"}
+,"navia caspar" : {v:"ナヴィア・カスパール"}
+,"rio rollins tachibana" : {v:"リオ・ロリンズ・タチバナ"}
+,"sukoya kana" : {v:"健屋花那"}
+,"artoria pendragon rider alter" : {v:"アルトリア・ペンドラゴン ライダー［オルタ］"}
+,"kosaki onodera" : {v:"小野寺小咲"}
 ,"mihoshi kuramitsu" : {v:"九羅密美星"}
 ,"misao amano" : {v:"天野美紗緒"}
-,"rio rollins tachibana" : {v:"リオ・ロリンズ・タチバナ"}
-,"sumireko usami" : {v:"宇佐見菫子"}
-,"zara" : {v:"Zara(ザラ)", m:{"azur lane" : "ザラ(RN Zara)"}}
+,"sunny milk" : {v:"サニーミルク"}
 ,"agrias oaks" : {v:"アグリアス・オークス"}
 ,"annie leonhart" : {v:"アニ・レオンハート"}
-,"chiya ujimatsu" : {v:"宇治松千夜"}
-,"kay" : {v:"ケイ"}
-,"kosaki onodera" : {v:"小野寺小咲"}
-,"shinichi sakurai" : {v:"桜井真一"}
-,"toriel" : {v:"トリエル"}
-,"gon freecss" : {v:"ゴン=フリークス"}
+,"pan" : {v:"パン"}
+,"ciel" : {v:"シエル", m:{"tsukihime" : "エレイシア(シエル)", "god eater" : "シエル・アランソン"}}
 ,"maou" : {v:"魔王"}
-,"rudeus greyrat" : {v:"ルーデウス・グレイラット"}
-,"akali" : {v:"アカリ	"}
+,"reiko katherine akimoto" : {v:"秋本・カトリーヌ・麗子"}
+,"ciel phantomhive" : {v:"シエル・ファントムハイヴ"}
 ,"evangeline a.k. mcdowell" : {v:"エヴァンジェリン・A・K・マクダウェル"}
 ,"ichigo morino" : {v:"森野苺"}
-,"natsuiro matsuri" : {v:"夏色まつり"}
-,"reiko katherine akimoto" : {v:"秋本・カトリーヌ・麗子"}
-,"sukoya kana" : {v:"健屋花那"}
-,"barnaby brooks jr." : {v:"バーナビー・ブルックスJr."}
-,"erasa" : {v:"イレーザ"}
-,"sunny milk" : {v:"サニーミルク"}
-,"miyabi hoshimi" : {v:"星見雅"}
-,"yukikaze panettone" : {v:"ユキカゼ・パネトーネ"}
-,"ada wong" : {v:"エイダ・ウォン"}
-,"bayonetta" : {v:"ベヨネッタ"}
-,"ciel phantomhive" : {v:"シエル・ファントムハイヴ"}
-,"kanako ohno" : {v:"大野加奈子(神無月曜湖)"}
 ,"ryou yamada" : {v:"山田リョウ"}
-,"stheno" : {v:"ステンノ"}
-,"ume hanami" : {v:"花海佑芽"}
-,"azusa shirasu" : {v:"白洲アズサ"}
-,"ciel" : {v:"シエル", m:{"tsukihime" : "エレイシア(シエル)", "god eater" : "シエル・アランソン"}}
-,"fusou" : {v:"扶桑(IJN Fuso)"}
-,"klan klan" : {v:"クラン・クラン"}
-,"okita souji alter" : {v:"沖田総司［オルタ］"}
-,"pan" : {v:"パン"}
+,"barnaby brooks jr." : {v:"バーナビー・ブルックスJr."}
+,"bayonetta" : {v:"ベヨネッタ"}
+,"loid forger" : {v:"ロイド・フォージャー"}
 ,"pola" : {v:"Pola(ポーラ)", m:{"azur lane" : "ポーラ(RN Pola)"}}
-,"ryoken kogami" : {v:"鴻上了見"}
-,"sasami kawai" : {v:"河合砂沙美"}
 ,"sebastian michaelis" : {v:"セバスチャン・ミカエリス"}
-,"ump45" : {v:"UMP45"}
+,"ada wong" : {v:"エイダ・ウォン"}
+,"laala manaka" : {v:"真中らぁら"}
+,"nui sociere" : {v:"ニュイ・ソシエール"}
+,"umbreon" : {v:"ブラッキー"}
+,"yukikaze panettone" : {v:"ユキカゼ・パネトーネ"}
+,"azusa shirasu" : {v:"白洲アズサ"}
+,"kanako ohno" : {v:"大野加奈子(神無月曜湖)"}
+,"lisa imai" : {v:"今井リサ"}
+,"lunch" : {v:"ランチ"}
+,"ryoken kogami" : {v:"鴻上了見"}
 ,"vector" : {v:"ベクター", m:{"girls frontline" : "Vector"}}
 ,"yukikaze" : {v:"雪風", m:{"azur lane" : "雪風(IJN Yukikaze)"}}
-,"laala manaka" : {v:"真中らぁら"}
-,"loid forger" : {v:"ロイド・フォージャー"}
-,"ruan mei" : {v:"ルアン・メェイ"}
-,"sona buvelle" : {v:"Sona Buvelle"}
-,"the herta" : {v:"マダム・ヘルタ"}
-,"tomoya okazaki" : {v:"岡崎朋也"}
-,"umbreon" : {v:"ブラッキー"}
-,"yuzuki choco" : {v:"癒月ちょこ"}
-,"akebono" : {v:"曙"}
-,"lunch" : {v:"ランチ"}
-,"nishikata" : {v:"西片"}
-,"aki hinata" : {v:"日向秋"}
-,"harusame" : {v:"春雨"}
+,"fusou" : {v:"扶桑(IJN Fuso)"}
 ,"hayate hisakawa" : {v:"久川颯"}
-,"hiori kazano" : {v:"風野灯織"}
-,"kotoha tanaka" : {v:"田中琴葉"}
-,"tsurumaru kuninaga" : {v:"鶴丸国永"}
-,"yasutomo arakita" : {v:"荒北靖友"}
-,"bronya zaychik" : {v:"ブローニャ・ザイチク"}
-,"inkling" : {v:"インクリング"}
-,"kei kusanagi" : {v:"草薙桂"}
-,"luca" : {v:"リュカ", m:{"duel masters" : "ルカ"}}
-,"nui sociere" : {v:"ニュイ・ソシエール"}
-,"suruga kanbaru" : {v:"神原駿河"}
-,"tabitha" : {v:"タバサ", m:{"pokemon" : "ホムラ", "dragon quest v" : "タバサ王女", "dragon quest" : "タバサ王女"}}
-,"tatsuya shiba" : {v:"司波達也"}
-,"yukio okumura" : {v:"奥村雪男"}
-,"deedlit" : {v:"ディードリット"}
-,"kaede isami" : {v:"勇美カエデ"}
+,"klan klan" : {v:"クラン・クラン"}
 ,"kohaku" : {v:"コハク", m:{"tsukihime" : "琥珀", "inuyasha" : "琥珀"}}
-,"megumi fushiguro" : {v:"伏黒恵"}
-,"momo" : {v:"モモ", m:{"xenosaga" : "モモ(M.O.M.O.)", "idolish7" : "百"}}
-,"scheherazade" : {v:"シェヘラザード"}
+,"nishikata" : {v:"西片"}
+,"sasami kawai" : {v:"河合砂沙美"}
+,"ump45" : {v:"UMP45"}
+,"akebono" : {v:"曙"}
+,"harusame" : {v:"春雨"}
+,"kotoha tanaka" : {v:"田中琴葉"}
+,"okita souji alter" : {v:"沖田総司［オルタ］"}
+,"sona buvelle" : {v:"Sona Buvelle"}
+,"tomoya okazaki" : {v:"岡崎朋也"}
+,"bronya zaychik" : {v:"ブローニャ・ザイチク"}
+,"ghislaine dedoldia" : {v:"ギレーヌ・デドルディア"}
+,"hiori kazano" : {v:"風野灯織"}
+,"inkling" : {v:"インクリング"}
+,"tabitha" : {v:"タバサ", m:{"pokemon" : "ホムラ", "dragon quest v" : "タバサ王女", "dragon quest" : "タバサ王女"}}
 ,"warspite" : {v:"ウォースパイト", m:{"kantai collection" : "Warspite(ウォースパイト)", "azur lane" : "ウォースパイト(HMS Warspite)"}}
-,"arataka reigen" : {v:"霊幻新隆"}
+,"aki hinata" : {v:"日向秋"}
 ,"chihiro senkawa" : {v:"千川ちひろ"}
 ,"cure milky" : {v:"羽衣ララ(キュアミルキー)"}
-,"ghislaine dedoldia" : {v:"ギレーヌ・デドルディア"}
+,"hiro shinosawa" : {v:"篠澤広"}
+,"scaramouche" : {v:"スカラマシュ"}
+,"stheno" : {v:"ステンノ"}
+,"suruga kanbaru" : {v:"神原駿河"}
+,"tsurumaru kuninaga" : {v:"鶴丸国永"}
+,"yasutomo arakita" : {v:"荒北靖友"}
+,"chiori" : {v:"千織"}
+,"hina hikawa" : {v:"氷川日菜"}
+,"kei kusanagi" : {v:"草薙桂"}
+,"luca" : {v:"リュカ", m:{"duel masters" : "ルカ"}}
+,"tatsuya shiba" : {v:"司波達也"}
+,"yanagi tsukishiro" : {v:"月城柳"}
+,"yukio okumura" : {v:"奥村雪男"}
+,"zhu yuan" : {v:"朱鳶"}
+,"angel" : {v:"エンジェル", m:{"king of fighters" : "アンヘル", "fairy tail" : "ソラノ・アグリア(エンジェル)", "actraiser" : "天使"}}
+,"deedlit" : {v:"ディードリット"}
+,"etna" : {v:"エトナ"}
 ,"issei hyoudou" : {v:"兵藤一誠"}
+,"megumi fushiguro" : {v:"伏黒恵"}
+,"momo" : {v:"モモ", m:{"xenosaga" : "モモ(M.O.M.O.)", "idolish7" : "百"}}
+,"regu" : {v:"レグ"}
+,"scheherazade" : {v:"シェヘラザード"}
 ,"shin sato" : {v:"佐藤心"}
+,"takanashi kiara" : {v:"小鳥遊キアラ"}
 ,"aki izayoi" : {v:"十六夜アキ"}
 ,"amazon" : {v:"アマゾン(HMS Amazon)"}
-,"angel" : {v:"エンジェル", m:{"king of fighters" : "アンヘル", "fairy tail" : "ソラノ・アグリア(エンジェル)", "actraiser" : "天使"}}
+,"amiya" : {v:"アーミヤ"}
+,"arataka reigen" : {v:"霊幻新隆"}
+,"hiro" : {v:"ヒロ", m:{"lunar eternal blue" : "ヒイロ"}}
+,"kaede isami" : {v:"勇美カエデ"}
+,"keiichi maebara" : {v:"前原圭一"}
+,"mei izumi" : {v:"和泉愛依"}
+,"minamitsu murasa" : {v:"村紗水蜜"}
+,"shiroko terror" : {v:"シロコ*テラー"}
+,"skadi" : {v:"スカディ", m:{"fate grand order" : "スカサハ=スカディ", "arknights" : "スカジ"}}
+,"arisa ichigaya" : {v:"市ヶ谷有咲"}
+,"boruto uzumaki" : {v:"うずまきボルト"}
+,"chizuru ichinose" : {v:"一ノ瀬ちづる(水原千鶴)"}
+,"cure moonlight" : {v:"月影ゆり(キュアムーンライト)"}
+,"cure pine" : {v:"山吹祈里(キュアパイン)"}
 ,"fine" : {v:"フィーネ", m:{"fushigiboshi no futagohime" : "ファイン"}}
 ,"hange zoe" : {v:"ハンジ・ゾエ"}
-,"heles" : {v:"ヘルエス"}
-,"hiro" : {v:"ヒロ", m:{"lunar eternal blue" : "ヒイロ"}}
-,"kaoru niimi" : {v:"新見薫"}
-,"keiichi maebara" : {v:"前原圭一"}
-,"lisa imai" : {v:"今井リサ"}
-,"regu" : {v:"レグ"}
-,"sword maiden" : {v:"剣の乙女"}
-,"yuni shingyouji" : {v:"真行寺由仁(ユニ)"}
-,"boruto uzumaki" : {v:"うずまきボルト"}
-,"cornelia li britannia" : {v:"コーネリア・リ・ブリタニア"}
-,"cure pine" : {v:"山吹祈里(キュアパイン)"}
-,"etna" : {v:"エトナ"}
-,"haruka yuzuhara" : {v:"柚原春夏"}
-,"mei izumi" : {v:"和泉愛依"}
-,"nina ichihara" : {v:"市原仁奈"}
-,"debora briscoletti" : {v:"デボラ・ブリスコレッティ"}
 ,"haruka" : {v:"ハルカ", m:{"senran kagura" : "春花", "sister princess" : "春歌", "dream c club" : "遙華", "tactics" : "春華"}}
-,"hina hikawa" : {v:"氷川日菜"}
+,"haruka yuzuhara" : {v:"柚原春夏"}
+,"heles" : {v:"ヘルエス"}
+,"kaho komiya" : {v:"小宮果穂"}
+,"kaoru niimi" : {v:"新見薫"}
+,"rika nonaka" : {v:"牧野留姫"}
+,"sword maiden" : {v:"剣の乙女"}
+,"yumi" : {v:"ユミ", m:{"senran kagura" : "雪泉", "ape escape" : "サヤカ"}}
+,"yuni shingyouji" : {v:"真行寺由仁(ユニ)"}
+,"cornelia li britannia" : {v:"コーネリア・リ・ブリタニア"}
+,"layla" : {v:"レイラ", m:{"the idolmaster" : "ライラ"}}
+,"nina ichihara" : {v:"市原仁奈"}
+,"ai-chan" : {v:"アイちゃん", m:{"honkai gakuen" : "AIちゃん"}}
+,"anna yamada" : {v:"山田杏奈"}
+,"debora briscoletti" : {v:"デボラ・ブリスコレッティ"}
+,"hayase nagatoro" : {v:"長瀞早瀬"}
 ,"inuyasha" : {v:"犬夜叉"}
 ,"kouwan seiki" : {v:"港湾棲姫"}
-,"rika nonaka" : {v:"牧野留姫"}
-,"yumi" : {v:"ユミ", m:{"senran kagura" : "雪泉", "ape escape" : "サヤカ"}}
+,"rain mikamura" : {v:"レイン・ミカムラ"}
+,"ashley graham" : {v:"アシュリー・グラハム"}
 ,"charlotte" : {v:"シャルロット", m:{"granblue fantasy" : "シャルロッテ・フェニヤ", "puella magi madoka magica" : "シャルロッテ", "last origin" : "シャーロット", "south park" : "シャーロット", "unlight" : "シャーロット", "kangokutou mary skelter" : "シャーロット", "kaiketsu zorori" : "シャーロット", "fire emblem if" : "シャーロッテ"}}
-,"chiori" : {v:"千織"}
 ,"cure ange" : {v:"薬師寺さあや(キュアアンジュ)"}
-,"cure moonlight" : {v:"月影ゆり(キュアムーンライト)"}
 ,"cure muse" : {v:"調辺アコ(キュアミューズ)"}
 ,"hsien-ko" : {v:"レイレイ"}
-,"layla" : {v:"レイラ", m:{"the idolmaster" : "ライラ"}}
+,"kon the knight" : {v:"ジャミ"}
 ,"mina majikina" : {v:"真鏡名ミナ"}
-,"minamitsu murasa" : {v:"村紗水蜜"}
 ,"nanachi" : {v:"ナナチ"}
 ,"rihoko sakurai" : {v:"桜井梨穂子"}
-,"takanashi kiara" : {v:"小鳥遊キアラ"}
-,"ashley graham" : {v:"アシュリー・グラハム"}
-,"kaho komiya" : {v:"小宮果穂"}
-,"kon the knight" : {v:"ジャミ"}
+,"yuko yoshida" : {v:"吉田優子"}
+,"chifuyu orimura" : {v:"織斑千冬"}
+,"lucina" : {v:"ルキナ", m:{"galactic drifter vifam" : "ルチーナ・プレシェット"}}
+,"maya jouga" : {v:"条河麻耶"}
+,"mika" : {v:"ミカ", m:{"genshin impact" : "ミカ・シュミット", "nintama rantarou" : "みか"}}
+,"nobita nobi" : {v:"野比のび太"}
 ,"touji suzuhara" : {v:"鈴原トウジ"}
 ,"winry rockbell" : {v:"ウィンリィ・ロックベル"}
-,"yuko yoshida" : {v:"吉田優子"}
-,"anna yamada" : {v:"山田杏奈"}
-,"mika" : {v:"ミカ", m:{"genshin impact" : "ミカ・シュミット", "nintama rantarou" : "みか"}}
-,"rain mikamura" : {v:"レイン・ミカムラ"}
-,"skadi" : {v:"スカディ", m:{"fate grand order" : "スカサハ=スカディ", "arknights" : "スカジ"}}
-,"cure beat" : {v:"黒川エレン(キュアビート)"}
 ,"cure chocolat" : {v:"剣城あきら(キュアショコラ)"}
-,"hayase nagatoro" : {v:"長瀞早瀬"}
-,"maya jouga" : {v:"条河麻耶"}
-,"chifuyu orimura" : {v:"織斑千冬"}
+,"fu xuan" : {v:"符玄"}
 ,"hacka doll no.3" : {v:"ハッカドール3号"}
-,"lucina" : {v:"ルキナ", m:{"galactic drifter vifam" : "ルチーナ・プレシェット"}}
-,"mint blancmanche" : {v:"ミント・ブラマンシュ"}
-,"ryoko asakura" : {v:"朝倉涼子", m:{"kuromajo-san ga tooru" : "麻倉良子"}}
+,"haruna kurodate" : {v:"黒舘ハルナ"}
+,"raven" : {v:"レイヴン", m:{"fire emblem the blazing blade" : "レイモンド", "teen titans" : "レイブン", "ben 10" : "レイブン", "gravity rush" : "グラビティ・クロウ", "rune factory 3" : "トゥーナ"}}
+,"serika kuromi" : {v:"黒見セリカ"}
+,"vaporeon" : {v:"シャワーズ"}
+,"astra yao" : {v:"アストラ・ヤオ"}
+,"captain nemo" : {v:"ネモ船長", m:{"fate grand order" : "キャプテン・ネモ", "fushigi no umi no nadia" : "ネモ(エルシス・ラ・アルウォール)"}}
+,"cure beat" : {v:"黒川エレン(キュアビート)"}
+,"furen e lustario" : {v:"フレン・E・ルスタリオ"}
+,"inugami korone" : {v:"戌神ころね"}
 ,"sagume kishin" : {v:"稀神サグメ"}
 ,"tomo asama" : {v:"浅間・智"}
-,"ai-chan" : {v:"アイちゃん", m:{"honkai gakuen" : "AIちゃん"}}
-,"cure passion" : {v:"東せつな(キュアパッション)"}
-,"danua" : {v:"ダヌア"}
-,"fu xuan" : {v:"符玄"}
-,"haruna kurodate" : {v:"黒舘ハルナ"}
-,"nobita nobi" : {v:"野比のび太"}
-,"raven" : {v:"レイヴン", m:{"fire emblem the blazing blade" : "レイモンド", "teen titans" : "レイブン", "ben 10" : "レイブン", "rune factory 3" : "トゥーナ", "gravity rush" : "グラビティ・クロウ"}}
-,"shiroko terror" : {v:"シロコ*テラー"}
-,"shizuka mogami" : {v:"最上静香"}
-,"tenka osaki" : {v:"大崎甜花"}
-,"vaporeon" : {v:"シャワーズ"}
-,"ako atarashi" : {v:"新子憧"}
-,"amiya" : {v:"アーミヤ"}
-,"arisa ichigaya" : {v:"市ヶ谷有咲"}
-,"atlanta" : {v:"アトランタ", m:{"kantai collection" : "Atlanta(アトランタ)", "azur lane" : "アトランタ(USS Atlanta)"}}
-,"baiken" : {v:"梅喧"}
-,"chizuru ichinose" : {v:"一ノ瀬ちづる(水原千鶴)"}
-,"passionlip" : {v:"パッションリップ"}
-,"ryoji kaji" : {v:"加持リョウジ"}
-,"shion" : {v:"シオン", m:{"king of fighters" : "紫苑", "shinrabansho" : "征嵐剣シオン", "xenosaga" : "シオン・ウヅキ", "no. 6" : "紫苑"}}
-,"tsubasa kazanari" : {v:"風鳴翼"}
-,"blanc" : {v:"ブラン", m:{"hyperdimension neptunia" : "ブラン(ホワイトハート)"}}
-,"konomi yuzuhara" : {v:"柚原このみ"}
-,"osaka" : {v:"春日歩(大阪)"}
-,"scaramouche" : {v:"スカラマシュ"}
-,"suzuhara lulu" : {v:"鈴原るる"}
-,"tomoe" : {v:"トモエ", m:{"blue archive" : "佐城トモエ", "hololive" : "白雪巴", "queens blade" : "武者巫女トモエ", "tsuki ga michibiku isekai douchuu" : "巴"}}
-,"zhu yuan" : {v:"朱鳶"}
 ,"ai hayasaka" : {v:"早坂愛"}
 ,"akari kizuna" : {v:"紲星あかり"}
-,"asuka kazama" : {v:"風間飛鳥"}
-,"cinque izumi" : {v:"シンク・イズミ"}
-,"hiro shinosawa" : {v:"篠澤広"}
+,"hiro hamada" : {v:"ヒロ・ハマダ"}
+,"mint blancmanche" : {v:"ミント・ブラマンシュ"}
+,"ryoko asakura" : {v:"朝倉涼子", m:{"kuromajo-san ga tooru" : "麻倉良子"}}
+,"shion" : {v:"シオン", m:{"king of fighters" : "紫苑", "shinrabansho" : "征嵐剣シオン", "xenosaga" : "シオン・ウヅキ", "no. 6" : "紫苑"}}
+,"shizuka mogami" : {v:"最上静香"}
+,"ako atarashi" : {v:"新子憧"}
+,"baiken" : {v:"梅喧"}
+,"cure passion" : {v:"東せつな(キュアパッション)"}
+,"marcille donato" : {v:"マルシル・ドナトー"}
+,"shinn asuka" : {v:"シン・アスカ"}
+,"tenka osaki" : {v:"大崎甜花"}
+,"tsubasa kazanari" : {v:"風鳴翼"}
+,"atlanta" : {v:"アトランタ", m:{"kantai collection" : "Atlanta(アトランタ)", "azur lane" : "アトランタ(USS Atlanta)"}}
+,"danua" : {v:"ダヌア"}
+,"konomi yuzuhara" : {v:"柚原このみ"}
 ,"lynette" : {v:"リネット"}
+,"mako reizei" : {v:"冷泉麻子"}
+,"osaka" : {v:"春日歩(大阪)"}
+,"passionlip" : {v:"パッションリップ"}
+,"ryoji kaji" : {v:"加持リョウジ"}
+,"asuka kazama" : {v:"風間飛鳥"}
+,"erika" : {v:"エリカ", m:{"beatmania" : "北見エリカ"}}
 ,"phoenix wright" : {v:"成歩堂龍一"}
+,"sakura igawa" : {v:"井河さくら"}
+,"suzuhara lulu" : {v:"鈴原るる"}
+,"tomoe" : {v:"トモエ", m:{"blue archive" : "佐城トモエ", "hololive" : "白雪巴", "queens blade" : "武者巫女トモエ", "tsuki ga michibiku isekai douchuu" : "巴"}}
+,"astaroth" : {v:"アスタロト", m:{"soulcalibur" : "アスタロス", "highschool dxd" : "ディオドラ・アスタロト", "shinrabansho" : "アスタロット", "dragonaut" : "ディオドラ・アスタロト"}}
+,"blanc" : {v:"ブラン", m:{"hyperdimension neptunia" : "ブラン(ホワイトハート)"}}
+,"caenis" : {v:"カイニス"}
+,"castorice" : {v:"キャストリス"}
+,"cinque izumi" : {v:"シンク・イズミ"}
+,"dantoudai no aura" : {v:"断頭台のアウラ"}
+,"momo kawashima" : {v:"河嶋桃"}
 ,"tsukiko tsutsukakushi" : {v:"筒隠月子"}
-,"captain nemo" : {v:"ネモ船長", m:{"fate grand order" : "キャプテン・ネモ", "fushigi no umi no nadia" : "ネモ(エルシス・ラ・アルウォール)"}}
 ,"cassandra alexandra" : {v:"カサンドラ・アレクサンドル"}
 ,"china kousaka" : {v:"コウサカ・チナ"}
 ,"haguro" : {v:"羽黒", m:{"azur lane" : "羽黒(IJN Haguro)"}}
-,"inugami korone" : {v:"戌神ころね"}
-,"mako reizei" : {v:"冷泉麻子"}
-,"setsuna sakurazaki" : {v:"桜咲刹那"}
-,"shinn asuka" : {v:"シン・アスカ"}
-,"stella loussier" : {v:"ステラ・ルーシェ"}
-,"cure macaron" : {v:"琴爪ゆかり(キュアマカロン)"}
-,"dantoudai no aura" : {v:"断頭台のアウラ"}
-,"ken kaneki" : {v:"金木研"}
-,"momo kawashima" : {v:"河嶋桃"}
-,"monika" : {v:"モニカ", m:{"princess connect" : "モニカ・ヴァイスヴィント"}}
+,"hibari" : {v:"ヒバリ", m:{"one piece" : "ひばり", "senran kagura" : "雲雀", "river city girls" : "ひばり"}}
+,"meowscarada" : {v:"マスカーニャ"}
 ,"reki kyan" : {v:"喜屋武暦"}
 ,"rika sasaki" : {v:"佐々木利佳"}
-,"america" : {v:"アメリカ"}
-,"astaroth" : {v:"アスタロト", m:{"soulcalibur" : "アスタロス", "highschool dxd" : "ディオドラ・アスタロト", "shinrabansho" : "アスタロット", "dragonaut" : "ディオドラ・アスタロト"}}
-,"bradamante" : {v:"ブラダマンテ"}
-,"erika" : {v:"エリカ", m:{"beatmania" : "北見エリカ"}}
-,"konoka konoe" : {v:"近衛木乃香"}
-,"kotori mizuki" : {v:"観月小鳥"}
-,"mirai kamiki" : {v:"カミキ・ミライ"}
-,"nobunaga oda" : {v:"織田信長", m:{"sengoku otome" : "織田ノブナガ", "sengoku collection" : "織田ノブナガ"}}
-,"panty anarchy" : {v:"アナーキー・パンティ"}
-,"rana" : {v:"ラナ", m:{"mega man star force" : "ラーナ", "langrisser" : "ラーナ"}}
-,"rei miyamoto" : {v:"宮本麗"}
 ,"saki miyanaga" : {v:"宮永咲"}
-,"sakura igawa" : {v:"井河さくら"}
-,"satoshi tainaka" : {v:"田井中聡"}
-,"akane shinjou" : {v:"新条アカネ", m:{"miracle giants dome-kun" : "新城あかね"}}
-,"caenis" : {v:"カイニス"}
-,"euphemia li britannia" : {v:"ユーフェミア・リ・ブリタニア"}
-,"galo thymos" : {v:"ガロ・ティモス"}
-,"hibari" : {v:"ヒバリ", m:{"one piece" : "ひばり", "senran kagura" : "雲雀", "river city girls" : "ひばり"}}
-,"irisviel von einzbern" : {v:"アイリスフィール・フォン・アインツベルン"}
-,"mio sakamoto" : {v:"坂本美緒"}
-,"serika kuromi" : {v:"黒見セリカ"}
-,"toushirou hitsugaya" : {v:"日番谷冬獅郎"}
+,"setsuna sakurazaki" : {v:"桜咲刹那"}
+,"stella loussier" : {v:"ステラ・ルーシェ"}
 ,"watson amelia" : {v:"ワトソン・アメリア"}
 ,"akane hino" : {v:"日野茜"}
+,"akane shinjou" : {v:"新条アカネ", m:{"miracle giants dome-kun" : "新城あかね"}}
+,"america" : {v:"アメリカ"}
+,"cure macaron" : {v:"琴爪ゆかり(キュアマカロン)"}
 ,"eve" : {v:"イヴ", m:{"to love-ru" : "イヴ(金色の闇)", "parasite eve" : "イヴ・ブレア", "needless" : "イヴ・ノイシュヴァンシュタイン"}}
-,"furen e lustario" : {v:"フレン・E・ルスタリオ"}
-,"miyuki shirogane" : {v:"白銀御行"}
-,"sae nakata" : {v:"中多紗江"}
-,"tsubasa ibuki" : {v:"伊吹翼"}
-,"zange" : {v:"ざんげちゃん"}
-,"alice zuberg" : {v:"アリス・ツーベルク"}
-,"francesca lucchini" : {v:"フランチェスカ・ルッキーニ"}
 ,"galleon" : {v:"ガレヲン"}
+,"ken kaneki" : {v:"金木研"}
+,"monika" : {v:"モニカ", m:{"princess connect" : "モニカ・ヴァイスヴィント"}}
+,"nobunaga oda" : {v:"織田信長", m:{"sengoku otome" : "織田ノブナガ", "sengoku collection" : "織田ノブナガ"}}
+,"panty anarchy" : {v:"アナーキー・パンティ"}
+,"rei miyamoto" : {v:"宮本麗"}
+,"tingyun" : {v:"停雲"}
+,"bradamante" : {v:"ブラダマンテ"}
+,"francesca lucchini" : {v:"フランチェスカ・ルッキーニ"}
+,"konoka konoe" : {v:"近衛木乃香"}
+,"kotori mizuki" : {v:"観月小鳥"}
+,"mio sakamoto" : {v:"坂本美緒"}
+,"mirai kamiki" : {v:"カミキ・ミライ"}
+,"rana" : {v:"ラナ", m:{"mega man star force" : "ラーナ", "langrisser" : "ラーナ"}}
+,"sasaki saku" : {v:"笹木咲"}
+,"satoshi tainaka" : {v:"田井中聡"}
+,"xianyun" : {v:"閑雲"}
+,"elaina" : {v:"イレイナ"}
+,"euphemia li britannia" : {v:"ユーフェミア・リ・ブリタニア"}
+,"galo thymos" : {v:"ガロ・ティモス"}
+,"irisviel von einzbern" : {v:"アイリスフィール・フォン・アインツベルン"}
+,"jintsuu" : {v:"神通", m:{"azur lane" : "神通(IJN Jintsū)"}}
+,"kiana kaslana" : {v:"キアナ・カスラナ"}
+,"miyuki shirogane" : {v:"白銀御行"}
+,"toushirou hitsugaya" : {v:"日番谷冬獅郎"}
+,"tsubasa ibuki" : {v:"伊吹翼"}
+,"aigis" : {v:"アイギス"}
+,"alice zuberg" : {v:"アリス・ツーベルク"}
+,"aoko aozaki" : {v:"蒼崎青子(フォーリナー)", m:{"mahou tsukai no yoru" : "蒼崎青子"}}
 ,"high elf archer" : {v:"妖精弓手"}
-,"hiro hamada" : {v:"ヒロ・ハマダ"}
-,"iris" : {v:"アイリス"}
+,"kokichi ouma" : {v:"王馬小吉"}
+,"mihari oyama" : {v:"緒山みはり"}
+,"nabiki tendo" : {v:"天道なびき"}
+,"sae nakata" : {v:"中多紗江"}
+,"zange" : {v:"ざんげちゃん"}
+,"chen hui-chieh" : {v:"チェン"}
+,"katsuragi" : {v:"葛城", m:{"azur lane" : "葛城(IJN Katsuragi)"}}
+,"koyomi mizuhara" : {v:"水原暦"}
 ,"seto kaiba" : {v:"海馬瀬人"}
 ,"taki tachibana" : {v:"立花瀧"}
-,"xianyun" : {v:"閑雲"}
-,"aigis" : {v:"アイギス"}
+,"yuuno scrya" : {v:"ユーノ・スクライア"}
 ,"aoi kotonoha" : {v:"琴葉葵"}
-,"aoko aozaki" : {v:"蒼崎青子(フォーリナー)", m:{"mahou tsukai no yoru" : "蒼崎青子"}}
-,"chen hui-chieh" : {v:"チェン"}
+,"braixen" : {v:"テールナー"}
 ,"kaito" : {v:"KAITO", m:{"ajin" : "海斗"}}
-,"koyomi mizuhara" : {v:"水原暦"}
 ,"manami tamura" : {v:"田村麻奈実"}
-,"tingyun" : {v:"停雲"}
+,"megumi natsu" : {v:"奈津恵"}
+,"mualani" : {v:"ムアラニ"}
+,"shion yorigami" : {v:"依神紫苑"}
 ,"vice" : {v:"バイス"}
 ,"yahagi" : {v:"矢矧"}
 ,"yakumo tsukamoto" : {v:"塚本八雲"}
-,"yanagi tsukishiro" : {v:"月城柳"}
 ,"yousuke koiwai" : {v:"小岩井葉介"}
-,"yuuno scrya" : {v:"ユーノ・スクライア"}
 ,"ashelia bnargin dalmasca" : {v:"アーシェ・バナルガン・ダルマスカ"}
 ,"chiho sasaki" : {v:"佐々木千穂"}
-,"jintsuu" : {v:"神通", m:{"azur lane" : "神通(IJN Jintsū)"}}
-,"katsuragi" : {v:"葛城", m:{"azur lane" : "葛城(IJN Katsuragi)"}}
-,"kiana kaslana" : {v:"キアナ・カスラナ"}
+,"iris" : {v:"アイリス"}
+,"kyoko igarashi" : {v:"五十嵐響子"}
 ,"mai tokiha" : {v:"鴇羽舞衣"}
-,"sasaki saku" : {v:"笹木咲"}
+,"rouge the bat" : {v:"ルージュ・ザ・バット"}
+,"shido itsuka" : {v:"五河士道"}
 ,"shinichi kudo" : {v:"工藤新一"}
+,"yukina himeragi" : {v:"姫柊雪菜"}
 ,"akari kamigishi" : {v:"神岸あかり"}
 ,"alisa reinford" : {v:"アリサ・ラインフォルト"}
-,"braixen" : {v:"テールナー"}
+,"bowser" : {v:"クッパ"}
+,"iroha tamaki" : {v:"環いろは"}
 ,"kako takafuji" : {v:"鷹富士茄子"}
 ,"kirari moroboshi" : {v:"諸星きらり"}
-,"kokichi ouma" : {v:"王馬小吉"}
-,"mihari oyama" : {v:"緒山みはり"}
+,"le malin" : {v:"ル・マラン", m:{"azur lane" : "ル・マラン(MNF Le Malin)"}}
+,"makoto aki" : {v:"安芸真琴(マコト)"}
 ,"saya endou" : {v:"遠藤サヤ"}
-,"shido itsuka" : {v:"五河士道"}
-,"shion yorigami" : {v:"依神紫苑"}
+,"serika hakozaki" : {v:"箱崎星梨花"}
 ,"tsukiumi" : {v:"月海"}
-,"atsuko hakari" : {v:"秤アツコ"}
-,"camilla" : {v:"カミラ"}
 ,"erica fontaine" : {v:"エリカ・フォンティーヌ"}
-,"iroha tamaki" : {v:"環いろは"}
+,"fuka toyokawa" : {v:"豊川風花"}
+,"hanako kuroe" : {v:"黒江花子(クロエ)"}
+,"jean kirschtein" : {v:"ジャン・キルシュタイン"}
+,"jtf mob" : {v:"JTFモブ"}
 ,"kirei kotomine" : {v:"言峰綺礼"}
 ,"mafuyu kirisu" : {v:"桐須真冬"}
-,"marcille donato" : {v:"マルシル・ドナトー"}
-,"meowscarada" : {v:"マスカーニャ"}
-,"oberon" : {v:"オベロン", m:{"sword art online" : "須郷伸之(妖精王オベイロン)"}}
-,"serika hakozaki" : {v:"箱崎星梨花"}
-,"yukina himeragi" : {v:"姫柊雪菜"}
+,"millhiore firianno biscotti" : {v:"ミルヒオーレ・フィリアンノ・ビスコッティ"}
+,"shuuichi saihara" : {v:"最原終一"}
+,"suguru geto" : {v:"夏油傑"}
+,"surtr" : {v:"スルト"}
 ,"acheron" : {v:"黄泉"}
+,"amamiya kokoro" : {v:"天宮こころ"}
 ,"ashigara" : {v:"足柄", m:{"azur lane" : "足柄(IJN Ashigara)"}}
-,"elaina" : {v:"イレイナ"}
-,"fuka toyokawa" : {v:"豊川風花"}
+,"camilla" : {v:"カミラ"}
 ,"haman karn" : {v:"ハマーン・カーン"}
 ,"hoozuki" : {v:"ほおずき", m:{"flower knight girl" : "ホオズキ", "hoozuki no reitetsu" : "鬼灯", "otome youkai zakuro" : "鬼灯"}}
-,"jean kirschtein" : {v:"ジャン・キルシュタイン"}
-,"kyoko igarashi" : {v:"五十嵐響子"}
 ,"lio fotia" : {v:"リオ・フォーティア"}
-,"millhiore firianno biscotti" : {v:"ミルヒオーレ・フィリアンノ・ビスコッティ"}
-,"nabiki tendo" : {v:"天道なびき"}
-,"suguru geto" : {v:"夏油傑"}
-,"tokiko tsumura" : {v:"津村斗貴子"}
-,"yumi fukuzawa" : {v:"福沢祐巳"}
-,"astra yao" : {v:"アストラ・ヤオ"}
-,"cham cham" : {v:"チャムチャム"}
-,"judy hopps" : {v:"ジュディ・ホップス"}
-,"le malin" : {v:"ル・マラン", m:{"azur lane" : "ル・マラン(MNF Le Malin)"}}
-,"megumi natsu" : {v:"奈津恵"}
-,"mualani" : {v:"ムアラニ"}
-,"tsunayoshi sawada" : {v:"沢田綱吉"}
-,"langa hasegawa" : {v:"馳河ランガ"}
-,"leonardo watch" : {v:"レオナルド・ウォッチ"}
 ,"mogami" : {v:"最上", m:{"azur lane" : "最上(IJN Mogami)"}}
-,"nariyuki yuiga" : {v:"唯我成幸"}
+,"tokiko tsumura" : {v:"津村斗貴子"}
+,"tsunayoshi sawada" : {v:"沢田綱吉"}
+,"yumi fukuzawa" : {v:"福沢祐巳"}
+,"burnice white" : {v:"バーニス・ホワイト"}
+,"cham cham" : {v:"チャムチャム"}
+,"langa hasegawa" : {v:"馳河ランガ"}
 ,"sadayo kawakami" : {v:"川上貞代"}
 ,"tenten" : {v:"テンテン"}
-,"amamiya kokoro" : {v:"天宮こころ"}
-,"cure flora" : {v:"春野はるか(キュアフローラ)"}
 ,"eijun sawamura" : {v:"沢村栄純"}
+,"judy hopps" : {v:"ジュディ・ホップス"}
 ,"junko enoshima" : {v:"江ノ島盾子"}
-,"makoto aki" : {v:"安芸真琴(マコト)"}
-,"mumei" : {v:"無名"}
-,"rouge the bat" : {v:"ルージュ・ザ・バット"}
-,"taigei" : {v:"大鯨"}
-,"ayaka kurusugawa" : {v:"来栖川綾香"}
-,"castorice" : {v:"キャストリス"}
+,"leonardo watch" : {v:"レオナルド・ウォッチ"}
+,"nariyuki yuiga" : {v:"唯我成幸"}
+,"oberon" : {v:"オベロン", m:{"sword art online" : "須郷伸之(妖精王オベイロン)"}}
+,"akane murokasa" : {v:"室笠アカネ"}
+,"atsuko hakari" : {v:"秤アツコ"}
+,"cure flora" : {v:"春野はるか(キュアフローラ)"}
 ,"cure mermaid" : {v:"海藤みなみ(キュアマーメイド)"}
+,"hiyori tsuchinaga" : {v:"槌永ヒヨリ"}
+,"ibuki" : {v:"伊吹(IJN Ibuki)"}
+,"kotone fujita" : {v:"藤田ことね"}
+,"lunasa prismriver" : {v:"ルナサ・プリズムリバー"}
+,"mai kazuki" : {v:"香月舞", m:{"magne robo ga-keen" : "花月舞"}}
+,"mumei" : {v:"無名"}
+,"springfield" : {v:"スプリングフィールド"}
+,"theresa apocalypse" : {v:"テレサ・アポカリプス"}
+,"ayaka kurusugawa" : {v:"来栖川綾香"}
+,"chacha" : {v:"チャチャ"}
+,"charlotte e. yeager" : {v:"シャーロット・E・イェーガー"}
 ,"elpeo ple" : {v:"エルピー・プル"}
 ,"hakutaku" : {v:"白澤"}
-,"kyojuro rengoku" : {v:"煉獄杏寿郎"}
+,"kaho hinata" : {v:"日向夏帆"}
+,"lanzhu zhong" : {v:"鐘嵐珠"}
 ,"mamimi tanaka" : {v:"田中摩美々"}
 ,"noel vermillion" : {v:"ノエル=ヴァーミリオン"}
-,"surtr" : {v:"スルト"}
-,"bowser" : {v:"クッパ"}
-,"burnice white" : {v:"バーニス・ホワイト"}
-,"chacha" : {v:"チャチャ"}
+,"taigei" : {v:"大鯨"}
+,"valkyrie" : {v:"ヴァルキリー", m:{"fate grand order" : "ワルキューレ", "valkyrie no bouken" : "ワルキューレ", "ufo princess valkyrie" : "ワるきゅーレ", "galzoo island" : "バルキリー"}}
+,"ai hinatsuru" : {v:"雛鶴あい"}
+,"akihisa yoshii" : {v:"吉井明久"}
 ,"chiyo mihama" : {v:"美浜ちよ"}
 ,"eureka" : {v:"エウレカ"}
-,"faruzan" : {v:"ファルザン"}
-,"hanako kuroe" : {v:"黒江花子(クロエ)"}
-,"kaho hinata" : {v:"日向夏帆"}
 ,"kaolla su" : {v:"カオラ・スゥ"}
 ,"katyusha" : {v:"カチューシャ"}
 ,"kouichi aihara" : {v:"相原光一"}
-,"lanzhu zhong" : {v:"鐘嵐珠"}
+,"kurumi tokisaki" : {v:"時崎狂三"}
+,"kyojuro rengoku" : {v:"煉獄杏寿郎"}
 ,"orange pekoe" : {v:"オレンジペコ"}
-,"shuuichi saihara" : {v:"最原終一"}
-,"springfield" : {v:"スプリングフィールド"}
-,"talia gladys" : {v:"タリア・グラディス"}
-,"valkyrie" : {v:"ヴァルキリー", m:{"fate grand order" : "ワルキューレ", "valkyrie no bouken" : "ワルキューレ", "ufo princess valkyrie" : "ワるきゅーレ", "galzoo island" : "バルキリー"}}
-,"yusei fudo" : {v:"不動遊星"}
-,"airi" : {v:"アイリ", m:{"queens blade" : "冥土へ誘うものアイリ", "arena of valor" : "愛里", "robotics notes" : "愛理"}}
-,"akihisa yoshii" : {v:"吉井明久"}
-,"celes chere" : {v:"セリス・シェール"}
-,"charlotte e. yeager" : {v:"シャーロット・E・イェーガー"}
-,"ibuki" : {v:"伊吹(IJN Ibuki)"}
-,"kenichi saruyama" : {v:"猿山ケンイチ"}
-,"kotone fujita" : {v:"藤田ことね"}
-,"libeccio" : {v:"Libeccio(リベッチオ)", m:{"azur lane" : "リベッチオ(RN Libeccio)"}}
-,"lunasa prismriver" : {v:"ルナサ・プリズムリバー"}
-,"mai kazuki" : {v:"香月舞", m:{"magne robo ga-keen" : "花月舞"}}
-,"mion sonozaki" : {v:"園崎魅音"}
-,"sachiko ogasawara" : {v:"小笠原祥子"}
-,"shermie" : {v:"シェルミー"}
+,"principal" : {v:"校長"}
+,"sekibanki" : {v:"赤蛮奇"}
 ,"shinobu kuki" : {v:"久岐忍"}
+,"talia gladys" : {v:"タリア・グラディス"}
+,"yusei fudo" : {v:"不動遊星"}
+,"yuuki otokura" : {v:"乙倉悠貴"}
+,"airi" : {v:"アイリ", m:{"queens blade" : "冥土へ誘うものアイリ", "arena of valor" : "愛里", "robotics notes" : "愛理"}}
+,"celes chere" : {v:"セリス・シェール"}
+,"cure rouge" : {v:"夏木りん(キュアルージュ)"}
+,"fujiko mine" : {v:"峰不二子"}
+,"haru okumura" : {v:"奥村春"}
+,"ibuki douji" : {v:"伊吹童子"}
+,"kamoi" : {v:"神威"}
+,"kenichi saruyama" : {v:"猿山ケンイチ"}
+,"libeccio" : {v:"Libeccio(リベッチオ)", m:{"azur lane" : "リベッチオ(RN Libeccio)"}}
+,"mion sonozaki" : {v:"園崎魅音"}
+,"misogi hodaka" : {v:"穂高みそぎ(ミソギ)"}
+,"rover" : {v:"漂泊者", m:{"etrian odyssey" : "ハウンド"}}
+,"sachiko ogasawara" : {v:"小笠原祥子"}
 ,"sturm" : {v:"スツルム"}
-,"theresa apocalypse" : {v:"テレサ・アポカリプス"}
 ,"tomoyo sakagami" : {v:"坂上智代"}
+,"toru asakura" : {v:"浅倉透"}
 ,"tron bonne" : {v:"トロン・ボーン"}
 ,"youto yokodera" : {v:"横寺陽人"}
 ,"yue ayase" : {v:"綾瀬夕映"}
-,"yuuki otokura" : {v:"乙倉悠貴"}
-,"ai hinatsuru" : {v:"雛鶴あい"}
+,"artoria caster" : {v:"アルトリア キャスター"}
+,"beatrice" : {v:"ベアトリーチェ", m:{"granblue fantasy" : "ベアトリクス", "re zero kara hajimeru isekai seikatsu" : "ベアトリス", "zero no tsukaima" : "ベアトリス・イヴォンヌ・フォン・クルデンホルフ", "final fantasy ix" : "ベアトリクス", "kage no jitsuryokusha ni naritakute" : "ベアトリクス", "rune factory" : "ベアトリス", "princess principal" : "ベアトリス", "diabolik lovers" : "ベアトリクス", "mamoru-kun ni megami no shukufuku wo" : "鷹栖絢子(魔女ベアトリーチェ)"}}
+,"dusk" : {v:"ダスク"}
 ,"eas" : {v:"イース(東せつな)"}
-,"fujiko mine" : {v:"峰不二子"}
+,"faruzan" : {v:"ファルザン"}
 ,"hideki motosuwa" : {v:"本須和秀樹"}
+,"iskandar" : {v:"イスカンダル"}
 ,"iv" : {v:"Ⅳ"}
-,"kamoi" : {v:"神威"}
+,"leafeon" : {v:"リーフィア"}
 ,"mikoto utsugi" : {v:"卯都木命"}
 ,"mitsune konno" : {v:"紺野みつね"}
-,"principal" : {v:"校長"}
-,"toru asakura" : {v:"浅倉透"}
-,"akane murokasa" : {v:"室笠アカネ"}
-,"cure rouge" : {v:"夏木りん(キュアルージュ)"}
-,"haru okumura" : {v:"奥村春"}
-,"iskandar" : {v:"イスカンダル"}
+,"murasame" : {v:"村雨", m:{"senren banka" : "ムラサメ"}}
+,"shermie" : {v:"シェルミー"}
+,"waver velvet" : {v:"ウェイバー・ベルベット"}
+,"ferry" : {v:"フェリ"}
+,"hana isuzu" : {v:"五十鈴華"}
+,"jinx" : {v:"ジンクス"}
+,"kana arima" : {v:"有馬かな"}
 ,"kaname chidori" : {v:"千鳥かなめ", m:{"koi kaze" : "千鳥要"}}
+,"kanao tsuyuri" : {v:"栗花落カナヲ"}
+,"krystal" : {v:"クリスタル"}
+,"lancelot" : {v:"ランスロット", m:{"fate grand order" : "ランスロット(セイバー)", "fate zero" : "ランスロット(バーサーカー)"}}
 ,"mai kawakami" : {v:"川神舞"}
 ,"maria takayama" : {v:"高山マリア"}
-,"naga the serpent" : {v:"サーペントのナーガ"}
-,"souseiseki" : {v:"蒼星石"}
-,"waver velvet" : {v:"ウェイバー・ベルベット"}
-,"coquelicot" : {v:"コクリコ"}
-,"elena" : {v:"エレナ", m:{"final fantasy vii" : "イリーナ"}}
-,"hana isuzu" : {v:"五十鈴華"}
-,"hiyori tsuchinaga" : {v:"槌永ヒヨリ"}
-,"kana arima" : {v:"有馬かな"}
-,"kurumi tokisaki" : {v:"時崎狂三"}
-,"lancelot" : {v:"ランスロット", m:{"fate grand order" : "ランスロット(セイバー)", "fate zero" : "ランスロット(バーサーカー)"}}
-,"misogi hodaka" : {v:"穂高みそぎ(ミソギ)"}
-,"murasame" : {v:"村雨", m:{"senren banka" : "ムラサメ"}}
 ,"nunnally vi britannia" : {v:"ナナリー・ヴィ・ブリタニア"}
 ,"nyaruko" : {v:"ニャル子"}
+,"souseiseki" : {v:"蒼星石"}
+,"tokino sora" : {v:"ときのそら"}
+,"android 21" : {v:"21号"}
+,"coquelicot" : {v:"コクリコ"}
+,"cure berry" : {v:"蒼乃美希(キュアベリー)"}
+,"elena" : {v:"エレナ", m:{"final fantasy vii" : "イリーナ"}}
+,"espeon" : {v:"エーフィ"}
+,"hagikaze" : {v:"萩風"}
+,"hibiki nekozuka" : {v:"猫塚ヒビキ"}
+,"naga the serpent" : {v:"サーペントのナーガ"}
 ,"ookurikara" : {v:"大倶利伽羅"}
 ,"ragna the bloodedge" : {v:"ラグナ=ザ=ブラッドエッジ"}
+,"rika shiguma" : {v:"志熊理科"}
 ,"rin shima" : {v:"志摩リン"}
-,"sekibanki" : {v:"赤蛮奇"}
+,"shauna" : {v:"サナ"}
+,"teletha tessa testarossa" : {v:"テレサ・テスタロッサ(テッサ)"}
 ,"ami kawashima" : {v:"川嶋亜美"}
+,"caster" : {v:"キャスター", m:{"fate stay night" : "メディア(キャスター)", "fate hollow ataraxia" : "メディア(キャスター)", "fate zero" : "ジル・ド・レェ(キャスター)", "fate extra" : "玉藻の前(キャスター)", "fate apocrypha" : "アヴィケブロン、シェイクスピア(キャスター)", "fate prototype" : "メディア(キャスター)"}}
 ,"cell" : {v:"セル"}
-,"cure berry" : {v:"蒼乃美希(キュアベリー)"}
-,"dusk" : {v:"ダスク"}
-,"hagikaze" : {v:"萩風"}
-,"kanao tsuyuri" : {v:"栗花落カナヲ"}
-,"leafeon" : {v:"リーフィア"}
+,"fourth raikage" : {v:"四代目雷影(エー)"}
+,"hinoa" : {v:"ヒノエ"}
 ,"lightning" : {v:"ライトニング"}
 ,"maria tachibana" : {v:"マリア・タチバナ"}
 ,"momoko suou" : {v:"周防桃子"}
-,"rika shiguma" : {v:"志熊理科"}
-,"shauna" : {v:"サナ"}
-,"teletha tessa testarossa" : {v:"テレサ・テスタロッサ(テッサ)"}
+,"rena ryuuguu" : {v:"竜宮レナ"}
+,"rosaria" : {v:"ロサリア"}
+,"takashi komuro" : {v:"小室孝"}
+,"aisha" : {v:"アイシャ", m:{"sennen sensou aigis" : "伏龍の軍師アイシャ", "koihime musou" : "愛紗(関羽 雲長)"}}
+,"alice nakiri" : {v:"薙切アリス"}
 ,"amelia wil tesla seyruun" : {v:"アメリア=ウィル=テスラ=セイルーン"}
 ,"caro ru lushe" : {v:"キャロ・ル・ルシエ"}
-,"hibiki nekozuka" : {v:"猫塚ヒビキ"}
+,"delia ketchum" : {v:"ハナコ"}
+,"irida" : {v:"イリーダ", m:{"pokemon" : "カイ"}}
 ,"isuzu" : {v:"五十鈴", m:{"azur lane" : "五十鈴(IJN Isuzu)"}}
-,"jtf mob" : {v:"JTFモブ"}
+,"lyndis" : {v:"リンディス"}
 ,"merchant" : {v:"商人", m:{"ragnarok online" : "マーチャント"}}
 ,"morgiana" : {v:"モルジアナ"}
 ,"regina" : {v:"レジーナ", m:{"pokemon" : "チホコ"}}
-,"rena ryuuguu" : {v:"竜宮レナ"}
 ,"shima katase" : {v:"片瀬志麻"}
-,"takashi komuro" : {v:"小室孝"}
-,"tsumugi shiraishi" : {v:"白石紬"}
-,"alice nakiri" : {v:"薙切アリス"}
-,"beatrice" : {v:"ベアトリーチェ", m:{"granblue fantasy" : "ベアトリクス", "re zero kara hajimeru isekai seikatsu" : "ベアトリス", "zero no tsukaima" : "ベアトリス・イヴォンヌ・フォン・クルデンホルフ", "final fantasy ix" : "ベアトリクス", "kage no jitsuryokusha ni naritakute" : "ベアトリクス", "rune factory" : "ベアトリス", "princess principal" : "ベアトリス", "diabolik lovers" : "ベアトリクス", "mamoru-kun ni megami no shukufuku wo" : "鷹栖絢子(魔女ベアトリーチェ)"}}
-,"frederica miyamoto" : {v:"宮本フレデリカ"}
-,"hinoa" : {v:"ヒノエ"}
-,"krystal" : {v:"クリスタル"}
-,"tone" : {v:"利根"}
-,"android 21" : {v:"21号"}
-,"caster" : {v:"キャスター", m:{"fate stay night" : "メディア(キャスター)", "fate zero" : "ジル・ド・レェ(キャスター)", "fate hollow ataraxia" : "メディア(キャスター)", "fate extra" : "玉藻の前(キャスター)", "fate apocrypha" : "アヴィケブロン、シェイクスピア(キャスター)", "fate prototype" : "メディア(キャスター)"}}
-,"ceres fauna" : {v:"セレス・ファウナ"}
-,"eriri spencer sawamura" : {v:"澤村・スペンサー・英梨々"}
-,"espeon" : {v:"エーフィ"}
-,"himari akeboshi" : {v:"明星ヒマリ"}
-,"rean schwarzer" : {v:"リィン・シュバルツァー"}
-,"rosaria" : {v:"ロサリア"}
-,"yoshika miyako" : {v:"宮古芳香"}
-,"anzu kadotani" : {v:"角谷杏"}
-,"elegg" : {v:"エレグ"}
-,"hajime iwaizumi" : {v:"岩泉一"}
-,"ibuki douji" : {v:"伊吹童子"}
-,"karen" : {v:"カレン", m:{"pokemon" : "カリン"}}
-,"mai sakurajima" : {v:"桜島麻衣"}
-,"mutsumi otohime" : {v:"乙姫むつみ"}
-,"nia teppelin" : {v:"ニア・テッペリン"}
-,"sakura" : {v:"サクラ", m:{"naruto" : "春野サクラ", "street fighter" : "春日野さくら", "urusei yatsura" : "サクラ先生", "ijiranaide nagatoro-san" : "桜", "isekai wa smartphone to tomo ni." : "桜", "tsubasa reservoir chronicle" : "サクラ姫"}}
-,"shun kurosaki" : {v:"黒崎隼", m:{"yu-gi-oh arc-v" : "黒咲隼"}}
-,"tabitha helene orleans de gallia" : {v:"タバサ(シャルロット・エレーヌ・オルレアン・デ・ガリア)"}
-,"tohru" : {v:"トール"}
 ,"tsukasa kudamaki" : {v:"菅牧典"}
+,"tsumugi shiraishi" : {v:"白石紬"}
+,"dante" : {v:"ダンテ", m:{"shironeko project" : "気高き騎士団長ダンテ"}}
+,"elegg" : {v:"エレグ"}
+,"frederica miyamoto" : {v:"宮本フレデリカ"}
+,"himari akeboshi" : {v:"明星ヒマリ"}
+,"mostima" : {v:"モスティマ"}
+,"sakura" : {v:"サクラ", m:{"naruto" : "春野サクラ", "street fighter" : "春日野さくら", "urusei yatsura" : "サクラ先生", "ijiranaide nagatoro-san" : "桜", "isekai wa smartphone to tomo ni." : "桜", "tsubasa reservoir chronicle" : "サクラ姫"}}
+,"shuuko komi" : {v:"古見秀子"}
+,"tone" : {v:"利根"}
+,"anzu kadotani" : {v:"角谷杏"}
+,"ceres fauna" : {v:"セレス・ファウナ"}
+,"cure sky" : {v:"ソラ・ハレワタール(キュアスカイ)"}
+,"eriri spencer sawamura" : {v:"澤村・スペンサー・英梨々"}
+,"isabelle" : {v:"しずえ", m:{"shadowverse" : "イザベル"}}
+,"kou seiya" : {v:"星野光"}
+,"mai sakurajima" : {v:"桜島麻衣"}
+,"niyaniya kyouju" : {v:"ニヤニヤ教授"}
+,"noshiro" : {v:"能代", m:{"azur lane" : "能代(IJN Noshiro)"}}
+,"rean schwarzer" : {v:"リィン・シュバルツァー"}
+,"rinami himesaki" : {v:"姫崎莉波"}
+,"suzuka gozen" : {v:"鈴鹿御前"}
+,"yoshika miyako" : {v:"宮古芳香"}
 ,"yugi mutou" : {v:"武藤遊戯"}
 ,"arle nadja" : {v:"アルル・ナジャ"}
-,"artoria caster" : {v:"アルトリア キャスター"}
-,"delia ketchum" : {v:"ハナコ"}
-,"ferry" : {v:"フェリ"}
-,"jinx" : {v:"ジンクス"}
-,"madoka ayukawa" : {v:"鮎川まどか"}
-,"mahiru inami" : {v:"伊波まひる"}
-,"rover" : {v:"漂泊者", m:{"etrian odyssey" : "ハウンド"}}
-,"samui" : {v:"サムイ"}
-,"seishirou tsugumi" : {v:"鶫誠士郎"}
-,"suzuka gozen" : {v:"鈴鹿御前"}
-,"aisha" : {v:"アイシャ", m:{"sennen sensou aigis" : "伏龍の軍師アイシャ", "koihime musou" : "愛紗(関羽 雲長)"}}
-,"isabelle" : {v:"しずえ", m:{"shadowverse" : "イザベル"}}
-,"kimi aoi" : {v:"葵・喜美"}
-,"lyndis" : {v:"リンディス"}
-,"mostima" : {v:"モスティマ"}
-,"mysterious heroine x alter" : {v:"謎のヒロインX［オルタ］"}
-,"tsuruya" : {v:"鶴屋さん"}
-,"ultrawoman" : {v:"ウルトラウーマン"}
-,"alibaba saluja" : {v:"アリババ・サルージャ"}
+,"hajime iwaizumi" : {v:"岩泉一"}
+,"karen" : {v:"カレン", m:{"pokemon" : "カリン"}}
+,"mutsumi otohime" : {v:"乙姫むつみ"}
+,"nia teppelin" : {v:"ニア・テッペリン"}
+,"shun kurosaki" : {v:"黒崎隼", m:{"yu-gi-oh arc-v" : "黒咲隼"}}
+,"tabitha helene orleans de gallia" : {v:"タバサ(シャルロット・エレーヌ・オルレアン・デ・ガリア)"}
+,"takane lui" : {v:"鷹嶺ルイ"}
+,"yoshino yorita" : {v:"依田芳乃"}
+,"yukina minato" : {v:"湊友希那"}
+,"aya maruyama" : {v:"丸山彩"}
 ,"enterprise" : {v:"エンタープライズ", m:{"azur lane" : "エンタープライズ(USS Enterprise)"}}
-,"evelynn" : {v:"イブリン"}
+,"erich von rerugen" : {v:"エーリッヒ・フォン・レルゲン"}
+,"junko" : {v:"純狐"}
+,"kimi aoi" : {v:"葵・喜美"}
+,"mahiru inami" : {v:"伊波まひる"}
+,"mysterious heroine x alter" : {v:"謎のヒロインX［オルタ］"}
+,"samui" : {v:"サムイ"}
+,"secelia dote" : {v:"セセリア・ドート"}
+,"seishirou tsugumi" : {v:"鶫誠士郎"}
+,"tohru" : {v:"トール"}
 ,"hakos baelz" : {v:"ハコス・ベールズ"}
 ,"ichirin kumoi" : {v:"雲居一輪"}
+,"kirara yozakura" : {v:"夜桜キララ"}
+,"lecia" : {v:"リーシャ"}
+,"madoka ayukawa" : {v:"鮎川まどか"}
+,"riko saikawa" : {v:"才川リコ"}
+,"sanae katagiri" : {v:"片桐早苗"}
+,"shouta magatsuchi" : {v:"真ヶ土翔太"}
+,"tsuruya" : {v:"鶴屋さん"}
+,"alexander" : {v:"アレクサンダー", m:{"fate grand order" : "アレキサンダー", "fullmetal alchemist" : "アレキサンダー", "kaitou tenshi twin angel" : "アレキサンダー", "yuukyuu no sharin" : "アレキサンダー", "bahamut lagoon" : "アレキサンダー"}}
+,"alibaba saluja" : {v:"アリババ・サルージャ"}
+,"aoba suzukaze" : {v:"涼風青葉"}
+,"elesa" : {v:"エリーサ", m:{"pokemon" : "カミツレ"}}
+,"evelynn" : {v:"イブリン"}
 ,"ikumi mito" : {v:"水戸郁魅"}
-,"irida" : {v:"イリーダ", m:{"pokemon" : "カイ"}}
 ,"kazuya miyuki" : {v:"御幸一也"}
 ,"nonna" : {v:"ノンナ"}
-,"sanae katagiri" : {v:"片桐早苗"}
-,"secelia dote" : {v:"セセリア・ドート"}
-,"shouta magatsuchi" : {v:"真ヶ土翔太"}
+,"sae kobayakawa" : {v:"小早川紗枝"}
+,"shiranui" : {v:"不知火", m:{"azur lane" : "不知火(IJN Shiranui)"}}
 ,"swan white" : {v:"スワン・ホワイト"}
 ,"takaya abe" : {v:"阿部隆也"}
-,"aya maruyama" : {v:"丸山彩"}
+,"yoichi isagi" : {v:"潔世一"}
+,"choromatsu matsuno" : {v:"松野チョロ松"}
 ,"jun sagami" : {v:"佐上ジュン"}
-,"junko" : {v:"純狐"}
+,"katalina aryze" : {v:"カタリナ・アリゼ"}
 ,"korwa" : {v:"コルワ"}
 ,"kyouko toshinou" : {v:"歳納京子"}
+,"menace" : {v:"メナス"}
+,"miho kohinata" : {v:"小日向美穂"}
 ,"momo chiyoda" : {v:"千代田桃"}
+,"rena andou" : {v:"安藤レナ"}
 ,"riina tada" : {v:"多田李衣菜"}
 ,"sadao maou" : {v:"真奥貞夫"}
-,"sae kobayakawa" : {v:"小早川紗枝"}
 ,"sasha blouse" : {v:"サシャ・ブラウス"}
-,"shuuko komi" : {v:"古見秀子"}
+,"tia halibel" : {v:"ティア・ハリベル"}
 ,"unryuu" : {v:"雲龍"}
-,"erich von rerugen" : {v:"エーリッヒ・フォン・レルゲン"}
-,"katalina aryze" : {v:"カタリナ・アリゼ"}
-,"lecia" : {v:"リーシャ"}
-,"magisa" : {v:"マギサ"}
-,"menace" : {v:"メナス"}
-,"nick wilde" : {v:"ニック・ワイルド"}
-,"noshiro" : {v:"能代", m:{"azur lane" : "能代(IJN Noshiro)"}}
-,"rena andou" : {v:"安藤レナ"}
-,"riko saikawa" : {v:"才川リコ"}
-,"twilight sparkle" : {v:"トワイライトスパークル"}
-,"yoichi isagi" : {v:"潔世一"}
-,"yoshino yorita" : {v:"依田芳乃"}
-,"aoba suzukaze" : {v:"涼風青葉"}
-,"big bad wolf" : {v:"悪いオオカミ"}
-,"cure rosetta" : {v:"四葉ありす(キュアロゼッタ)"}
-,"cure sky" : {v:"ソラ・ハレワタール(キュアスカイ)"}
-,"kohran li" : {v:"李紅蘭"}
-,"minako satake" : {v:"佐竹美奈子"}
-,"nagito komaeda" : {v:"狛枝凪斗"}
-,"yui" : {v:"ユイ", m:{"persona 5" : "YUI", "lucky star" : "成実ゆい", "sekirei" : "結", "jigokuraku" : "結", "mitsuboshi colors" : "結衣", "sakuna of rice and ruin" : "ゆい"}}
-,"yukina minato" : {v:"湊友希那"}
 ,"yuu morisawa" : {v:"森沢優"}
 ,"zoroark" : {v:"ゾロアーク"}
-,"alexander" : {v:"アレクサンダー", m:{"fate grand order" : "アレキサンダー", "fullmetal alchemist" : "アレキサンダー", "kaitou tenshi twin angel" : "アレキサンダー", "yuukyuu no sharin" : "アレキサンダー", "bahamut lagoon" : "アレキサンダー"}}
-,"chika itou" : {v:"伊藤千佳"}
-,"cure honey" : {v:"大森ゆうこ(キュアハニー)"}
+,"ayane okusora" : {v:"奥空アヤネ"}
 ,"doremy sweet" : {v:"ドレミー・スイート"}
-,"elesa" : {v:"エリーサ", m:{"pokemon" : "カミツレ"}}
 ,"flareon" : {v:"ブースター"}
-,"hana makihatayama" : {v:"巻機山ハナ(ハナちゃん)"}
 ,"hatsuzuki" : {v:"初月", m:{"azur lane" : "初月(IJN Hatsuzuki)"}}
 ,"ichigo hoshimiya" : {v:"星宮いちご"}
-,"makoto nanaya" : {v:"マコト=ナナヤ"}
+,"minako satake" : {v:"佐竹美奈子"}
+,"twilight sparkle" : {v:"トワイライトスパークル"}
+,"big bad wolf" : {v:"悪いオオカミ"}
+,"chika itou" : {v:"伊藤千佳"}
+,"cure rosetta" : {v:"四葉ありす(キュアロゼッタ)"}
+,"hana makihatayama" : {v:"巻機山ハナ(ハナちゃん)"}
+,"implacable" : {v:"インプラカブル", m:{"azur lane" : "インプラカブル(HMS Implacable)"}}
+,"kohran li" : {v:"李紅蘭"}
+,"magisa" : {v:"マギサ"}
 ,"medb" : {v:"メイヴ"}
-,"miho kohinata" : {v:"小日向美穂"}
-,"percival" : {v:"パーシヴァル"}
-,"rabi en rose" : {v:"ラ・ビ・アン・ローズ(うさだヒカル)"}
-,"rinami himesaki" : {v:"姫崎莉波"}
-,"shiranui" : {v:"不知火", m:{"azur lane" : "不知火(IJN Shiranui)"}}
+,"minoto" : {v:"ミノト"}
+,"nagito komaeda" : {v:"狛枝凪斗"}
+,"nick wilde" : {v:"ニック・ワイルド"}
 ,"tashigi" : {v:"たしぎ"}
-,"yuubari" : {v:"夕張", m:{"azur lane" : "夕張(IJN Yūbari)"}}
+,"yui" : {v:"ユイ", m:{"persona 5" : "YUI", "lucky star" : "成実ゆい", "sekirei" : "結", "jigokuraku" : "結", "mitsuboshi colors" : "結衣", "sakuna of rice and ruin" : "ゆい"}}
 ,"aoi asahina" : {v:"朝日奈葵"}
 ,"asuha chigusa" : {v:"千種明日葉"}
+,"cure honey" : {v:"大森ゆうこ(キュアハニー)"}
 ,"ena ayase" : {v:"綾瀬恵那"}
+,"hana shirosaki" : {v:"白咲花"}
+,"makoto nanaya" : {v:"マコト=ナナヤ"}
 ,"mamako oosuki" : {v:"大好真々子"}
+,"percival" : {v:"パーシヴァル"}
+,"rabi en rose" : {v:"ラ・ビ・アン・ローズ(うさだヒカル)"}
+,"shiki" : {v:"シキ", m:{"samurai spirits" : "色", "senran kagura" : "四季", "tsukihime" : "遠野志貴", "durarara" : "四木", "beatmania" : "識", "tsuki ga michibiku isekai douchuu" : "識"}}
+,"super crown bowser" : {v:"クッパ姫"}
+,"topaz" : {v:"トパーズ"}
+,"ultrawoman" : {v:"ウルトラウーマン"}
+,"yuubari" : {v:"夕張", m:{"azur lane" : "夕張(IJN Yūbari)"}}
+,"black swan" : {v:"ブラックスワン"}
+,"kasumi chigusa" : {v:"千種霞"}
 ,"mature" : {v:"マチュア"}
+,"meiko shiraki" : {v:"白木芽衣子"}
 ,"perrine h. clostermann" : {v:"ペリーヌ＝アンリ・クロステルマン"}
 ,"saori kido" : {v:"城戸沙織"}
-,"shiki" : {v:"シキ", m:{"samurai spirits" : "色", "senran kagura" : "四季", "tsukihime" : "遠野志貴", "durarara" : "四木", "beatmania" : "識", "tsuki ga michibiku isekai douchuu" : "識"}}
+,"saya takagi" : {v:"高城沙耶"}
 ,"sinbad" : {v:"シンドバッド"}
-,"tia halibel" : {v:"ティア・ハリベル"}
 ,"xiao" : {v:"魈"}
+,"yosuke hanamura" : {v:"花村陽介"}
+,"yuzuru otonashi" : {v:"音無結弦"}
 ,"ilsa" : {v:"イルザ"}
 ,"kaoru tanamachi" : {v:"棚町薫"}
-,"kasumi chigusa" : {v:"千種霞"}
+,"kiriko yukoku" : {v:"幽谷霧子"}
+,"liliruca arde" : {v:"リリルカ・アーデ"}
 ,"makie sasaki" : {v:"佐々木まき絵"}
-,"meiko shiraki" : {v:"白木芽衣子"}
 ,"millia rage" : {v:"ミリア=レイジ"}
 ,"natsuki kuga" : {v:"玖我なつき"}
 ,"riven" : {v:"Riven"}
-,"saya takagi" : {v:"高城沙耶"}
-,"super crown bowser" : {v:"クッパ姫"}
 ,"tomoka minato" : {v:"湊智花"}
+,"ymir" : {v:"ユミル", m:{"queens blade" : "ユーミル", "queens blade rebellion" : "ユーミル"}}
 ,"yuki himekawa" : {v:"姫川友紀"}
-,"ayane okusora" : {v:"奥空アヤネ"}
+,"chinatsu hinomiya" : {v:"火宮チナツ"}
+,"cure lemonade" : {v:"春日野うらら(キュアレモネード)"}
 ,"eris" : {v:"エリス"}
+,"hei" : {v:"黒"}
 ,"kamina" : {v:"カミナ"}
-,"kirara yozakura" : {v:"夜桜キララ"}
 ,"kokoro" : {v:"ココロ", m:{"dead or alive" : "こころ", "kokoro library" : "こころ"}}
+,"letty whiterock" : {v:"レティ・ホワイトロック"}
+,"loran cehack" : {v:"ロラン・セアック"}
 ,"rei ryuugazaki" : {v:"竜ヶ崎怜"}
 ,"rin" : {v:"リン", m:{"king of fighters" : "麟", "senran kagura" : "凜", "inuyasha" : "りん", "kamen rider zero-one" : "厘", "nagasarete airantou" : "りん", "kemurikusa" : "りん", "needless" : "凜", "bunny garden" : "凜"}}
-,"sanae dekomori" : {v:"凸守早苗"}
-,"ymir" : {v:"ユミル", m:{"queens blade" : "ユーミル", "queens blade rebellion" : "ユーミル"}}
-,"yosuke hanamura" : {v:"花村陽介"}
-,"yuzuru otonashi" : {v:"音無結弦"}
 ,"akizuki" : {v:"秋月"}
-,"cure lemonade" : {v:"春日野うらら(キュアレモネード)"}
-,"ginrei" : {v:"銀鈴", m:{"senran kagura" : "銀嶺"}}
-,"hana shirosaki" : {v:"白咲花"}
-,"hei" : {v:"黒"}
-,"kiriko yukoku" : {v:"幽谷霧子"}
 ,"kotona elegance" : {v:"コトナ・エレガンス"}
-,"letty whiterock" : {v:"レティ・ホワイトロック"}
-,"liliruca arde" : {v:"リリルカ・アーデ"}
-,"loran cehack" : {v:"ロラン・セアック"}
+,"minoriko aki" : {v:"秋穣子"}
 ,"nate argente loup mitotsudaira" : {v:"ネイト・ミトツダイラ"}
 ,"rance" : {v:"ランス"}
+,"risa momioka" : {v:"籾岡里紗"}
+,"sanae dekomori" : {v:"凸守早苗"}
 ,"ichika takatsuki" : {v:"貴月イチカ"}
-,"minoriko aki" : {v:"秋穣子"}
 ,"miya tachibana" : {v:"橘美也"}
 ,"momoko akatsutsumi" : {v:"赤堤ももこ(ハイパー・ブロッサム)"}
-,"ririchiyo shirakiin" : {v:"白鬼院凜々蝶"}
-,"risa momioka" : {v:"籾岡里紗"}
-,"implacable" : {v:"インプラカブル", m:{"azur lane" : "インプラカブル(HMS Implacable)"}}
-,"iku nakatani" : {v:"中谷育"}
 ,"nagi hisakawa" : {v:"久川凪"}
+,"ririchiyo shirakiin" : {v:"白鬼院凜々蝶"}
+,"iku nakatani" : {v:"中谷育"}
+,"natalia" : {v:"ナターリア"}
+,"jessica" : {v:"ジェシカ", m:{"pokemon" : "ナツキ"}}
+,"juushimatsu matsuno" : {v:"松野十四松"}
 ,"suzutsuki" : {v:"涼月", m:{"azur lane" : "涼月(IJN Suzutsuki)"}}
 ,"haruyuki arita" : {v:"有田春雪(シルバー・クロウ)"}
+,"incineroar" : {v:"ガオガエン"}
 ,"kirlia" : {v:"キルリア"}
 ,"leaf" : {v:"リーフ"}
-,"natalia" : {v:"ナターリア"}
+,"nemona" : {v:"ネモナ", m:{"pokemon" : "ネモ"}}
 ,"teruzuki" : {v:"照月"}
-,"chinatsu hinomiya" : {v:"火宮チナツ"}
-,"greninja" : {v:"ゲッコウガ"}
+,"tsumugi mayumiya" : {v:"繭宮つむぎ"}
 ,"yumi aiba" : {v:"相葉夕美"}
+,"greninja" : {v:"ゲッコウガ"}
+,"juliana" : {v:"ジュリアナ", m:{"pokemon" : "アオイ"}}
+,"urumi ushizaki" : {v:"牛崎潤美"}
+,"uzuki" : {v:"卯月", m:{"azur lane" : "卯月(IJN Uzuki)"}}
 ,"akigumo" : {v:"秋雲"}
-,"jessica" : {v:"ジェシカ", m:{"pokemon" : "ナツキ"}}
+,"akitsu maru" : {v:"あきつ丸"}
+,"misaki imashino" : {v:"戒野ミサキ"}
 ,"nachi" : {v:"那智", m:{"azur lane" : "那智(IJN Nachi)"}}
 ,"shizuru hoshino" : {v:"星野静流"}
-,"uzuki" : {v:"卯月", m:{"azur lane" : "卯月(IJN Uzuki)"}}
-,"akitsu maru" : {v:"あきつ丸"}
-,"incineroar" : {v:"ガオガエン"}
-,"nono morikubo" : {v:"森久保乃々"}
-,"erik" : {v:"エリク", m:{"pokemon" : "マサシ", "fairy tail" : "エリック(毒竜のコブラ)", "dragon quest xi" : "カミュ", "animal crossing" : "チャック"}}
-,"juliana" : {v:"ジュリアナ", m:{"pokemon" : "アオイ"}}
-,"konomi baba" : {v:"馬場このみ"}
-,"raihan" : {v:"ライハン", m:{"pokemon" : "キバナ"}}
-,"urumi ushizaki" : {v:"牛崎潤美"}
-,"yayoi" : {v:"弥生"}
 ,"cheshire" : {v:"チェシャー", m:{"azur lane" : "チェシャー(HMS Cheshire)"}}
-,"cure macherie" : {v:"愛崎えみる(キュアマシェリ)"}
-,"nao yokoyama" : {v:"横山奈緒"}
+,"konomi baba" : {v:"馬場このみ"}
+,"nono morikubo" : {v:"森久保乃々"}
+,"raihan" : {v:"ライハン", m:{"pokemon" : "キバナ"}}
+,"shiny luminous" : {v:"九条ひかり(シャイニールミナス)"}
+,"yayoi" : {v:"弥生"}
+,"calem" : {v:"カルム"}
+,"erik" : {v:"エリク", m:{"pokemon" : "マサシ", "fairy tail" : "エリック(毒竜のコブラ)", "dragon quest xi" : "カミュ", "animal crossing" : "チャック"}}
+,"hinata hoshino" : {v:"星野ひなた"}
 ,"ringo" : {v:"鈴瑚"}
 ,"sara" : {v:"サラ", m:{"genshin impact" : "九条サラ", "pokemon" : "マリ", "jewelpet tinkle" : "沙羅", "tenshi ni narumon" : "サーラ"}}
-,"shiny luminous" : {v:"九条ひかり(シャイニールミナス)"}
-,"syoko hoshi" : {v:"星輝子"}
-,"tsumugi mayumiya" : {v:"繭宮つむぎ"}
-,"calem" : {v:"カルム"}
-,"cure princess" : {v:"白雪ひめ(キュアプリンセス)"}
+,"cure macherie" : {v:"愛崎えみる(キュアマシェリ)"}
 ,"housen ryofu" : {v:"恋(呂布 奉先)"}
-,"jolteon" : {v:"サンダース"}
+,"nao yokoyama" : {v:"横山奈緒"}
 ,"pikachu" : {v:"ピカチュウ"}
-,"hiryuu" : {v:"飛龍", m:{"azur lane" : "飛龍(IJN Hiryū)"}}
-,"washu hakubi" : {v:"白眉鷲羽"}
-,"aoi futaba" : {v:"双葉碧"}
+,"syoko hoshi" : {v:"星輝子"}
+,"cure princess" : {v:"白雪ひめ(キュアプリンセス)"}
 ,"cure star" : {v:"星奈ひかる(キュアスター)"}
+,"etorofu" : {v:"択捉"}
+,"ginrei" : {v:"銀鈴", m:{"senran kagura" : "銀嶺"}}
+,"jolteon" : {v:"サンダース"}
+,"shinmyoumaru sukuna" : {v:"少名針妙丸"}
+,"hiryuu" : {v:"飛龍", m:{"azur lane" : "飛龍(IJN Hiryū)"}}
 ,"kiyoshimo" : {v:"清霜"}
 ,"kumbhira" : {v:"クビラ"}
-,"misaki imashino" : {v:"戒野ミサキ"}
+,"poppy" : {v:"ポピー", m:{"league of legends" : "ポッピー", "animal crossing" : "グミ", "poppy playtime" : "Poppy"}}
 ,"vajra" : {v:"ヴァジラ"}
-,"etorofu" : {v:"択捉"}
-,"hinata hoshino" : {v:"星野ひなた"}
-,"milfeulle sakuraba" : {v:"ミルフィーユ・桜葉"}
-,"akira sunazuka" : {v:"砂塚あきら"}
+,"washu hakubi" : {v:"白眉鷲羽"}
+,"aoi futaba" : {v:"双葉碧"}
+,"hinana ichikawa" : {v:"市川雛菜"}
 ,"charizard" : {v:"リザードン"}
 ,"cow girl" : {v:"牛飼娘"}
-,"shinmyoumaru sukuna" : {v:"少名針妙丸"}
-,"silva" : {v:"シルバ"}
-,"arashio" : {v:"荒潮(IJN Arashio)"}
-,"hinana ichikawa" : {v:"市川雛菜"}
-,"peorth" : {v:"ペイオース"}
-,"poppy" : {v:"ポピー", m:{"league of legends" : "ポッピー", "animal crossing" : "グミ", "poppy playtime" : "Poppy"}}
+,"milfeulle sakuraba" : {v:"ミルフィーユ・桜葉"}
+,"saki hanami" : {v:"花海咲季"}
 ,"yukito tsukishiro" : {v:"月城雪兎(月)"}
-,"cure yell" : {v:"野乃はな(キュアエール)"}
-,"ranpha franboise" : {v:"蘭花・フランボワーズ"}
-,"umi kousaka" : {v:"高坂海美"}
-,"yukari mizumoto" : {v:"水本ゆかり"}
-,"choukai" : {v:"鳥海", m:{"azur lane" : "鳥海(IJN Chōkai)"}}
+,"akira sunazuka" : {v:"砂塚あきら"}
 ,"cure prism" : {v:"虹ヶ丘ましろ(キュアプリズム)"}
-,"gwen tennyson" : {v:"グウェン・テニスン"}
-,"hazuki nanakusa" : {v:"七草はづき"}
-,"kurenai yuhi" : {v:"夕日紅"}
-,"tomo takino" : {v:"滝野智"}
-,"shirayuki" : {v:"白雪", m:{"azur lane" : "白雪(IJN Shirayuki)"}}
-,"asahi serizawa" : {v:"芹沢あさひ"}
+,"silva" : {v:"シルバ"}
+,"yukari mizumoto" : {v:"水本ゆかり"}
+,"arashio" : {v:"荒潮(IJN Arashio)"}
 ,"caesar king" : {v:"キング・シーザー"}
-,"elena shimabara" : {v:"島原エレナ"}
-,"fletcher" : {v:"フレッチャー", m:{"kantai collection" : "Fletcher(フレッチャー)", "azur lane" : "フレッチャー(USS Fletcher)"}}
+,"cure yell" : {v:"野乃はな(キュアエール)"}
+,"hazuki nanakusa" : {v:"七草はづき"}
+,"peorth" : {v:"ペイオース"}
+,"reisa uzawa" : {v:"宇沢レイサ"}
 ,"joon yorigami" : {v:"依神女苑"}
-,"mutsuki" : {v:"睦月", m:{"azur lane" : "睦月(IJN Mutsuki)"}}
-,"seiran" : {v:"清蘭"}
-,"tomoka tenkubashi" : {v:"天空橋朋花"}
-,"watatsuki no yorihime" : {v:"綿月依姫"}
+,"koyuki kurosaki" : {v:"黒崎コユキ"}
+,"ranpha franboise" : {v:"蘭花・フランボワーズ"}
+,"tomo takino" : {v:"滝野智"}
+,"umi kousaka" : {v:"高坂海美"}
+,"asahi serizawa" : {v:"芹沢あさひ"}
+,"choukai" : {v:"鳥海", m:{"azur lane" : "鳥海(IJN Chōkai)"}}
+,"ginko sora" : {v:"空銀子"}
+,"gwen tennyson" : {v:"グウェン・テニスン"}
+,"rei" : {v:"レイ", m:{"pokemon" : "テル", "goddess of victory nikke" : "ライ"}}
 ,"acolyte" : {v:"アコライト"}
 ,"eimi izumimoto" : {v:"和泉元エイミ"}
-,"kikuri hiroi" : {v:"廣井きくり"}
-,"koyuki kurosaki" : {v:"黒崎コユキ"}
+,"fletcher" : {v:"フレッチャー", m:{"kantai collection" : "Fletcher(フレッチャー)", "azur lane" : "フレッチャー(USS Fletcher)"}}
 ,"kris" : {v:"クリス"}
-,"mizuki makabe" : {v:"真壁瑞希"}
-,"nemona" : {v:"ネモナ", m:{"pokemon" : "ネモ"}}
-,"arezu" : {v:"アリーズ", m:{"pokemon" : "ヒナツ"}}
+,"kurenai yuhi" : {v:"夕日紅"}
+,"mutsuki" : {v:"睦月", m:{"azur lane" : "睦月(IJN Mutsuki)"}}
+,"shirayuki" : {v:"白雪", m:{"azur lane" : "白雪(IJN Shirayuki)"}}
+,"watatsuki no yorihime" : {v:"綿月依姫"}
+,"elena shimabara" : {v:"島原エレナ"}
 ,"fubuki nemugaki" : {v:"合歓垣フブキ"}
-,"ginko sora" : {v:"空銀子"}
 ,"kagerou" : {v:"陽炎(IJN Kagerō)"}
-,"medusa" : {v:"メデューサ", m:{"fate grand order" : "メドゥーサ(ライダー)", "fate stay night" : "メドゥーサ(ライダー)", "kid icarus" : "冥界女王メデューサ", "ghost sweeper mikami" : "メドーサ"}}
-,"rei" : {v:"レイ", m:{"pokemon" : "テル", "goddess of victory nikke" : "ライ"}}
 ,"sabrina" : {v:"サブリナ", m:{"pokemon" : "ナツメ"}}
+,"seiran" : {v:"清蘭"}
+,"tomoka tenkubashi" : {v:"天空橋朋花"}
 ,"z23" : {v:"Z23(KMS Z23)"}
+,"arezu" : {v:"アリーズ", m:{"pokemon" : "ヒナツ"}}
 ,"haruka igusa" : {v:"伊草ハルカ"}
-,"kiyone makibi" : {v:"真備清音"}
+,"kikuri hiroi" : {v:"廣井きくり"}
 ,"miko iino" : {v:"伊井野ミコ"}
+,"mizuki makabe" : {v:"真壁瑞希"}
 ,"nelson" : {v:"ネルソン", m:{"kantai collection" : "Nelson(ネルソン)", "azur lane" : "ネルソン(HMS Nelson)"}}
-,"sheffield" : {v:"シェフィールド", m:{"kantai collection" : "Sheffield(シェフィールド)", "azur lane" : "シェフィールド(HMS Sheffield)"}}
-,"shizuha aki" : {v:"秋静葉"}
+,"noa himesaka" : {v:"姫坂乃愛"}
 ,"yaia" : {v:"ヤイア"}
+,"bianca" : {v:"ビアンカ", m:{"pokemon" : "ベル", "animal crossing" : "コユキ"}}
+,"shizuha aki" : {v:"秋静葉"}
+,"agano" : {v:"阿賀野", m:{"azur lane" : "阿賀野(IJN Agano)"}}
+,"kamikaze" : {v:"神風", m:{"azur lane" : "神風(IJN Kamikaze)"}}
+,"kiyone makibi" : {v:"真備清音"}
+,"sheffield" : {v:"シェフィールド", m:{"kantai collection" : "Sheffield(シェフィールド)", "azur lane" : "シェフィールド(HMS Sheffield)"}}
+,"ankha" : {v:"ナイル"}
 ,"aoba" : {v:"青葉", m:{"azur lane" : "青葉(IJN Aoba)"}}
 ,"aoi oki" : {v:"扇喜アオイ"}
 ,"aria" : {v:"アリア"}
-,"bianca" : {v:"ビアンカ", m:{"pokemon" : "ベル", "animal crossing" : "コユキ"}}
-,"kamikaze" : {v:"神風", m:{"azur lane" : "神風(IJN Kamikaze)"}}
-,"agano" : {v:"阿賀野", m:{"azur lane" : "阿賀野(IJN Agano)"}}
-,"ankha" : {v:"ナイル"}
 ,"cure selene" : {v:"香久矢まどか(キュアセレーネ)"}
-,"saki hanami" : {v:"花海咲季"}
-,"wakasagihime" : {v:"わかさぎ姫"}
-,"blaziken" : {v:"バシャーモ"}
-,"eriko kuraishi" : {v:"倉石恵理子"}
-,"javelin" : {v:"ジャベリン", m:{"kantai collection" : "Javelin(ジャヴェリン)", "azur lane" : "ジャベリン(HMS Javelin)"}}
-,"noa himesaka" : {v:"姫坂乃愛"}
-,"reisa uzawa" : {v:"宇沢レイサ"}
 ,"shiori kashiwazaki" : {v:"柏崎栞"}
+,"javelin" : {v:"ジャベリン", m:{"kantai collection" : "Javelin(ジャヴェリン)", "azur lane" : "ジャベリン(HMS Javelin)"}}
+,"wakasagihime" : {v:"わかさぎ姫"}
 ,"bache" : {v:"バッチ", m:{"azur lane" : "バッチ(USS Bache)"}}
+,"blaziken" : {v:"バシャーモ"}
+,"cure cosmo" : {v:"ユニ(キュアコスモ)"}
+,"eriko kuraishi" : {v:"倉石恵理子"}
+,"red" : {v:"レッド"}
+,"shinano" : {v:"信濃(IJN Shinano)"}
 ,"cure amour" : {v:"ルールー・アムール(キュアアムール)"}
 ,"cure gelato" : {v:"立神あおい(キュアジェラート)"}
 ,"forte stollen" : {v:"フォルテ・シュトーレン"}
+,"melony" : {v:"メロニー", m:{"pokemon" : "メロン"}}
 ,"naka" : {v:"那珂", m:{"azur lane" : "那珂(IJN Naka)"}}
-,"shinano" : {v:"信濃(IJN Shinano)"}
-,"ai yashajin" : {v:"夜叉神天衣"}
-,"cure cosmo" : {v:"ユニ(キュアコスモ)"}
+,"natsu yutori" : {v:"柚鳥ナツ"}
+,"nozomi sakurai" : {v:"桜井望"}
 ,"rin nanagami" : {v:"七神リン"}
 ,"yuugumo" : {v:"夕雲"}
-,"melony" : {v:"メロニー", m:{"pokemon" : "メロン"}}
-,"dido" : {v:"ダイドー", m:{"azur lane" : "ダイドー(HMS Dido)"}}
-,"nozomi sakurai" : {v:"桜井望"}
-,"red" : {v:"レッド"}
-,"arashi" : {v:"嵐"}
-,"goblin slayer" : {v:"ゴブリンスレイヤー"}
+,"ai yashajin" : {v:"夜叉神天衣"}
 ,"hunter" : {v:"ハンター", m:{"azur lane" : "ハンター(HMS Hunter)"}}
+,"kieran" : {v:"スグリ"}
+,"dido" : {v:"ダイドー", m:{"azur lane" : "ダイドー(HMS Dido)"}}
+,"medusa" : {v:"メデューサ", m:{"fate grand order" : "メドゥーサ(ライダー)", "fate stay night" : "メドゥーサ(ライダー)", "kid icarus" : "冥界女王メデューサ", "ghost sweeper mikami" : "メドーサ"}}
+,"mimi akane" : {v:"茜ミミ"}
+,"arashi" : {v:"嵐"}
+,"cure grace" : {v:"花寺のどか(キュアグレース)"}
+,"eldridge" : {v:"エルドリッジ", m:{"azur lane" : "エルドリッジ(USS Eldridge)"}}
+,"goblin slayer" : {v:"ゴブリンスレイヤー"}
 ,"kuroshio" : {v:"黒潮", m:{"azur lane" : "黒潮(IJN Kuroshio)"}}
 ,"mirai kasuga" : {v:"春日未来"}
 ,"rio momose" : {v:"百瀬莉緒"}
 ,"u-511" : {v:"U-511"}
+,"chihiro kagami" : {v:"各務チヒロ"}
 ,"elise" : {v:"エリス", m:{"fire emblem" : "エリーゼ", "fire emblem fates" : "エリーゼ", "animal crossing" : "モンこ", "fire emblem heroes" : "エリーゼ"}}
+,"hakufu sonsaku" : {v:"雪蓮(孫策 伯符)"}
 ,"i-58" : {v:"伊58", m:{"azur lane" : "伊58(IJN I58)"}}
+,"leon" : {v:"レオン", m:{"the idolmaster" : "玲音", "pokemon" : "ダンデ"}}
 ,"megumu iizunamaru" : {v:"飯綱丸龍"}
-,"mimi akane" : {v:"茜ミミ"}
 ,"miya miyao" : {v:"宮尾美也"}
-,"natsu yutori" : {v:"柚鳥ナツ"}
-,"cure grace" : {v:"花寺のどか(キュアグレース)"}
+,"yaichi kuzuryuu" : {v:"九頭竜八一"}
 ,"cure lovely" : {v:"愛乃めぐみ(キュアラブリー)"}
 ,"cure scarlet" : {v:"紅城トワ(キュアスカーレット)"}
-,"hakufu sonsaku" : {v:"雪蓮(孫策 伯符)"}
-,"hornet" : {v:"ホーネット", m:{"kantai collection" : "Hornet(ホーネット)", "azur lane" : "ホーネット(USS Hornet)"}}
 ,"i-26" : {v:"伊26", m:{"azur lane" : "伊26(IJN I26)"}}
-,"leon" : {v:"レオン", m:{"the idolmaster" : "玲音", "pokemon" : "ダンデ"}}
-,"yaichi kuzuryuu" : {v:"九頭竜八一"}
-,"chihiro kagami" : {v:"各務チヒロ"}
-,"eldridge" : {v:"エルドリッジ", m:{"azur lane" : "エルドリッジ(USS Eldridge)"}}
-,"kieran" : {v:"スグリ"}
-,"samidare" : {v:"五月雨"}
-,"shikamaru nara" : {v:"奈良シカマル"}
-,"soga no tojiko" : {v:"蘇我屠自古"}
 ,"zangoose" : {v:"ザングース"}
-,"hayashimo" : {v:"早霜"}
-,"i-8" : {v:"伊8"}
+,"ditto" : {v:"メタモン"}
 ,"juri saijo" : {v:"西城樹里"}
 ,"kobayashi-san" : {v:"小林さん"}
+,"samidare" : {v:"五月雨"}
+,"shigure mayoi" : {v:"間宵シグレ"}
+,"shikamaru nara" : {v:"奈良シカマル"}
+,"soga no tojiko" : {v:"蘇我屠自古"}
+,"fuuka aikiyo" : {v:"愛清フウカ"}
+,"hayashimo" : {v:"早霜"}
+,"hornet" : {v:"ホーネット", m:{"kantai collection" : "Hornet(ホーネット)", "azur lane" : "ホーネット(USS Hornet)"}}
+,"i-8" : {v:"伊8"}
 ,"sazanami" : {v:"漣"}
-,"cure fortune" : {v:"氷川いおな(キュアフォーチュン)"}
-,"ditto" : {v:"メタモン"}
-,"vert" : {v:"ベール(グリーンハート)"}
+,"wicke" : {v:"ビッケ"}
+,"aglaea" : {v:"アグライア"}
 ,"amagi" : {v:"天城", m:{"azur lane" : "天城(IJN Amagi)"}}
-,"cure soleil" : {v:"天宮えれな(キュアソレイユ)"}
+,"cure fortune" : {v:"氷川いおな(キュアフォーチュン)"}
 ,"hatsune kashiwazaki" : {v:"柏崎初音"}
 ,"serina sumi" : {v:"鷲見セリナ"}
-,"shigure mayoi" : {v:"間宵シグレ"}
-,"wicke" : {v:"ビッケ"}
-,"yuika mitsumine" : {v:"三峰結華"}
+,"todomatsu matsuno" : {v:"松野トド松"}
+,"vert" : {v:"ベール(グリーンハート)"}
+,"cure soleil" : {v:"天宮えれな(キュアソレイユ)"}
 ,"flonne" : {v:"フロン"}
-,"fuuka aikiyo" : {v:"愛清フウカ"}
-,"mary stuart" : {v:"メアリ"}
+,"kurumi" : {v:"クルミ", m:{"steel angel kurumi" : "くるみ", "murenase seton gakuen" : "猫米クルミ"}}
+,"yuika mitsumine" : {v:"三峰結華"}
+,"catura" : {v:"シャトラ"}
 ,"ike" : {v:"アイク", m:{"animal crossing" : "ダイク"}}
+,"mary stuart" : {v:"メアリ"}
+,"carmine" : {v:"カーマイン", m:{"pokemon" : "ゼイユ"}}
+,"miyako hoshino" : {v:"星野みやこ"}
 ,"satsuki" : {v:"皐月", m:{"blue archive" : "京極サツキ", "quiz magic academy" : "サツキ", "my neighbor totoro" : "サツキ"}}
 ,"yuuna akashi" : {v:"明石裕奈"}
-,"catura" : {v:"シャトラ"}
 ,"hammann" : {v:"ハムマン", m:{"azur lane" : "ハムマン(USS Hammann)"}}
-,"miyako hoshino" : {v:"星野みやこ"}
-,"kearsarge" : {v:"キアサージ", m:{"azur lane" : "キアサージ(USS Kearsarge)"}}
-,"rui" : {v:"ルイ", m:{"dream c club" : "るい"}}
 ,"rumi akeshiro" : {v:"朱城ルミ"}
 ,"shikinami" : {v:"敷波"}
-,"amuro ray" : {v:"アムロ・レイ"}
-,"chikuma" : {v:"筑摩", m:{"azur lane" : "筑摩(IJN Chikuma)"}}
-,"chitose" : {v:"千歳", m:{"azur lane" : "千歳(IJN Chitose)"}}
+,"temari tsukimura" : {v:"月村手毬"}
 ,"cinderace" : {v:"エースバーン"}
 ,"dunkerque" : {v:"ダンケルク", m:{"azur lane" : "ダンケルク(MNF Dunkerque)"}}
+,"kaya shiranui" : {v:"不知火カヤ"}
+,"kearsarge" : {v:"キアサージ", m:{"azur lane" : "キアサージ(USS Kearsarge)"}}
+,"rui" : {v:"ルイ", m:{"dream c club" : "るい"}}
+,"amuro ray" : {v:"アムロ・レイ"}
+,"chikuma" : {v:"筑摩", m:{"azur lane" : "筑摩(IJN Chikuma)"}}
 ,"keith" : {v:"ケイト"}
-,"kurumi" : {v:"クルミ", m:{"steel angel kurumi" : "くるみ", "murenase seton gakuen" : "猫米クルミ"}}
-,"vulpix" : {v:"ロコン"}
 ,"yoshimi ibaragi" : {v:"伊原木ヨシミ"}
-,"yura" : {v:"由良", m:{"azur lane" : "由良(IJN Yura)"}}
-,"aglaea" : {v:"アグライア"}
 ,"chisame hasegawa" : {v:"長谷川千雨"}
-,"myoukou" : {v:"妙高", m:{"azur lane" : "妙高(IJN Myōkō)"}}
-,"white heart" : {v:"ホワイトハート(ブラン)"}
-,"kasumi kirihara" : {v:"霧原かすみ"}
+,"chitose" : {v:"千歳", m:{"azur lane" : "千歳(IJN Chitose)"}}
+,"new jersey" : {v:"ニュージャージー", m:{"azur lane" : "ニュージャージー(USS New Jersey)"}}
 ,"roon" : {v:"ローン", m:{"azur lane" : "ローン(KMS Roon)"}}
-,"tsunami" : {v:"津名魅"}
-,"asuka ninomiya" : {v:"二宮飛鳥"}
+,"shuro yabuki" : {v:"箭吹シュロ"}
+,"vulpix" : {v:"ロコン"}
+,"white heart" : {v:"ホワイトハート(ブラン)"}
+,"yura" : {v:"由良", m:{"azur lane" : "由良(IJN Yura)"}}
 ,"chiyo shirayuki" : {v:"白雪千夜"}
+,"delphox" : {v:"マフォクシー"}
 ,"elma" : {v:"エルマ"}
+,"kasumi kirihara" : {v:"霧原かすみ"}
 ,"lily white" : {v:"リリーホワイト"}
 ,"marina" : {v:"マリーナ", m:{"pokemon" : "マリン", "animal crossing" : "タコリーナ"}}
+,"myoukou" : {v:"妙高", m:{"azur lane" : "妙高(IJN Myōkō)"}}
+,"tsunami" : {v:"津名魅"}
+,"asuka ninomiya" : {v:"二宮飛鳥"}
 ,"ayaka yukihiro" : {v:"雪広あやか"}
-,"tashkent" : {v:"タシュケント", m:{"kantai collection" : "Ташкент(タシュケント)", "azur lane" : "タシュケント(SN Tashkent)"}}
-,"brock" : {v:"ブロック", m:{"pokemon" : "タケシ"}}
 ,"chiharu mihara" : {v:"三原千春"}
+,"qingyi" : {v:"青衣"}
+,"brock" : {v:"ブロック", m:{"pokemon" : "タケシ"}}
+,"mine aomori" : {v:"蒼森ミネ"}
 ,"mirei hayasaka" : {v:"早坂美玲"}
-,"new jersey" : {v:"ニュージャージー", m:{"azur lane" : "ニュージャージー(USS New Jersey)"}}
-,"temari tsukimura" : {v:"月村手毬"}
+,"tashkent" : {v:"タシュケント", m:{"kantai collection" : "Ташкент(タシュケント)", "azur lane" : "タシュケント(SN Tashkent)"}}
 ,"absol" : {v:"アブソル"}
-,"delphox" : {v:"マフォクシー"}
-,"indomitable" : {v:"インドミタブル", m:{"azur lane" : "インドミタブル(HMS Indomitable)"}}
-,"kaya shiranui" : {v:"不知火カヤ"}
-,"naoko yanagisawa" : {v:"柳沢奈緒子"}
-,"tenzou crossunite" : {v:"点蔵・クロスユナイト"}
-,"cherry" : {v:"チェリー", m:{"urusei yatsura" : "錯乱坊", "animal crossing" : "ハンナ"}}
 ,"daisy" : {v:"デイジー", m:{"animal crossing" : "バニラ", "flower knight girl" : "デージー"}}
+,"indomitable" : {v:"インドミタブル", m:{"azur lane" : "インドミタブル(HMS Indomitable)"}}
+,"naoko yanagisawa" : {v:"柳沢奈緒子"}
+,"penny" : {v:"ペニー", m:{"pokemon" : "ボタン"}}
+,"subaru nagayoshi" : {v:"永吉昴"}
+,"tenzou crossunite" : {v:"点蔵・クロスユナイト"}
+,"watatsuki no toyohime" : {v:"綿月豊姫"}
+,"cherry" : {v:"チェリー", m:{"urusei yatsura" : "錯乱坊", "animal crossing" : "ハンナ"}}
 ,"ilya ornstein" : {v:"イリヤ・オーンスタイン"}
 ,"lance" : {v:"ランス", m:{"pokemon" : "ワタル"}}
+,"marina ikekura" : {v:"池倉マリナ"}
+,"yukari kadenokouji" : {v:"勘解由小路ユカリ"}
 ,"cleveland" : {v:"クリーブランド", m:{"azur lane" : "クリーブランド(USS Cleveland)"}}
 ,"cure ace" : {v:"円亜久里(キュアエース)"}
 ,"drang" : {v:"ドランク"}
+,"hina araki" : {v:"荒木比奈"}
 ,"mochizuki" : {v:"望月"}
 ,"olivia" : {v:"オリビア", m:{"pokemon" : "ライチ"}}
 ,"societte" : {v:"ソシエ"}
-,"subaru nagayoshi" : {v:"永吉昴"}
-,"watatsuki no toyohime" : {v:"綿月豊姫"}
+,"alexandrina sebastiane" : {v:"アレクサンドリナ・セバスチャン"}
 ,"cure etoile" : {v:"輝木ほまれ(キュアエトワール)"}
-,"hina araki" : {v:"荒木比奈"}
+,"cure precious" : {v:"和実ゆい(キュアプレシャス)"}
 ,"i-168" : {v:"伊168", m:{"azur lane" : "伊168(IJN I168)"}}
-,"marina ikekura" : {v:"池倉マリナ"}
 ,"mightyena" : {v:"グラエナ"}
 ,"momoyo himemushi" : {v:"姫虫百々世"}
-,"alexandrina sebastiane" : {v:"アレクサンドリナ・セバスチャン"}
+,"phoebe" : {v:"フィービー", m:{"pokemon" : "フヨウ", "granblue fantasy" : "ヴェトル"}}
+,"reijo kayama" : {v:"鹿山レイジョ"}
+,"alsace" : {v:"アルザス", m:{"azur lane" : "アルザス(FFNF Alsace)"}}
 ,"amy" : {v:"アミー", m:{"pokemon" : "ウッチー"}}
 ,"cure summer" : {v:"夏海まなつ(キュアサマー)"}
 ,"furutaka" : {v:"古鷹", m:{"azur lane" : "古鷹(IJN Furutaka)"}}
-,"qingyi" : {v:"青衣"}
-,"shuro yabuki" : {v:"箭吹シュロ"}
-,"carmine" : {v:"カーマイン", m:{"pokemon" : "ゼイユ"}}
-,"cure la mer" : {v:"ローラ(キュアラメール)"}
-,"cure precious" : {v:"和実ゆい(キュアプレシャス)"}
 ,"gotland" : {v:"ゴトランド", m:{"kantai collection" : "Gotland(ゴトランド)"}}
+,"kaho kuwakami" : {v:"桑上カホ"}
 ,"machamp" : {v:"カイリキー"}
+,"anby demara" : {v:"アンビー・デマラ"}
+,"brendan" : {v:"ユウキ"}
+,"cure la mer" : {v:"ローラ(キュアラメール)"}
+,"hecatia lapislazuli" : {v:"ヘカーティア・ラピスラズリ"}
 ,"merlin prismriver" : {v:"メルラン・プリズムリバー"}
 ,"ning hai" : {v:"寧海(ROC Ning Hai)"}
-,"riolu" : {v:"リオル"}
-,"brendan" : {v:"ユウキ"}
-,"colorado" : {v:"コロラド", m:{"kantai collection" : "Colorado(コロラド)", "azur lane" : "コロラド(USS Colorado)"}}
-,"emily stewart" : {v:"エミリー スチュアート"}
-,"mine aomori" : {v:"蒼森ミネ"}
-,"reijo kayama" : {v:"鹿山レイジョ"}
 ,"reshiram" : {v:"レシラム"}
-,"yukari kadenokouji" : {v:"勘解由小路ユカリ"}
+,"riolu" : {v:"リオル"}
+,"colorado" : {v:"コロラド", m:{"kantai collection" : "Colorado(コロラド)", "azur lane" : "コロラド(USS Colorado)"}}
+,"courtney" : {v:"コートニー", m:{"pokemon" : "カガリ"}}
+,"emily stewart" : {v:"エミリー スチュアート"}
+,"misuzu hataya" : {v:"秦谷美鈴"}
 ,"yuniko kouzuki" : {v:"上月由仁子(スカーレット・レイン)"}
-,"alsace" : {v:"アルザス", m:{"azur lane" : "アルザス(FFNF Alsace)"}}
+,"chen hai" : {v:"鎮海", m:{"azur lane" : "鎮海(ROC Chen Hai)"}}
+,"cure spicy" : {v:"芙羽ここね(キュアスパイシー)"}
+,"hanae asagao" : {v:"朝顔ハナエ"}
+,"hilbert" : {v:"ヒルベルト", m:{"pokemon" : "トウヤ"}}
+,"kotori toyomi" : {v:"豊見コトリ"}
 ,"mahira" : {v:"マキラ"}
+,"mao arimura" : {v:"有村麻央"}
+,"matsuwa" : {v:"松輪"}
 ,"michishio" : {v:"満潮(IJN Michishio)"}
 ,"milky rose" : {v:"美々野くるみ(ミルキィローズ)"}
 ,"niyon" : {v:"ニオ"}
-,"penny" : {v:"ペニー", m:{"pokemon" : "ボタン"}}
 ,"tsurugi kensaki" : {v:"剣先ツルギ"}
 ,"camieux" : {v:"クムユ"}
-,"chen hai" : {v:"鎮海", m:{"azur lane" : "鎮海(ROC Chen Hai)"}}
 ,"chimata tenkyuu" : {v:"天弓千亦"}
-,"courtney" : {v:"コートニー", m:{"pokemon" : "カガリ"}}
-,"cure spicy" : {v:"芙羽ここね(キュアスパイシー)"}
-,"green heart" : {v:"グリーンハート(ベール)"}
-,"hilbert" : {v:"ヒルベルト", m:{"pokemon" : "トウヤ"}}
-,"kotori toyomi" : {v:"豊見コトリ"}
 ,"chitose kurosaki" : {v:"黒埼ちとせ"}
 ,"cure felice" : {v:"花海ことは(キュアフェリーチェ)"}
-,"hanae asagao" : {v:"朝顔ハナエ"}
+,"cure lillian" : {v:"猫屋敷まゆ(キュアリリアン)"}
+,"green heart" : {v:"グリーンハート(ベール)"}
+,"tsushima" : {v:"対馬"}
+,"airi kurimura" : {v:"栗村アイリ"}
+,"cure butterfly" : {v:"聖あげは(キュアバタフライ)"}
 ,"hyuuga" : {v:"日向", m:{"azur lane" : "日向(IJN Hyūga)"}}
-,"kaho kuwakami" : {v:"桑上カホ"}
 ,"kazuto hongou" : {v:"北郷一刀"}
 ,"megu shimokura" : {v:"下倉メグ"}
+,"mizuki kawashima" : {v:"川島瑞樹"}
+,"pegasus seiya" : {v:"ペガサス星矢"}
+,"reika kitakami" : {v:"北上麗花"}
 ,"sarah" : {v:"サラ", m:{"pokemon" : "スイ"}}
 ,"zeraora" : {v:"ゼラオラ"}
-,"anby demara" : {v:"アンビー・デマラ"}
+,"black heart" : {v:"ブラックハート(ノワール)"}
 ,"guild girl" : {v:"受付嬢"}
 ,"haruna saotome" : {v:"早乙女ハルナ"}
 ,"hatsuyuki" : {v:"初雪"}
-,"hecatia lapislazuli" : {v:"ヘカーティア・ラピスラズリ"}
-,"matsuwa" : {v:"松輪"}
-,"pegasus seiya" : {v:"ペガサス星矢"}
 ,"professor kukui" : {v:"ククイ博士"}
-,"reika kitakami" : {v:"北上麗花"}
 ,"shinki" : {v:"神綺"}
 ,"allister" : {v:"アリスター", m:{"genshin impact" : "主人公(炎)", "pokemon" : "オニオン"}}
-,"black heart" : {v:"ブラックハート(ノワール)"}
-,"cure butterfly" : {v:"聖あげは(キュアバタフライ)"}
+,"hotaru shiragiku" : {v:"白菊ほたる"}
 ,"kisume" : {v:"キスメ"}
-,"mizuki kawashima" : {v:"川島瑞樹"}
-,"tsushima" : {v:"対馬"}
+,"michiru chidori" : {v:"千鳥ミチル"}
+,"mikoto aketa" : {v:"緋田美琴"}
+,"okina matara" : {v:"摩多羅隠岐奈"}
+,"tamao suzumi" : {v:"涼水玉青"}
+,"tsukuyo oono" : {v:"大野ツクヨ"}
+,"altina orion" : {v:"アルティナ・オライオン"}
 ,"arisa ayase" : {v:"絢瀬亜里沙"}
-,"cure lillian" : {v:"猫屋敷まゆ(キュアリリアン)"}
+,"bonnie" : {v:"ボニー", m:{"pokemon" : "ユリーカ"}}
+,"cure bloom" : {v:"日向咲(キュアブルーム)"}
 ,"gentoku ryuubi" : {v:"桃香(劉備 玄徳)"}
 ,"hayasui" : {v:"速吸"}
-,"hotaru shiragiku" : {v:"白菊ほたる"}
 ,"junyou" : {v:"隼鷹", m:{"azur lane" : "隼鷹(IJN Jun'yō)"}}
+,"karen shinomiya" : {v:"篠宮可憐"}
 ,"lyrica prismriver" : {v:"リリカ・プリズムリバー"}
 ,"makigumo" : {v:"巻雲"}
 ,"meiling li" : {v:"李苺鈴"}
-,"okina matara" : {v:"摩多羅隠岐奈"}
-,"altina orion" : {v:"アルティナ・オライオン"}
-,"cure bloom" : {v:"日向咲(キュアブルーム)"}
-,"kuma" : {v:"球磨", m:{"persona 4" : "クマ", "tekken" : "クマ"}}
-,"michiru chidori" : {v:"千鳥ミチル"}
+,"mogador" : {v:"モガドール", m:{"kantai collection" : "Mogador(モガドール)", "azur lane" : "モガドール(MNF Mogador)"}}
 ,"prier" : {v:"プリエ"}
-,"shiryuu chouun" : {v:"星(趙雲 子龍)"}
-,"snivy" : {v:"ツタージャ"}
 ,"tamaki ogami" : {v:"大神環"}
-,"tamao suzumi" : {v:"涼水玉青"}
-,"tsukuyo oono" : {v:"大野ツクヨ"}
-,"airi kurimura" : {v:"栗村アイリ"}
-,"bonnie" : {v:"ボニー", m:{"pokemon" : "ユリーカ"}}
-,"karen shinomiya" : {v:"篠宮可憐"}
+,"fumizuki" : {v:"文月", m:{"azur lane" : "文月(IJN Fumizuki)"}}
+,"klara" : {v:"クララ"}
+,"kuma" : {v:"球磨", m:{"persona 4" : "クマ", "tekken" : "クマ"}}
+,"shiryuu chouun" : {v:"星(趙雲 子龍)"}
+,"zebstrika" : {v:"ゼブライカ"}
+,"kutaka niwatari" : {v:"庭渡久侘歌"}
+,"lily" : {v:"リリィ", m:{"animal crossing" : "レイニー"}}
 ,"lugia" : {v:"ルギア"}
 ,"matsuri tokugawa" : {v:"徳川まつり"}
-,"mikoto aketa" : {v:"緋田美琴"}
-,"mogador" : {v:"モガドール", m:{"kantai collection" : "Mogador(モガドール)", "azur lane" : "モガドール(MNF Mogador)"}}
 ,"ping hai" : {v:"平海", m:{"azur lane" : "平海(ROC Ping Hai)"}}
-,"richelieu" : {v:"リシュリュー", m:{"kantai collection" : "Richelieu(リシュリュー)", "azur lane" : "リシュリュー(FFNF Richelieu)"}}
+,"snivy" : {v:"ツタージャ"}
+,"acerola" : {v:"アセロラ"}
 ,"akari kazemiya" : {v:"風宮あかり"}
 ,"ako izumi" : {v:"和泉亜子"}
+,"august von parseval" : {v:"アウグスト・フォン・パーセヴァル", m:{"azur lane" : "アウグスト・フォン・パーセヴァル(KMS August von Parseval)"}}
+,"cure whip" : {v:"宇佐美いちか(キュアホイップ)"}
 ,"deutschland" : {v:"ドイッチュラント", m:{"azur lane" : "ドイッチュラント(KMS Deutschland)"}}
 ,"elizabeth" : {v:"エリザベス"}
 ,"hare omagari" : {v:"小鈎ハレ"}
-,"kutaka niwatari" : {v:"庭渡久侘歌"}
-,"lily" : {v:"リリィ", m:{"animal crossing" : "レイニー"}}
+,"i-13" : {v:"伊13(IJN I13)"}
+,"koito fukumaru" : {v:"福丸小糸"}
 ,"lucas" : {v:"ルーカス", m:{"pokemon" : "コウキ", "re zero kara hajimeru isekai seikatsu" : "リュカ"}}
 ,"nichika nanakusa" : {v:"七草にちか"}
-,"acerola" : {v:"アセロラ"}
-,"chiyoda" : {v:"千代田", m:{"azur lane" : "千代田(IJN Chiyoda)", "oshiro project" : "千代田城"}}
-,"cure whip" : {v:"宇佐美いちか(キュアホイップ)"}
-,"i-13" : {v:"伊13(IJN I13)"}
-,"kana yabuki" : {v:"矢吹可奈"}
-,"koito fukumaru" : {v:"福丸小糸"}
-,"littorio" : {v:"リットリオ", m:{"kantai collection" : "Littorio(リットリオ)", "azur lane" : "リットリオ(RN Littorio)"}}
-,"mao arimura" : {v:"有村麻央"}
-,"umikaze" : {v:"海風", m:{"azur lane" : "海風(IJN Umikaze)"}}
-,"z46" : {v:"Z46(KMS Z46)"}
-,"august von parseval" : {v:"アウグスト・フォン・パーセヴァル", m:{"azur lane" : "アウグスト・フォン・パーセヴァル(KMS August von Parseval)"}}
-,"horizon ariadust" : {v:"ホライゾン・アリアダスト"}
-,"misuzu hataya" : {v:"秦谷美鈴"}
-,"pamiat merkuria" : {v:"パーミャチ・メルクーリヤ", m:{"azur lane" : "パーミャチ・メルクーリヤ(SN Pamiat Merkuria)"}}
+,"niko" : {v:"ニコ"}
+,"queen elizabeth" : {v:"クイーン・エリザベス", m:{"azur lane" : "クイーン・エリザベス(HMS Queen Elizabeth)"}}
 ,"rei shijo" : {v:"士条怜"}
+,"richelieu" : {v:"リシュリュー", m:{"kantai collection" : "Richelieu(リシュリュー)", "azur lane" : "リシュリュー(FFNF Richelieu)"}}
 ,"shouhou" : {v:"祥鳳", m:{"azur lane" : "祥鳳(IJN Shōhō)"}}
+,"z46" : {v:"Z46(KMS Z46)"}
+,"chiyoda" : {v:"千代田", m:{"azur lane" : "千代田(IJN Chiyoda)", "oshiro project" : "千代田城"}}
+,"kana yabuki" : {v:"矢吹可奈"}
+,"kaori" : {v:"カオリ", m:{"azumanga daioh" : "かおりん", "super real mahjong" : "香織", "persona 2" : "香", "generation of chaos" : "香莉"}}
+,"littorio" : {v:"リットリオ", m:{"kantai collection" : "Littorio(リットリオ)", "azur lane" : "リットリオ(RN Littorio)"}}
+,"umikaze" : {v:"海風", m:{"azur lane" : "海風(IJN Umikaze)"}}
+,"victor" : {v:"ヴィクトル", m:{"pokemon" : "マサル"}}
 ,"whitney" : {v:"ホイットニー", m:{"pokemon" : "アカネ", "animal crossing" : "ビアンカ"}}
+,"azuma" : {v:"吾妻(IJN Azuma)"}
+,"horizon ariadust" : {v:"ホライゾン・アリアダスト"}
+,"lilja katsuragi" : {v:"葛城リーリヤ"}
+,"pamiat merkuria" : {v:"パーミャチ・メルクーリヤ", m:{"azur lane" : "パーミャチ・メルクーリヤ(SN Pamiat Merkuria)"}}
 ,"yuko hori" : {v:"堀裕子"}
 ,"admiral graf spee" : {v:"アドミラル・グラーフ・シュペー", m:{"azur lane" : "アドミラル・グラーフ・シュペー(KMS Admiral Graf Spee)"}}
+,"akira kiyosumi" : {v:"清澄アキラ"}
 ,"chika yokoyama" : {v:"横山千佳"}
-,"goodra" : {v:"ヌメルゴン"}
-,"kasumi kinugawa" : {v:"鬼怒川カスミ"}
-,"klara" : {v:"クララ"}
-,"phoebe" : {v:"フィービー", m:{"pokemon" : "フヨウ", "granblue fantasy" : "ヴェトル"}}
-,"prince of wales" : {v:"プリンス・オブ・ウェールズ", m:{"azur lane" : "プリンス・オブ・ウェールズ(HMS Prince of Wales)"}}
-,"queen elizabeth" : {v:"クイーン・エリザベス", m:{"azur lane" : "クイーン・エリザベス(HMS Queen Elizabeth)"}}
-,"vanilla h" : {v:"ヴァニラ・H"}
-,"victor" : {v:"ヴィクトル", m:{"pokemon" : "マサル"}}
-,"ajax" : {v:"エイジャックス", m:{"azur lane" : "エイジャックス(HMS Ajax)"}}
 ,"cure egret" : {v:"美翔舞(キュアイーグレット)"}
-,"cure fontaine" : {v:"沢泉ちゆ(キュアフォンテーヌ)"}
-,"friedrich der grosse" : {v:"フリードリヒ・デア・グローセ", m:{"azur lane" : "フリードリヒ・デア・グローセ(KMS Friedrich der Grosse)"}}
-,"kaori" : {v:"カオリ", m:{"azumanga daioh" : "かおりん", "super real mahjong" : "香織", "persona 2" : "香", "generation of chaos" : "香莉"}}
+,"eri" : {v:"エリ", m:{"pokemon" : "ビワ"}}
+,"goodra" : {v:"ヌメルゴン"}
+,"kawakaze" : {v:"江風", m:{"azur lane" : "江風(IJN Kawakaze)"}}
 ,"kiso" : {v:"木曾"}
 ,"machoke" : {v:"ゴーリキー"}
-,"medicine melancholy" : {v:"メディスン・メランコリー"}
 ,"monika weisswind" : {v:"モニカ・ヴァイスヴィント"}
 ,"oyashio" : {v:"親潮", m:{"azur lane" : "親潮(IJN Oyashio)"}}
-,"reno" : {v:"レノ", m:{"azur lane" : "リノ(USS Reno)"}}
-,"zebstrika" : {v:"ゼブライカ"}
-,"chachamaru karakuri" : {v:"絡繰茶々丸"}
-,"chihiro fujimi" : {v:"藤見千尋"}
-,"kawakaze" : {v:"江風", m:{"azur lane" : "江風(IJN Kawakaze)"}}
-,"maki konuri" : {v:"小塗マキ"}
+,"prince of wales" : {v:"プリンス・オブ・ウェールズ", m:{"azur lane" : "プリンス・オブ・ウェールズ(HMS Prince of Wales)"}}
 ,"ranger" : {v:"レンジャー", m:{"kantai collection" : "Ranger(レンジャー)", "azur lane" : "レンジャー(USS Ranger)"}}
+,"roxanne" : {v:"ロクサーヌ", m:{"pokemon" : "ツツジ", "kyonyuu fantasy" : "ロクサーヌ・ド・デジール"}}
+,"vanilla h" : {v:"ヴァニラ・H"}
+,"yuuma toutetsu" : {v:"饕餮尤魔"}
+,"ajax" : {v:"エイジャックス", m:{"azur lane" : "エイジャックス(HMS Ajax)"}}
+,"chihiro fujimi" : {v:"藤見千尋"}
+,"cure fontaine" : {v:"沢泉ちゆ(キュアフォンテーヌ)"}
+,"ein" : {v:"アイン"}
+,"medicine melancholy" : {v:"メディスン・メランコリー"}
+,"reno" : {v:"レノ", m:{"azur lane" : "リノ(USS Reno)"}}
+,"villager" : {v:"村人"}
+,"chachamaru karakuri" : {v:"絡繰茶々丸"}
+,"freya" : {v:"フレイヤ", m:{"animal crossing" : "ツンドラ", "valkyrie profile" : "フレイア"}}
+,"friedrich der grosse" : {v:"フリードリヒ・デア・グローセ", m:{"azur lane" : "フリードリヒ・デア・グローセ(KMS Friedrich der Grosse)"}}
+,"kasumi kinugawa" : {v:"鬼怒川カスミ"}
+,"roxie" : {v:"ロキシー", m:{"pokemon" : "ホミカ"}}
 ,"sai" : {v:"サイ", m:{"koihime musou" : "祭"}}
 ,"sumomo" : {v:"スモモ"}
-,"villager" : {v:"村人"}
 ,"xp-tan" : {v:"XPたん"}
 ,"yachie kicchou" : {v:"吉弔八千慧"}
-,"yuuma toutetsu" : {v:"饕餮尤魔"}
-,"akira kiyosumi" : {v:"清澄アキラ"}
-,"azuma" : {v:"吾妻(IJN Azuma)"}
-,"cure custard" : {v:"有栖川ひまり(キュアカスタード)"}
-,"ein" : {v:"アイン"}
-,"freya" : {v:"フレイヤ", m:{"animal crossing" : "ツンドラ", "valkyrie profile" : "フレイア"}}
-,"fuuko kurasaki" : {v:"倉崎楓子(スカイ・レイカー)"}
-,"kako" : {v:"加古", m:{"azur lane" : "加古(IJN Kako)"}}
-,"koharu koga" : {v:"古賀小春"}
-,"lilja katsuragi" : {v:"葛城リーリヤ"}
-,"owari" : {v:"尾張(IJN Owari)"}
-,"roxanne" : {v:"ロクサーヌ", m:{"pokemon" : "ツツジ", "kyonyuu fantasy" : "ロクサーヌ・ド・デジール"}}
-,"roxie" : {v:"ロキシー", m:{"pokemon" : "ホミカ"}}
-,"typhlosion" : {v:"バクフーン"}
 ,"arcanine" : {v:"ウインディ"}
-,"fumizuki" : {v:"文月", m:{"azur lane" : "文月(IJN Fumizuki)"}}
-,"iris heart" : {v:"アイリスハート(プルルート)"}
+,"cure custard" : {v:"有栖川ひまり(キュアカスタード)"}
+,"fuuko kurasaki" : {v:"倉崎楓子(スカイ・レイカー)"}
 ,"jasmine" : {v:"ジャスミン", m:{"pokemon" : "ミカン"}}
-,"miyoi okunoda" : {v:"奥野田美宵"}
+,"kako" : {v:"加古", m:{"azur lane" : "加古(IJN Kako)"}}
+,"kei shirogane" : {v:"白銀圭"}
+,"koharu koga" : {v:"古賀小春"}
+,"lacey" : {v:"タロ"}
 ,"noriko fukuda" : {v:"福田のり子"}
+,"owari" : {v:"尾張(IJN Owari)"}
+,"typhlosion" : {v:"バクフーン"}
+,"cure nyammy" : {v:"猫屋敷ユキ(キュアニャミー)"}
+,"iris heart" : {v:"アイリスハート(プルルート)"}
+,"johnston" : {v:"ジョンストン", m:{"kantai collection" : "Johnston(ジョンストン)"}}
+,"mimori mizuha" : {v:"水羽ミモリ"}
+,"miyoi okunoda" : {v:"奥野田美宵"}
 ,"tweyen" : {v:"ソーン"}
 ,"vampire" : {v:"ヴァンパイア", m:{"azur lane" : "ヴァンパイア(HMS Vampire)", "etrian odyssey" : "闇の眷属"}}
 ,"aki yamato" : {v:"大和亜季"}
-,"johnston" : {v:"ジョンストン", m:{"kantai collection" : "Johnston(ジョンストン)"}}
-,"kei shirogane" : {v:"白銀圭"}
-,"kinugasa" : {v:"衣笠", m:{"azur lane" : "衣笠(IJN Kinugasa)"}}
-,"mimori mizuha" : {v:"水羽ミモリ"}
-,"niko" : {v:"ニコ"}
-,"seika ijichi" : {v:"伊地知星歌"}
+,"akiha ikebukuro" : {v:"池袋晶葉"}
 ,"albion" : {v:"アルビオン", m:{"azur lane" : "アルビオン(HMS Albion)"}}
 ,"benben tsukumo" : {v:"九十九弁々"}
-,"hajime fujiwara" : {v:"藤原肇"}
 ,"hiyori harusaki" : {v:"春咲ひより"}
+,"kinugasa" : {v:"衣笠", m:{"azur lane" : "衣笠(IJN Kinugasa)"}}
+,"seika ijichi" : {v:"伊地知星歌"}
 ,"shiratsuyu" : {v:"白露", m:{"azur lane" : "白露(IJN Shiratsuyu)"}}
-,"akiha ikebukuro" : {v:"池袋晶葉"}
-,"ethan" : {v:"イーサン", m:{"pokemon" : "ヒビキ"}}
+,"volo" : {v:"ウォロ"}
 ,"gengar" : {v:"ゲンガー"}
+,"hajime fujiwara" : {v:"藤原肇"}
+,"hood" : {v:"フッド", m:{"azur lane" : "フッド(HMS Hood)"}}
 ,"i-14" : {v:"伊14"}
+,"lyra" : {v:"ライラ", m:{"pokemon" : "コトネ"}}
+,"maki konuri" : {v:"小塗マキ"}
+,"nier" : {v:"ニーア"}
 ,"brest" : {v:"ブレスト(FFNF Brest)"}
+,"briar" : {v:"ブライア"}
+,"ethan" : {v:"イーサン", m:{"pokemon" : "ヒビキ"}}
+,"io hasekura" : {v:"支倉伊緒"}
+,"lisia" : {v:"リシア", m:{"pokemon" : "ルチア"}}
+,"morgan" : {v:"モーガン", m:{"pokemon" : "ルミタン"}}
+,"ray" : {v:"レイ", m:{"pokemon" : "コウタ"}}
+,"akari wanibuchi" : {v:"鰐渕アカリ"}
+,"ark royal" : {v:"アーク・ロイヤル", m:{"kantai collection" : "Ark Royal(アークロイヤル)", "azur lane" : "アーク・ロイヤル(HMS Ark Royal)"}}
+,"aunn komano" : {v:"高麗野あうん"}
 ,"chiyuri kurashima" : {v:"倉嶋千百合(ライム・ベル)"}
 ,"cure finale" : {v:"菓彩あまね(キュアフィナーレ)"}
-,"cure nyammy" : {v:"猫屋敷ユキ(キュアニャミー)"}
+,"cure wonderful" : {v:"犬飼こむぎ(キュアワンダフル)"}
 ,"eternity larva" : {v:"エタニティラルバ"}
+,"garchomp" : {v:"ガブリアス"}
 ,"hatakaze" : {v:"旗風", m:{"azur lane" : "旗風(IJN Hatakaze)"}}
 ,"hatsuharu" : {v:"初春", m:{"azur lane" : "初春(IJN Hatsuharu)"}}
-,"hood" : {v:"フッド", m:{"azur lane" : "フッド(HMS Hood)"}}
-,"io hasekura" : {v:"支倉伊緒"}
+,"kirino nakatsukasa" : {v:"中務キリノ"}
 ,"kurumi ohnuma" : {v:"大沼くるみ"}
-,"lisia" : {v:"リシア", m:{"pokemon" : "ルチア"}}
-,"lyra" : {v:"ライラ", m:{"pokemon" : "コトネ"}}
 ,"peter strasser" : {v:"ペーター・シュトラッサー(KMS Peter Strasser)"}
 ,"razor" : {v:"レザー", m:{"robopon" : "マーシャル", "swat kats" : "Jake Clawson(Razor)"}}
-,"ark royal" : {v:"アーク・ロイヤル", m:{"kantai collection" : "Ark Royal(アークロイヤル)", "azur lane" : "アーク・ロイヤル(HMS Ark Royal)"}}
-,"eri mizutani" : {v:"水谷絵理"}
-,"garchomp" : {v:"ガブリアス"}
-,"kirino nakatsukasa" : {v:"中務キリノ"}
-,"ku fei" : {v:"古菲"}
-,"lycanroc" : {v:"ルガルガン"}
-,"miyuki" : {v:"深雪", m:{"azur lane" : "深雪(IJN Miyuki)"}}
-,"piper wheel" : {v:"パイパー・ウィール"}
-,"professor juniper" : {v:"アララギ博士"}
-,"ray" : {v:"レイ", m:{"pokemon" : "コウタ"}}
-,"sonomi daidouji" : {v:"大道寺園美"}
-,"akira okouchi" : {v:"大河内アキラ"}
-,"cure coral" : {v:"涼村さんご(キュアコーラル)"}
-,"cure wonderful" : {v:"犬飼こむぎ(キュアワンダフル)"}
-,"lucy" : {v:"アザミ"}
-,"nier" : {v:"ニーア"}
 ,"reed" : {v:"リード", m:{"pokemon" : "ツゲ"}}
 ,"renge fuwa" : {v:"不破レンゲ"}
+,"cure friendly" : {v:"犬飼いろは(キュアフレンディ)"}
+,"eri mizutani" : {v:"水谷絵理"}
+,"ku fei" : {v:"古菲"}
+,"miyuki" : {v:"深雪", m:{"azur lane" : "深雪(IJN Miyuki)"}}
+,"pheromosa" : {v:"フェローチェ"}
+,"professor juniper" : {v:"アララギ博士"}
+,"sonomi daidouji" : {v:"大道寺園美"}
+,"akira okouchi" : {v:"大河内アキラ"}
+,"aurora" : {v:"オーロラ", m:{"azur lane" : "オーロラ(HMS Aurora)", "league of legends" : "Aurora"}}
+,"cure coral" : {v:"涼村さんご(キュアコーラル)"}
+,"fennekin" : {v:"フォッコ"}
+,"hindenburg" : {v:"ヒンデンブルク", m:{"azur lane" : "ヒンデンブルク(KMS Hindenburg)"}}
+,"lucy" : {v:"アザミ"}
+,"lycanroc" : {v:"ルガルガン"}
+,"niya amachi" : {v:"天地ニヤ"}
+,"piper wheel" : {v:"パイパー・ウィール"}
+,"shizuko kawawa" : {v:"河和シズコ"}
+,"zorua" : {v:"ゾロア"}
 ,"ai" : {v:"アイ", m:{"yu-gi-oh vrains" : "Ai", "aria" : "愛野アイ", "popotan" : "あい"}}
 ,"asashimo" : {v:"朝霜"}
-,"aunn komano" : {v:"高麗野あうん"}
 ,"buizel" : {v:"ブイゼル"}
-,"cure friendly" : {v:"犬飼いろは(キュアフレンディ)"}
+,"grace howard" : {v:"グレース・ハワード"}
 ,"grecale" : {v:"グレカーレ", m:{"kantai collection" : "Grecale(グレカーレ)"}}
-,"hindenburg" : {v:"ヒンデンブルク", m:{"azur lane" : "ヒンデンブルク(KMS Hindenburg)"}}
+,"haaselia" : {v:"ハーゼリーラ"}
 ,"maho himemiya" : {v:"姫宮真歩"}
-,"morgan" : {v:"モーガン", m:{"pokemon" : "ルミタン"}}
 ,"ooshio" : {v:"大潮(IJN Ōshio)"}
-,"pheromosa" : {v:"フェローチェ"}
 ,"sayoko takayama" : {v:"高山紗代子"}
-,"suzume amano" : {v:"天野すずめ"}
+,"sena himuro" : {v:"氷室セナ"}
 ,"tanikaze" : {v:"谷風", m:{"azur lane" : "谷風(IJN Tanikaze)"}}
 ,"yatsuhashi tsukumo" : {v:"九十九八橋"}
-,"zorua" : {v:"ゾロア"}
-,"akari wanibuchi" : {v:"鰐渕アカリ"}
-,"fennekin" : {v:"フォッコ"}
+,"drowzee" : {v:"スリープ"}
 ,"genji" : {v:"ゲンジ", m:{"overwatch" : "島田源氏"}}
-,"grace howard" : {v:"グレース・ハワード"}
-,"haaselia" : {v:"ハーゼリーラ"}
-,"jade" : {v:"ジェイド", m:{"azur lane" : "ヤーデ(KMS Jade)"}}
-,"junko akashi" : {v:"赤司ジュンコ"}
 ,"keiki haniyasushin" : {v:"埴安神袿姫"}
-,"lacey" : {v:"タロ"}
 ,"lamretta" : {v:"ラムレッダ"}
 ,"mayumi joutouguu" : {v:"杖刀偶磨弓"}
-,"sena himuro" : {v:"氷室セナ"}
-,"shizuko kawawa" : {v:"河和シズコ"}
-,"volo" : {v:"ウォロ"}
+,"miriam" : {v:"ミリアム", m:{"pokemon" : "ミモザ"}}
+,"suzume amano" : {v:"天野すずめ"}
+,"yume kuchinashi" : {v:"梔子ユメ"}
+,"abukuma" : {v:"阿武隈", m:{"azur lane" : "阿武隈(IJN Abukuma)"}}
 ,"akari tsujino" : {v:"辻野あかり"}
+,"chise waraku" : {v:"和楽チセ"}
 ,"chizuru nikaido" : {v:"二階堂千鶴"}
 ,"hatsukaze" : {v:"初風"}
+,"jade" : {v:"ジェイド", m:{"azur lane" : "ヤーデ(KMS Jade)"}}
+,"junko akashi" : {v:"赤司ジュンコ"}
+,"latias" : {v:"ラティアス"}
 ,"matsu" : {v:"松", m:{"dungeon meshi" : "マツ(ベニチドリ)", "sengoku basara" : "まつ"}}
 ,"natural harmonia gropius" : {v:"ナチュラル・ハルモニア・グロピウス(N)"}
 ,"satono nishida" : {v:"爾子田里乃"}
 ,"yukari tanizaki" : {v:"谷崎ゆかり"}
 ,"yumeko sakurai" : {v:"桜井夢子"}
-,"abukuma" : {v:"阿武隈", m:{"azur lane" : "阿武隈(IJN Abukuma)"}}
-,"aurora" : {v:"オーロラ", m:{"azur lane" : "オーロラ(HMS Aurora)", "league of legends" : "Aurora"}}
-,"drowzee" : {v:"スリープ"}
-,"harukaze" : {v:"春風"}
 ,"isonami" : {v:"磯波"}
-,"latias" : {v:"ラティアス"}
+,"mina" : {v:"ミナ", m:{"pokemon" : "マツリカ", "granblue fantasy" : "マイム", "samurai spirits" : "真鏡名ミナ", "rage of bahamut" : "マイム"}}
+,"minamo kurosawa" : {v:"黒沢みなも"}
 ,"narumi yatadera" : {v:"矢田寺成美"}
 ,"toraichi tamiya" : {v:"田宮寅一"}
 ,"yuu ishigami" : {v:"石上優"}
-,"chise waraku" : {v:"和楽チセ"}
+,"conte di cavour" : {v:"コンテ・ディ・カブール", m:{"kantai collection" : "Conte di Cavour(カブール)", "azur lane" : "コンテ・ディ・カブール(RN Conte di Cavour)"}}
 ,"cure sparkle" : {v:"平光ひなた(キュアスパークル)"}
+,"cure wing" : {v:"夕凪ツバサ(キュアウィング)"}
+,"harukaze" : {v:"春風"}
 ,"ise" : {v:"伊勢(IJN Ise)"}
 ,"kaede nagase" : {v:"長瀬楓"}
+,"maikaze" : {v:"舞風"}
 ,"maruyu" : {v:"まるゆ"}
 ,"megumi morisato" : {v:"森里恵"}
-,"mina" : {v:"ミナ", m:{"pokemon" : "マツリカ", "granblue fantasy" : "マイム", "samurai spirits" : "真鏡名ミナ", "rage of bahamut" : "マイム"}}
-,"minamo kurosawa" : {v:"黒沢みなも"}
-,"niya amachi" : {v:"天地ニヤ"}
-,"viola" : {v:"ビオラ"}
+,"takano morisato" : {v:"森里鷹乃"}
 ,"yoshiyuki terada" : {v:"寺田良幸"}
 ,"atsumi munakata" : {v:"棟方愛海"}
-,"briar" : {v:"ブライア"}
 ,"china kuramoto" : {v:"倉本千奈"}
-,"conte di cavour" : {v:"コンテ・ディ・カブール", m:{"kantai collection" : "Conte di Cavour(カブール)", "azur lane" : "コンテ・ディ・カブール(RN Conte di Cavour)"}}
-,"cure wing" : {v:"夕凪ツバサ(キュアウィング)"}
+,"guzma" : {v:"グズマ"}
 ,"hikozaemon otaki" : {v:"大滝彦左衛門"}
+,"jervis" : {v:"ジャーヴィス", m:{"kantai collection" : "Jervis(ジャーヴィス)", "azur lane" : "ジャーヴィス(HMS Jervis)"}}
 ,"kerberos" : {v:"ケルベロス"}
-,"maikaze" : {v:"舞風"}
 ,"papi" : {v:"パピ", m:{"animal crossing" : "オカッピ"}}
 ,"rino inosaki" : {v:"衣之咲璃乃"}
+,"saki kurokoma" : {v:"驪駒早鬼"}
+,"viola" : {v:"ビオラ"}
 ,"zinnia" : {v:"ジニア", m:{"pokemon" : "ヒガナ"}}
 ,"akitsushima" : {v:"秋津洲"}
+,"cidala" : {v:"シンダラ"}
 ,"cure parfait" : {v:"キラ星シエル(キュアパルフェ)"}
 ,"floatzel" : {v:"フローゼル"}
-,"guzma" : {v:"グズマ"}
 ,"kiawe" : {v:"カキ"}
+,"rika" : {v:"リカ", m:{"pokemon" : "チリ"}}
 ,"roma" : {v:"ローマ", m:{"kantai collection" : "Roma(ローマ)", "azur lane" : "ローマ(RN Rome)"}}
-,"takano morisato" : {v:"森里鷹乃"}
+,"sagiri" : {v:"狭霧"}
 ,"tokiko zaizen" : {v:"財前時子"}
-,"cidala" : {v:"シンダラ"}
 ,"cygnet" : {v:"シグニット", m:{"azur lane" : "シグニット(HMS Cygnet)"}}
 ,"gin tachibana" : {v:"立花・誾"}
+,"hijiri mochizuki" : {v:"望月聖"}
 ,"mana tatsumiya" : {v:"龍宮真名"}
+,"miyako izumo" : {v:"出雲宮子"}
 ,"nagara" : {v:"長良", m:{"azur lane" : "長良(IJN Nagara)"}}
 ,"natori" : {v:"名取", m:{"azur lane" : "名取(IJN Natori)"}}
-,"sagiri" : {v:"狭霧"}
-,"saki kurokoma" : {v:"驪駒早鬼"}
+,"bulbasaur" : {v:"フシギダネ"}
 ,"eve santaclaus" : {v:"イヴ・サンタクロース"}
+,"hop" : {v:"ホップ"}
 ,"ikoma" : {v:"生駒"}
-,"jervis" : {v:"ジャーヴィス", m:{"kantai collection" : "Jervis(ジャーヴィス)", "azur lane" : "ジャーヴィス(HMS Jervis)"}}
+,"intrepid" : {v:"イントレピッド", m:{"kantai collection" : "Intrepid(イントレピッド)", "azur lane" : "イントレピッド(USS Intrepid)"}}
 ,"julia" : {v:"ジュリア", m:{"pokemon" : "フミコ"}}
 ,"kaori kyan" : {v:"喜屋武香織"}
 ,"kinu" : {v:"キヌ", m:{"kantai collection" : "鬼怒", "azur lane" : "鬼怒(IJN Kinu)"}}
 ,"luxray" : {v:"レントラー"}
 ,"mawile" : {v:"クチート"}
-,"miyako izumo" : {v:"出雲宮子"}
 ,"mizuho" : {v:"瑞穂"}
+,"mudsdale" : {v:"バンバドロ"}
 ,"pa-san" : {v:"PAさん"}
 ,"sora hasegawa" : {v:"長谷川空"}
+,"unzen" : {v:"雲仙", m:{"azur lane" : "雲仙(IJN Unzen)"}}
+,"vittorio veneto" : {v:"ヴィットリオ・ヴェネト", m:{"azur lane" : "ヴィットリオ・ヴェネト(RN Vittorio Veneto)"}}
 ,"achilles" : {v:"アキリーズ", m:{"azur lane" : "アキリーズ(HMS Achilles)"}}
 ,"admiral hipper" : {v:"アドミラル・ヒッパー", m:{"azur lane" : "アドミラル・ヒッパー(KMS Admiral Hipper)"}}
 ,"ayame hamaguchi" : {v:"浜口あやめ"}
 ,"ayame yomogawa" : {v:"四方川菖蒲"}
-,"bulbasaur" : {v:"フシギダネ"}
 ,"cure flamingo" : {v:"滝沢あすか(キュアフラミンゴ)"}
 ,"honey" : {v:"ハニー", m:{"pokemon" : "ミツバ"}}
-,"hop" : {v:"ホップ"}
-,"intrepid" : {v:"イントレピッド", m:{"kantai collection" : "Intrepid(イントレピッド)", "azur lane" : "イントレピッド(USS Intrepid)"}}
-,"luca ikaruga" : {v:"斑鳩ルカ"}
+,"izumi ohishi" : {v:"大石泉"}
+,"katy" : {v:"カティ", m:{"pokemon" : "カエデ"}}
+,"majin buu" : {v:"魔人ブウ"}
 ,"manami kiba" : {v:"木場真奈美"}
-,"miriam" : {v:"ミリアム", m:{"pokemon" : "ミモザ"}}
+,"mienshao" : {v:"コジョンド"}
 ,"nanami asari" : {v:"浅利七海"}
 ,"perth" : {v:"パース", m:{"kantai collection" : "Perth(パース)"}}
 ,"sims" : {v:"シムス(USS Sims)"}
-,"vittorio veneto" : {v:"ヴィットリオ・ヴェネト", m:{"azur lane" : "ヴィットリオ・ヴェネト(RN Vittorio Veneto)"}}
 ,"caitlin" : {v:"ケイトリン", m:{"pokemon" : "カトレア"}}
 ,"emboar" : {v:"エンブオー"}
 ,"hamanami" : {v:"浜波"}
-,"hijiri mochizuki" : {v:"望月聖"}
-,"katy" : {v:"カティ", m:{"pokemon" : "カエデ"}}
+,"jingei" : {v:"迅鯨"}
 ,"kotoka saionji" : {v:"西園寺琴歌"}
+,"luca ikaruga" : {v:"斑鳩ルカ"}
 ,"madoka kugimiya" : {v:"釘宮円"}
-,"makoto hanuma" : {v:"羽沼マコト"}
-,"mienshao" : {v:"コジョンド"}
 ,"misato aikawa" : {v:"愛川美里"}
 ,"nemuno sakata" : {v:"坂田ネムノ"}
 ,"north carolina" : {v:"ノースカロライナ", m:{"azur lane" : "ノースカロライナ(USS North Carolina)"}}
 ,"okinami" : {v:"沖波"}
 ,"suzukaze" : {v:"涼風"}
+,"takane miyoshi" : {v:"三善タカネ"}
 ,"candice" : {v:"キャンディス", m:{"pokemon" : "スズナ"}}
 ,"cure yum-yum" : {v:"華満らん(キュアヤムヤム)"}
-,"eri" : {v:"エリ", m:{"pokemon" : "ビワ"}}
-,"gambier bay" : {v:"ガンビア・ベイ", m:{"kantai collection" : "Gambier Bay(ガンビア・ベイ)"}}
 ,"hakuryuu" : {v:"白龍", m:{"azur lane" : "白龍(IJN Hakuryu)"}}
-,"izumi ohishi" : {v:"大石泉"}
-,"jingei" : {v:"迅鯨"}
 ,"juno" : {v:"ジュノー", m:{"azur lane" : "ジュノー(HMS Juno)", "overwatch" : "ジュノ", "fire emblem the binding blade" : "ユーノ", "beastars" : "ジュノ"}}
+,"makoto hanuma" : {v:"羽沼マコト"}
 ,"mikasa" : {v:"三笠", m:{"azur lane" : "三笠(IJN Mikasa)"}}
+,"noriko shiina" : {v:"椎名法子"}
+,"professor oak" : {v:"オーキド博士"}
 ,"ryuuhou" : {v:"龍鳳", m:{"azur lane" : "龍鳳(IJN Ryūhō)"}}
-,"yume kuchinashi" : {v:"梔子ユメ"}
+,"von lycaon" : {v:"フォン・ライカン"}
+,"yuzu kitami" : {v:"喜多見柚"}
+,"gambier bay" : {v:"ガンビア・ベイ", m:{"kantai collection" : "Gambier Bay(ガンビア・ベイ)"}}
 ,"hau" : {v:"ハウ"}
 ,"maestrale" : {v:"マエストラーレ", m:{"kantai collection" : "Maestrale(マエストラーレ)", "azur lane" : "マエストラーレ(RN Maestrale)"}}
 ,"melleau" : {v:"メルゥ"}
-,"mudsdale" : {v:"バンバドロ"}
-,"noriko shiina" : {v:"椎名法子"}
 ,"nowaki" : {v:"野分", m:{"azur lane" : "野分(IJN Nowaki)"}}
 ,"prinz heinrich" : {v:"プリンツ・ハインリヒ", m:{"azur lane" : "プリンツ・ハインリヒ(KMS Prinz Heinrich)"}}
-,"professor oak" : {v:"オーキド博士"}
 ,"ralts" : {v:"ラルトス"}
+,"sado" : {v:"佐渡"}
 ,"sarina matsumoto" : {v:"松本沙理奈"}
 ,"silver" : {v:"シルバー"}
-,"unzen" : {v:"雲仙", m:{"azur lane" : "雲仙(IJN Unzen)"}}
-,"yuzu kitami" : {v:"喜多見柚"}
 ,"arisa matsuda" : {v:"松田亜利沙"}
 ,"charlotte dizoard" : {v:"シャルロット・イゾアール"}
 ,"diantha" : {v:"カルネ"}
@@ -25915,281 +25976,280 @@ var chars_ejdic = {
 ,"izumi shishidou" : {v:"獅子堂イズミ"}
 ,"kishinami" : {v:"岸波"}
 ,"minazuki" : {v:"水無月", m:{"azur lane" : "水無月(IJN Minazuki)"}}
-,"rika" : {v:"リカ", m:{"pokemon" : "チリ"}}
+,"monarch" : {v:"モナーク", m:{"azur lane" : "モナーク(HMS Monarch)"}}
+,"nagusa goryou" : {v:"御稜ナグサ"}
+,"reina koseki" : {v:"小関麗奈"}
 ,"scylla" : {v:"シラ", m:{"azur lane" : "シラ(HMS Scylla)"}}
+,"soukaku" : {v:"蒼角"}
 ,"takanami" : {v:"高波"}
-,"takane miyoshi" : {v:"三善タカネ"}
 ,"weavile" : {v:"ウェービー", m:{"pokemon" : "マニューラ"}}
 ,"yori kazemiya" : {v:"風宮より"}
+,"yuka nakano" : {v:"中野有香"}
 ,"ai hidaka" : {v:"日高愛"}
 ,"chizuru naba" : {v:"那波千鶴"}
 ,"chuubou sonken" : {v:"蓮華(孫権 仲謀)"}
-,"drum" : {v:"ドラム", m:{"kantai collection" : "Drum(ドラム)"}}
+,"dendra" : {v:"デンドラ", m:{"pokemon" : "キハダ"}}
 ,"ekitoku chouhi" : {v:"鈴々(張飛 翼徳)"}
 ,"eriol hiiragizawa" : {v:"柊沢エリオル"}
 ,"jack" : {v:"ジャック", m:{"pokemon" : "カネコウジ"}}
 ,"kazagumo" : {v:"風雲", m:{"azur lane" : "風雲(IJN Kazagumo)"}}
-,"majin buu" : {v:"魔人ブウ"}
 ,"malga naruze" : {v:"マルガ・ナルゼ"}
 ,"margot knight" : {v:"マルゴット・ナイト"}
 ,"mikuma" : {v:"三隈", m:{"azur lane" : "三隈(IJN Mikuma)"}}
-,"monarch" : {v:"モナーク", m:{"azur lane" : "モナーク(HMS Monarch)"}}
 ,"natsuki kimura" : {v:"木村夏樹"}
-,"reina koseki" : {v:"小関麗奈"}
-,"sado" : {v:"佐渡"}
-,"soukaku" : {v:"蒼角"}
+,"shauntal" : {v:"シキミ"}
+,"sumika shiun" : {v:"紫雲清夏"}
 ,"suzu mukai" : {v:"向井・鈴"}
 ,"vyrn" : {v:"ビィ"}
-,"yuka nakano" : {v:"中野有香"}
 ,"zahlhamelina" : {v:"ザルハメリナ"}
 ,"akino toudou" : {v:"藤堂秋乃"}
-,"dendra" : {v:"デンドラ", m:{"pokemon" : "キハダ"}}
+,"clemont" : {v:"クレモント", m:{"pokemon" : "シトロン"}}
+,"corin wickes" : {v:"カリン・ウィクス"}
+,"drum" : {v:"ドラム", m:{"kantai collection" : "Drum(ドラム)"}}
 ,"fujitaka kinomoto" : {v:"木之本藤隆"}
 ,"gangut" : {v:"ガングート", m:{"kantai collection" : "Гангут(ガングート)", "azur lane" : "ガングート(SN Gangut)"}}
+,"gene" : {v:"ジーン", m:{"pokemon" : "ゲンゾウ"}}
 ,"hatsushimo" : {v:"初霜", m:{"azur lane" : "初霜(IJN Hatsushimo)"}}
+,"honoka ayase" : {v:"綾瀬穂乃香"}
 ,"kazumi asakura" : {v:"朝倉和美"}
 ,"korrina" : {v:"コリナ", m:{"pokemon" : "コルニ"}}
 ,"masazumi honda" : {v:"本多・正純"}
 ,"muk" : {v:"ベトベトン"}
+,"oleana" : {v:"オレアナ", m:{"pokemon" : "オリーヴ"}}
 ,"portland" : {v:"ポートランド", m:{"azur lane" : "ポートランド(USS Portland)"}}
 ,"risa kamizaki" : {v:"上崎裡沙"}
 ,"roco handa" : {v:"伴田路子(ロコ)"}
-,"shauntal" : {v:"シキミ"}
+,"tien" : {v:"エッセル"}
 ,"toshiyuki aoshima" : {v:"青嶋紀元"}
-,"von lycaon" : {v:"フォン・ライカン"}
-,"clemont" : {v:"クレモント", m:{"pokemon" : "シトロン"}}
-,"coco" : {v:"ココ", m:{"animal crossing" : "やよい"}}
-,"gene" : {v:"ジーン", m:{"pokemon" : "ゲンゾウ"}}
-,"honoka ayase" : {v:"綾瀬穂乃香"}
-,"nagusa goryou" : {v:"御稜ナグサ"}
+,"elaine" : {v:"エレイン", m:{"pokemon" : "アユミ"}}
 ,"primarina" : {v:"アシレーヌ"}
 ,"rodney" : {v:"ロドニー", m:{"kantai collection" : "Rodney(ロドニー)", "azur lane" : "ロドニー(HMS Rodney)"}}
 ,"serperior" : {v:"ジャローダ"}
 ,"south dakota" : {v:"サウスダコタ", m:{"kantai collection" : "South Dakota(サウスダコタ)", "azur lane" : "サウスダコタ(USS South Dakota)"}}
-,"tien" : {v:"エッセル"}
+,"ulrich von hutten" : {v:"ウルリッヒ・フォン・フッテン", m:{"azur lane" : "ウルリッヒ・フォン・フッテン(KMS Ulrich von Hutten)"}}
 ,"yukari ayase" : {v:"綾瀬ゆかり"}
 ,"yume narumiya" : {v:"成宮由愛"}
 ,"adele balfette" : {v:"アデーレ・バルフェット"}
 ,"ako tsuchiya" : {v:"土屋亜子"}
+,"albacore" : {v:"アルバコア", m:{"azur lane" : "アルバコア(USS Albacore)"}}
+,"anchorage" : {v:"アンカレッジ", m:{"azur lane" : "アンカレッジ(USS Anchorage)"}}
+,"chang chun" : {v:"長春", m:{"azur lane" : "長春(PRAN Chang Chun)"}}
 ,"chapayev" : {v:"チャパエフ", m:{"azur lane" : "チャパエフ(SN Chapayev)"}}
+,"coco" : {v:"ココ", m:{"animal crossing" : "やよい"}}
 ,"cucouroux" : {v:"ククル"}
-,"elaine" : {v:"エレイン", m:{"pokemon" : "アユミ"}}
+,"gardenia" : {v:"ガーデニア", m:{"pokemon" : "ナタネ"}}
+,"haruna kamijou" : {v:"上条春菜"}
 ,"hinata kinoshita" : {v:"木下ひなた"}
+,"houndoom" : {v:"ヘルガー"}
 ,"hydreigon" : {v:"サザンドラ"}
 ,"jirachi" : {v:"ジラーチ"}
 ,"mashiro shizuyama" : {v:"静山マシロ"}
 ,"mima" : {v:"魅魔"}
 ,"natsumi murakami" : {v:"村上夏美"}
-,"nodoka amami" : {v:"天見ノドカ"}
-,"oleana" : {v:"オレアナ", m:{"pokemon" : "オリーヴ"}}
+,"otogi" : {v:"オトギ"}
 ,"sakurako shiina" : {v:"椎名桜子"}
 ,"shanghai" : {v:"上海"}
 ,"solana" : {v:"ソラーナ", m:{"pokemon" : "ヒナタ"}}
-,"sumika shiun" : {v:"紫雲清夏"}
 ,"u-47" : {v:"U-47", m:{"azur lane" : "U-47(KMS U-47)"}}
-,"ulrich von hutten" : {v:"ウルリッヒ・フォン・フッテン", m:{"azur lane" : "ウルリッヒ・フォン・フッテン(KMS Ulrich von Hutten)"}}
-,"albacore" : {v:"アルバコア", m:{"azur lane" : "アルバコア(USS Albacore)"}}
 ,"ben bigger" : {v:"ベン・ビガー"}
+,"chiaki motomiya" : {v:"元宮チアキ"}
 ,"chika misumi" : {v:"三角千歌"}
 ,"chitose karasuma" : {v:"烏丸ちとせ", m:{"girlish number" : "烏丸千歳"}}
+,"cure earth" : {v:"風鈴アスミ(キュアアース)"}
 ,"flannery" : {v:"フラネリ", m:{"pokemon" : "アスナ"}}
-,"gardenia" : {v:"ガーデニア", m:{"pokemon" : "ナタネ"}}
-,"haruna kamijou" : {v:"上条春菜"}
-,"houndoom" : {v:"ヘルガー"}
+,"hatterene" : {v:"ブリムオン"}
+,"hikaru nanjo" : {v:"南条光"}
 ,"mary cochran" : {v:"メアリー・コクラン"}
 ,"maya takahashi" : {v:"高橋麻耶"}
-,"otogi" : {v:"オトギ"}
 ,"perseus" : {v:"パーシュース", m:{"azur lane" : "パーシュース(HMS Perseus)"}}
 ,"quilava" : {v:"マグマラシ"}
 ,"sayoko mishima" : {v:"三嶋沙夜子"}
 ,"uranami" : {v:"浦波", m:{"azur lane" : "浦波(IJN Uranami)"}}
+,"veyle" : {v:"ヴェイル"}
 ,"anna hiiragi" : {v:"柊杏奈"}
 ,"bachou mouki" : {v:"翠(馬超 孟起)"}
-,"chang chun" : {v:"長春", m:{"azur lane" : "長春(PRAN Chang Chun)"}}
-,"chiaki motomiya" : {v:"元宮チアキ"}
-,"corin wickes" : {v:"カリン・ウィクス"}
-,"cure earth" : {v:"風鈴アスミ(キュアアース)"}
+,"clair" : {v:"クレア", m:{"pokemon" : "イブキ"}}
 ,"cure papaya" : {v:"一之瀬みのり(キュアパパイア)"}
 ,"fang" : {v:"ファング", m:{"arknights" : "フェン", "street fighter" : "ファン", "animal crossing" : "シベリア"}}
 ,"fuyutsuki" : {v:"冬月", m:{"neon genesis evangelion" : "冬月コウゾウ"}}
-,"hatterene" : {v:"ブリムオン"}
-,"hikaru nanjo" : {v:"南条光"}
 ,"hiyou" : {v:"飛鷹", m:{"azur lane" : "飛鷹(IJN Hiyō)"}}
 ,"karin domyoji" : {v:"道明寺歌鈴"}
+,"lind" : {v:"リンド", m:{"pokemon" : "リンキ"}}
+,"nodoka amami" : {v:"天見ノドカ"}
 ,"rina fujimoto" : {v:"藤本里奈"}
 ,"russia" : {v:"ロシア"}
 ,"steenee" : {v:"アママイコ"}
-,"veyle" : {v:"ヴェイル"}
+,"yaya nanto" : {v:"南都夜々"}
 ,"akane nonohara" : {v:"野々原茜"}
-,"clair" : {v:"クレア", m:{"pokemon" : "イブキ"}}
+,"cogita" : {v:"コギト"}
 ,"dragonite" : {v:"カイリュー"}
 ,"erika hatami" : {v:"旗見エリカ"}
-,"janus" : {v:"ジェーナス", m:{"kantai collection" : "Janus(ジェーナス)", "azur lane" : "ジェーナス(HMS Janus)"}}
+,"essex" : {v:"エセックス", m:{"azur lane" : "エセックス(USS Essex)"}}
+,"kaguya urushibara" : {v:"漆原カグヤ"}
 ,"kahili" : {v:"カヒリ"}
-,"lind" : {v:"リンド", m:{"pokemon" : "リンキ"}}
 ,"luigi torelli" : {v:"ルイージ・トレッリ", m:{"kantai collection" : "Luigi Torelli(ルイージ・トレッリ)"}}
 ,"makino yagami" : {v:"八神マキノ"}
-,"mona" : {v:"ミイム"}
+,"misaki tamaizumi" : {v:"玉泉美咲"}
+,"payila" : {v:"ハイラ"}
+,"rapidash" : {v:"ギャロップ"}
+,"reika shindai" : {v:"神代玲花"}
 ,"salazzle" : {v:"エンニュート"}
-,"scorbunny" : {v:"ヒバニー"}
 ,"shinshuu maru" : {v:"神州丸"}
 ,"2k-tan" : {v:"2Kたん"}
-,"cogita" : {v:"コギト"}
+,"ampharos" : {v:"デンリュウ"}
+,"asakaze" : {v:"朝風"}
 ,"cotaro yazawa" : {v:"矢澤虎太郎"}
-,"drasna" : {v:"ドラセナ"}
 ,"grusha" : {v:"グルーシャ"}
 ,"heidi" : {v:"ハイディ", m:{"alps no shoujo heidi" : "ハイジ"}}
 ,"hugh" : {v:"ヒュウ"}
-,"kaguya urushibara" : {v:"漆原カグヤ"}
+,"janus" : {v:"ジェーナス", m:{"kantai collection" : "Janus(ジェーナス)", "azur lane" : "ジェーナス(HMS Janus)"}}
 ,"maria theresa" : {v:"マリア・テレサ"}
 ,"mei sakura" : {v:"佐倉愛衣"}
-,"misaki tamaizumi" : {v:"玉泉美咲"}
-,"raboot" : {v:"ラビフット"}
-,"rapidash" : {v:"ギャロップ"}
-,"reika shindai" : {v:"神代玲花"}
 ,"sakawa" : {v:"酒匂", m:{"azur lane" : "酒匂(IJN Sakawa)"}}
 ,"samurott" : {v:"ダイケンキ"}
+,"seth lowell" : {v:"セス・ローウェル"}
 ,"sheffy" : {v:"シェフィ"}
-,"yaya nanto" : {v:"南都夜々"}
-,"ampharos" : {v:"デンリュウ"}
-,"anchorage" : {v:"アンカレッジ", m:{"azur lane" : "アンカレッジ(USS Anchorage)"}}
+,"victorious" : {v:"ヴィクトリアス", m:{"kantai collection" : "Victorious(ヴィクトリアス)", "azur lane" : "ヴィクトリアス(HMS Victorious)"}}
+,"zekrom" : {v:"ゼクロム"}
 ,"arven" : {v:"アーベン", m:{"pokemon" : "ペパー"}}
-,"asakaze" : {v:"朝風"}
 ,"decidueye" : {v:"ジュナイパー"}
+,"dragon shiryu" : {v:"ドラゴン紫龍"}
 ,"drake" : {v:"ドレイク", m:{"pokemon" : "ゲンジ", "azur lane" : "ドレイク(HMS Drake)", "animal crossing" : "フォアグラ"}}
-,"essex" : {v:"エセックス", m:{"azur lane" : "エセックス(USS Essex)"}}
-,"evelyn" : {v:"ルスワール"}
+,"drasna" : {v:"ドラセナ"}
+,"hobby" : {v:"ホビー", m:{"azur lane" : "ホビー(USS Hobby)"}}
 ,"koraidon" : {v:"コライドン"}
 ,"kuuka tomi" : {v:"遠見空花"}
 ,"latios" : {v:"ラティオス"}
 ,"london" : {v:"ロンドン", m:{"azur lane" : "ロンドン(HMS London)"}}
+,"miranda" : {v:"ミランダ"}
+,"momoka yuragi" : {v:"由良木モモカ"}
+,"mona" : {v:"ミイム"}
 ,"newcastle" : {v:"ニューカッスル", m:{"azur lane" : "ニューカッスル(HMS Newcastle)"}}
+,"raboot" : {v:"ラビフット"}
+,"renown" : {v:"レナウン", m:{"azur lane" : "レナウン(HMS Renown)"}}
 ,"tama" : {v:"多摩", m:{"selector infected wixoss" : "タマ", "nyan koi" : "タマ"}}
 ,"tomoka wakabayashi" : {v:"若林智香"}
 ,"troubadour" : {v:"トルバドール", m:{"etrian odyssey" : "バード"}}
-,"victorious" : {v:"ヴィクトリアス", m:{"kantai collection" : "Victorious(ヴィクトリアス)", "azur lane" : "ヴィクトリアス(HMS Victorious)"}}
 ,"volga" : {v:"ヴォルガ", m:{"azur lane" : "ヴォルガ(SN Volga)"}}
-,"zekrom" : {v:"ゼクロム"}
 ,"anabel" : {v:"アナベル", m:{"pokemon" : "リラ"}}
-,"arisa mochida" : {v:"持田亜里沙"}
 ,"audino" : {v:"タブンネ"}
-,"dragon shiryu" : {v:"ドラゴン紫龍"}
+,"clarice" : {v:"クラリス"}
 ,"hild" : {v:"ヒルド"}
-,"hobby" : {v:"ホビー", m:{"azur lane" : "ホビー(USS Hobby)"}}
 ,"juri ushimaki" : {v:"牛牧ジュリ"}
 ,"kent" : {v:"ケント", m:{"azur lane" : "ケント(HMS Kent)"}}
+,"koleda belobog" : {v:"クレタ・ベロボーグ"}
 ,"lexington" : {v:"レキシントン", m:{"kantai collection" : "Lexington(レキシントン)", "azur lane" : "レキシントン(USS Lexington)"}}
 ,"lorelei" : {v:"ローレライ", m:{"pokemon" : "カンナ"}}
 ,"lurantis" : {v:"ラランテス"}
-,"momoka yuragi" : {v:"由良木モモカ"}
+,"makura" : {v:"マコラ"}
+,"mina konoe" : {v:"近衛ミナ"}
 ,"naho ebihara" : {v:"海老原菜帆"}
-,"renown" : {v:"レナウン", m:{"azur lane" : "レナウン(HMS Renown)"}}
+,"scorbunny" : {v:"ヒバニー"}
 ,"shinobu kamiki" : {v:"上喜しのぶ"}
+,"shinobu kudo" : {v:"工藤忍"}
+,"shinx" : {v:"コリンク"}
 ,"shun andromeda" : {v:"アンドロメダ瞬"}
 ,"swiftsure" : {v:"スウィフトシュア", m:{"azur lane" : "スウィフトシュア(HMS Swiftsure)"}}
 ,"takane d. goodman" : {v:"高音・D・グッドマン"}
 ,"touma amagase" : {v:"天ヶ瀬冬馬"}
 ,"tuscaloosa" : {v:"タスカルーサ", m:{"kantai collection" : "Tuscaloosa(タスカルーサ)"}}
+,"viktoriya ivanovna serebryakov" : {v:"ヴィクトーリヤ・イヴァーノヴナ・セレブリャコーフ"}
 ,"arceus" : {v:"アルセウス"}
+,"arisa mochida" : {v:"持田亜里沙"}
 ,"bond forger" : {v:"ボンド・フォージャー"}
+,"cheryl" : {v:"シェリル", m:{"pokemon" : "モミ"}}
+,"chiyari tenkajin" : {v:"天火人ちやり"}
 ,"cure majesty" : {v:"プリンセス・エル(キュアマジェスティ)"}
 ,"drayton" : {v:"カキツバタ"}
+,"feraligatr" : {v:"オーダイル"}
+,"flint" : {v:"フリント", m:{"pokemon" : "オーバ"}}
 ,"futari gotou" : {v:"後藤ふたり"}
 ,"futayo honda" : {v:"本多・二代"}
-,"gladion" : {v:"グラジオ"}
 ,"impidimp" : {v:"ベロバー"}
 ,"indianapolis" : {v:"インディアナポリス", m:{"azur lane" : "インディアナポリス(USS Indianapolis)"}}
 ,"kray foresight" : {v:"クレイ・フォーサイト"}
 ,"meowstic" : {v:"ニャオニクス"}
-,"mina konoe" : {v:"近衛ミナ"}
-,"miranda" : {v:"ミランダ"}
 ,"misa kakizaki" : {v:"柿崎美砂"}
-,"momiji akiizumi" : {v:"秋泉モミジ"}
 ,"nagisa aoi" : {v:"蒼井渚砂"}
 ,"nagisa kashiwagi" : {v:"柏木渚"}
 ,"nidoking" : {v:"ニドキング"}
-,"payila" : {v:"ハイラ"}
-,"seth lowell" : {v:"セス・ローウェル"}
+,"raichu" : {v:"ライチュウ"}
+,"regensburg" : {v:"レーゲンスブルク", m:{"azur lane" : "レーゲンスブルク(KMS Regensburg)"}}
+,"saya yakushi" : {v:"薬子サヤ"}
 ,"shimushu" : {v:"占守"}
-,"shinobu kudo" : {v:"工藤忍"}
-,"shinx" : {v:"コリンク"}
-,"viktoriya ivanovna serebryakov" : {v:"ヴィクトーリヤ・イヴァーノヴナ・セレブリャコーフ"}
+,"sunny" : {v:"サニー", m:{"pokemon" : "ニチオ"}}
 ,"yukari ayatsuji" : {v:"絢辻縁"}
 ,"ayane hojo" : {v:"北条綾音"}
-,"chiyari tenkajin" : {v:"天火人ちやり"}
 ,"compa" : {v:"コンパちゃん"}
-,"feraligatr" : {v:"オーダイル"}
-,"flint" : {v:"フリント", m:{"pokemon" : "オーバ"}}
+,"elbe" : {v:"エルベ", m:{"azur lane" : "エルベ(KMS Elbe)"}}
+,"gladion" : {v:"グラジオ"}
 ,"hacka doll no.2" : {v:"ハッカドール2号"}
 ,"i-400" : {v:"伊400"}
 ,"if" : {v:"アイエフちゃん"}
 ,"kat" : {v:"グラビティ・キトゥン"}
-,"koleda belobog" : {v:"クレタ・ベロボーグ"}
-,"makura" : {v:"マコラ"}
+,"momiji akiizumi" : {v:"秋泉モミジ"}
 ,"moutoku sousou" : {v:"華琳(曹操 孟徳)"}
 ,"nidoqueen" : {v:"ニドクイン"}
 ,"ninetales" : {v:"キュウコン"}
-,"raichu" : {v:"ライチュウ"}
-,"saya yakushi" : {v:"薬子サヤ"}
 ,"tangrowth" : {v:"モジャンボ"}
 ,"umika satohama" : {v:"里浜ウミカ"}
 ,"yukino aihara" : {v:"相原雪乃"}
 ,"arthur" : {v:"アーサー", m:{"pokemon" : "モクオ"}}
+,"azuki momoi" : {v:"桃井あずき"}
 ,"billy the kid" : {v:"ビリー・ザ・キッド", m:{"zenless zone zero" : "ビリー・キッド"}}
 ,"cheren" : {v:"チェレン"}
-,"cheryl" : {v:"シェリル", m:{"pokemon" : "モミ"}}
-,"clarice" : {v:"クラリス"}
-,"elbe" : {v:"エルベ", m:{"azur lane" : "エルベ(KMS Elbe)"}}
+,"flygon" : {v:"フライゴン"}
 ,"fortune" : {v:"フォーチュン(HMS Fortune)"}
 ,"giratina" : {v:"ギラティナ"}
 ,"gneisenau" : {v:"グナイゼナウ", m:{"azur lane" : "グナイゼナウ(KMS Gneisenau)"}}
 ,"harper" : {v:"ハーパー", m:{"pokemon" : "ホウ"}}
+,"helena" : {v:"ヘレナ", m:{"kantai collection" : "Helena(ヘレナ)", "pokemon" : "ヒマワリ", "azur lane" : "ヘレナ(USS Helena)", "dead or alive" : "エレナ・ダグラス"}}
 ,"houston" : {v:"ヒューストン", m:{"kantai collection" : "Houston(ヒューストン)", "azur lane" : "ヒューストン(USS Houston)"}}
-,"litten" : {v:"ニャビー"}
+,"long island" : {v:"ロング・アイランド", m:{"azur lane" : "ロング・アイランド(USS Long Island)"}}
 ,"marller" : {v:"マーラー"}
 ,"nagatsuki" : {v:"長月", m:{"azur lane" : "長月(IJN Nagatsuki)"}}
 ,"palina" : {v:"パウリナ", m:{"pokemon" : "ガラナ"}}
-,"regensburg" : {v:"レーゲンスブルク", m:{"azur lane" : "レーゲンスブルク(KMS Regensburg)"}}
 ,"rosie" : {v:"ロジー", m:{"pokemon" : "ラプラ"}}
 ,"ruby moon" : {v:"ルビー・ムーン(秋月奈久留)"}
+,"saint louis" : {v:"サン・ルイ", m:{"azur lane" : "サン・ルイ(FFNF Saint-Louis)"}}
 ,"satomi sakakibara" : {v:"榊原里美"}
 ,"sprigatito" : {v:"ニャオハ"}
-,"sunny" : {v:"サニー", m:{"pokemon" : "ニチオ"}}
 ,"tamami wakiyama" : {v:"脇山珠美"}
 ,"tirpitz" : {v:"ティルピッツ", m:{"azur lane" : "ティルピッツ(KMS Tirpitz)"}}
-,"azuki momoi" : {v:"桃井あずき"}
 ,"chao lingshen" : {v:"超鈴音"}
 ,"cherino renkawa" : {v:"連河チェリノ"}
 ,"chiaki kurokawa" : {v:"黒川千秋"}
 ,"feower" : {v:"カトル"}
-,"flygon" : {v:"フライゴン"}
 ,"fuka asano" : {v:"浅野風香"}
-,"helena" : {v:"ヘレナ", m:{"kantai collection" : "Helena(ヘレナ)", "pokemon" : "ヒマワリ", "azur lane" : "ヘレナ(USS Helena)", "dead or alive" : "エレナ・ダグラス"}}
+,"hirato" : {v:"平戸"}
+,"hiromi seki" : {v:"関裕美"}
 ,"kana imai" : {v:"今井加奈"}
 ,"kikuzuki" : {v:"菊月"}
-,"long island" : {v:"ロング・アイランド", m:{"azur lane" : "ロング・アイランド(USS Long Island)"}}
+,"litten" : {v:"ニャビー"}
+,"mii" : {v:"みい"}
 ,"mimlemel" : {v:"ミムルメモル"}
-,"ruby" : {v:"ルビー", m:{"fate kaleid liner prisma illya" : "マジカルルビー", "animal crossing" : "ルナ", "rwby" : "ルビー・ローズ", "final fantasy ix" : "ルビィ", "lunar eternal blue" : "ルビィ", "unlimited saga" : "ルビィ"}}
 ,"ryo matsunaga" : {v:"松永涼"}
-,"saint louis" : {v:"サン・ルイ", m:{"azur lane" : "サン・ルイ(FFNF Saint-Louis)"}}
+,"soldier 11" : {v:"「11号」"}
 ,"takane yamashiro" : {v:"山城たかね"}
 ,"tepig" : {v:"ポカブ"}
 ,"tomoe murakami" : {v:"村上巴"}
 ,"urshifu" : {v:"ウーラオス"}
+,"washington" : {v:"ワシントン", m:{"kantai collection" : "Washington(ワシントン)", "azur lane" : "ワシントン(USS Washington)"}}
 ,"bede" : {v:"ビート"}
 ,"chizuru matsuo" : {v:"松尾千鶴"}
+,"evelyn" : {v:"ルスワール"}
 ,"firefox-tan" : {v:"ふぉくす子"}
-,"georgia" : {v:"ジョージア", m:{"pokemon" : "ラングレー", "azur lane" : "ジョージア(USS Georgia)"}}
+,"geeta" : {v:"ギータ", m:{"pokemon" : "オモダカ"}}
 ,"hachijou" : {v:"八丈"}
-,"hirato" : {v:"平戸"}
-,"hiromi seki" : {v:"関裕美"}
 ,"jean bart" : {v:"ジャン・バール", m:{"kantai collection" : "Jean Bart(ジャン・バール)", "azur lane" : "ジャン・バール(MNF Jean Bart)"}}
 ,"kimura" : {v:"木村先生"}
+,"kouchuu kanshou" : {v:"紫苑(黄忠 漢升)"}
 ,"lenora" : {v:"レノラ", m:{"pokemon" : "アロエ"}}
 ,"maryland" : {v:"メリーランド", m:{"kantai collection" : "Maryland(メリーランド)", "azur lane" : "メリーランド(USS Maryland)"}}
-,"mii" : {v:"みい"}
+,"matsukaze" : {v:"松風", m:{"azur lane" : "松風(IJN Matsukaze)"}}
 ,"obstagoon" : {v:"タチフサグマ"}
 ,"pina asahina" : {v:"朝比奈フィーナ"}
+,"ruby" : {v:"ルビー", m:{"fate kaleid liner prisma illya" : "マジカルルビー", "animal crossing" : "ルナ", "rwby" : "ルビー・ローズ", "final fantasy ix" : "ルビィ", "lunar eternal blue" : "ルビィ", "unlimited saga" : "ルビィ"}}
 ,"ruka tachiarai" : {v:"太刀洗流夏"}
 ,"shaymin" : {v:"シェイミ"}
 ,"tomo mikuma" : {v:"御久間智"}
@@ -26198,69 +26258,72 @@ var chars_ejdic = {
 ,"bayleef" : {v:"ベイリーフ"}
 ,"charmander" : {v:"ヒトカゲ"}
 ,"duke of york" : {v:"デューク・オブ・ヨーク", m:{"azur lane" : "デューク・オブ・ヨーク(HMS Duke of York)"}}
+,"georgia" : {v:"ジョージア", m:{"pokemon" : "ラングレー", "azur lane" : "ジョージア(USS Georgia)"}}
 ,"hacka doll no.1" : {v:"ハッカドール1号"}
+,"hayashio" : {v:"早潮"}
+,"hermione" : {v:"ハーマイオニー", m:{"azur lane" : "ハーマイオニー(HMS Hermione)"}}
 ,"ishigaki" : {v:"石垣"}
 ,"kazuno" : {v:"鹿角"}
 ,"kobayashi" : {v:"小林さん", m:{"knights of sidonia" : "小林"}}
-,"kouchuu kanshou" : {v:"紫苑(黄忠 漢升)"}
 ,"koumei shokatsuryou" : {v:"朱里(諸葛亮 孔明)"}
 ,"lily black" : {v:"リリーブラック"}
-,"matsukaze" : {v:"松風", m:{"azur lane" : "松風(IJN Matsukaze)"}}
 ,"norman" : {v:"ノーマン", m:{"pokemon" : "センリ"}}
 ,"raika" : {v:"ライカ"}
 ,"rumi wakui" : {v:"和久井留美"}
 ,"shinyou" : {v:"神鷹"}
 ,"tangela" : {v:"モンジャラ"}
 ,"utaha shiraishi" : {v:"白石ウタハ"}
-,"washington" : {v:"ワシントン", m:{"kantai collection" : "Washington(ワシントン)", "azur lane" : "ワシントン(USS Washington)"}}
-,"yuki nijimura" : {v:"虹村雪"}
+,"wanda" : {v:"ワンダ", m:{"pokemon" : "ミチル"}}
 ,"ai ebihara" : {v:"海老原あい", m:{"ai mai mi" : "蛯原愛"}}
+,"akemi kurihama" : {v:"栗浜アケミ"}
 ,"anya cocolova" : {v:"アンナ・ココロウァ"}
+,"aquila" : {v:"アクィラ", m:{"kantai collection" : "Aquila(アクィラ)", "azur lane" : "アクィラ(RN Aquila)"}}
 ,"aya" : {v:"亜夜", m:{"pokemon" : "アヤ", "selector infected wixoss" : "あや"}}
 ,"bruno" : {v:"ブルーノ", m:{"pokemon" : "シバ"}}
 ,"chikorita" : {v:"チコリータ"}
 ,"fraux" : {v:"フラウ"}
 ,"gloucester" : {v:"グロスター", m:{"azur lane" : "グロスター(HMS Gloucester)"}}
-,"hayashio" : {v:"早潮"}
 ,"helen" : {v:"ヘレン"}
-,"hermione" : {v:"ハーマイオニー", m:{"azur lane" : "ハーマイオニー(HMS Hermione)"}}
-,"inteleon" : {v:"インテレオン"}
 ,"joey" : {v:"ジョー", m:{"animal crossing" : "リチャード"}}
+,"kalk" : {v:"カーク", m:{"azur lane" : "カーク(USS Kalk)"}}
 ,"king george v" : {v:"キング・ジョージ5世(HMS King George V)"}
 ,"kotaro inugami" : {v:"犬上小太郎"}
 ,"kunashiri" : {v:"国後"}
 ,"lilligant" : {v:"ドレディア"}
 ,"luxio" : {v:"ルクシオ"}
+,"lyon" : {v:"リヨン", m:{"azur lane" : "リヨン(FFNF Lyon)", "suikoden v" : "リオン"}}
 ,"marguerite pistail" : {v:"マルグリット・ピステール"}
 ,"matt" : {v:"マット", m:{"pokemon" : "ウシオ"}}
 ,"mew" : {v:"ミュウ"}
+,"minori yasumori" : {v:"安守ミノリ"}
 ,"noa takamine" : {v:"高峯のあ"}
 ,"rockruff" : {v:"イワンコ"}
 ,"san diego" : {v:"サンディエゴ", m:{"azur lane" : "サンディエゴ(USS San Diego)"}}
 ,"sariel" : {v:"サリエル", m:{"touhou project" : "Sariel"}}
 ,"shaman" : {v:"シャーマン"}
-,"shangri-la" : {v:"シャングリラ", m:{"azur lane" : "シャングリラ(USS Shangri-La)"}}
+,"snorlax" : {v:"カビゴン"}
 ,"solgaleo" : {v:"ソルガレオ"}
+,"steve" : {v:"スティーブ"}
 ,"tauros" : {v:"ケンタロス"}
 ,"tora" : {v:"トラ", m:{"ushio to tora" : "とら"}}
 ,"toxtricity" : {v:"ストリンダー"}
 ,"ukuru" : {v:"鵜来"}
-,"wanda" : {v:"ワンダ", m:{"pokemon" : "ミチル"}}
-,"akemi kurihama" : {v:"栗浜アケミ"}
+,"yuki nijimura" : {v:"虹村雪"}
+,"adaman" : {v:"アダマン", m:{"pokemon" : "セキ"}}
 ,"bill" : {v:"ビル", m:{"pokemon" : "マサキ", "animal crossing" : "ピータン"}}
 ,"charmeleon" : {v:"リザード"}
 ,"ciony regis" : {v:"シオニー・レジス"}
 ,"ekans" : {v:"アーボ"}
-,"geeta" : {v:"ギータ", m:{"pokemon" : "オモダカ"}}
+,"fukae" : {v:"福江"}
 ,"gordie" : {v:"ゴーディ", m:{"pokemon" : "マクワ"}}
 ,"gothitelle" : {v:"ゴチルゼル"}
+,"hapu" : {v:"ハプウ"}
 ,"hinako kita" : {v:"喜多日菜子"}
 ,"hokuto ijuuin" : {v:"伊集院 北斗"}
 ,"indeedee" : {v:"イエッサン"}
+,"inteleon" : {v:"インテレオン"}
 ,"iron valiant" : {v:"テツノブジン"}
-,"kalk" : {v:"カーク", m:{"azur lane" : "カーク(USS Kalk)"}}
 ,"kanae itou" : {v:"伊藤香苗"}
-,"lyon" : {v:"リヨン", m:{"azur lane" : "リヨン(FFNF Lyon)", "suikoden v" : "リオン"}}
 ,"meowth" : {v:"ニャース"}
 ,"mifuyu ogami" : {v:"大神美冬"}
 ,"mikazuki" : {v:"三日月", m:{"azur lane" : "三日月(IJN Mikazuki)"}}
@@ -26268,31 +26331,32 @@ var chars_ejdic = {
 ,"miyo harada" : {v:"原田美世"}
 ,"mizuchi miyadeguchi" : {v:"宮出口瑞霊"}
 ,"nekomata" : {v:"猫又", m:{"zenless zone zero" : "猫宮又奈"}}
+,"ponyta" : {v:"ポニータ"}
 ,"poochyena" : {v:"ポチエナ"}
 ,"rain" : {v:"レイン"}
 ,"reiko takahashi" : {v:"高橋礼子"}
 ,"sabi" : {v:"ワサビ"}
 ,"sana miyoshi" : {v:"三好紗南"}
 ,"seira mizuki" : {v:"水木聖來"}
-,"snorlax" : {v:"カビゴン"}
-,"soldier 11" : {v:"「11号」"}
-,"steve" : {v:"スティーブ"}
+,"shangri-la" : {v:"シャングリラ", m:{"azur lane" : "シャングリラ(USS Shangri-La)"}}
 ,"tadakatsu honda" : {v:"本多・忠勝"}
+,"tamaki miyasaka" : {v:"宮坂たまき"}
 ,"tsareena" : {v:"アマージョ"}
 ,"tsukasa kiryu" : {v:"桐生つかさ"}
 ,"yumemi okazaki" : {v:"岡崎夢美"}
-,"adaman" : {v:"アダマン", m:{"pokemon" : "セキ"}}
 ,"alexa" : {v:"アレクサ", m:{"pokemon" : "パンジー"}}
-,"aquila" : {v:"アクィラ", m:{"kantai collection" : "Aquila(アクィラ)", "azur lane" : "アクィラ(RN Aquila)"}}
 ,"barry" : {v:"バリー", m:{"pokemon" : "ジュン"}}
 ,"batai" : {v:"蒲公英(馬岱)"}
+,"blucher" : {v:"ブリュッヒャー", m:{"azur lane" : "ブリュッヒャー(KMS Blücher)"}}
 ,"charybdis" : {v:"カリブディス", m:{"azur lane" : "カリブディス(HMS Charybdis)"}}
 ,"chespin" : {v:"ハリマロン"}
+,"david" : {v:"デイビッド", m:{"pokemon" : "ヤスユキ"}}
+,"emolga" : {v:"エモンガ"}
 ,"friedrich carl" : {v:"フリードリヒ・カール", m:{"azur lane" : "フリードリヒ・カール(KMS Friedrich Carl)"}}
 ,"hacka doll no.0" : {v:"ハッカドール0号"}
 ,"hanazuki" : {v:"花月", m:{"azur lane" : "花月(IJN Hanazuki)", "hanazuki full of treasures" : "Hanazüki"}}
-,"hapu" : {v:"ハプウ"}
 ,"hiburi" : {v:"日振"}
+,"hisami yomotsu" : {v:"豫母都日狭美"}
 ,"kai nishijima" : {v:"西島櫂"}
 ,"koga" : {v:"コガ", m:{"pokemon" : "キョウ"}}
 ,"kurusu" : {v:"来栖華", m:{"koutetsujou no kabaneri" : "来栖"}}
@@ -26309,79 +26373,82 @@ var chars_ejdic = {
 ,"ogerpon" : {v:"オーガポン"}
 ,"pichu" : {v:"ピチュー"}
 ,"plusle" : {v:"プラスル"}
-,"ponyta" : {v:"ポニータ"}
 ,"rayquaza" : {v:"レックウザ"}
 ,"spinel" : {v:"スピネル"}
 ,"sumire otohana" : {v:"乙花スミレ"}
-,"tamaki miyasaka" : {v:"宮坂たまき"}
+,"suzumi morizuki" : {v:"守月スズミ"}
 ,"tentacruel" : {v:"ドククラゲ"}
 ,"wattson" : {v:"ワトソン", m:{"pokemon" : "テッセン"}}
 ,"yao fueifuei" : {v:"楊菲菲"}
 ,"yoko saito" : {v:"斉藤洋子"}
+,"yorktown" : {v:"ヨークタウン", m:{"azur lane" : "ヨークタウン(USS Yorktown)"}}
+,"yumeko" : {v:"夢子"}
 ,"algerie" : {v:"アルジェリー", m:{"azur lane" : "アルジェリー(MNF Algérie)"}}
 ,"archie" : {v:"アーチー", m:{"pokemon" : "アオギリ"}}
 ,"arriet" : {v:"アンリエット"}
+,"asahi" : {v:"朝日", m:{"shin megami tensei" : "アサヒ"}}
 ,"asanagi" : {v:"朝凪(IJN Asanagi)"}
 ,"beagle" : {v:"ビーグル", m:{"azur lane" : "ビーグル(HMS Beagle)"}}
-,"blucher" : {v:"ブリュッヒャー", m:{"azur lane" : "ブリュッヒャー(KMS Blücher)"}}
+,"black prince" : {v:"ブラック・プリンス", m:{"azur lane" : "ブラック・プリンス(HMS Black Prince)"}}
 ,"bridgette" : {v:"ブリジット", m:{"pokemon" : "アズサ"}}
 ,"brionne" : {v:"オシャマリ"}
 ,"chesnaught" : {v:"ブリガロン"}
 ,"chougei" : {v:"長鯨"}
-,"david" : {v:"デイビッド", m:{"pokemon" : "ヤスユキ"}}
+,"dahlia" : {v:"ダリア"}
 ,"diglett" : {v:"ディグダ"}
+,"dragonair" : {v:"ハクリュー"}
 ,"drayden" : {v:"シャガ"}
 ,"dusknoir" : {v:"ヨノワール"}
-,"emolga" : {v:"エモンガ"}
 ,"froslass" : {v:"ユキメノコ"}
 ,"fuka narutaki" : {v:"鳴滝風香"}
-,"fukae" : {v:"福江"}
 ,"fumika narutaki" : {v:"鳴滝史伽"}
-,"hisami yomotsu" : {v:"豫母都日狭美"}
+,"golden hind" : {v:"ゴールデン・ハインド", m:{"azur lane" : "ゴールデン・ハインド(MOT Golden Hind)"}}
+,"haunter" : {v:"ゴースト"}
+,"johanna" : {v:"ヨハンナ", m:{"pokemon" : "アヤコ"}}
 ,"kiyora yanagi" : {v:"柳清良"}
 ,"kizuna hida" : {v:"飛弾傷無"}
+,"kronshtadt" : {v:"クロンシュタット", m:{"azur lane" : "クロンシュタット(SN Kronshtadt)"}}
 ,"leipzig" : {v:"ライプツィヒ", m:{"azur lane" : "ライプツィヒ(KMS Leipzig)"}}
 ,"makiko oriotorai" : {v:"オリオトライ・真喜子"}
 ,"mela" : {v:"メロコ"}
-,"minori yasumori" : {v:"安守ミノリ"}
+,"minneapolis" : {v:"ミネアポリス", m:{"azur lane" : "ミネアポリス(USS Minneapolis)"}}
 ,"miraidon" : {v:"ミライドン"}
+,"mr. mime" : {v:"バリヤード"}
 ,"nekane springfield" : {v:"ネカネ・スプリングフィールド"}
 ,"nenohi" : {v:"子日"}
 ,"palkia" : {v:"パルキア"}
 ,"pignite" : {v:"チャオブー"}
+,"rillaboom" : {v:"ゴリランダー"}
 ,"saki yoshioka" : {v:"吉岡沙紀"}
+,"shelly" : {v:"シェリー", m:{"pokemon" : "イズミ"}}
+,"shimiko endou" : {v:"円堂シミコ"}
 ,"shizuma hanazono" : {v:"花園静馬"}
 ,"shouta mitarai" : {v:"御手洗 翔太"}
 ,"siebold" : {v:"ズミ"}
 ,"silas" : {v:"サイラス"}
 ,"surcouf" : {v:"シュルクーフ", m:{"azur lane" : "シュルクーフ(FFNF Surcouf)"}}
-,"swampert" : {v:"ラグラージ"}
 ,"tamanami" : {v:"玉波"}
+,"tsubame amaya" : {v:"雨夜燕"}
 ,"vestal" : {v:"ヴェスタル", m:{"azur lane" : "ヴェスタル(USS Vestal)"}}
 ,"whimsicott" : {v:"エルフーン"}
-,"yorktown" : {v:"ヨークタウン", m:{"azur lane" : "ヨークタウン(USS Yorktown)"}}
-,"yumeko" : {v:"夢子"}
 ,"aina ardebit" : {v:"アイナ・アルデビット"}
 ,"arbok" : {v:"アーボック"}
-,"asahi" : {v:"朝日", m:{"shin megami tensei" : "アサヒ"}}
-,"black prince" : {v:"ブラック・プリンス", m:{"azur lane" : "ブラック・プリンス(HMS Black Prince)"}}
-,"dahlia" : {v:"ダリア"}
 ,"daitou" : {v:"大東"}
-,"dragonair" : {v:"ハクリュー"}
+,"dan" : {v:"ダン", m:{"pokemon" : "ダンペイ"}}
 ,"drapion" : {v:"ドラピオン"}
 ,"emily sevensheep" : {v:"エミリィ・セブンシープ"}
 ,"fennel" : {v:"マコモ"}
 ,"flandre" : {v:"フランドル", m:{"azur lane" : "フランドル(MNF Flandre)"}}
-,"golden hind" : {v:"ゴールデン・ハインド", m:{"azur lane" : "ゴールデン・ハインド(MOT Golden Hind)"}}
-,"haunter" : {v:"ゴースト"}
+,"floragato" : {v:"ニャローテ"}
 ,"i-203" : {v:"伊203"}
 ,"ibuki komatsu" : {v:"小松伊吹"}
+,"inagi" : {v:"稲木"}
+,"ivysaur" : {v:"フシギソウ"}
 ,"juana" : {v:"フアナ"}
 ,"juneau" : {v:"ジュノー", m:{"azur lane" : "ジュノー(USS Juneau)"}}
 ,"ken" : {v:"ケン", m:{"pokemon" : "アカバネ"}}
 ,"kohaku okuzora" : {v:"奥空心白"}
 ,"kotama otose" : {v:"音瀬コタマ"}
-,"kronshtadt" : {v:"クロンシュタット", m:{"azur lane" : "クロンシュタット(SN Kronshtadt)"}}
 ,"kurumi kuribayashi" : {v:"栗林くるみ"}
 ,"kyogre" : {v:"カイオーガ"}
 ,"lain iwakura" : {v:"岩倉玲音"}
@@ -26389,29 +26456,28 @@ var chars_ejdic = {
 ,"marshadow" : {v:"マーシャドー"}
 ,"marshal" : {v:"マーシャル", m:{"pokemon" : "レンブ", "animal crossing" : "ジュン"}}
 ,"mike" : {v:"ミケ", m:{"jinrou judgement" : "マイク"}}
-,"minneapolis" : {v:"ミネアポリス", m:{"azur lane" : "ミネアポリス(USS Minneapolis)"}}
 ,"morty" : {v:"マツバ"}
-,"mr. mime" : {v:"バリヤード"}
 ,"mugetsu" : {v:"夢月"}
 ,"odin" : {v:"オーディン", m:{"azur lane" : "オーディン(KMS Odin)"}}
 ,"oshawott" : {v:"ミジュマル"}
+,"perrin" : {v:"サザレ"}
+,"pittsburgh" : {v:"ピッツバーグ(USS Pittsburgh)"}
 ,"plumeria" : {v:"プルメリア", m:{"pokemon" : "プルメリ"}}
 ,"repulse" : {v:"レパルス", m:{"azur lane" : "レパルス(HMS Repulse)"}}
-,"rillaboom" : {v:"ゴリランダー"}
 ,"scharnhorst" : {v:"シャルンホルスト", m:{"azur lane" : "シャルンホルスト(KMS Scharnhorst)"}}
 ,"scirocco" : {v:"シロッコ", m:{"kantai collection" : "Scirocco(シロッコ)"}}
 ,"scolipede" : {v:"ペンドラー"}
 ,"seofon" : {v:"シエテ"}
-,"shelly" : {v:"シェリー", m:{"pokemon" : "イズミ"}}
 ,"shiho makihara" : {v:"槙原志保"}
 ,"sovetskaya belorussiya" : {v:"ソビエツカヤ・ベラルーシア", m:{"azur lane" : "ソビエツカヤ・ベラルーシア(SN Sovetskaya Belarusia)"}}
 ,"steven stone" : {v:"ツワブキダイゴ"}
-,"suzumi morizuki" : {v:"守月スズミ"}
+,"suzuna minami" : {v:"美波鈴奈"}
+,"swampert" : {v:"ラグラージ"}
 ,"terror" : {v:"テラー", m:{"azur lane" : "テラー(HMS Terror)"}}
 ,"toxicroak" : {v:"ドクロッグ"}
-,"tsubame amaya" : {v:"雨夜燕"}
 ,"usugumo" : {v:"薄雲"}
 ,"uxie" : {v:"ユクシー"}
+,"venus" : {v:"ヴィーナス", m:{"zenless zone zero" : "Venus"}}
 ,"virizion" : {v:"ビリジオン"}
 ,"wally" : {v:"ウォーリー", m:{"pokemon" : "ミツル"}}
 ,"yat sen" : {v:"逸仙", m:{"azur lane" : "逸仙(ROC Yat Sen)"}}
@@ -26435,34 +26501,35 @@ var chars_ejdic = {
 ,"emmet" : {v:"エメット", m:{"pokemon" : "クダリ"}}
 ,"empoleon" : {v:"エンペルト"}
 ,"erma" : {v:"エルマ"}
-,"floragato" : {v:"ニャローテ"}
 ,"gaston" : {v:"ガストン", m:{"animal crossing" : "モサキチ"}}
 ,"gengan" : {v:"桔梗(厳顔)"}
 ,"groudon" : {v:"グラードン"}
+,"guam" : {v:"グアム", m:{"azur lane" : "グアム(USS Guam)"}}
 ,"hacka doll no.4" : {v:"ハッカドール4号"}
 ,"hikari konohana" : {v:"此花光莉"}
 ,"hwah jah" : {v:"華甲(ROC Hwah Jah)"}
-,"inagi" : {v:"稲木"}
-,"ivysaur" : {v:"フシギソウ"}
-,"johanna" : {v:"ヨハンナ", m:{"pokemon" : "アヤコ"}}
 ,"jun shirogane" : {v:"白銀純"}
 ,"kaho mizuki" : {v:"観月歌帆"}
 ,"keiko tanaka" : {v:"田中恵子"}
+,"keldeo" : {v:"ケルディオ"}
 ,"kiyomi saejima" : {v:"冴島清美"}
 ,"koyori tanemura" : {v:"種村小依"}
 ,"maylene" : {v:"スモモ"}
 ,"minun" : {v:"マイナン"}
+,"misaki masaki jurai" : {v:"柾木美砂樹樹雷"}
 ,"nicholas" : {v:"ニコラス", m:{"pokemon" : "ソウスケ", "azur lane" : "ニコラス(USS Nicholas)"}}
 ,"onix" : {v:"オニキス", m:{"pokemon" : "イワーク"}}
+,"otoha umeki" : {v:"梅木音葉"}
 ,"san jacinto" : {v:"サン・ジャシント", m:{"azur lane" : "サン・ジャシント(USS San Jacinto)"}}
 ,"satomi hakase" : {v:"葉加瀬聡美"}
 ,"scamp" : {v:"スキャンプ", m:{"kantai collection" : "Scamp(スキャンプ)"}}
 ,"seydlitz" : {v:"ザイドリッツ", m:{"azur lane" : "ザイドリッツ(SMS Seydlitz)"}}
+,"shimanto" : {v:"四万十(IJN Shimanto)"}
 ,"shuuyu koukin" : {v:"冥琳(周瑜 公瑾)"}
-,"suzuna minami" : {v:"美波鈴奈"}
+,"sovetsky soyuz" : {v:"ソビエツキー・ソユーズ", m:{"azur lane" : "ソビエツキー・ソユーズ(SN Sovetsky Soyuz)"}}
 ,"ting an" : {v:"定安", m:{"azur lane" : "定安(ROC Ting An)"}}
+,"trieste" : {v:"トリエステ", m:{"azur lane" : "トリエステ(RN Trieste)"}}
 ,"tsubomi okukawa" : {v:"奥若蕾"}
-,"venus" : {v:"ヴィーナス", m:{"zenless zone zero" : "Venus"}}
 ,"wartortle" : {v:"カメール"}
 ,"yasuha okazaki" : {v:"岡崎泰葉"}
 ,"zacian" : {v:"ザシアン"}
@@ -26473,16 +26540,15 @@ var chars_ejdic = {
 ,"cilan" : {v:"デント"}
 ,"collet farandole" : {v:"コレット・ファランドール"}
 ,"cyllene" : {v:"シマボシ"}
-,"dan" : {v:"ダン", m:{"pokemon" : "ダンペイ"}}
 ,"drizzile" : {v:"ジメレオン"}
 ,"echo" : {v:"エコー", m:{"azur lane" : "エコー(HMS Echo)"}}
 ,"emden" : {v:"エムデン", m:{"azur lane" : "エムデン(SMS Emden)"}}
 ,"erebus" : {v:"エレバス", m:{"azur lane" : "エレバス(HMS Erebus)"}}
+,"fantina" : {v:"メリッサ"}
 ,"foxhound" : {v:"フォックスハウンド", m:{"azur lane" : "フォックスハウンド(HMS Foxhound)"}}
 ,"gallade" : {v:"エルレイド"}
 ,"gengetsu" : {v:"幻月"}
 ,"giuseppe garibaldi" : {v:"ジュゼッペ・ガリバルディ", m:{"kantai collection" : "G.Garibaldi(ガリバルディ)", "azur lane" : "ジュゼッペ・ガリバルディ(RN Giuseppe Garibaldi)"}}
-,"guam" : {v:"グアム", m:{"azur lane" : "グアム(USS Guam)"}}
 ,"hitomi niwa" : {v:"丹羽仁美"}
 ,"howe" : {v:"ハウ", m:{"azur lane" : "ハウ(HMS Howe)"}}
 ,"icarus" : {v:"イカルス", m:{"azur lane" : "イカルス(HMS Icarus)"}}
@@ -26490,7 +26556,6 @@ var chars_ejdic = {
 ,"infernape" : {v:"ゴウカザル"}
 ,"joel" : {v:"ジョウ"}
 ,"keika kiyotaki" : {v:"清滝桂香"}
-,"keldeo" : {v:"ケルディオ"}
 ,"machop" : {v:"ワンリキー"}
 ,"makoto takiya" : {v:"滝谷真"}
 ,"marblehead" : {v:"マーブルヘッド", m:{"azur lane" : "マーブルヘッド(USS Marblehead)"}}
@@ -26498,19 +26563,17 @@ var chars_ejdic = {
 ,"meiko namiki" : {v:"並木芽衣子"}
 ,"meru himeki" : {v:"姫木メル"}
 ,"michael" : {v:"ミカエル"}
-,"misaki masaki jurai" : {v:"柾木美砂樹樹雷"}
 ,"misora kasuga" : {v:"春日美空"}
 ,"misumaru tamatsukuri" : {v:"玉造魅須丸"}
 ,"monica" : {v:"モニカ", m:{"pokemon" : "ツキコ"}}
 ,"mutsumi ujiie" : {v:"氏家むつみ"}
 ,"myousai kakouen" : {v:"秋蘭(夏侯淵 妙才)"}
 ,"nanaka tanno" : {v:"丹野七々香"}
-,"nevada" : {v:"ネバダ", m:{"kantai collection" : "Nevada(ネヴァダ)", "azur lane" : "ネバダ(USS Nevada)"}}
 ,"noivern" : {v:"オンバーン"}
 ,"nurnberg" : {v:"ニュルンベルク", m:{"azur lane" : "ニュルンベルク(KMS Nürnberg)"}}
 ,"nuzleaf" : {v:"コノハナ"}
 ,"pancham" : {v:"ヤンチャム"}
-,"perrin" : {v:"サザレ"}
+,"pangoro" : {v:"ゴロンダ"}
 ,"professor turo" : {v:"フトゥー博士"}
 ,"purrloin" : {v:"チョロネコ"}
 ,"rena hyodo" : {v:"兵藤レナ"}
@@ -26524,14 +26587,17 @@ var chars_ejdic = {
 ,"tulip" : {v:"チューリップ", m:{"pokemon" : "リップ"}}
 ,"tyranitar" : {v:"バンギラス"}
 ,"valerie" : {v:"バレリー", m:{"pokemon" : "マーシュ"}}
+,"york" : {v:"ヨーク(HMS York)"}
+,"z20" : {v:"Z20", m:{"azur lane" : "Z20(KMS Karl Galster)"}}
+,"zanmu nippaku" : {v:"日白残無"}
 ,"akiho shinomoto" : {v:"詩之本秋穂"}
 ,"akishimo" : {v:"秋霜"}
-,"alcremie" : {v:"マホイップ"}
 ,"aoi shuto" : {v:"首藤葵"}
 ,"arfoire" : {v:"マジェコンヌ"}
 ,"ariake" : {v:"有明", m:{"azur lane" : "有明(IJN Ariake)"}}
 ,"ayumu maihama" : {v:"舞浜歩"}
 ,"blastoise" : {v:"カメックス"}
+,"blitzle" : {v:"シママ"}
 ,"chikaru minamoto" : {v:"源千華留"}
 ,"chiyuri kitashirakawa" : {v:"北白河ちゆり"}
 ,"comet" : {v:"コメット", m:{"azur lane" : "コメット(HMS Comet)"}}
@@ -26540,18 +26606,22 @@ var chars_ejdic = {
 ,"diancie" : {v:"ディアンシー"}
 ,"dustox" : {v:"ドクケイル"}
 ,"ed" : {v:"エド", m:{"animal crossing" : "キザノホマレ"}}
-,"fantina" : {v:"メリッサ"}
 ,"froakie" : {v:"ケロマツ"}
 ,"gabite" : {v:"ガバイト"}
 ,"gholdengo" : {v:"サーフゴー"}
+,"grapploct" : {v:"オトスパス"}
 ,"haine" : {v:"ハイネ"}
 ,"heian maru" : {v:"平安丸"}
 ,"janine" : {v:"アンズ"}
+,"kana anaberal" : {v:"カナ・アナベラル"}
+,"kanna ariura" : {v:"有浦柑奈"}
 ,"kanon konomori" : {v:"小之森夏音"}
+,"kuzunoha" : {v:"クズノハ"}
 ,"le triomphant" : {v:"ル・トリオンファン", m:{"azur lane" : "ル・トリオンファン(FFNF Le Triomphant)"}}
 ,"louisville" : {v:"ルイビル", m:{"azur lane" : "ルイビル(USS Louisville)"}}
 ,"lt. surge" : {v:"マチス"}
 ,"manaphy" : {v:"マナフィ"}
+,"mark" : {v:"マーク", m:{"pokemon" : "パーク"}}
 ,"mars" : {v:"マーズ"}
 ,"medicham" : {v:"チャーレム"}
 ,"mesprit" : {v:"エムリット"}
@@ -26561,14 +26631,12 @@ var chars_ejdic = {
 ,"mira" : {v:"ミラ", m:{"pokemon" : "ミル", "animal crossing" : "ミラコ"}}
 ,"misaki etou" : {v:"衛藤美紗希"}
 ,"miyuki yanase" : {v:"柳瀬美由紀"}
-,"mudkip" : {v:"ミズゴロウ"}
 ,"nate" : {v:"ネイト", m:{"pokemon" : "キョウヘイ"}}
+,"nevada" : {v:"ネバダ", m:{"kantai collection" : "Nevada(ネヴァダ)", "azur lane" : "ネバダ(USS Nevada)"}}
 ,"ninon joubert" : {v:"ニノン・ジュベール"}
 ,"olympia" : {v:"オリンピア", m:{"pokemon" : "ゴジカ", "etrian odyssey" : "オランピア"}}
 ,"ortega" : {v:"オルティガ"}
-,"otoha umeki" : {v:"梅木音葉"}
-,"pangoro" : {v:"ゴロンダ"}
-,"pittsburgh" : {v:"ピッツバーグ(USS Pittsburgh)"}
+,"professor sada" : {v:"オーリム博士"}
 ,"sakura muramatsu" : {v:"村松さくら"}
 ,"sandslash" : {v:"サンドパン"}
 ,"sannyo komakusa" : {v:"駒草山如"}
@@ -26579,26 +26647,23 @@ var chars_ejdic = {
 ,"seika suzumiya" : {v:"涼宮星花"}
 ,"seviper" : {v:"ハブネーク"}
 ,"shaoren" : {v:"小蓮(孫尚香)"}
-,"shimanto" : {v:"四万十(IJN Shimanto)"}
-,"shimiko endou" : {v:"円堂シミコ"}
 ,"shinon kawaru" : {v:"川流シノン"}
-,"sovetsky soyuz" : {v:"ソビエツキー・ソユーズ", m:{"azur lane" : "ソビエツキー・ソユーズ(SN Sovetsky Soyuz)"}}
+,"slaking" : {v:"ケッキング"}
+,"spectrier" : {v:"レイスポス"}
+,"tai yuan" : {v:"太原", m:{"azur lane" : "太原(PRAN Tai Yuan)"}}
 ,"tennessee" : {v:"テネシー", m:{"azur lane" : "テネシー(USS Tennessee)"}}
+,"tinkaton" : {v:"デカヌチャン"}
 ,"tosa" : {v:"土佐", m:{"azur lane" : "土佐(IJN Tosa)"}}
-,"trieste" : {v:"トリエステ", m:{"azur lane" : "トリエステ(RN Trieste)"}}
 ,"ursaring" : {v:"リングマ"}
 ,"utai shinomiya" : {v:"四埜宮謡(アーダー・メイデン)"}
 ,"walrein" : {v:"トドゼルガ"}
 ,"yoizuki" : {v:"宵月", m:{"azur lane" : "宵月(IJN Yoizuki)"}}
-,"york" : {v:"ヨーク(HMS York)"}
 ,"z35" : {v:"Z35"}
-,"zanmu nippaku" : {v:"日白残無"}
 ,"98-tan" : {v:"98たん"}
 ,"archerfish" : {v:"アーチャーフィッシュ", m:{"azur lane" : "アーチャーフィッシュ(USS Archerfish)"}}
 ,"beatrix amerhauser" : {v:"ベアトリクス・アメルハウザー"}
 ,"bell" : {v:"ベル", m:{"azur lane" : "ベル(USS Bell)"}}
 ,"bellona" : {v:"ベローナ", m:{"azur lane" : "ベローナ(HMS Bellona)"}}
-,"blitzle" : {v:"シママ"}
 ,"celesteela" : {v:"テッカグヤ"}
 ,"chachazero" : {v:"チャチャゼロ"}
 ,"cocoro yazawa" : {v:"矢澤こころ"}
@@ -26611,56 +26676,51 @@ var chars_ejdic = {
 ,"ferrothorn" : {v:"ナットレイ"}
 ,"fujinami" : {v:"藤波"}
 ,"galatea" : {v:"ガラティア", m:{"azur lane" : "ガラティア(HMS Galatea)"}}
-,"glacia" : {v:"プリム"}
 ,"gliscor" : {v:"グライオン"}
 ,"glorious" : {v:"グロリアス", m:{"azur lane" : "グロリアス(HMS Glorious)"}}
-,"grapploct" : {v:"オトスパス"}
 ,"growlithe" : {v:"ガーディ"}
 ,"heliolisk" : {v:"エレザード"}
 ,"ho-oh" : {v:"ホウオウ"}
 ,"joseph" : {v:"ヨセフ", m:{"pokemon" : "ソウタ"}}
-,"kana anaberal" : {v:"カナ・アナベラル"}
 ,"kate" : {v:"ケイト"}
 ,"kid cat" : {v:"1ごう"}
 ,"kiev" : {v:"キエフ", m:{"azur lane" : "キエフ(SN Kiev)"}}
 ,"kii" : {v:"紀伊", m:{"azur lane" : "紀伊(IJN Kii)"}}
-,"kuzunoha" : {v:"クズノハ"}
 ,"layla prismriver" : {v:"レイラ・プリズムリバー"}
+,"lechonk" : {v:"グルトン"}
 ,"linoone" : {v:"マッスグマ"}
-,"mark" : {v:"マーク", m:{"pokemon" : "パーク"}}
+,"mable" : {v:"モミジ"}
 ,"meganium" : {v:"メガニウム"}
 ,"me-tan" : {v:"Meたん"}
 ,"mikura" : {v:"御蔵"}
+,"milo" : {v:"ヤロー"}
 ,"misdreavus" : {v:"ムウマ"}
 ,"miu yaguchi" : {v:"矢口美羽"}
+,"mudbray" : {v:"ドロバンコ"}
+,"mudkip" : {v:"ミズゴロウ"}
 ,"natsumi soma" : {v:"相馬夏美"}
 ,"pansage" : {v:"ヤナップ"}
 ,"pensacola" : {v:"ペンサコーラ", m:{"azur lane" : "ペンサコーラ(USS Pensacola)"}}
-,"professor sada" : {v:"オーリム博士"}
 ,"quaquaval" : {v:"ウェーニバル"}
 ,"rattata" : {v:"コラッタ"}
+,"rin morichika" : {v:"森近鈴"}
 ,"rin satsuki" : {v:"冴月麟"}
 ,"roserade" : {v:"ロズレイド"}
 ,"royal fortune" : {v:"ロイヤル・フォーチュン", m:{"azur lane" : "ロイヤル・フォーチュン(MOT Royal Fortune)"}}
 ,"shino hiiragi" : {v:"柊志乃"}
 ,"sigel" : {v:"シーグル"}
-,"slaking" : {v:"ケッキング"}
+,"slowpoke" : {v:"ヤドン"}
 ,"sneasler" : {v:"オオニューラ"}
 ,"souya" : {v:"宗谷"}
 ,"sovetskaya rossiya" : {v:"ソビエツカヤ・ロシア(SN Sovetskaya Rossiya)"}
-,"spectrier" : {v:"レイスポス"}
 ,"squirtle" : {v:"ゼニガメ"}
 ,"suffolk" : {v:"サフォーク", m:{"azur lane" : "サフォーク(HMS Suffolk)"}}
-,"tai yuan" : {v:"太原", m:{"azur lane" : "太原(PRAN Tai Yuan)"}}
 ,"tierno" : {v:"ティエルノ"}
-,"tinkaton" : {v:"デカヌチャン"}
-,"torchic" : {v:"アチャモ"}
+,"toedscruel" : {v:"リククラゲ"}
 ,"torricelli" : {v:"トリチェリ", m:{"azur lane" : "トリチェリ(RN Torricelli)"}}
 ,"trevor" : {v:"トロバ"}
 ,"tsubame koyasu" : {v:"子安つばめ"}
 ,"wakaba kusakabe" : {v:"日下部若葉"}
-,"wasp" : {v:"ワスプ", m:{"azur lane" : "ワスプ(USS Wasp)"}}
-,"z20" : {v:"Z20", m:{"azur lane" : "Z20(KMS Karl Galster)"}}
 ,"abercrombie" : {v:"アバークロンビー", m:{"azur lane" : "アバークロンビー(HMS Abercrombie)"}}
 ,"adam" : {v:"アダム"}
 ,"akira himi" : {v:"氷見あきら(アクア・カレント)"}
@@ -26671,6 +26731,7 @@ var chars_ejdic = {
 ,"armarouge" : {v:"グレンアルマ"}
 ,"articuno" : {v:"フリーザー"}
 ,"azelf" : {v:"アグノム"}
+,"bellsprout" : {v:"マダツボミ"}
 ,"bisharp" : {v:"キリキザン"}
 ,"buneary" : {v:"ミミロル"}
 ,"casablanca" : {v:"カサブランカ", m:{"azur lane" : "カサブランカ(USS Casablanca)"}}
@@ -26690,6 +26751,7 @@ var chars_ejdic = {
 ,"fiji" : {v:"フィジー", m:{"azur lane" : "フィジー(HMS Fiji)"}}
 ,"genjii" : {v:"玄爺"}
 ,"genjyo sanzo" : {v:"玄奘三蔵"}
+,"glacia" : {v:"プリム"}
 ,"greta" : {v:"コゴミ"}
 ,"grimer" : {v:"ベトベター"}
 ,"gurdurr" : {v:"ドテッコツ"}
@@ -26702,18 +26764,17 @@ var chars_ejdic = {
 ,"itsuki manabe" : {v:"真鍋いつき"}
 ,"jamaica" : {v:"ジャマイカ", m:{"azur lane" : "ジャマイカ(HMS Jamaica)"}}
 ,"joe" : {v:"ジョー"}
-,"kanna ariura" : {v:"有浦柑奈"}
 ,"kogitsune" : {v:"子狐"}
 ,"kommo-o" : {v:"ジャラランガ"}
 ,"kursk" : {v:"クルスク", m:{"azur lane" : "クルスク(SN Kursk)"}}
 ,"leander" : {v:"リアンダー", m:{"azur lane" : "リアンダー(HMS Leander)"}}
 ,"leavanny" : {v:"ハハコモリ"}
-,"lechonk" : {v:"グルトン"}
 ,"liepard" : {v:"レパルダス"}
 ,"lucian" : {v:"ルシアン", m:{"pokemon" : "ゴヨウ"}}
 ,"lutzow" : {v:"リュッツォウ", m:{"azur lane" : "リュッツォウ(SMS Lützow)"}}
 ,"lysandre" : {v:"フラダリ"}
-,"manchester" : {v:"マンチェスター(HMS Manchester)"}
+,"mahiro kitagawa" : {v:"北川真尋"}
+,"manchester" : {v:"マンチェスター", m:{"azur lane" : "マンチェスター(HMS Manchester)"}}
 ,"mareanie" : {v:"ヒドイデ"}
 ,"marina sawada" : {v:"沢田麻理菜"}
 ,"marseillaise" : {v:"マルセイエーズ", m:{"azur lane" : "マルセイエーズ(MNF Marseillaise)"}}
@@ -26721,12 +26782,11 @@ var chars_ejdic = {
 ,"meloetta" : {v:"メロエッタ"}
 ,"meteon" : {v:"ミュオン"}
 ,"michiru ohara" : {v:"大原みちる"}
-,"milo" : {v:"ヤロー"}
 ,"mitsuki yoigahama" : {v:"宵ヶ浜深月"}
 ,"miyako anzai" : {v:"安斎都"}
 ,"morgan lefay" : {v:"モルガン・ル・フェ"}
+,"morpeko" : {v:"モルペコ"}
 ,"moukaku" : {v:"美以(孟獲)"}
-,"mudbray" : {v:"ドロバンコ"}
 ,"naomasa" : {v:"直政"}
 ,"nubian" : {v:"ヌビアン", m:{"azur lane" : "ヌビアン(HMS Nubian)"}}
 ,"okidogi" : {v:"イイネイヌ"}
@@ -26734,13 +26794,16 @@ var chars_ejdic = {
 ,"pansear" : {v:"バオップ"}
 ,"passimian" : {v:"ナゲツケサル"}
 ,"percy" : {v:"パーシー", m:{"pokemon" : "ホンプ"}}
+,"pidgeotto" : {v:"ピジョン"}
 ,"piers" : {v:"ピアーズ", m:{"pokemon" : "ネズ"}}
 ,"poliwrath" : {v:"ニョロボン"}
 ,"popplio" : {v:"アシマリ"}
 ,"regigigas" : {v:"レジギガス"}
 ,"rei nomasa" : {v:"野正レイ"}
 ,"rhydon" : {v:"サイドン"}
+,"roaring moon" : {v:"トドロクツキ"}
 ,"roselia" : {v:"ロゼリア"}
+,"rotom" : {v:"ロトム"}
 ,"san francisco" : {v:"サンフランシスコ", m:{"azur lane" : "サンフランシスコ(USS San Francisco)"}}
 ,"seismitoad" : {v:"ガマゲロゲ"}
 ,"shizuna minamoto" : {v:"源しずな"}
@@ -26752,20 +26815,26 @@ var chars_ejdic = {
 ,"sora nonomura" : {v:"野々村そら"}
 ,"suicune" : {v:"スイクン"}
 ,"takumu mayuzumi" : {v:"黛拓武(シアン・パイル)"}
-,"toedscruel" : {v:"リククラゲ"}
 ,"toko hattori" : {v:"服部瞳子"}
+,"torchic" : {v:"アチャモ"}
 ,"torracat" : {v:"ニャヒート"}
 ,"u-556" : {v:"U-556", m:{"azur lane" : "U-556(KMS U-556)"}}
+,"victreebel" : {v:"ウツボット"}
 ,"volkner" : {v:"デンジ"}
+,"voroshilov" : {v:"ヴォロシーロフ(SN Voroshilov)"}
+,"wasp" : {v:"ワスプ", m:{"azur lane" : "ワスプ(USS Wasp)"}}
+,"weepinbell" : {v:"ウツドン"}
 ,"will" : {v:"ウィル", m:{"pokemon" : "イツキ"}}
 ,"yamask" : {v:"デスマス"}
 ,"yancy" : {v:"ルリ"}
 ,"ying swei" : {v:"応瑞", m:{"azur lane" : "応瑞(ROC Ying Swei)"}}
 ,"yoriko furusawa" : {v:"古澤頼子"}
+,"z18" : {v:"Z18(KMS Hans Lüdemann)"}
 ,"zamazenta" : {v:"ザマゼンタ"}
 ,"zombina" : {v:"ゾンビーナ"}
 ,"zossie" : {v:"アマモ"}
 ,"aggron" : {v:"ボスゴドラ"}
+,"alcremie" : {v:"マホイップ"}
 ,"amanda" : {v:"アマンダ", m:{"pokemon" : "メグミ"}}
 ,"archen" : {v:"アーケン"}
 ,"astoria" : {v:"アストリア", m:{"azur lane" : "アストリア(USS Astoria)"}}
@@ -26773,7 +26842,7 @@ var chars_ejdic = {
 ,"avery" : {v:"セイボリー"}
 ,"ayuna hamakawa" : {v:"浜川愛結奈"}
 ,"baltoy" : {v:"ヤジロン"}
-,"bellsprout" : {v:"マダツボミ"}
+,"bellibolt" : {v:"ハラバリー"}
 ,"billy" : {v:"ビリー", m:{"pokemon" : "ヤライ"}}
 ,"brunhilde" : {v:"ブリュンヒルデ", m:{"azur lane" : "ブリュンヒルデ(KMS Brünhilde)"}}
 ,"bugsy" : {v:"ツクシ"}
@@ -26792,20 +26861,23 @@ var chars_ejdic = {
 ,"cocone fatima rosa" : {v:"ココネ・ファティマ・ロザ"}
 ,"colress" : {v:"アクロマ"}
 ,"cresselia" : {v:"クレセリア"}
+,"croagunk" : {v:"グレッグル"}
 ,"croconaw" : {v:"アリゲイツ"}
 ,"daisy oak" : {v:"ナナミ"}
 ,"deerling" : {v:"シキジカ"}
 ,"deino" : {v:"モノズ"}
 ,"delcatty" : {v:"エネコロロ"}
-,"edinburgh" : {v:"エディンバラ(HMS Edinburgh)"}
+,"drifblim" : {v:"フワライド"}
+,"edinburgh" : {v:"エジンバラ", m:{"azur lane" : "エディンバラ(HMS Edinburgh)"}}
 ,"elis" : {v:"Elis"}
 ,"ema senzaki" : {v:"仙崎恵磨"}
 ,"entei" : {v:"エンテイ"}
-,"fei yuen" : {v:"飛雲(ROC Fei Yuen)"}
+,"fei yuen" : {v:"飛雲", m:{"azur lane" : "飛雲(ROC Fei Yuen)"}}
 ,"flutter mane" : {v:"ハバタクカミ"}
 ,"frogadier" : {v:"ゲコガシラ"}
 ,"furfrou" : {v:"トリミアン"}
-,"gascogne" : {v:"ガスコーニュ(MNF Gascogne)"}
+,"gascogne" : {v:"ガスコーニュ", m:{"azur lane" : "ガスコーニュ(MNF Gascogne)"}}
+,"gastly" : {v:"ゴース"}
 ,"gastrodon" : {v:"トリトドン"}
 ,"gogoat" : {v:"ゴーゴート"}
 ,"grovyle" : {v:"ジュプトル"}
@@ -26818,10 +26890,9 @@ var chars_ejdic = {
 ,"jennifer" : {v:"ジェニファー", m:{"pokemon" : "ユカ"}}
 ,"kakei mihaya" : {v:"掛居美早(ブラッド・レパード)"}
 ,"kangaskhan" : {v:"ガルーラ"}
-,"langley" : {v:"Langley(ラングレー)", m:{"azur lane" : "ラングレー(USS Langley)"}}
+,"langley" : {v:"ラングレー", m:{"kantai collection" : "Langley(ラングレー)", "azur lane" : "ラングレー(USS Langley)"}}
 ,"magdeburg" : {v:"マクデブルク(KMS Magdeburg)"}
 ,"magikarp" : {v:"コイキング"}
-,"mahiro kitagawa" : {v:"北川真尋"}
 ,"mainz" : {v:"マインツ(KMS Mainz)"}
 ,"marco polo" : {v:"マルコ・ポーロ", m:{"azur lane" : "マルコ・ポーロ(RN Marco Polo)"}}
 ,"marilyn catto" : {v:"マリリン・キャット"}
@@ -26830,13 +26901,14 @@ var chars_ejdic = {
 ,"melli" : {v:"ツバキ"}
 ,"minccino" : {v:"チラーミィ"}
 ,"monferno" : {v:"モウカザル"}
-,"morpeko" : {v:"モルペコ"}
+,"musharna" : {v:"ムシャーナ"}
 ,"naganadel" : {v:"アーゴヨン"}
 ,"nagisa aino" : {v:"愛野渚"}
 ,"nene kurihara" : {v:"栗原ネネ"}
 ,"nickit" : {v:"クスネ"}
+,"nikki" : {v:"クニミ"}
 ,"nita" : {v:"ラニュイ"}
-,"norfolk" : {v:"ノーフォーク(HMS Norfolk)"}
+,"norfolk" : {v:"ノーフォーク", m:{"azur lane" : "ノーフォーク(HMS Norfolk)"}}
 ,"noriko kurosawa" : {v:"黒沢典子"}
 ,"octillery" : {v:"オクタン"}
 ,"oinkologne" : {v:"パフュートン"}
@@ -26844,20 +26916,18 @@ var chars_ejdic = {
 ,"otto von alvensleben" : {v:"オットー・フォン・アルフェンスレーベン(KMS Otto von Alvensleben)"}
 ,"pawmi" : {v:"パモ"}
 ,"pecharunt" : {v:"モモワロウ"}
-,"pennsylvania" : {v:"ペンシルベニア(USS Pennsylvania)"}
+,"pennsylvania" : {v:"ペンシルベニア", m:{"azur lane" : "ペンシルベニア(USS Pennsylvania)"}}
 ,"peonia" : {v:"シャクヤ"}
 ,"persian" : {v:"ペルシアン"}
 ,"phoenix" : {v:"フェニックス"}
-,"pidgeotto" : {v:"ピジョン"}
 ,"plymouth" : {v:"プリマス(HMS Plymouth)"}
 ,"politoed" : {v:"ニョロトノ"}
+,"psyduck" : {v:"コダック"}
 ,"quilladin" : {v:"ハリボーグ"}
-,"quincy" : {v:"クインシー(USS Quincy)"}
+,"quincy" : {v:"クインシー", m:{"azur lane" : "クインシー(USS Quincy)"}}
 ,"raifort" : {v:"レホール"}
 ,"rei onodera" : {v:"小野寺麗"}
 ,"riley" : {v:"ゲン"}
-,"rin morichika" : {v:"森近鈴"}
-,"rotom" : {v:"ロトム"}
 ,"ryan" : {v:"ライアン", m:{"pokemon" : "ノリオ"}}
 ,"sableye" : {v:"ヤミラミ"}
 ,"sam" : {v:"サム", m:{"pokemon" : "ミカサ"}}
@@ -26871,13 +26941,14 @@ var chars_ejdic = {
 ,"sina" : {v:"ジーナ"}
 ,"slither wing" : {v:"チヲハウハネ"}
 ,"slowking" : {v:"ヤドキング"}
-,"slowpoke" : {v:"ヤドン"}
+,"stanly" : {v:"スタンリー(USS Stanly)"}
 ,"swadloon" : {v:"クルマユ"}
 ,"swirlix" : {v:"ペロッパフ"}
 ,"tartu" : {v:"タルテュ(MNF Tartu)"}
 ,"tate" : {v:"フウ"}
 ,"t-bone" : {v:"ティー・ボーン", m:{"animal crossing" : "ボルシチ", "swat kats" : "Chance Furlong(T-Bone)"}}
-,"ticonderoga" : {v:"タイコンデロガ(USS Ticonderoga)"}
+,"ticonderoga" : {v:"タイコンデロガ", m:{"azur lane" : "タイコンデロガ(USS Ticonderoga)"}}
+,"toedscool" : {v:"ノノクラゲ"}
 ,"togepi" : {v:"トゲピー"}
 ,"trevenant" : {v:"オーロット"}
 ,"tsumugi shiina" : {v:"椎名ツムギ"}
@@ -26888,10 +26959,8 @@ var chars_ejdic = {
 ,"ursaluna" : {v:"ガチグマ"}
 ,"venusaur" : {v:"フシギバナ"}
 ,"victini" : {v:"ビクティニ"}
-,"victreebel" : {v:"ウツボット"}
-,"voroshilov" : {v:"ヴォロシーロフ(SN Voroshilov)"}
 ,"walking wake" : {v:"ウネルミナモ"}
-,"weepinbell" : {v:"ウツドン"}
+,"wiglett" : {v:"ウミディグダ"}
 ,"windows 95-tan" : {v:"Windows95たん"}
 ,"winona" : {v:"ウィノナ", m:{"pokemon" : "ナギ"}}
 ,"yuriko ohnishi" : {v:"大西由里子"}
@@ -26899,6 +26968,7 @@ var chars_ejdic = {
 ,"z21" : {v:"Z21(KMS Wilhelm Heidkamp)"}
 ,"z28" : {v:"Z28(KMS Z28)"}
 ,"zazie rainyday" : {v:"ザジ・レイニーデイ"}
+,"zygarde" : {v:"ジガルデ"}
 ,"abomasnow" : {v:"ユキノオー"}
 ,"abra" : {v:"ケーシィ"}
 ,"arata" : {v:"アラタ"}
@@ -26906,14 +26976,13 @@ var chars_ejdic = {
 ,"aya kirino" : {v:"桐野アヤ"}
 ,"ayaka kishibe" : {v:"岸部彩華"}
 ,"basculegion" : {v:"イダイトウ"}
-,"bellibolt" : {v:"ハラバリー"}
 ,"bogue" : {v:"ボーグ(USS Bogue)"}
 ,"boltund" : {v:"パルスワン"}
 ,"brawly" : {v:"ブロウリー", m:{"pokemon" : "トウキ"}}
 ,"breloom" : {v:"キノガッサ"}
-,"bunker hill" : {v:"バンカー・ヒル(USS Bunker Hill)"}
+,"bunker hill" : {v:"バンカー・ヒル", m:{"azur lane" : "バンカー・ヒル(USS Bunker Hill)"}}
 ,"calico briggs" : {v:"Calico Briggs"}
-,"california" : {v:"カリフォルニア(USS California)"}
+,"california" : {v:"カリフォルニア", m:{"azur lane" : "カリフォルニア(USS California)"}}
 ,"casey" : {v:"メディ"}
 ,"centaur" : {v:"セントー(HMS Centaur)"}
 ,"chansey" : {v:"ラッキー"}
@@ -26924,13 +26993,11 @@ var chars_ejdic = {
 ,"concord" : {v:"コンコード(USS Concord)"}
 ,"corviknight" : {v:"アーマーガア"}
 ,"crawdaunt" : {v:"シザリガー"}
-,"croagunk" : {v:"グレッグル"}
 ,"denver" : {v:"デンバー(USS Denver)"}
 ,"dewgong" : {v:"ジュゴン"}
 ,"dondozo" : {v:"ヘイラッシャ"}
 ,"downes" : {v:"ダウンズ(USS Downes)"}
 ,"drednaw" : {v:"カジリガメ"}
-,"drifblim" : {v:"フワライド"}
 ,"druddigon" : {v:"クリムガン"}
 ,"dusty" : {v:"ルイン"}
 ,"eelektross" : {v:"シビルドン"}
@@ -26949,7 +27016,6 @@ var chars_ejdic = {
 ,"furret" : {v:"オオタチ"}
 ,"gabby" : {v:"マリ"}
 ,"garbodor" : {v:"ダストダス"}
-,"gastly" : {v:"ゴース"}
 ,"girafarig" : {v:"キリンリキ"}
 ,"giulio cesare" : {v:"ジュリオ・チェザーレ(RN Giulio Cesare)"}
 ,"golduck" : {v:"ゴルダック"}
@@ -26983,7 +27049,6 @@ var chars_ejdic = {
 ,"kuybyshev" : {v:"クイビシェフ(SN Kuybyshev)"}
 ,"lombre" : {v:"ハスブレロ"}
 ,"lunala" : {v:"ルナアーラ"}
-,"mable" : {v:"モミジ"}
 ,"magmar" : {v:"ブーバー"}
 ,"magnezone" : {v:"ジバコイル"}
 ,"manami okamoto" : {v:"岡本まなみ"}
@@ -26993,11 +27058,9 @@ var chars_ejdic = {
 ,"misato manaka" : {v:"間中美里"}
 ,"miyabi tsukimiya" : {v:"月宮雅"}
 ,"morphe" : {v:"モルフェ"}
-,"musharna" : {v:"ムシャーナ"}
 ,"nanu" : {v:"クチナシ"}
 ,"nidorina" : {v:"ニドリーナ"}
 ,"nidorino" : {v:"ニドリーノ"}
-,"nikki" : {v:"クニミ"}
 ,"northampton" : {v:"Northampton(ノーザンプトン)", m:{"azur lane" : "ノーザンプトン(USS Northampton)"}}
 ,"numel" : {v:"ドンメル"}
 ,"opal" : {v:"ポプラ"}
@@ -27006,13 +27069,11 @@ var chars_ejdic = {
 ,"piplup" : {v:"ポッチャマ"}
 ,"poipole" : {v:"ベベノム"}
 ,"prinz adalbert" : {v:"プリンツ・アーダルベルト(KMS Prinz Adalbert)"}
-,"psyduck" : {v:"コダック"}
 ,"pumpkaboo" : {v:"バケッチャ"}
 ,"purugly" : {v:"ブニャット"}
 ,"pyroar" : {v:"カエンジシ"}
 ,"rei shinohara" : {v:"篠原礼"}
 ,"reiko ozaki" : {v:"尾崎玲子"}
-,"roaring moon" : {v:"トドロクツキ"}
 ,"ruriko yuzuki" : {v:"夕月琉璃子"}
 ,"saya matsubara" : {v:"松原早耶"}
 ,"seattle" : {v:"シアトル(USS Seattle)"}
@@ -27028,7 +27089,6 @@ var chars_ejdic = {
 ,"smalley" : {v:"スモーリー(USS Smalley)"}
 ,"spheal" : {v:"タマザラシ"}
 ,"spinarak" : {v:"イトマル"}
-,"stanly" : {v:"スタンリー(USS Stanly)"}
 ,"starmie" : {v:"スターミー"}
 ,"swanna" : {v:"スワンナ"}
 ,"takamichi t. takahata" : {v:"タカミチ・T・高畑"}
@@ -27038,7 +27098,6 @@ var chars_ejdic = {
 ,"terapagos" : {v:"テラパゴス"}
 ,"theseus" : {v:"シーシュース(HMS Theseus)"}
 ,"thievul" : {v:"フォクスライ"}
-,"toedscool" : {v:"ノノクラゲ"}
 ,"totodile" : {v:"ワニノコ"}
 ,"toutaku chuuei" : {v:"月(董卓 仲頴)"}
 ,"tsubaki egami" : {v:"江上椿"}
@@ -27053,7 +27112,6 @@ var chars_ejdic = {
 ,"watchog" : {v:"ミルホッグ"}
 ,"weedle" : {v:"ビードル"}
 ,"wichita" : {v:"ウィチタ(USS Wichita)"}
-,"wiglett" : {v:"ウミディグダ"}
 ,"wobbuffet" : {v:"ソーナンス"}
 ,"wugtrio" : {v:"ウミトリオ"}
 ,"wulfric" : {v:"ウルップ"}
@@ -27062,19 +27120,11 @@ var chars_ejdic = {
 ,"yamper" : {v:"ワンパチ"}
 ,"yuu ohta" : {v:"太田優"}
 ,"yveltal" : {v:"イベルタル"}
-,"z18" : {v:"Z18(KMS Hans Lüdemann)"}
 ,"z19" : {v:"Z19(KMS Hermann Künne)"}
 ,"z24" : {v:"Z24(KMS Z24)"}
 ,"z36" : {v:"Z36(KMS Z36)"}
 ,"zweilous" : {v:"ジヘッド"}
-,"zygarde" : {v:"ジガルデ"}
 ,"arizona" : {v:"アリゾナ(USS Arizona)"}
-,"fourth raikage" : {v:"四代目雷影(エー)"}
-,"tokino sora" : {v:"ときのそら"}
-,"topaz" : {v:"トパーズ"}
-,"takane lui" : {v:"鷹嶺ルイ"}
-,"black swan" : {v:"ブラックスワン"}
-,"minoto" : {v:"ミノト"}
 };
 window.TranslateDics.artists = artist_ejdic;
 window.TranslateDics.groups = group_ejdic;
