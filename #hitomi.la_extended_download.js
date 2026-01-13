@@ -593,7 +593,7 @@ if (typeof download_gallery != 'undefined') {
 if (typeof limitLists !== 'undefined') {
 	var original_limitLists = limitLists;
 
-	function add_tags_title_base(obj) {
+	var add_tags_title_base = function(obj) {
 		var tag = obj.text().trim();
 		var sex = "none";
 
@@ -634,7 +634,7 @@ if (typeof limitLists !== 'undefined') {
 		}
 	}
 
-	function add_title_base(obj, dic) {
+	var add_title_base = function(obj, dic) {
 		var id = obj.text().trim();
 
 		if (id in dic) {
@@ -653,23 +653,23 @@ if (typeof limitLists !== 'undefined') {
 		}
 	}
 
-	function add_tags_title() {
+	var add_tags_title = function() {
 		add_tags_title_base($(this));
 	}
 
-	function add_artists_title() {
+	var add_artists_title = function() {
 		add_title_base($(this), window.TranslateDics.artists);
 	}
 
-	function add_groups_title() {
+	var add_groups_title = function() {
 		add_title_base($(this), window.TranslateDics.groups);
 	}
 
-	function add_series_title() {
+	var add_series_title = function() {
 		add_title_base($(this), window.TranslateDics.series);
 	}
 
-	function add_chars_title() {
+	var add_chars_title = function () {
 		var id = $(this).text().trim();
 
 		if (id in window.TranslateDics.chars) {
@@ -718,7 +718,7 @@ if (typeof limitLists !== 'undefined') {
 		}
 	}
 
-	function add_list_title() {
+	var add_list_title = function() {
 		var folders = location.pathname.split('/');
 		switch(folders[1]) {
 			case 'tag':
@@ -739,7 +739,7 @@ if (typeof limitLists !== 'undefined') {
 		}
 	}
 
-	function replace_node() {
+	var replace_node = function() {
 		//検索一覧
 		$(".relatedtags li a").each(add_tags_title);
 		$(".artist-list li a").each(add_artists_title);
