@@ -318,6 +318,7 @@ var artist_ejdic = {
 ,"u-hi" : "U-hi"
 ,"u-k" : "U-K"
 ,"ukyo rst" : "ukyo_rst"
+,"ume" : ["ume", "うめ"]
 ,"u-mi" : "U-MI"
 ,"urec" : "UREC"
 ,"u-sora" : "U-sora"
@@ -815,6 +816,7 @@ var artist_ejdic = {
 ,"adumi kazuki" : "あづみ一樹"
 ,"adumi yuu" : "あづみ悠羽"
 ,"atohoshi cecil" : "後星セシル"
+,"atori" : "あとり"
 ,"atori k" : ["あとりK", "あきなお"]
 ,"adon no aniki" : "アドンの兄貴"
 ,"anahama hikoza" : "姉浜彦佐"
@@ -1748,6 +1750,7 @@ var artist_ejdic = {
 ,"echipic" : "エチピク"
 ,"echihiro" : "えちひろ"
 ,"etuzan jakusui" : "越山弱衰"
+,"edenevee" : "EdenEveE"
 ,"edogawa kc" : "江戸川KC"
 ,"edogawa gabal" : "江戸川ガバル"
 ,"edogawa shundei" : "江戸川春泥"
@@ -2382,6 +2385,7 @@ var artist_ejdic = {
 ,"gust-san" : "ガストさん"
 ,"kazunari" : "カズナリ"
 ,"kazuneko" : "和猫"
+,"gasuba ana" : "がすばあな"
 ,"kazuhiro" : "一弘"
 ,"kazuma g-version" : "カズマ・G-version"
 ,"kazuma kowo" : "かずまこを"
@@ -2799,6 +2803,7 @@ var artist_ejdic = {
 ,"kishiri toworu" : ["キシリトヲル", "ヲルト"]
 ,"kisin juki" : "姫心重機"
 ,"kizuki rei" : "傷希レイ"
+,"kisukekun" : "きすけくん"
 ,"kiss koori" : "キス氷"
 ,"kise itsuki" : "木瀬樹"
 ,"kisen" : "奇仙"
@@ -3178,6 +3183,7 @@ var artist_ejdic = {
 ,"kurikara" : ["くりから", "倶梨伽羅"]
 ,"glycogen" : "グリコーゲン"
 ,"kurisaki king" : "栗崎きんぐ"
+,"kurisu" : "くりす"
 ,"kurisu yu-ri" : "栗栖ゆーり"
 ,"gurida soumu" : "ぐりだそうむ"
 ,"kurita nao" : "栗田奈緒"
@@ -4257,6 +4263,7 @@ var artist_ejdic = {
 ,"shinima" : "しにま"
 ,"shino" : ["シノ", "獅乃", "しの", "SHINO"]
 ,"shinooka homare" : "篠岡ほまれ"
+,"sinogi asa" : "しのぎあさ"
 ,"shinogi a-suke" : "しのぎ鋭介"
 ,"shinogi kei" : ["しのぎけい", "篠木圭"]
 ,"shinogiri zun" : "忍桐ずん"
@@ -5239,7 +5246,7 @@ var artist_ejdic = {
 ,"taniguchi douji" : ["たにぐち童子", "谷口童子"]
 ,"tanizaki nao" : "谷咲ナオ"
 ,"tanizakura shidare" : "谷桜しだれ"
-,"tanishi" : "たにし"
+,"tanishi" : ["たにし", "奥谷たにし"]
 ,"tanihara natsuki" : "たにはらなつき"
 ,"tanimachi maid" : "谷町めいど"
 ,"danimaru" : "だにまる"
@@ -5808,6 +5815,7 @@ var artist_ejdic = {
 ,"dokukinokozin" : "毒茸人"
 ,"toku soncho" : "とく村長"
 ,"dr.p" : "Dr.P"
+,"everyday2" : "Dr.orga"
 ,"dr.ddt" : "Dr.DDT"
 ,"dr. ten" : "Dr.天"
 ,"dr. pyon r" : "Dr.ぴょんR"
@@ -6342,6 +6350,7 @@ var artist_ejdic = {
 ,"nikusoukyuu" : "肉そうきゅー。"
 ,"nikutama" : "にくたま"
 ,"nikudanmaru" : "肉弾丸"
+,"niku to gohan" : "にくとごはん"
 ,"nikubou maranoshin" : "肉棒魔羅ノ進"
 ,"nikumansho" : "にくまん処"
 ,"nikumen" : "肉メン"
@@ -6965,6 +6974,7 @@ var artist_ejdic = {
 ,"b village" : ["Bビレッジ", "B・ビレッジ", "ブラッドビレッジ", "ブラッド・ビレッジ"]
 ,"b-mary" : "B-MARY"
 ,"hi-mosu" : ["ひ～もす", "ひーもす"]
+,"hiiragi hajime" : "柊はじめ"
 ,"hiiragi hizashi" : "柊ひざし"
 ,"hiiragi popura" : "柊ぽぷら"
 ,"hiiragi masaki" : "柊柾葵"
@@ -7124,6 +7134,7 @@ var artist_ejdic = {
 ,"hipopotamus" : "ひぽぽたます"
 ,"hima" : "HIMA"
 ,"himajin no izu" : "暇人のいず"
+,"himadara" : "ひまだら"
 ,"himino" : "ひみの"
 ,"himukai kyousuke" : "日向恭介"
 ,"himukai yuji" : ["日向悠二", "西向アズタカ"]
@@ -7136,6 +7147,7 @@ var artist_ejdic = {
 ,"himuro hakka" : "氷室はっか"
 ,"himei yoru" : "ひめいよる"
 ,"himeeda yuuto" : ["姫枝夕人", "上田夢人"]
+,"himekuri" : "ヒめくり"
 ,"himesama" : "姫様"
 ,"himenogami kinta" : "姫ノ神金太"
 ,"himenogi apo" : "姫乃城あぽ"
@@ -7443,6 +7455,7 @@ var artist_ejdic = {
 ,"fuyutugu" : "冬嗣"
 ,"fuyu naga" : ["冬長", "蜈蚣Melibe", "斉藤佳素理", "斎藤佳素理", "にゃかな"]
 ,"fuyunagi reku" : "冬凪れく"
+,"fuyunatsu" : "冬夏"
 ,"fuyuno mikan" : "冬野みかん"
 ,"fuyu mikan" : "冬みかん"
 ,"fuyuwa kotatsu" : "冬和こたつ"
@@ -7596,6 +7609,7 @@ var artist_ejdic = {
 ,"homing" : "ホーミング"
 ,"bonehead" : "Bone Head"
 ,"hoka" : "ほか"
+,"pocaeri" : "ぽかえり"
 ,"pokachu" : "ぽかちゅ"
 ,"hokama mitsuri" : "ほかまみつり"
 ,"boku" : "ぼく"
@@ -8241,6 +8255,7 @@ var artist_ejdic = {
 ,"mizuyuki" : "みずゆき"
 ,"mizuyoukan" : "水ようかん"
 ,"mizuryu kei" : "水龍敬"
+,"mithril rim" : "みすりるリム"
 ,"miseo" : "みせお"
 ,"misooden" : "みそおでん"
 ,"miso oden" : "みそおでん"
@@ -8994,6 +9009,7 @@ var artist_ejdic = {
 ,"yamato miyu" : "やまとみゆ"
 ,"yama tomoti" : "やまともち"
 ,"yamadori" : "山鳥"
+,"yamadori kodi" : "山鳥こぢ"
 ,"yamanako" : "やまなこ"
 ,"yamanashi kaname" : "月見里中"
 ,"yamanashi yuuya" : "山梨ユウヤ"
@@ -9421,6 +9437,7 @@ var artist_ejdic = {
 ,"rustle" : ["らする", "Rustle"]
 ,"radiohead" : "ラヂヲヘッド"
 ,"rakkaa" : "らっかあ"
+,"luxsumildo" : "LUXsumildo"
 ,"rakko" : "らっこ"
 ,"rusher verak" : "ラッシャーヴェラク"
 ,"rasson" : "らっそん"
@@ -9569,6 +9586,7 @@ var artist_ejdic = {
 ,"reiha" : "零覇"
 ,"leymei" : "LEYMEI"
 ,"raymon" : "RAYMON"
+,"lvi" : "LVI"
 ,"racer" : "れーさー"
 ,"leonardo 16sei" : "れオナるド16世"
 ,"leopard" : "レオパルド"
@@ -9933,6 +9951,7 @@ var group_ejdic = {
 ,"aniki teikoku" : "アニキテイコク"
 ,"anim" : "ANIM"
 ,"anim teammm" : ["ANIM Mother&Wife", "ANIM.teamMM"]
+,"animal service" : "ANIMAL SERVICE"
 ,"animal ship" : "ANIMAL SHIP"
 ,"anime brothers" : "アニメブラザーズ"
 ,"aniseed" : "AniSeed"
@@ -10084,6 +10103,7 @@ var group_ejdic = {
 ,"atsuatsu muchimuchi" : "あつあつむちむち"
 ,"atsuya kougyou" : "篤屋工業"
 ,"attendance number 26" : "出席番号26"
+,"attribute" : "Attribute"
 ,"atuworks" : "あてゅ・わぁくす"
 ,"august" : "August"
 ,"aurora" : "AURORA"
@@ -10248,6 +10268,7 @@ var group_ejdic = {
 ,"bootup" : "bootUP!"
 ,"boru kikaku" : "ぼる企画"
 ,"bottomress pit" : "BOTTOMRESS PIT"
+,"botugo" : "没後"
 ,"bouken koubou" : "冒険工房"
 ,"bounamitei" : "防波亭"
 ,"bousou fuhatsudan" : "暴走!!不発団"
@@ -10623,6 +10644,7 @@ var group_ejdic = {
 ,"dieppe factory" : ["DIEPPE FACTORY", "でぃえっぷ工房"]
 ,"dieselmine" : "ディーゼルマイン"
 ,"digianime corporation" : "デジアニメ・コーポレイション"
+,"digianko" : "デジアンコ"
 ,"digiel" : "DiGiEL"
 ,"digital accel works" : ["DAW", "DIGITAL ACCEL WORKS"]
 ,"digital boys" : "DIGITAL BOYS"
@@ -10697,6 +10719,7 @@ var group_ejdic = {
 ,"drill" : "DRILL"
 ,"drop dead" : "DROP DEAD!!"
 ,"drops" : "RIP-comic"
+,"dschinghis khan no tamanegi wa ore no yome" : "ジンギスカンの玉葱は俺の嫁"
 ,"d-side" : "D-side"
 ,"dual beat" : "DUAL BEAT"
 ,"dualtail" : ["DualTail", "DualMage"]
@@ -10792,6 +10815,7 @@ var group_ejdic = {
 ,"ex-it" : "Ex-iT"
 ,"ex-one" : "EX-ONE"
 ,"extage" : "Extage"
+,"extended part" : "拡張パーツ"
 ,"extry" : "ExTry"
 ,"eye phon" : "eye★phon"
 ,"eyebrows born" : "アイブロウズボーン"
@@ -10911,6 +10935,7 @@ var group_ejdic = {
 ,"futurepack" : "FUTURE PACK!"
 ,"fuusen club kuroshiki" : "風船クラブ 黒式！"
 ,"fuyuchuu natsukusa" : "冬中夏草"
+,"fuyunatsu" : "ふゆなつ"
 ,"fuzoku kugayama kindergarden" : "附属久我山キンダーガーデン"
 ,"fuzukikai" : "文月会"
 ,"fuzume" : "ふずめ"
@@ -10940,6 +10965,7 @@ var group_ejdic = {
 ,"garden" : "Garden"
 ,"gardening bulldog" : "ガーデニング・ブルドッグ"
 ,"gargoyle" : "Gargoyle"
+,"garigarigari" : "がりがりがり"
 ,"garland" : "Garland"
 ,"garou kissa hapido" : "画廊喫茶はぴど"
 ,"garyuh-chitai" : "我流痴帯"
@@ -11199,6 +11225,7 @@ var group_ejdic = {
 ,"henreikai" : "片励会"
 ,"henry plaza" : "半里プラザー"
 ,"henshitsusya" : "変質社"
+,"henyottobird" : "へにょっとばーど"
 ,"heppoko housing" : "へっぽこはうじんぐ"
 ,"heppoko youchien" : "へっぽこ幼稚園"
 ,"hermit" : "HERMIT"
@@ -11295,6 +11322,7 @@ var group_ejdic = {
 ,"honyo no uchi" : "ほにょのうち"
 ,"hook" : ["HOOK", "HOOKSOFT"]
 ,"horizontal world" : "Horizontal World"
+,"horonaminz" : "ホロナミンZ"
 ,"horsetail" : "ほーすている"
 ,"hoshikariza" : "星狩座"
 ,"hoshino koya" : "ほしの小屋"
@@ -11530,6 +11558,7 @@ var group_ejdic = {
 ,"kaki no tane" : "夏季のタネ"
 ,"kakohimenoutuwa" : "KAKOHIMENOUTUWA"
 ,"kakumei seifu kouhoushitsu" : "革命政府広報室"
+,"kakuzatou" : "角砂糖"
 ,"kalmia" : "KALMIA"
 ,"kamaboko koubou" : "カマボコ工房"
 ,"kamarujirushi" : ["かまる印", "KAMARUJIRUSHI"]
@@ -11583,6 +11612,7 @@ var group_ejdic = {
 ,"kawamuraya honpo" : "かわむら屋本舗"
 ,"kawarajima kojinshi kai" : "かわらじま個人誌会"
 ,"kawaraya honpo" : "瓦屋本舗"
+,"kayoudou" : "華容道"
 ,"kazami dori" : "風見鳥"
 ,"kazami jinguu" : "風見神宮"
 ,"kaze no gotoku" : "風のごとく！"
@@ -11671,6 +11701,7 @@ var group_ejdic = {
 ,"koala machine" : ["コアラマシン", "KOALA MACHINE"]
 ,"kobiki" : "こびき"
 ,"kocher" : "KOCHER"
+,"kocho kocho koukou" : "こちょこちょ高校"
 ,"kodomo ginkou" : "こどもぎんこう"
 ,"kodomo oukoku" : "こども王国"
 ,"kohakutei" : ["琥珀亭", "kohakutei"]
@@ -11912,6 +11943,7 @@ var group_ejdic = {
 ,"luv mix" : "LUV∞MIX"
 ,"luxury tiara" : "Luxury Tiara"
 ,"lv.x" : "Lv.X"
+,"lvixxx" : "LVIXXX"
 ,"lyco-z" : "Lyco-Z"
 ,"lyricbox" : "リリックボックス"
 ,"m" : "M"
@@ -11947,6 +11979,7 @@ var group_ejdic = {
 ,"maho-shinsengumi" : "魔法新選組"
 ,"maidoll" : "MAIDOLL"
 ,"maika" : "MAIKA"
+,"maikage" : "舞影"
 ,"maika-p" : ["MAIKA-P", "M-pure"]
 ,"mainichi kenkou seikatsu" : "毎日健康生活"
 ,"majimadou" : "眞嶋堂"
@@ -11980,6 +12013,7 @@ var group_ejdic = {
 ,"marble candy soft" : "マーブルCandySoft"
 ,"marble candysoft" : "マーブルCandySoft"
 ,"marbleland" : "Marbleland"
+,"marcapaginas" : "マルカパヒナス"
 ,"march" : "MARCH"
 ,"marchen box" : "メルヘンBOX"
 ,"marcys" : "MARCY'S"
@@ -12576,6 +12610,7 @@ var group_ejdic = {
 ,"omokaji ippai ippai" : "面舵いっぱいいっぱい"
 ,"omomuroni" : "おもむろに"
 ,"omoshiro burger" : "おもしろバーガー"
+,"omusubi koubou" : "おむすび工房"
 ,"one games" : "ONE GAMES"
 ,"one hit wonder" : "ONE HIT WONDER"
 ,"one shot" : "One Shot"
@@ -12828,6 +12863,7 @@ var group_ejdic = {
 ,"pornostar" : "ポルノ★スター"
 ,"potage" : "Potage"
 ,"potato house" : "Potato house"
+,"potato salad" : "ぽてとさらだ"
 ,"power drug" : "POWER DRUG"
 ,"power gradation" : "パワーグラデイション"
 ,"power skill" : "POWER SKILL"
@@ -12966,6 +13002,7 @@ var group_ejdic = {
 ,"ray flood" : "Ray Flood"
 ,"ray-raw" : "玲瓏"
 ,"rbooks" : "浪漫書店"
+,"re cre at tors" : "Re:Cre@tors"
 ,"reak" : "Reak"
 ,"recette" : "Recette"
 ,"red crown" : "RED CROWN"
@@ -12991,6 +13028,7 @@ var group_ejdic = {
 ,"reirei kyou" : "泪泪教"
 ,"remain" : "Remain"
 ,"renai mangaka" : "恋愛漫画家"
+,"renainou" : "RENAINOU"
 ,"rengaworks" : "Rengaworks"
 ,"renrakumou ami doujin section" : "連絡網AMI同人セクション"
 ,"renrendou" : "漣々堂"
@@ -13180,6 +13218,7 @@ var group_ejdic = {
 ,"seika kairaku shoten" : "聖華快楽書店"
 ,"seinansei ni kagayakeru hoshi" : "西南西ニ輝ケル星"
 ,"seishimentai" : "せいしめんたい"
+,"seisui bar" : "聖水BAR"
 ,"seitokaishitsu" : "生徒会室"
 ,"sekai kakumei club" : "世界革命倶楽部"
 ,"sekai no hate" : "世界のHATE"
@@ -13454,7 +13493,7 @@ var group_ejdic = {
 ,"studio aqa" : "studioAQA"
 ,"studio araluma" : "STUDIO ARALUMA"
 ,"studio artroom" : "STUDIO★ART ROOM"
-,"studio aruta" : "Studio Aruta"
+,"studio aruta" : "スタジオあるた"
 ,"studio beast" : "Studio Beast"
 ,"studio big-x" : "スタジオBIG-X"
 ,"studio black cats" : "STUDIO BLACK CATS"
@@ -13556,6 +13595,7 @@ var group_ejdic = {
 ,"suika dokei" : "すいか時計"
 ,"suirankaku" : "翠蘭郭"
 ,"suiren" : "翠憐"
+,"suiren no yado" : "水蓮の宿"
 ,"suitekiya" : "水滴屋"
 ,"sukapon-do" : "スカポン堂"
 ,"sukaradog" : "SUKARADOG"
@@ -13675,6 +13715,7 @@ var group_ejdic = {
 ,"tamatamasanmyaku" : "たまたま山脈"
 ,"tanabata milky way" : "タナバタミルキーウェイ"
 ,"tange kentou club" : "丹下拳闘倶楽部"
+,"tanic ya" : ["タニシ屋", "TanicYa"]
 ,"tanishi flavor" : "タニシフレーバー"
 ,"tanmatsu ijou" : "端末異常"
 ,"tanuki no rakugaki" : "たぬきの落書き"
@@ -13902,6 +13943,7 @@ var group_ejdic = {
 ,"ua daisakusen" : "U・A大作戦"
 ,"u-bullet" : "U-BULLET"
 ,"uchinon" : "うちのん"
+,"uchuu ringo" : "宇宙りんご"
 ,"uchuu ryokou kyoukai" : "宇宙旅行協会"
 ,"ucky labo" : "ウッキーラボ"
 ,"ucyunekogundan" : "宇宙猫軍団"
@@ -14036,6 +14078,7 @@ var group_ejdic = {
 ,"warabimochi" : "ワラビモチー"
 ,"waretama" : "われたま。"
 ,"warheads" : "WARHEADS"
+,"waribashi kouka" : "割り箸効果"
 ,"warp loop" : "WARP LOOP"
 ,"washokudeniku." : "和食で肉。"
 ,"wasre kaban" : "忘れカバン"
@@ -14126,6 +14169,7 @@ var group_ejdic = {
 ,"yamamoto j.k" : "山本J・K"
 ,"yamanashi musume." : "やまなし娘。"
 ,"yami ni ugomeku" : "闇に蠢く"
+,"yamitsuki honpo" : "やみつき本舗"
 ,"yamitsuki koubou" : "闇憑キ工房"
 ,"yamo7" : "ヤモセブン"
 ,"yanasegawabeya" : "柳瀬川部屋"
@@ -14255,6 +14299,7 @@ var series_ejdic = {
 ,"07-ghost" : "07-GHOST"
 ,"1 plus 2 equals paradise" : "1+2=パラダイス"
 ,"10 carat torte" : "天からトルテ!"
+,"100 ai love you" : "100%愛・ラブ・ユー"
 ,"1000-chan" : "1000ちゃん"
 ,"11eyes" : "11eyes -罪と罰と贖いの少女-"
 ,"13 sentinels aegis rim" : "十三機兵防衛圏"
@@ -14418,6 +14463,7 @@ var series_ejdic = {
 ,"aquarion" : "創聖のアクエリオン"
 ,"aquarion evol" : "アクエリオンEVOL"
 ,"aquarion logos" : "アクエリオンロゴス"
+,"ar nosurge" : "アルノサージュ"
 ,"ar tonelico" : "アルトネリコ"
 ,"ar tonelico qoga" : ["アルトネリコ3", "アルトネリコ3 世界終焉の引鉄は少女の詩が弾く"]
 ,"arakawa under the bridge" : "荒川アンダー ザ ブリッジ"
@@ -14504,6 +14550,7 @@ var series_ejdic = {
 ,"baby steps" : "Baby Steps"
 ,"baccano" : "バッカーノ！"
 ,"backbeard-sama ga miteru" : "バックベアード様がみてる"
+,"bad girl" : "ばっどがーる"
 ,"bagi the monster of mighty nature" : "大自然の魔獣バギ"
 ,"bahamut lagoon" : "バハムートラグーン"
 ,"baka to test to shoukanjuu" : "バカとテストと召喚獣"
@@ -14735,6 +14782,7 @@ var series_ejdic = {
 ,"chaos child" : "CHAOS;CHILD"
 ,"chaos code" : "カオスコード"
 ,"chaos head" : "CHAOS;HEAD"
+,"chaos zero nightmare" : "カオスゼロナイトメア"
 ,"charisma" : "超人的シェアハウスストーリー『カリスマ』"
 ,"charlotte" : "Charlotte"
 ,"chibi vampire" : "かりん"
@@ -14762,11 +14810,13 @@ var series_ejdic = {
 ,"chrono cross" : "クロノ・クロス"
 ,"chrono crusade" : "クロノクルセイド"
 ,"chrono trigger" : "クロノ・トリガー"
+,"chunithm" : "チュウニズム"
 ,"chuunibyou demo koi ga shitai" : "中二病でも恋がしたい！"
 ,"ciel nosurge" : "シェルノサージュ～失われた星へ捧ぐ詩～"
 ,"cinderella" : "シンデレラ"
 ,"cinderella blade" : "シンデレラブレイド"
 ,"cinnamoroll" : "シナモロール"
+,"city" : "CITY"
 ,"city hunter" : "シティーハンター"
 ,"clannad" : "CLANNAD"
 ,"class of heroes" : "剣と魔法と学園モノ。"
@@ -16072,6 +16122,7 @@ var series_ejdic = {
 ,"lost ark" : "LOST ARK"
 ,"lost universe" : "ロストユニバース"
 ,"lotte no omocha" : "ロッテのおもちゃ!"
+,"love and deepspace" : "恋と深空"
 ,"love cube" : "Love³ -ラヴキューブ-"
 ,"love hina" : "ラブひな"
 ,"love lab" : "恋愛ラボ"
@@ -16271,6 +16322,7 @@ var series_ejdic = {
 ,"men in black" : "メン・イン・ブラック"
 ,"merc storia" : ["メルクストーリア", "メルクストーリア - 癒術士と鐘の音色 -"]
 ,"mermaid melody pichi pichi pitch" : "マーメイドメロディーぴちぴちピッチ"
+,"metal and lace" : "人形使い"
 ,"metal armor dragonar" : "機甲戦記ドラグナー"
 ,"metal fighter miku" : "メタルファイター・MIKU"
 ,"metal gear solid" : "メタルギアソリッド"
@@ -16280,6 +16332,9 @@ var series_ejdic = {
 ,"metaphor refantazio" : "メタファー:リファンタジオ"
 ,"metroid" : "メトロイド"
 ,"mewkledreamy" : "ミュークルドリーミー"
+,"mezzo forte" : "MEZZO FORTE"
+,"michiko to hatchin" : "ミチコとハッチン"
+,"microman" : "ミクロマン"
 ,"midnight girls" : "ミッドナイトガールズ"
 ,"midnight panther" : "ミッドナイトパンサー"
 ,"midori no hibi" : "美鳥の日々"
@@ -16353,6 +16408,7 @@ var series_ejdic = {
 ,"mousou kagaku series wandaba style" : "妄想科学シリーズ ワンダバスタイル"
 ,"mouthwashing" : "Mouthwashing"
 ,"moyashimon" : "もやしもん"
+,"mr. driller" : "ミスタードリラー"
 ,"muchi muchi pork" : "むちむちポーク！"
 ,"mugen senshi valis" : "夢幻戦士ヴァリス"
 ,"muhyo to rouji no mahouritsu soudan jimusho" : "ムヒョとロージーの魔法律相談事務所"
@@ -16433,6 +16489,7 @@ var series_ejdic = {
 ,"nier" : "NieR"
 ,"nier automata" : "NieR：Automata"
 ,"nige jouzu no wakagimi" : "逃げ上手の若君"
+,"night in the woods" : "Night in the Woods"
 ,"night shift nurses" : "夜勤病棟"
 ,"night wizard" : "ナイトウィザード"
 ,"nijisanji" : "にじさんじ"
@@ -16446,6 +16503,7 @@ var series_ejdic = {
 ,"nisekoi" : "ニセコイ"
 ,"nishikida keibu wa dorobou ga osuki" : "錦田警部はどろぼうがお好き"
 ,"no game no life" : "ノーゲーム・ノーライフ"
+,"no im not a human" : "No, I'm not a Human"
 ,"no more heroes" : "ノーモア★ヒーローズ"
 ,"no. 6" : "NO.6"
 ,"no.1 sentai gozyuger" : "ナンバーワン戦隊ゴジュウジャー"
@@ -16461,6 +16519,7 @@ var series_ejdic = {
 ,"no-rin" : "のうりん"
 ,"nu carnival" : "NU：カーニバル"
 ,"nue no onmyouji" : "鵺の陰陽師"
+,"nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka" : "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？"
 ,"nurarihyon no mago" : "ぬらりひょんの孫"
 ,"nurse angel ririka sos" : "ナースエンジェルりりかSOS"
 ,"nurse witch komugi" : "ナースウィッチ小麦ちゃん"
@@ -16796,6 +16855,7 @@ var series_ejdic = {
 ,"rokka no yuusha" : "六花の勇者"
 ,"rokudenashi majutsu koushi to akashic records" : "ロクでなし魔術講師と禁忌教典"
 ,"rokujouma no shinryakusha" : "六畳間の侵略者！？"
+,"rokushin gattai godmars" : "六神合体ゴッドマーズ"
 ,"ro-kyu-bu" : "ロウきゅーぶ!"
 ,"romance of the three kingdoms" : "三國志演義"
 ,"romancing saga" : "ロマンシング サ・ガ"
@@ -17043,6 +17103,7 @@ var series_ejdic = {
 ,"shuumatsu no izetta" : "終末のイゼッタ"
 ,"shuumatsu no valkyrie" : "終末のワルキューレ"
 ,"shuusen no lorelei" : "終戦のローレライ"
+,"shy" : "SHY-シャイ-"
 ,"signalis" : "SIGNALIS"
 ,"silent hill" : "サイレントヒル"
 ,"silent mobius" : "サイレントメビウス"
@@ -17151,6 +17212,7 @@ var series_ejdic = {
 ,"steel angel kurumi" : "鋼鉄天使くるみ"
 ,"steinsgate" : "STEINS;GATE"
 ,"stella glow" : "ステラ グロウ"
+,"stella sora" : "ステラソラ"
 ,"stellar blade" : "Stellar Blade"
 ,"steven universe" : "スティーブン・ユニバース"
 ,"stop hibari-kun" : "ストップ!! ひばりくん!"
@@ -17462,6 +17524,7 @@ var series_ejdic = {
 ,"tree of savior" : "Tree of Savior"
 ,"triage x" : "トリアージX"
 ,"triangle heart" : "とらいあんぐるハート"
+,"trickcal revive" : "トリッカル・もちもちほっぺ大作戦"
 ,"triggerheart exelica" : "トリガーハート エグゼリカ"
 ,"trigun" : "トライガン"
 ,"trinity seven" : "スローループ"
@@ -17628,6 +17691,7 @@ var series_ejdic = {
 ,"wingman" : "ウィングマン"
 ,"winnie the pooh" : "クマのプーさん"
 ,"witch craft works" : "ウィッチクラフトワークス"
+,"witch watch" : "ウィッチウォッチ"
 ,"witchblade" : "ウィッチブレイド"
 ,"witchs weapon" : "Witch's Weapon -魔女兵器"
 ,"with you" : "With You"
@@ -17643,6 +17707,7 @@ var series_ejdic = {
 ,"wonderland wars" : "Wonderland Wars"
 ,"words worth" : "ワーズ・ワース"
 ,"working" : "WORKING!!!"
+,"world dai star" : "ワールドダイスター"
 ,"world flipper" : "ワールドフリッパー"
 ,"world heroes" : "ワールドヒーローズ"
 ,"world masterpiece theater" : "世界名作劇場"
@@ -17741,7 +17806,7 @@ var series_ejdic = {
 ,"yuusha no kuse ni namaiki da" : "勇者のくせになまいきだ。"
 ,"yuusha party o tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau" : "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う"
 ,"yuusha raideen" : "勇者ライディーン"
-,"yuusha to maou" : "まおゆう魔王勇者"
+,"yuusha to maou no yojouhan" : "勇者と魔王の四畳半"
 ,"yuyushiki" : "ゆゆ式"
 ,"z slash x" : "Z/X -Zillions of enemy X-"
 ,"zambot 3" : "無敵超人ザンボット3"
@@ -17751,6 +17816,8 @@ var series_ejdic = {
 ,"zeikin de katta hon" : "税金で買った本"
 ,"zenkoku seifuku bishoujo grand prix" : "全国制服美少女グランプリ"
 ,"zenless zone zero" : "ゼンレスゾーンゼロ"
+,"zenryoku kaihi flag-chan" : "全力回避フラグちゃん！"
+,"zero divide" : "ゼロ・ディバイド"
 ,"zero kara hajimeru mahou no sho" : "ゼロから始める魔法の書"
 ,"zero no tsukaima" : "ゼロの使い魔"
 ,"zeroin" : "ゼロイン"
@@ -18919,7 +18986,6 @@ var tags_ejdic = {
 ,"shota scratch 10 fluffy 1" : {n:"第10回 ショタスクラッチ"}
 ,"shota scratch 11" : {n:"第11回 ショタスクラッチ"}
 ,"shota scratch 12" : {n:"第12回 ショタスクラッチ"}
-,"fluffy 2" : {n:"第13回 ショタスクラッチ"}
 ,"shota scratch 13" : {n:"第13回 ショタスクラッチ"}
 ,"shota scratch 13 fluffy 2" : {n:"第13回 ショタスクラッチ"}
 ,"shota scratch 14" : {n:"第14回 ショタスクラッチ"}
@@ -19046,8 +19112,8 @@ var tags_ejdic = {
 ,"futaket 32" : {n:"ふたけっと 32"}
 ,"futaket 33" : {n:"ふたけっと 33"}
 ,"futaket 34" : {n:"ふたけっと 34"}
-,"futaket34" : {n:"ふたけっと 34"}
 ,"ふたけっと34" : {n:"ふたけっと 34"}
+,"futaket 35" : {n:"ふたけっと 35"}
 ,"futaket 04" : {n:"ふたけっと 4"}
 ,"futaket 4" : {n:"ふたけっと 4"}
 ,"futaket 05" : {n:"ふたけっと 5"}
@@ -19145,7 +19211,9 @@ var tags_ejdic = {
 ,"boys parade 4" : {n:"ぼーいず☆パレード 4"}
 ,"boys parade 5" : {n:"ぼーいず☆パレード 5"}
 ,"boys parade 6" : {n:"ぼーいず☆パレード 6"}
+,"boys parade 7" : {n:"ぼーいず☆パレード 7"}
 ,"boys parade osaka 4" : {n:"ぼーいず☆パレード 大阪4"}
+,"boys parade in nagoya" : {n:"ぼーいず☆パレード 名古屋"}
 ,"dai-2-kai pocharism" : {n:"第二回ぽちゃリズム"}
 ,"nikuket" : {n:"にくけっと"}
 ,"nikuket 10" : {n:"にくけっと10"}
@@ -19785,6 +19853,7 @@ var tags_ejdic = {
 ,"sougetsusai 53" : {n:"蒼月祭 53"}
 ,"sougetsusai 9" : {n:"蒼月祭 9"}
 ,"chou kimi no sentaku 2022" : {n:"超きみの選択。 2022"}
+,"chou kimi no sentaku.2023" : {n:"超きみの選択。 2023"}
 ,"kono koe todoke, tsuki made mo go" : {n:"この声届け、月までも五"}
 ,"kono koe todoke, tsuki made mo san" : {n:"この声届け、月までも三"}
 ,"kono koe todoke, tsuki made mo yon" : {n:"この声届け、月までも四"}
@@ -20778,6 +20847,7 @@ var tags_ejdic = {
 ,"kokuin no hokori 9" : {n:"刻印の誇り 9"}
 ,"chou kokuin no hokori 2020" : {n:"超刻印の誇り 2020"}
 ,"chou kokuin no hokori 2021" : {n:"超刻印の誇り 2021"}
+,"chou kokuin no hokori 2025" : {n:"超刻印の誇り 2025"}
 ,"glorious glaivy" : {n:"GLORIOUS GLAIVY"}
 ,"glorious glaivy 2" : {n:"GLORIOUS GLAIVY 2"}
 ,"princess festa" : {n:"プリンセス☆フェスタ"}
@@ -21003,6 +21073,8 @@ var tags_ejdic = {
 ,"akogare ga tomaranai 20-soume" : {n:"あこがれがとまらない20層目"}
 ,"akogare ga tomaranai 21-soume" : {n:"あこがれがとまらない21層目"}
 ,"akogare ga tomaranai 22-soume" : {n:"あこがれがとまらない22層目"}
+,"akogare ga tomaranai 23-soume" : {n:"あこがれがとまらない23層目"}
+,"akogare ga tomaranai 24-soume" : {n:"あこがれがとまらない24層目"}
 ,"akogare ga tomaranai 2-soume" : {n:"あこがれがとまらない2層目"}
 ,"akogare ga tomaranai 3-soume" : {n:"あこがれがとまらない3層目"}
 ,"akogare ga tomaranai 4-soume" : {n:"あこがれがとまらない4層目"}
@@ -21113,6 +21185,7 @@ var tags_ejdic = {
 ,"bokura no love live! 44" : {n:"僕らのラブライブ！ 44"}
 ,"bokura no love live! 45" : {n:"僕らのラブライブ！ 45"}
 ,"bokura no love live! 46" : {n:"僕らのラブライブ！ 46"}
+,"bokura no love live! 47" : {n:"僕らのラブライブ！ 47"}
 ,"bokura no love live! 5" : {n:"僕らのラブライブ！ 5"}
 ,"bokura no love live! 6" : {n:"僕らのラブライブ！ 6"}
 ,"bokura no love live! 7" : {n:"僕らのラブライブ！ 7"}
@@ -22469,6 +22542,7 @@ var tags_ejdic = {
 ,"gouyoku de kenkyo na event turn16" : {n:"強欲で謙虚なイベント TURN16"}
 ,"gouyokude kenkyona event turn16" : {n:"強欲で謙虚なイベント TURN16"}
 ,"gouyoku de kenkyo na event turn17" : {n:"強欲で謙虚なイベント TURN17"}
+,"gouyoku de kenkyo na event turn18" : {n:"強欲で謙虚なイベント TURN18"}
 ,"gouyoku de kenkyo na event turn4" : {n:"強欲で謙虚なイベント TURN4"}
 ,"gouyoku de kenkyo na event turn7" : {n:"強欲で謙虚なイベント TURN7"}
 ,"gouyoku de kenkyo na event turn8 battle phase" : {n:"強欲で謙虚なイベント TURN8 バトルフェイズ"}
@@ -22552,6 +22626,7 @@ var tags_ejdic = {
 ,"spark9" : {n:"COMIC CITY SPARK 9"}
 ,"comic city vega 2024" : {n:"COMIC CITY VEGA 2024"}
 ,"comic city vega 2025" : {n:"COMIC CITY VEGA 2025"}
+,"comic city vega online" : {n:"COMIC CITY VEGA online"}
 ,"cckobe61" : {n:"COMIC CITY 神戸 61"}
 ,"cckobe64" : {n:"COMIC CITY 神戸 64"}
 ,"cckobe 69" : {n:"COMIC CITY 神戸 69"}
@@ -22706,6 +22781,7 @@ var tags_ejdic = {
 ,"ccfukuoka56" : {n:"COMIC CITY 福岡 56"}
 ,"ccfukuoka59" : {n:"COMIC CITY 福岡 59"}
 ,"ccfukuoka60" : {n:"COMIC CITY 福岡 60"}
+,"comic city fukuoka 60" : {n:"COMIC CITY 福岡 60"}
 ,"cc fukuoka 61" : {n:"COMIC CITY 福岡 61"}
 ,"ccfukuoka61" : {n:"COMIC CITY 福岡 61"}
 ,"ccfukuoka62" : {n:"COMIC CITY 福岡 62"}
@@ -22746,6 +22822,7 @@ var tags_ejdic = {
 ,"harucc21" : {n:"HARU COMIC CITY 21"}
 ,"haru comic city 22" : {n:"HARU COMIC CITY 22"}
 ,"harucc22" : {n:"HARU COMIC CITY 22"}
+,"haru comic city 23" : {n:"HARU COMIC CITY 23"}
 ,"harucc23" : {n:"HARU COMIC CITY 23"}
 ,"harucc24" : {n:"HARU COMIC CITY 24"}
 ,"harucc24 tokyo" : {n:"HARU COMIC CITY 24 東京"}
@@ -22895,6 +22972,7 @@ var tags_ejdic = {
 ,"comic1☆24" : {n:"COMIC1☆24"}
 ,"comic1☆25" : {n:"COMIC1☆25"}
 ,"comic1☆26" : {n:"COMIC1☆26"}
+,"comic1☆27" : {n:"COMIC1☆27"}
 ,"comic1☆03" : {n:"COMIC1☆3"}
 ,"comic1☆3" : {n:"COMIC1☆3"}
 ,"(comic1☆4" : {n:"COMIC1☆4"}
@@ -23153,6 +23231,7 @@ var tags_ejdic = {
 ,"ct44" : {n:"こみトレ44"}
 ,"comic treasure 45" : {n:"こみトレ45"}
 ,"ct45" : {n:"こみトレ45"}
+,"ct46" : {n:"こみトレ46"}
 ,"ct5" : {n:"こみトレ5"}
 ,"ct6" : {n:"こみトレ6"}
 ,"ct7" : {n:"こみトレ7"}
@@ -23177,14 +23256,15 @@ var tags_ejdic = {
 ,"c102" : {n:"C102"}
 ,"c103" : {n:"C103"}
 ,"c104" : {n:"C104"}
-,"comic104" : {n:"C104"}
 ,"c105" : {n:"C105"}
 ,"c106" : {n:"C106"}
+,"c107" : {n:"C107"}
 ,"c11" : {n:"C11"}
 ,"c12" : {n:"C12"}
 ,"c14" : {n:"C14"}
 ,"c19" : {n:"C19"}
 ,"c21" : {n:"C21"}
+,"c23" : {n:"C23"}
 ,"c24" : {n:"C24"}
 ,"c26" : {n:"C26"}
 ,"c27" : {n:"C27"}
@@ -23358,6 +23438,7 @@ var tags_ejdic = {
 ,"comitia151" : {n:"コミティア 151"}
 ,"comitia152" : {n:"コミティア 152"}
 ,"comitia153" : {n:"コミティア 153"}
+,"comitia154" : {n:"コミティア 154"}
 ,"comitia27" : {n:"コミティア 27"}
 ,"comitia29" : {n:"コミティア 29"}
 ,"comitia33" : {n:"コミティア 33"}
@@ -23469,6 +23550,7 @@ var tags_ejdic = {
 ,"dai 3-kai akihabara \"chou\" doujinsai+" : {n:"第3回秋葉原「超」同人祭＋"}
 ,"dai 4-kai akihabara \"chou\" doujinsai+" : {n:"第4回秋葉原「超」同人祭＋"}
 ,"dai 4-kai akihabara \"chou\" doujin-sai+" : {n:"第4回秋葉原「超」同人祭＋"}
+,"dai 5-kai akihabara \"chou\" doujin-sai+" : {n:"第5回秋葉原「超」同人祭＋"}
 ,"fuyu no doujinsai 2022" : {n:"冬の同人祭 2022"}
 ,"seoul comicw" : {n:"SEOUL COMIC WORLD"}
 ,"seoul comicw112" : {n:"SEOUL COMIC WORLD112"}
@@ -23603,8 +23685,8 @@ var chars_ejdic = {
 ,"naruto uzumaki" : {v:"うずまきナルト"}
 ,"sanae kochiya" : {v:"東風谷早苗"}
 ,"flandre scarlet" : {v:"フランドール・スカーレット"}
-,"tifa lockhart" : {v:"ティファ・ロックハート"}
 ,"asuna yuuki" : {v:"結城明日奈"}
+,"tifa lockhart" : {v:"ティファ・ロックハート"}
 ,"rito yuuki" : {v:"結城梨斗"}
 ,"remilia scarlet" : {v:"レミリア・スカーレット"}
 ,"marisa kirisame" : {v:"霧雨魔理沙"}
@@ -23613,42 +23695,42 @@ var chars_ejdic = {
 ,"kazuto kirigaya" : {v:"桐ヶ谷和人"}
 ,"shirou emiya" : {v:"衛宮士郎"}
 ,"atago" : {v:"愛宕", m:{"azur lane" : "愛宕(IJN Atago)"}}
-,"mai shiranui" : {v:"不知火舞"}
 ,"sailor mercury" : {v:"水野亜美(セーラーマーキュリー)"}
+,"mai shiranui" : {v:"不知火舞"}
 ,"illyasviel von einzbern" : {v:"イリヤスフィール・フォン・アインツベルン"}
 ,"shimakaze" : {v:"島風", m:{"azur lane" : "島風(IJN Shimakaze)"}}
-,"sakura haruno" : {v:"春野サクラ"}
 ,"jeanne alter" : {v:"ジャンヌ［オルタ］"}
+,"sakura haruno" : {v:"春野サクラ"}
 ,"sakura kinomoto" : {v:"木之本桜"}
 ,"gudako" : {v:"ぐだ子"}
 ,"alice margatroid" : {v:"アリス・マーガトロイド"}
 ,"yukari yakumo" : {v:"八雲紫"}
 ,"sailor moon" : {v:"月野うさぎ(セーラームーン)"}
 ,"hinata hyuga" : {v:"日向ヒナタ"}
-,"nanoha takamachi" : {v:"高町なのは"}
 ,"minamoto no raikou" : {v:"源頼光"}
+,"nanoha takamachi" : {v:"高町なのは"}
 ,"rin tosaka" : {v:"遠坂凛"}
 ,"aya shameimaru" : {v:"射命丸文"}
-,"satori komeiji" : {v:"古明地さとり"}
-,"ganyu" : {v:"甘雨"}
 ,"asuna ichinose" : {v:"一之瀬アスナ"}
-,"reisen udongein inaba" : {v:"鈴仙・優曇華院・イナバ"}
+,"ganyu" : {v:"甘雨"}
+,"satori komeiji" : {v:"古明地さとり"}
 ,"sailor jupiter" : {v:"木野まこと(セーラージュピター)"}
-,"kaga" : {v:"加賀", m:{"azur lane" : "加賀(IJN Kaga)"}}
+,"reisen udongein inaba" : {v:"鈴仙・優曇華院・イナバ"}
 ,"saber" : {v:"セイバー"}
 ,"tsunade" : {v:"綱手"}
+,"kaga" : {v:"加賀", m:{"azur lane" : "加賀(IJN Kaga)"}}
+,"yuuka hayase" : {v:"早瀬ユウカ"}
 ,"nico robin" : {v:"ニコ・ロビン"}
 ,"kasumi" : {v:"カスミ", m:{"kantai collection" : "霞", "blue archive" : "鬼怒川カスミ", "azur lane" : "霞(IJN Kasumi)", "dead or alive" : "霞"}}
-,"yuuka hayase" : {v:"早瀬ユウカ"}
 ,"kashima" : {v:"鹿島"}
-,"youmu konpaku" : {v:"魂魄妖夢"}
-,"mikoto misaka" : {v:"御坂美琴"}
-,"takao" : {v:"高雄", m:{"azur lane" : "高雄(IJN Takao)"}}
-,"artoria pendragon" : {v:"アルトリア・ペンドラゴン"}
 ,"miku hatsune" : {v:"初音ミク"}
-,"jeanne darc" : {v:"ジャンヌ・ダルク", m:{"azur lane" : "ジャンヌ・ダルク(FFNF Jeanne D'Arc)", "granblue fantasy" : "ジャンヌダルク"}}
 ,"sailor mars" : {v:"火野レイ(セーラーマーズ)"}
+,"youmu konpaku" : {v:"魂魄妖夢"}
+,"artoria pendragon" : {v:"アルトリア・ペンドラゴン"}
+,"mikoto misaka" : {v:"御坂美琴"}
 ,"aether" : {v:"空"}
+,"takao" : {v:"高雄", m:{"azur lane" : "高雄(IJN Takao)"}}
+,"jeanne darc" : {v:"ジャンヌ・ダルク", m:{"azur lane" : "ジャンヌ・ダルク(FFNF Jeanne D'Arc)", "granblue fantasy" : "ジャンヌダルク"}}
 ,"izuku midoriya" : {v:"緑谷出久"}
 ,"sailor venus" : {v:"愛野美奈子(セーラービーナス)"}
 ,"raiden shogun" : {v:"雷電将軍"}
@@ -23666,1620 +23748,1629 @@ var chars_ejdic = {
 ,"homura akemi" : {v:"暁美ほむら"}
 ,"momiji inubashiri" : {v:"犬走椛"}
 ,"rin shibuya" : {v:"渋谷凛"}
-,"haruhi suzumiya" : {v:"涼宮ハルヒ"}
+,"lumine" : {v:"蛍"}
 ,"kazuma satou" : {v:"佐藤和真"}
+,"haruhi suzumiya" : {v:"涼宮ハルヒ"}
 ,"arisu tachibana" : {v:"橘ありす"}
 ,"golden darkness" : {v:"金色の闇"}
-,"lumine" : {v:"蛍"}
 ,"touma kamijou" : {v:"上条当麻"}
-,"aqua" : {v:"アクア"}
-,"madoka kaname" : {v:"鹿目まどか"}
 ,"bb" : {v:"BB"}
+,"madoka kaname" : {v:"鹿目まどか"}
+,"aqua" : {v:"アクア"}
 ,"koyomi araragi" : {v:"阿良々木暦"}
 ,"katsuki bakugou" : {v:"爆豪勝己"}
 ,"kirino kousaka" : {v:"高坂桐乃"}
 ,"suguha kirigaya" : {v:"桐ヶ谷直葉"}
-,"belldandy" : {v:"ベルダンディー"}
 ,"kallen stadtfeld" : {v:"紅月カレン"}
+,"belldandy" : {v:"ベルダンディー"}
 ,"sena kashiwazaki" : {v:"柏崎星奈"}
-,"azusa nakano" : {v:"中野梓"}
 ,"chino kafuu" : {v:"香風智乃"}
 ,"hong meiling" : {v:"紅美鈴"}
+,"azusa nakano" : {v:"中野梓"}
 ,"mami tomoe" : {v:"巴マミ"}
+,"ran yakumo" : {v:"八雲藍"}
 ,"lelouch vi britannia" : {v:"ルルーシュ・ランペルージ"}
 ,"nico yazawa" : {v:"矢澤にこ"}
-,"ran yakumo" : {v:"八雲藍"}
 ,"djeeta" : {v:"ジータ"}
 ,"chloe von einzbern" : {v:"クロエ・フォン・アインツベルン"}
-,"rider" : {v:"ライダー"}
-,"eren jaeger" : {v:"エレン・イェーガー"}
 ,"toki asuma" : {v:"飛鳥馬トキ"}
+,"eren jaeger" : {v:"エレン・イェーガー"}
+,"rider" : {v:"ライダー"}
+,"houshou marine" : {v:"宝鐘マリン"}
 ,"nozomi tojo" : {v:"東條希"}
 ,"ayane" : {v:"綾音", m:{"nagasarete airantou" : "あやね"}}
 ,"nightingale" : {v:"ナイチンゲール"}
 ,"koakuma" : {v:"小悪魔"}
-,"houshou marine" : {v:"宝鐘マリン"}
-,"c.c." : {v:"C.C."}
 ,"hamakaze" : {v:"浜風", m:{"azur lane" : "浜風(IJN Hamakaze)"}}
+,"c.c." : {v:"C.C."}
 ,"ruri gokou" : {v:"五更瑠璃"}
+,"mika misono" : {v:"聖園ミカ"}
 ,"maya" : {v:"マヤ", m:{"kantai collection" : "摩耶", "azur lane" : "摩耶(IJN Maya)", "dragon quest iv" : "マーニャ", "dragon quest" : "マーニャ"}}
 ,"levi ackerman" : {v:"レヴィ・アッカーマン"}
 ,"suzuya" : {v:"鈴谷", m:{"azur lane" : "鈴谷(IJN Suzuya)"}}
+,"fern" : {v:"フェルン", m:{"pokemon" : "コージ"}}
 ,"yuuka kazami" : {v:"風見幽香"}
 ,"mika jougasaki" : {v:"城ヶ崎美嘉"}
-,"fern" : {v:"フェルン", m:{"pokemon" : "コージ"}}
 ,"suwako moriya" : {v:"洩矢諏訪子"}
+,"taihou" : {v:"大鳳", m:{"azur lane" : "大鳳(IJN Taihō)"}}
 ,"yae miko" : {v:"八重神子"}
 ,"yuyuko saigyouji" : {v:"西行寺幽々子"}
-,"taihou" : {v:"大鳳", m:{"azur lane" : "大鳳(IJN Taihō)"}}
 ,"kotori minami" : {v:"南ことり"}
-,"mika misono" : {v:"聖園ミカ"}
 ,"kodaka hasegawa" : {v:"羽瀬川小鷹"}
-,"yui kotegawa" : {v:"小手川唯"}
 ,"kongou" : {v:"金剛", m:{"azur lane" : "金剛(IJN Kongō)", "arpeggio of blue steel" : "コンゴウ"}}
-,"tomoyo daidouji" : {v:"大道寺知世"}
+,"yui kotegawa" : {v:"小手川唯"}
+,"hu tao" : {v:"胡桃"}
 ,"warrior" : {v:"戦士"}
+,"kisaki ryuuge" : {v:"竜華キサキ"}
+,"tomoyo daidouji" : {v:"大道寺知世"}
 ,"nagato" : {v:"長門", m:{"azur lane" : "長門(IJN Nagato)"}}
 ,"haruka nanase" : {v:"七瀬遙"}
 ,"sakura matou" : {v:"間桐桜"}
+,"karin kakudate" : {v:"角楯カリン"}
 ,"haruna" : {v:"榛名", m:{"azur lane" : "榛名(IJN Haruna)", "arpeggio of blue steel" : "ハルナ", "kore wa zombie desu ka" : "ハルナ"}}
-,"rika jougasaki" : {v:"城ヶ崎莉嘉"}
-,"hu tao" : {v:"胡桃"}
+,"marin kitagawa" : {v:"喜多川海夢"}
 ,"morrigan aensland" : {v:"モリガン・アーンスランド"}
 ,"orihime inoue" : {v:"井上織姫"}
+,"rika jougasaki" : {v:"城ヶ崎莉嘉"}
 ,"boa hancock" : {v:"ボア・ハンコック"}
-,"shuten douji" : {v:"酒吞童子"}
-,"marin kitagawa" : {v:"喜多川海夢"}
 ,"hina sorasaki" : {v:"空崎ヒナ"}
-,"bianca whitaker" : {v:"ビアンカ"}
+,"shuten douji" : {v:"酒吞童子"}
 ,"mona megistus" : {v:"モナ"}
-,"karin kakudate" : {v:"角楯カリン"}
-,"umi sonoda" : {v:"園田海未"}
-,"kisaki ryuuge" : {v:"竜華キサキ"}
-,"minami nitta" : {v:"新田美波"}
-,"makoto tachibana" : {v:"橘真琴"}
-,"miyu edelfelt" : {v:"美遊・エーデルフェルト"}
-,"ranma saotome" : {v:"早乙女らんま"}
 ,"ako amau" : {v:"天雨アコ"}
+,"bianca whitaker" : {v:"ビアンカ"}
+,"miyu edelfelt" : {v:"美遊・エーデルフェルト"}
+,"umi sonoda" : {v:"園田海未"}
+,"minami nitta" : {v:"新田美波"}
 ,"yamato" : {v:"大和", m:{"one piece" : "ヤマト", "naruto" : "ヤマト", "arpeggio of blue steel" : "ヤマト"}}
+,"makoto tachibana" : {v:"橘真琴"}
+,"ranma saotome" : {v:"早乙女らんま"}
 ,"fumika sagisawa" : {v:"鷺沢文香"}
-,"rangiku matsumoto" : {v:"松本乱菊"}
 ,"yor forger" : {v:"ヨル・フォージャー"}
+,"rangiku matsumoto" : {v:"松本乱菊"}
+,"hoshino takanashi" : {v:"小鳥遊ホシノ"}
+,"rio tsukatsuki" : {v:"調月リオ"}
 ,"miki hoshii" : {v:"星井美希"}
-,"ichika orimura" : {v:"織斑一夏"}
 ,"prinz eugen" : {v:"プリンツ・オイゲン", m:{"kantai collection" : "Prinz Eugen(プリンツ・オイゲン)", "azur lane" : "プリンツ・オイゲン(KMS Prinz Eugen)"}}
-,"yuki nagato" : {v:"長門有希"}
+,"ichika orimura" : {v:"織斑一夏"}
 ,"pyra" : {v:"ホムラ"}
+,"rosa" : {v:"ローザ", m:{"pokemon" : "メイ", "arknights" : "ロサ", "king of fighters" : "エル・ローザ", "dragon quest iv" : "ロザリー"}}
 ,"byakuren hijiri" : {v:"聖白蓮"}
 ,"kokkoro" : {v:"コッコロ"}
-,"rio tsukatsuki" : {v:"調月リオ"}
-,"rosa" : {v:"ローザ", m:{"pokemon" : "メイ", "arknights" : "ロサ", "king of fighters" : "エル・ローザ", "dragon quest iv" : "ロザリー"}}
+,"yuki nagato" : {v:"長門有希"}
 ,"shigure" : {v:"時雨", m:{"azur lane" : "時雨(IJN Shigure)", "hataage kemono michi" : "シグレ"}}
 ,"uzuki shimamura" : {v:"島村卯月"}
+,"keqing" : {v:"刻晴"}
 ,"rem" : {v:"レム"}
 ,"darkness" : {v:"ダクネス"}
-,"cirno" : {v:"チルノ"}
 ,"musashi miyamoto" : {v:"宮本武蔵"}
-,"hoshino takanashi" : {v:"小鳥遊ホシノ"}
-,"keqing" : {v:"刻晴"}
+,"cirno" : {v:"チルノ"}
 ,"link" : {v:"リンク"}
-,"takane shijou" : {v:"四条貴音"}
-,"charlotte dunois" : {v:"シャルロット・デュノア"}
-,"kyouko sakura" : {v:"佐倉杏子"}
-,"pecorine" : {v:"ぺコリーヌ"}
-,"abigail williams" : {v:"アビゲイル・ウィリアムズ"}
-,"tenshi hinanai" : {v:"比那名居天子"}
-,"mari iochi" : {v:"伊落マリー"}
-,"tamaki kousaka" : {v:"向坂環"}
 ,"noa ushio" : {v:"生塩ノア"}
-,"misato katsuragi" : {v:"葛城ミサト"}
-,"hibiki" : {v:"響", m:{"azur lane" : "響(IJN Hibiki)", "gundam build fighters try" : "ヒビキ"}}
-,"kyon" : {v:"キョン"}
-,"nitori kawashiro" : {v:"河城にとり"}
+,"abigail williams" : {v:"アビゲイル・ウィリアムズ"}
+,"mari iochi" : {v:"伊落マリー"}
+,"charlotte dunois" : {v:"シャルロット・デュノア"}
+,"takane shijou" : {v:"四条貴音"}
+,"pecorine" : {v:"ぺコリーヌ"}
+,"kyouko sakura" : {v:"佐倉杏子"}
 ,"frieren" : {v:"フリーレン"}
-,"may" : {v:"メイ", m:{"pokemon" : "ハルカ"}}
-,"hero" : {v:"ヒーロー(HMS Hero)", m:{"dragon quest iii" : "勇者", "dragon quest" : "勇者", "etrian odyssey" : "ヒーロー", "goblin slayer" : "ゴブリンスレイヤー", "omori" : "ヒロ"}}
-,"tamamo no mae" : {v:"玉藻の前"}
-,"yoruichi shihoin" : {v:"四楓院夜一"}
-,"cammy white" : {v:"キャミィ・ホワイト"}
-,"tenryuu" : {v:"天龍"}
+,"tenshi hinanai" : {v:"比那名居天子"}
+,"tamaki kousaka" : {v:"向坂環"}
 ,"sailor chibi moon" : {v:"ちびうさ(セーラーちびムーン)"}
 ,"hoshimachi suisei" : {v:"星街すいせい"}
+,"misato katsuragi" : {v:"葛城ミサト"}
+,"hibiki" : {v:"響", m:{"azur lane" : "響(IJN Hibiki)", "gundam build fighters try" : "ヒビキ"}}
+,"nitori kawashiro" : {v:"河城にとり"}
+,"kyon" : {v:"キョン"}
+,"may" : {v:"メイ", m:{"pokemon" : "ハルカ"}}
+,"yoruichi shihoin" : {v:"四楓院夜一"}
+,"hero" : {v:"ヒーロー(HMS Hero)", m:{"dragon quest iii" : "勇者", "dragon quest" : "勇者", "etrian odyssey" : "ヒーロー", "goblin slayer" : "ゴブリンスレイヤー", "omori" : "ヒロ"}}
+,"cammy white" : {v:"キャミィ・ホワイト"}
+,"tamamo no mae" : {v:"玉藻の前"}
+,"tenryuu" : {v:"天龍"}
+,"sailor saturn" : {v:"土萠ほたる(セーラーサターン)"}
+,"eula lawrence" : {v:"エウルア・ローレンス"}
+,"belfast" : {v:"ベルファスト", m:{"azur lane" : "ベルファスト(HMS Belfast)"}}
 ,"sakura kasugano" : {v:"春日野さくら"}
-,"nakoruru" : {v:"ナコルル"}
 ,"rin kaenbyou" : {v:"火焔猫燐"}
 ,"iori minase" : {v:"水瀬伊織"}
-,"belfast" : {v:"ベルファスト", m:{"azur lane" : "ベルファスト(HMS Belfast)"}}
-,"eula lawrence" : {v:"エウルア・ローレンス"}
-,"ruri hoshino" : {v:"ホシノ・ルリ"}
-,"sailor saturn" : {v:"土萠ほたる(セーラーサターン)"}
+,"nakoruru" : {v:"ナコルル"}
 ,"doctor" : {v:"ドクター"}
-,"honoka kosaka" : {v:"高坂穂乃果"}
+,"nekomata okayu" : {v:"猫又おかゆ"}
+,"ruri hoshino" : {v:"ホシノ・ルリ"}
+,"shenhe" : {v:"申鶴"}
 ,"cleric" : {v:"僧侶"}
 ,"utsuho reiuji" : {v:"霊烏路空"}
-,"nekomata okayu" : {v:"猫又おかゆ"}
-,"eirin yagokoro" : {v:"八意永琳"}
-,"lillie" : {v:"リーリエ"}
+,"honoka kosaka" : {v:"高坂穂乃果"}
 ,"momoka sakurai" : {v:"櫻井桃華"}
-,"shenhe" : {v:"申鶴"}
-,"momo velia deviluke" : {v:"モモ・ベリア・デビルーク"}
-,"yui hirasawa" : {v:"平沢唯"}
+,"lillie" : {v:"リーリエ"}
 ,"2b" : {v:"2B"}
 ,"cynthia" : {v:"シンシア", m:{"pokemon" : "シロナ"}}
+,"eirin yagokoro" : {v:"八意永琳"}
+,"momo velia deviluke" : {v:"モモ・ベリア・デビルーク"}
+,"hasumi hanekawa" : {v:"羽川ハスミ"}
+,"yui hirasawa" : {v:"平沢唯"}
+,"ayaka kamisato" : {v:"神里綾華"}
 ,"hestia" : {v:"ヘスティア"}
+,"sailor uranus" : {v:"天王はるか(セーラーウラヌス)"}
 ,"miho nishizumi" : {v:"西住みほ"}
 ,"sage" : {v:"賢者", m:{"ragnarok online" : "セージ", "sonic the hedgehog" : "セージ"}}
 ,"hachiman hikigaya" : {v:"比企谷八幡"}
-,"ayaka kamisato" : {v:"神里綾華"}
 ,"subaru natsuki" : {v:"ナツキ・スバル"}
 ,"mari illustrious makinami" : {v:"真希波・マリ・イラストリアス"}
-,"rin matsuoka" : {v:"松岡凛"}
 ,"narmaya" : {v:"ナルメア"}
+,"rin matsuoka" : {v:"松岡凛"}
 ,"nino nakano" : {v:"中野二乃"}
+,"firefly" : {v:"ホタル"}
 ,"lala satalin deviluke" : {v:"ララ・サタリン・デビルーク"}
-,"akagi" : {v:"赤城", m:{"azur lane" : "赤城(IJN Akagi)"}}
-,"sailor uranus" : {v:"天王はるか(セーラーウラヌス)"}
-,"hasumi hanekawa" : {v:"羽川ハスミ"}
 ,"nahida" : {v:"ナヒーダ"}
+,"akagi" : {v:"赤城", m:{"azur lane" : "赤城(IJN Akagi)"}}
+,"hitori gotou" : {v:"後藤ひとり"}
 ,"kuroko shirai" : {v:"白井黒子"}
 ,"rumia" : {v:"ルーミア"}
-,"firefly" : {v:"ホタル"}
+,"shirakami fubuki" : {v:"白上フブキ"}
 ,"mythra" : {v:"ミスラ", m:{"xenoblade chronicles 2" : "ヒカリ", "xenoblade" : "ヒカリ", "xenoblade chronicles 3" : "ヒカリ"}}
-,"hitori gotou" : {v:"後藤ひとり"}
-,"madoka higuchi" : {v:"樋口円香"}
 ,"mikasa ackerman" : {v:"ミカサ・アッカーマン"}
+,"madoka higuchi" : {v:"樋口円香"}
+,"makima" : {v:"マキマ"}
 ,"haruna sairenji" : {v:"西連寺春奈"}
 ,"tsumugi kotobuki" : {v:"琴吹紬"}
-,"dark magician girl" : {v:"ダークマジシャンガール"}
 ,"sasuke uchiha" : {v:"うちはサスケ"}
-,"shiho nishizumi" : {v:"西住しほ"}
 ,"sayaka miki" : {v:"美樹さやか"}
-,"kasen ibara" : {v:"茨木華扇"}
-,"shirakami fubuki" : {v:"白上フブキ"}
-,"makima" : {v:"マキマ"}
-,"mikuru asahina" : {v:"朝比奈ミクル"}
+,"shiho nishizumi" : {v:"西住しほ"}
+,"chisato nishikigi" : {v:"錦木千束"}
 ,"alice tendou" : {v:"天童アリス"}
+,"dark magician girl" : {v:"ダークマジシャンガール"}
+,"kasen ibara" : {v:"茨木華扇"}
+,"shiroko sunaookami" : {v:"砂狼シロコ"}
+,"mikuru asahina" : {v:"朝比奈ミクル"}
+,"princess zelda" : {v:"ゼルダ王女"}
+,"senritsu no tatsumaki" : {v:"戦慄のタツマキ"}
 ,"tewi inaba" : {v:"因幡てゐ"}
 ,"ritsu tainaka" : {v:"田井中律"}
-,"souji okita" : {v:"沖田総司", m:{"sengoku collection" : "白蓮・沖田総司"}}
 ,"archer" : {v:"アーチャー", m:{"pokemon" : "アポロ", "dragons crown" : "エルフ"}}
 ,"chie sasaki" : {v:"佐々木千枝"}
-,"chisato nishikigi" : {v:"錦木千束"}
-,"senritsu no tatsumaki" : {v:"戦慄のタツマキ"}
-,"miku nakano" : {v:"中野美玖"}
-,"lana" : {v:"ラナ", m:{"pokemon" : "スイレン", "mega man star force" : "ラーナ", "fire emblem genealogy of the holy war" : "ラーナ"}}
-,"princess zelda" : {v:"ゼルダ王女"}
-,"yoko ritona" : {v:"ヨーコ・リットナー"}
-,"red saber" : {v:"赤セイバー"}
-,"shiroko sunaookami" : {v:"砂狼シロコ"}
 ,"koharu shimoe" : {v:"下江コハル"}
-,"videl" : {v:"ビーデル"}
-,"athena asamiya" : {v:"麻宮アテナ"}
+,"lana" : {v:"ラナ", m:{"pokemon" : "スイレン", "mega man star force" : "ラーナ", "fire emblem genealogy of the holy war" : "ラーナ"}}
+,"souji okita" : {v:"沖田総司", m:{"sengoku collection" : "白蓮・沖田総司"}}
 ,"kafka" : {v:"カフカ"}
 ,"kazusa kyouyama" : {v:"杏山カズサ"}
+,"miku nakano" : {v:"中野美玖"}
+,"nilou" : {v:"ニィロウ"}
+,"yoko ritona" : {v:"ヨーコ・リットナー"}
+,"red saber" : {v:"赤セイバー"}
+,"ochako uraraka" : {v:"麗日お茶子"}
+,"focalors" : {v:"フォカロルス"}
+,"athena asamiya" : {v:"麻宮アテナ"}
+,"barbara pegg" : {v:"バーバラ"}
+,"videl" : {v:"ビーデル"}
+,"ash ketchum" : {v:"サトシ"}
 ,"serena" : {v:"セレナ"}
 ,"hayate yagami" : {v:"八神はやて"}
-,"ash ketchum" : {v:"サトシ"}
-,"ochako uraraka" : {v:"麗日お茶子"}
 ,"hatate himekaidou" : {v:"姫海棠はたて"}
-,"nilou" : {v:"ニィロウ"}
-,"barbara pegg" : {v:"バーバラ"}
-,"fujiwara no mokou" : {v:"藤原妹紅"}
-,"louise francoise le blanc de la valliere" : {v:"ルイズ・フランソワーズ・ル・ブラン・ド・ラ・ヴァリエール"}
-,"keine kamishirasawa" : {v:"上白沢慧音"}
-,"focalors" : {v:"フォカロルス"}
 ,"misty" : {v:"ミスティ", m:{"pokemon" : "カスミ"}}
+,"fujiwara no mokou" : {v:"藤原妹紅"}
+,"keine kamishirasawa" : {v:"上白沢慧音"}
+,"louise francoise le blanc de la valliere" : {v:"ルイズ・フランソワーズ・ル・ブラン・ド・ラ・ヴァリエール"}
 ,"lum" : {v:"ラム"}
+,"shinobu kochou" : {v:"胡蝶しのぶ"}
+,"hanako urawa" : {v:"浦和ハナコ"}
+,"ahri" : {v:"アーリ"}
 ,"inazuma" : {v:"電", m:{"azur lane" : "電(IJN Inazuma)"}}
 ,"kama" : {v:"カーマ"}
 ,"lunamaria hawke" : {v:"ルナマリア・ホーク"}
-,"chen" : {v:"橙(ちぇん)"}
-,"ahri" : {v:"アーリ"}
 ,"son goku" : {v:"孫悟空"}
-,"hanako urawa" : {v:"浦和ハナコ"}
+,"chen" : {v:"橙(ちぇん)"}
+,"hilichurl" : {v:"ヒルチャール"}
+,"oozora subaru" : {v:"大空スバル"}
 ,"gilgamesh" : {v:"ギルガメッシュ", m:{"tower of druaga" : "ギルガメス"}}
 ,"son gohan" : {v:"孫悟飯"}
-,"shinobu kochou" : {v:"胡蝶しのぶ"}
 ,"miria akagi" : {v:"赤城みりあ"}
 ,"kaede takagaki" : {v:"高垣楓"}
-,"maho nishizumi" : {v:"西住まほ"}
 ,"chi chi" : {v:"チチ"}
-,"kokoa hoto" : {v:"保登心愛"}
+,"maho nishizumi" : {v:"西住まほ"}
 ,"you watanabe" : {v:"渡辺曜"}
+,"kokoa hoto" : {v:"保登心愛"}
+,"bremerton" : {v:"ブレマートン", m:{"azur lane" : "ブレマートン(USS Bremerton)"}}
+,"kyaru" : {v:"キャル"}
 ,"riko sakurauchi" : {v:"桜内梨子"}
 ,"onpu segawa" : {v:"瀬川おんぷ"}
 ,"shoukaku" : {v:"翔鶴", m:{"azur lane" : "翔鶴(IJN Shōkaku)"}}
-,"hilichurl" : {v:"ヒルチャール"}
-,"kyaru" : {v:"キャル"}
 ,"yuuki" : {v:"ユウキ"}
-,"formidable" : {v:"フォーミダブル", m:{"azur lane" : "フォーミダブル(HMS Formidable)"}}
 ,"nue houjuu" : {v:"封獣ぬえ"}
-,"bremerton" : {v:"ブレマートン", m:{"azur lane" : "ブレマートン(USS Bremerton)"}}
-,"lacus clyne" : {v:"ラクス・クライン"}
+,"formidable" : {v:"フォーミダブル", m:{"azur lane" : "フォーミダブル(HMS Formidable)"}}
 ,"cure black" : {v:"美墨なぎさ(キュアブラック)"}
+,"lacus clyne" : {v:"ラクス・クライン"}
 ,"kagami hiiragi" : {v:"柊かがみ"}
-,"oozora subaru" : {v:"大空スバル"}
 ,"cattleya" : {v:"カトレア"}
-,"zuikaku" : {v:"瑞鶴", m:{"azur lane" : "瑞鶴(IJN Zuikaku)"}}
-,"isuzu sento" : {v:"千斗いすず"}
-,"hilda" : {v:"ヒルダ", m:{"pokemon" : "トウコ"}}
-,"misaki shokuhou" : {v:"食蜂操祈"}
-,"cecilia alcott" : {v:"セシリア・オルコット"}
 ,"morgan le fay" : {v:"ルガン・ル・フェ"}
-,"kagerou imaizumi" : {v:"今泉影狼"}
 ,"gardevoir" : {v:"サーナイト"}
-,"yukari yuzuki" : {v:"結月ゆかり"}
-,"samus aran" : {v:"サムス・アラン"}
-,"akatsuki" : {v:"暁", m:{"azur lane" : "暁(IJN Akatsuki)", "log horizon" : "アカツキ"}}
-,"shino asada" : {v:"朝田詩乃"}
-,"master roshi" : {v:"亀仙人"}
-,"amatsukaze" : {v:"天津風"}
-,"azusa miura" : {v:"三浦あずさ"}
-,"cure white" : {v:"雪城ほのか(キュアホワイト)"}
-,"monkey d. luffy" : {v:"モンキー・D・ルフィ"}
-,"rinko iori" : {v:"イオリ・リン子"}
+,"misaki shokuhou" : {v:"食蜂操祈"}
+,"zuikaku" : {v:"瑞鶴", m:{"azur lane" : "瑞鶴(IJN Zuikaku)"}}
+,"cecilia alcott" : {v:"セシリア・オルコット"}
+,"hilda" : {v:"ヒルダ", m:{"pokemon" : "トウコ"}}
 ,"shirogane noel" : {v:"白銀ノエル"}
-,"len kagamine" : {v:"鏡音レン"}
-,"ikazuchi" : {v:"雷", m:{"azur lane" : "雷(IJN Ikazuchi)"}}
+,"isuzu sento" : {v:"千斗いすず"}
+,"kagerou imaizumi" : {v:"今泉影狼"}
+,"samus aran" : {v:"サムス・アラン"}
+,"yukari yuzuki" : {v:"結月ゆかり"}
+,"akatsuki" : {v:"暁", m:{"azur lane" : "暁(IJN Akatsuki)", "log horizon" : "アカツキ"}}
+,"master roshi" : {v:"亀仙人"}
+,"shino asada" : {v:"朝田詩乃"}
+,"amatsukaze" : {v:"天津風"}
+,"cure white" : {v:"雪城ほのか(キュアホワイト)"}
 ,"fuyuko mayuzumi" : {v:"黛冬優子"}
-,"riesz" : {v:"リーズ"}
-,"bismarck" : {v:"ビスマルク", m:{"kantai collection" : "Bismarck(ビスマルク)", "azur lane" : "ビスマルク(KMS Bismarck)"}}
+,"len kagamine" : {v:"鏡音レン"}
+,"azusa miura" : {v:"三浦あずさ"}
+,"monkey d. luffy" : {v:"モンキー・D・ルフィ"}
 ,"mutsuki asagi" : {v:"浅黄ムツキ"}
-,"nene anegasaki" : {v:"姉ヶ崎寧々"}
-,"akiko minase" : {v:"水瀬秋子"}
-,"ritsuko akagi" : {v:"赤城リツコ"}
 ,"minato aqua" : {v:"湊あくあ"}
-,"saito hiraga" : {v:"平賀才人"}
+,"rinko iori" : {v:"イオリ・リン子"}
+,"sailor neptune" : {v:"海王みちる(セーラーネプチューン)"}
+,"ikazuchi" : {v:"雷", m:{"azur lane" : "雷(IJN Ikazuchi)"}}
+,"riesz" : {v:"リーズ"}
+,"kanna ogata" : {v:"尾刃カンナ"}
+,"jean gunnhildr" : {v:"ジン・グンヒルド"}
+,"akiko minase" : {v:"水瀬秋子"}
+,"bismarck" : {v:"ビスマルク", m:{"kantai collection" : "Bismarck(ビスマルク)", "azur lane" : "ビスマルク(KMS Bismarck)"}}
+,"nene anegasaki" : {v:"姉ヶ崎寧々"}
 ,"darjeeling" : {v:"ダージリン"}
+,"ritsuko akagi" : {v:"赤城リツコ"}
+,"saito hiraga" : {v:"平賀才人"}
+,"nonomi izayoi" : {v:"十六夜ノノミ"}
 ,"cagliostro" : {v:"カリオストロ"}
 ,"cloud strife" : {v:"クラウド・ストライフ"}
 ,"konata izumi" : {v:"泉こなた"}
+,"mallow" : {v:"マロウ", m:{"pokemon" : "マオ", "super mario brothers" : "マロ"}}
 ,"shinobu oshino" : {v:"忍野忍"}
 ,"doremi harukaze" : {v:"春風どれみ"}
-,"mallow" : {v:"マロウ", m:{"pokemon" : "マオ", "super mario brothers" : "マロ"}}
-,"jean gunnhildr" : {v:"ジン・グンヒルド"}
+,"sakamata chloe" : {v:"沙花叉クロヱ"}
 ,"jessica albert" : {v:"ゼシカ・アルバート"}
-,"kanna ogata" : {v:"尾刃カンナ"}
-,"sailor neptune" : {v:"海王みちる(セーラーネプチューン)"}
-,"nonomi izayoi" : {v:"十六夜ノノミ"}
 ,"akira kurusu" : {v:"来栖暁"}
-,"ro-500" : {v:"呂500"}
+,"bridget" : {v:"ブリジット"}
 ,"chiyuki kuwayama" : {v:"桑山千雪"}
 ,"dawn" : {v:"ドーン", m:{"pokemon" : "ヒカリ"}}
-,"bridget" : {v:"ブリジット"}
-,"tsubasa hanekawa" : {v:"羽川翼"}
+,"ro-500" : {v:"呂500"}
 ,"saren sasaki" : {v:"佐々木咲恋(サレン)"}
-,"unicorn" : {v:"ユニコーン", m:{"azur lane" : "ユニコーン(HMS Unicorn)"}}
-,"karamatsu matsuno" : {v:"松野カラ松"}
-,"sakamata chloe" : {v:"沙花叉クロヱ"}
 ,"artoria pendragon alter" : {v:"アルトリア・ペンドラゴン［オルタ］"}
+,"aru rikuhachima" : {v:"陸八幡アル"}
+,"karamatsu matsuno" : {v:"松野カラ松"}
+,"tsubasa hanekawa" : {v:"羽川翼"}
+,"kayoko onikata" : {v:"鬼方カヨコ"}
+,"saori joumae" : {v:"錠前サオリ"}
+,"unicorn" : {v:"ユニコーン", m:{"azur lane" : "ユニコーン(HMS Unicorn)"}}
 ,"mutsu" : {v:"陸奥", m:{"azur lane" : "陸奥(IJN Mutsu)"}}
 ,"chihaya kisaragi" : {v:"如月千早"}
 ,"cure beauty" : {v:"青木れいか(キュアビューティ)"}
-,"aru rikuhachima" : {v:"陸八幡アル"}
-,"rin hoshizora" : {v:"星空凛"}
 ,"ishtar" : {v:"イシュタル"}
-,"kayoko onikata" : {v:"鬼方カヨコ"}
+,"ellen joe" : {v:"エレン・ジョー"}
+,"rin hoshizora" : {v:"星空凛"}
 ,"meer campbell" : {v:"ミーア・キャンベル"}
+,"mordred pendragon" : {v:"モードレッド・ペンドラゴン"}
 ,"aerith gainsborough" : {v:"エアリス・ゲインズブール"}
+,"jigoku no fubuki" : {v:"地獄のフブキ"}
 ,"kiyohime" : {v:"清姫"}
+,"marnie" : {v:"マリィ", m:{"omoide no marnie" : "マーニー"}}
+,"ritsuko akizuki" : {v:"秋月律子"}
+,"yelan" : {v:"夜蘭"}
 ,"yuu narukami" : {v:"鳴上悠"}
 ,"ichigo kurosaki" : {v:"黒崎一護"}
-,"saori joumae" : {v:"錠前サオリ"}
-,"ritsuko akizuki" : {v:"秋月律子"}
-,"mordred pendragon" : {v:"モードレッド・ペンドラゴン"}
-,"hitagi senjougahara" : {v:"戦場ヶ原ひたぎ"}
-,"marnie" : {v:"マリィ", m:{"omoide no marnie" : "マーニー"}}
 ,"boudica" : {v:"ブーディカ"}
-,"jigoku no fubuki" : {v:"地獄のフブキ"}
-,"nazrin" : {v:"ナズーリン"}
+,"hitagi senjougahara" : {v:"戦場ヶ原ひたぎ"}
+,"ookami mio" : {v:"大神ミオ"}
 ,"yoshiko tsushima" : {v:"津島善子"}
+,"nazrin" : {v:"ナズーリン"}
+,"tokoyami towa" : {v:"常闇トワ"}
 ,"cure march" : {v:"緑川なお(キュアマーチ)"}
-,"yelan" : {v:"夜蘭"}
-,"ayase aragaki" : {v:"新垣あやせ"}
 ,"yui kusano" : {v:"草野優衣(ユイ)"}
+,"ayase aragaki" : {v:"新垣あやせ"}
 ,"komachi onozuka" : {v:"小野塚小町"}
+,"momo yaoyorozu" : {v:"八百万百"}
+,"yukihana lamy" : {v:"雪花ラミィ"}
+,"musashi" : {v:"武蔵", m:{"azur lane" : "武蔵(IJN Musashi)", "ganbare goemon" : "ムサシ"}}
 ,"makoto kikuchi" : {v:"菊地真"}
 ,"ranko kanzaki" : {v:"神崎蘭子"}
-,"musashi" : {v:"武蔵", m:{"azur lane" : "武蔵(IJN Musashi)", "ganbare goemon" : "ムサシ"}}
-,"alena" : {v:"アリーナ"}
-,"shinobu maehara" : {v:"前原しのぶ"}
-,"takaaki kouno" : {v:"河野貴明"}
-,"tokoyami towa" : {v:"常闇トワ"}
-,"cure peace" : {v:"黄瀬やよい(キュアピース)"}
+,"seia yurizono" : {v:"百合園セイア"}
 ,"emilia" : {v:"エミリア", m:{"houkago saikoro club" : "エミーリア"}}
+,"takaaki kouno" : {v:"河野貴明"}
+,"alena" : {v:"アリーナ"}
 ,"saber alter" : {v:"セイバー［オルタ］"}
+,"shinobu maehara" : {v:"前原しのぶ"}
+,"cure peace" : {v:"黄瀬やよい(キュアピース)"}
 ,"kanako yasaka" : {v:"八坂神奈子"}
-,"ookami mio" : {v:"大神ミオ"}
-,"shouko komi" : {v:"古見硝子"}
-,"ellen joe" : {v:"エレン・ジョー"}
-,"momo yaoyorozu" : {v:"八百万百"}
+,"kokomi sangonomiya" : {v:"珊瑚宮心海"}
 ,"mysterious heroine x" : {v:"謎のヒロインX"}
-,"yuffie kisaragi" : {v:"ユフィ・キサラギ"}
-,"iku nagae" : {v:"永江衣玖"}
+,"shouko komi" : {v:"古見硝子"}
 ,"suika ibuki" : {v:"伊吹萃香"}
 ,"index librorum prohibitorum" : {v:"インデックス"}
+,"yuffie kisaragi" : {v:"ユフィ・キサラギ"}
+,"iku nagae" : {v:"永江衣玖"}
 ,"lyfa" : {v:"リーファ"}
-,"yukihana lamy" : {v:"雪花ラミィ"}
-,"kokomi sangonomiya" : {v:"珊瑚宮心海"}
+,"sparkle" : {v:"花火"}
+,"chris yukine" : {v:"雪音クリス"}
+,"wise" : {v:"ワイズ", m:{"zenless zone zero" : "アキラ"}}
+,"gawr gura" : {v:"がうる・ぐら"}
 ,"naru narusegawa" : {v:"成瀬川なる"}
 ,"koume shirasaka" : {v:"白坂小梅"}
 ,"kobato hasegawa" : {v:"羽瀬川小鳩"}
+,"lucy heartfilia" : {v:"ルーシィ・ハートフィリア"}
 ,"meena" : {v:"ミネア", m:{"brave story" : "ミーナ"}}
 ,"rukia kuchiki" : {v:"朽木ルキア"}
-,"yuuichi aizawa" : {v:"相沢祐一"}
-,"ruiko saten" : {v:"佐天涙子"}
-,"gawr gura" : {v:"がうる・ぐら"}
-,"lei fang" : {v:"レイファン"}
-,"lucy heartfilia" : {v:"ルーシィ・ハートフィリア"}
 ,"rex" : {v:"レックス", m:{"animal crossing" : "サンデー"}}
-,"sparkle" : {v:"花火"}
-,"ino yamanaka" : {v:"山中いの"}
-,"chris yukine" : {v:"雪音クリス"}
-,"haruka amami" : {v:"天海春香"}
-,"eiki shiki" : {v:"四季映姫"}
-,"murasaki shion" : {v:"紫シオン"}
-,"itsuki nakano" : {v:"中野五月"}
-,"ushiwakamaru" : {v:"牛若丸"}
-,"yukiho hagiwara" : {v:"萩原雪歩"}
-,"wriggle nightbug" : {v:"リグル・ナイトバグ"}
-,"ichika nakano" : {v:"中野一花"}
-,"leonardo da vinci" : {v:"レオナルド・ダ・ヴィンチ"}
-,"rikka takanashi" : {v:"小鳥遊六花"}
-,"seia yurizono" : {v:"百合園セイア"}
-,"kogasa tatara" : {v:"多々良小傘"}
+,"ruiko saten" : {v:"佐天涙子"}
+,"yuuichi aizawa" : {v:"相沢祐一"}
+,"lei fang" : {v:"レイファン"}
 ,"nobara kugisaki" : {v:"釘崎野薔薇"}
+,"yukiho hagiwara" : {v:"萩原雪歩"}
+,"ino yamanaka" : {v:"山中いの"}
+,"murasaki shion" : {v:"紫シオン"}
 ,"rumi usagiyama" : {v:"兎山ルミ"}
+,"itsuki nakano" : {v:"中野五月"}
+,"eiki shiki" : {v:"四季映姫"}
+,"ushiwakamaru" : {v:"牛若丸"}
+,"haruka amami" : {v:"天海春香"}
+,"ichika nakano" : {v:"中野一花"}
+,"kogasa tatara" : {v:"多々良小傘"}
+,"leonardo da vinci" : {v:"レオナルド・ダ・ヴィンチ"}
+,"wriggle nightbug" : {v:"リグル・ナイトバグ"}
+,"rikka takanashi" : {v:"小鳥遊六花"}
 ,"junichi tachibana" : {v:"橘純一"}
 ,"murakumo" : {v:"叢雲", m:{"senran kagura" : "叢"}}
-,"hanayo koizumi" : {v:"小泉花陽"}
+,"ereshkigal" : {v:"エレシュキガル"}
 ,"hinagiku katsura" : {v:"桂ヒナギク"}
 ,"aiko senoo" : {v:"妹尾あいこ"}
-,"ereshkigal" : {v:"エレシュキガル"}
-,"anira" : {v:"アニラ"}
+,"hanayo koizumi" : {v:"小泉花陽"}
+,"robin" : {v:"ロビン", m:{"animal crossing" : "パーチク"}}
 ,"kaguya houraisan" : {v:"蓬莱山輝夜"}
 ,"sachiko koshimizu" : {v:"輿水幸子"}
-,"wise" : {v:"ワイズ", m:{"zenless zone zero" : "アキラ"}}
+,"anira" : {v:"アニラ"}
 ,"bell cranel" : {v:"ベル・クラネル"}
 ,"fumina hoshino" : {v:"ホシノ・フミナ"}
-,"robin" : {v:"ロビン", m:{"animal crossing" : "パーチク"}}
-,"ichimatsu matsuno" : {v:"松野一松"}
-,"skuld" : {v:"スクルド"}
 ,"yotsuba nakano" : {v:"中野四葉"}
+,"ichimatsu matsuno" : {v:"松野一松"}
 ,"yuri sakazaki" : {v:"ユリ・サカザキ"}
 ,"takagi" : {v:"高木"}
-,"yu takasaki" : {v:"高咲侑"}
-,"osakabehime" : {v:"刑部姫"}
+,"skuld" : {v:"スクルド"}
 ,"shizuku oikawa" : {v:"及川雫"}
-,"setsuna yuki" : {v:"優木せつ菜"}
 ,"takina inoue" : {v:"井ノ上たきな"}
-,"yuri" : {v:"ユリ", m:{"yu-gi-oh arc-v" : "ユーリ", "harvest moon" : "ユーリ"}}
-,"illustrious" : {v:"イラストリアス", m:{"azur lane" : "イラストリアス(HMS Illustrious)"}}
-,"kaworu nagisa" : {v:"渚カヲル"}
-,"roronoa zoro" : {v:"ロロノア・ゾロ"}
 ,"usada pekora" : {v:"兎田ぺこら"}
-,"erina nakiri" : {v:"薙切えりな"}
-,"anzu futaba" : {v:"双葉杏"}
-,"gloria" : {v:"グロリア", m:{"pokemon" : "ユウリ", "animal crossing" : "スワンソン"}}
-,"hoshikawa sara" : {v:"星川サラ"}
-,"lilith aensland" : {v:"リリス・アーンスランド"}
+,"osakabehime" : {v:"刑部姫"}
+,"yu takasaki" : {v:"高咲侑"}
 ,"asashio" : {v:"朝潮", m:{"azur lane" : "朝潮(IJN Asashio)"}}
-,"tomoe gozen" : {v:"巴御前"}
-,"satoru gojo" : {v:"五条悟"}
+,"setsuna yuki" : {v:"優木せつ菜"}
+,"caelus" : {v:"穹"}
+,"hoshikawa sara" : {v:"星川サラ"}
+,"yuri" : {v:"ユリ", m:{"yu-gi-oh arc-v" : "ユーリ", "harvest moon" : "ユーリ"}}
+,"kaworu nagisa" : {v:"渚カヲル"}
+,"illustrious" : {v:"イラストリアス", m:{"azur lane" : "イラストリアス(HMS Illustrious)"}}
+,"roronoa zoro" : {v:"ロロノア・ゾロ"}
 ,"st. louis" : {v:"セントルイス(USS St.Louis)"}
-,"neko musume" : {v:"ねこ娘"}
+,"erina nakiri" : {v:"薙切えりな"}
+,"tuxedo mask" : {v:"地場衛(タキシード仮面)"}
+,"anzu futaba" : {v:"双葉杏"}
+,"tsuki uzaki" : {v:"宇崎月"}
+,"gloria" : {v:"グロリア", m:{"pokemon" : "ユウリ", "animal crossing" : "スワンソン"}}
+,"hana uzaki" : {v:"宇崎花"}
+,"lilith aensland" : {v:"リリス・アーンスランド"}
+,"satoru gojo" : {v:"五条悟"}
+,"tomoe gozen" : {v:"巴御前"}
+,"plana" : {v:"プラナ"}
 ,"sister claire" : {v:"シスター・クレア"}
+,"lize helesta" : {v:"リゼ・ヘルエスタ"}
+,"reisalin stout" : {v:"ライザ(ライザリン・シュタウト)"}
+,"neko musume" : {v:"ねこ娘"}
+,"tsuyu asui" : {v:"蛙吹梅雨"}
+,"hata no kokoro" : {v:"秦こころ"}
 ,"yozora mikazuki" : {v:"三日月夜空"}
 ,"mayu sakuma" : {v:"佐久間まゆ"}
-,"hata no kokoro" : {v:"秦こころ"}
-,"miku maekawa" : {v:"前川みく"}
-,"tuxedo mask" : {v:"地場衛(タキシード仮面)"}
 ,"yuudachi" : {v:"夕立", m:{"azur lane" : "夕立(IJN Yūdachi)"}}
-,"hazuki fujiwara" : {v:"藤原はづき"}
-,"tsuki uzaki" : {v:"宇崎月"}
-,"tsuyu asui" : {v:"蛙吹梅雨"}
-,"hana uzaki" : {v:"宇崎花"}
-,"caelus" : {v:"穹"}
-,"reisalin stout" : {v:"ライザ(ライザリン・シュタウト)"}
-,"nodoka haramura" : {v:"原村和"}
-,"holo" : {v:"ホロ"}
 ,"iono" : {v:"ナンジャモ"}
-,"mizuho kazami" : {v:"風見みずほ"}
+,"miku maekawa" : {v:"前川みく"}
+,"hazuki fujiwara" : {v:"藤原はづき"}
+,"lucario" : {v:"ルカリオ"}
+,"midori saiba" : {v:"才羽ミドリ"}
+,"holo" : {v:"ホロ"}
+,"nodoka haramura" : {v:"原村和"}
+,"rin kagamine" : {v:"鏡音リン"}
 ,"yui yuigahama" : {v:"由比ヶ浜結衣"}
 ,"yuuta togashi" : {v:"富樫勇太"}
+,"amane kanata" : {v:"天音かなた"}
 ,"asuna kagurazaka" : {v:"神楽坂明日菜"}
-,"hotaru shidare" : {v:"枝垂ほたる"}
-,"rin kagamine" : {v:"鏡音リン"}
 ,"hibiki ganaha" : {v:"我那覇響"}
-,"lize helesta" : {v:"リゼ・ヘルエスタ"}
-,"plana" : {v:"プラナ"}
+,"hotaru shidare" : {v:"枝垂ほたる"}
+,"mizuho kazami" : {v:"風見みずほ"}
+,"neru mikamo" : {v:"美甘ネル"}
 ,"sirius" : {v:"シリウス", m:{"azur lane" : "シリアス(HMS Sirius)"}}
 ,"chika takami" : {v:"高海千歌"}
 ,"sagiri izumi" : {v:"和泉紗霧"}
-,"shizuku osaka" : {v:"桜坂しずく"}
 ,"dia kurosawa" : {v:"黒澤ダイヤ"}
 ,"hayate ayasaki" : {v:"綾崎ハヤテ"}
+,"shizuku osaka" : {v:"桜坂しずく"}
 ,"ichiro ogami" : {v:"大神一郎"}
-,"lucario" : {v:"ルカリオ"}
+,"tatsuta" : {v:"龍田"}
+,"arona" : {v:"アロナ"}
+,"lusamine" : {v:"ルザミーネ"}
+,"ushio" : {v:"潮"}
 ,"lanas mom" : {v:"スイレンママ"}
 ,"murrue ramius" : {v:"マリュー・ラミアス"}
-,"suzaku kururugi" : {v:"枢木スザク"}
-,"tatsuta" : {v:"龍田"}
-,"midori saiba" : {v:"才羽ミドリ"}
 ,"renko usami" : {v:"宇佐見蓮子"}
+,"suzaku kururugi" : {v:"枢木スザク"}
+,"hex maniac" : {v:"オカルトマニア"}
+,"murasaki shikibu" : {v:"紫式部"}
 ,"laura bodewig" : {v:"ラウラ・ボーデヴィッヒ"}
 ,"shouto todoroki" : {v:"轟焦凍"}
 ,"anastasia" : {v:"アナスタシア"}
-,"arona" : {v:"アロナ"}
-,"murasaki shikibu" : {v:"紫式部"}
-,"ushio" : {v:"潮"}
-,"kanan matsuura" : {v:"松浦果南"}
-,"lusamine" : {v:"ルザミーネ"}
-,"nera briscoletti" : {v:"フローラ"}
-,"vita" : {v:"ヴィータ", m:{"honkai gakuen" : "ヴィタ"}}
-,"hitomi" : {v:"ヒトミ"}
-,"akane tendo" : {v:"天道あかね"}
-,"byleth eisner" : {v:"ベレス=アイスナー"}
-,"neru mikamo" : {v:"美甘ネル"}
-,"shun sunohara" : {v:"春原シュン"}
-,"juri han" : {v:"ハン・ジュリ"}
-,"martina" : {v:"マルティナ"}
-,"sharo kirima" : {v:"桐間紗路"}
-,"amane kanata" : {v:"天音かなた"}
-,"ayumu uehara" : {v:"上原歩夢"}
-,"meguru hachimiya" : {v:"八宮めぐる"}
-,"mitsuri kanroji" : {v:"甘露寺蜜璃"}
-,"super sonico" : {v:"すーぱーそに子"}
 ,"baobhan sith" : {v:"バーヴァン・シー"}
-,"edward elric" : {v:"エドワード・エルリック"}
-,"cure twinkle" : {v:"天ノ川きらら(キュアトゥインクル)"}
-,"hex maniac" : {v:"オカルトマニア"}
-,"jack the ripper" : {v:"ジャック・ザ・リッパー"}
+,"shun sunohara" : {v:"春原シュン"}
+,"vita" : {v:"ヴィータ", m:{"honkai gakuen" : "ヴィタ"}}
+,"nera briscoletti" : {v:"フローラ"}
+,"kanan matsuura" : {v:"松浦果南"}
+,"mitsuri kanroji" : {v:"甘露寺蜜璃"}
+,"juri han" : {v:"ハン・ジュリ"}
+,"byleth eisner" : {v:"ベレス=アイスナー"}
+,"hikari tachibana" : {v:"橘ヒカリ"}
+,"hitomi" : {v:"ヒトミ"}
+,"martina" : {v:"マルティナ"}
+,"akane tendo" : {v:"天道あかね"}
+,"meguru hachimiya" : {v:"八宮めぐる"}
 ,"tanjirou kamado" : {v:"竈門炭治郎"}
-,"urd" : {v:"ウルド"}
+,"jack the ripper" : {v:"ジャック・ザ・リッパー"}
+,"sharo kirima" : {v:"桐間紗路"}
 ,"yuuji itadori" : {v:"虎杖悠仁"}
+,"ayumu uehara" : {v:"上原歩夢"}
+,"super sonico" : {v:"すーぱーそに子"}
+,"cure twinkle" : {v:"天ノ川きらら(キュアトゥインクル)"}
+,"edward elric" : {v:"エドワード・エルリック"}
 ,"chie satonaka" : {v:"里中千枝"}
-,"sanji vinsmoke" : {v:"ヴィンスモーク・サンジ"}
-,"anne takamaki" : {v:"高巻杏"}
-,"gintoki sakata" : {v:"坂田銀時"}
-,"shizune" : {v:"シズネ"}
-,"tearju lunatique" : {v:"ティアーユ・ルナティーク"}
-,"signum" : {v:"シグナム"}
-,"syaoran li" : {v:"李小狼"}
-,"yukikaze mizuki" : {v:"水城ゆきかぜ"}
-,"yunyun" : {v:"ゆんゆん"}
-,"fuutarou uesugi" : {v:"上杉風太郎"}
-,"ran mouri" : {v:"毛利蘭"}
-,"arisu shimada" : {v:"島田愛里寿"}
-,"hanamaru kunikida" : {v:"国木田花丸"}
-,"rei furuya" : {v:"降谷零(安室透)"}
-,"keiko ayano" : {v:"綾野珪子"}
 ,"mahiro oyama" : {v:"緒山まひろ"}
 ,"momoi saiba" : {v:"才羽モモイ"}
-,"naruko anjou" : {v:"安城鳴子"}
-,"princess peach" : {v:"ピーチ姫"}
-,"ruby kurosawa" : {v:"黒澤ルビィ"}
-,"xuanzang" : {v:"玄奘三蔵"}
-,"hikari tachibana" : {v:"橘ヒカリ"}
-,"melusine" : {v:"メリュジーヌ"}
-,"saniwa" : {v:"審神者"}
-,"yamashiro" : {v:"山城", m:{"azur lane" : "山城(IJN Yamashiro)"}}
-,"jill valentine" : {v:"ジル・バレンタイン"}
 ,"shigure ui" : {v:"しぐれうい"}
-,"cure melody" : {v:"北条響(キュアメロディ)"}
-,"risa matoba" : {v:"的場梨沙"}
-,"yayoi takatsuki" : {v:"高槻やよい"}
+,"urd" : {v:"ウルド"}
+,"yunyun" : {v:"ゆんゆん"}
+,"tearju lunatique" : {v:"ティアーユ・ルナティーク"}
+,"princess peach" : {v:"ピーチ姫"}
+,"sanji vinsmoke" : {v:"ヴィンスモーク・サンジ"}
+,"shizune" : {v:"シズネ"}
+,"anne takamaki" : {v:"高巻杏"}
+,"gintoki sakata" : {v:"坂田銀時"}
+,"signum" : {v:"シグナム"}
+,"nozomi tachibana" : {v:"橘ノゾミ"}
+,"arisu shimada" : {v:"島田愛里寿"}
+,"fuutarou uesugi" : {v:"上杉風太郎"}
+,"melusine" : {v:"メリュジーヌ"}
+,"ran mouri" : {v:"毛利蘭"}
+,"syaoran li" : {v:"李小狼"}
+,"xuanzang" : {v:"玄奘三蔵"}
+,"yoimiya naganohara" : {v:"長野原宵宮"}
 ,"kokona sunohara" : {v:"春原ココナ"}
-,"mystia lorelei" : {v:"ミスティア・ローレライ"}
-,"i-19" : {v:"伊19", m:{"azur lane" : "伊19(IJN I19)"}}
+,"rei furuya" : {v:"降谷零(安室透)"}
+,"yukikaze mizuki" : {v:"水城ゆきかぜ"}
+,"hanamaru kunikida" : {v:"国木田花丸"}
+,"keiko ayano" : {v:"綾野珪子"}
+,"naruko anjou" : {v:"安城鳴子"}
 ,"kei" : {v:"ケイ"}
-,"naoto shirogane" : {v:"白鐘直斗"}
+,"ruby kurosawa" : {v:"黒澤ルビィ"}
+,"saniwa" : {v:"審神者"}
+,"silver wolf" : {v:"銀狼", m:{"langrisser" : "シルバーウルフ"}}
+,"yamashiro" : {v:"山城", m:{"azur lane" : "山城(IJN Yamashiro)"}}
+,"risa matoba" : {v:"的場梨沙"}
+,"jill valentine" : {v:"ジル・バレンタイン"}
 ,"quetzalcoatl" : {v:"ケツァルコアトル"}
-,"ryuuko matoi" : {v:"纏流子"}
-,"tomoko kuroki" : {v:"黒木智子"}
-,"renamon" : {v:"レナモン"}
-,"mio honda" : {v:"本田未央"}
 ,"rikka takarada" : {v:"宝多六花"}
+,"ryuuko matoi" : {v:"纏流子"}
 ,"yukino yukinoshita" : {v:"雪ノ下雪乃"}
+,"cure melody" : {v:"北条響(キュアメロディ)"}
+,"i-19" : {v:"伊19", m:{"azur lane" : "伊19(IJN I19)"}}
+,"yayoi takatsuki" : {v:"高槻やよい"}
+,"amber" : {v:"アンバー"}
+,"mystia lorelei" : {v:"ミスティア・ローレライ"}
 ,"ilulu" : {v:"イルル"}
+,"naoto shirogane" : {v:"白鐘直斗"}
+,"renamon" : {v:"レナモン"}
+,"tomoko kuroki" : {v:"黒木智子"}
+,"mio honda" : {v:"本田未央"}
 ,"protagonist" : {v:"主人公"}
 ,"rinnosuke morichika" : {v:"森近霖之助"}
-,"yoimiya naganohara" : {v:"長野原宵宮"}
 ,"taiga aisaka" : {v:"逢坂大河"}
 ,"yuna" : {v:"ユウナ", m:{"sword art online" : "ユナ", "mega man legends" : "ユーナ", "tales of" : "ユナ・アゼッタ", "onidere" : "鈴音由那", "kuma kuma kuma bear" : "ユナ"}}
-,"kurisu makise" : {v:"牧瀬紅莉栖"}
-,"amber" : {v:"アンバー"}
 ,"kanna kamui" : {v:"カンナカムイ"}
+,"kurisu makise" : {v:"牧瀬紅莉栖"}
+,"nakiri ayame" : {v:"百鬼あやめ"}
+,"yuugi hoshiguma" : {v:"星熊勇儀"}
+,"chika fujiwara" : {v:"藤原千花"}
+,"felicia" : {v:"フェリシア"}
+,"ui kozeki" : {v:"古関ウイ"}
+,"zeta" : {v:"ゼタ", m:{"kage no jitsuryokusha ni naritakute" : "ゼータ"}}
 ,"masamune izumi" : {v:"和泉正宗"}
 ,"yuma tsukumo" : {v:"九十九遊馬"}
-,"tina armstrong" : {v:"ティナ・アームストロング"}
-,"yuugi hoshiguma" : {v:"星熊勇儀"}
-,"zeta" : {v:"ゼタ", m:{"kage no jitsuryokusha ni naritakute" : "ゼータ"}}
-,"felicia" : {v:"フェリシア"}
+,"bea" : {v:"ビー", m:{"pokemon" : "サイトウ", "animal crossing" : "ベーグル"}}
 ,"kanu unchou" : {v:"関羽雲長", m:{"koihime musou" : "愛紗(関羽 雲長)"}}
-,"katsushika hokusai" : {v:"葛飾北斎"}
-,"poison" : {v:"ポイズン"}
 ,"rias gremory" : {v:"リアス・グレモリー"}
 ,"saitama" : {v:"サイタマ"}
-,"silver wolf" : {v:"銀狼", m:{"langrisser" : "シルバーウルフ"}}
-,"chika fujiwara" : {v:"藤原千花"}
-,"nozomi tachibana" : {v:"橘ノゾミ"}
+,"tina armstrong" : {v:"ティナ・アームストロング"}
+,"katsushika hokusai" : {v:"葛飾北斎"}
+,"poison" : {v:"ポイズン"}
+,"ibuki tanga" : {v:"丹花イブキ"}
+,"fischl" : {v:"フィッシュル"}
 ,"kamui" : {v:"カムイ", m:{"gintama" : "神威", "tokyo afterschool summoners" : "ホロケウカムイ"}}
-,"ui kozeki" : {v:"古関ウイ"}
-,"nakiri ayame" : {v:"百鬼あやめ"}
-,"bea" : {v:"ビー", m:{"pokemon" : "サイトウ", "animal crossing" : "ベーグル"}}
 ,"miyu kasumizawa" : {v:"霞沢ミユ"}
-,"saeko busujima" : {v:"毒島冴子"}
-,"cure diamond" : {v:"菱川六花(キュアダイヤモンド)"}
-,"kanako mimura" : {v:"三村かな子"}
 ,"mami futami" : {v:"双海真美"}
+,"saeko busujima" : {v:"毒島冴子"}
 ,"taiga kagami" : {v:"火神大我"}
-,"helena douglas" : {v:"エレナ・ダグラス"}
+,"cure diamond" : {v:"菱川六花(キュアダイヤモンド)"}
 ,"haru yuuki" : {v:"結城晴"}
+,"ikuyo kita" : {v:"喜多郁代"}
+,"kanako mimura" : {v:"三村かな子"}
+,"z1" : {v:"Z1", m:{"kantai collection" : "Z1(レーベレヒト・マース)", "azur lane" : "Z1(KMS Leberecht Maass)"}}
+,"helena douglas" : {v:"エレナ・ダグラス"}
 ,"karen araragi" : {v:"阿良々木火憐"}
 ,"manaka komaki" : {v:"小牧愛佳"}
-,"z1" : {v:"Z1", m:{"kantai collection" : "Z1(レーベレヒト・マース)", "azur lane" : "Z1(KMS Leberecht Maass)"}}
-,"ikuyo kita" : {v:"喜多郁代"}
-,"suigintou" : {v:"水銀灯"}
+,"evelyn chevalier" : {v:"イヴリン・シェヴァリエ"}
+,"scathach skadi" : {v:"スカサハ=スカディ"}
 ,"airi totoki" : {v:"十時愛梨"}
 ,"cagalli yula athha" : {v:"カガリ・ユラ・アスハ"}
-,"scathach skadi" : {v:"スカサハ=スカディ"}
+,"nana asta deviluke" : {v:"ナナ・アスタ・デビルーク"}
+,"riamu yumemi" : {v:"夢見りあむ"}
+,"sakuya shirase" : {v:"白瀬咲耶"}
+,"suigintou" : {v:"水銀灯"}
+,"ai haibara" : {v:"灰原哀"}
 ,"daiyousei" : {v:"大妖精"}
 ,"erika itsumi" : {v:"逸見エリカ"}
 ,"krillin" : {v:"クリリン"}
-,"nana asta deviluke" : {v:"ナナ・アスタ・デビルーク"}
-,"riamu yumemi" : {v:"夢見りあむ"}
-,"ai haibara" : {v:"灰原哀"}
-,"cure heart" : {v:"相田マナ(キュアハート)"}
-,"king" : {v:"キング"}
+,"miyako tsukiyuki" : {v:"月雪ミヤコ"}
+,"ouro kronii" : {v:"オーロ・クロニー"}
 ,"seiga kaku" : {v:"霍青娥"}
-,"siesta" : {v:"シエスタ"}
-,"fischl" : {v:"フィッシュル"}
-,"meltryllis" : {v:"メルトリリス"}
-,"miyu mifune" : {v:"三船美優"}
+,"suletta mercury" : {v:"スレッタ・マーキュリー"}
 ,"barghest" : {v:"バーゲスト(妖精騎士ガウェイン)", m:{"tokyo afterschool summoners" : "バーゲスト"}}
+,"king" : {v:"キング"}
+,"miyu mifune" : {v:"三船美優"}
+,"cure heart" : {v:"相田マナ(キュアハート)"}
 ,"maam" : {v:"マァム"}
-,"sakuya shirase" : {v:"白瀬咲耶"}
-,"trunks briefs" : {v:"トランクス・ブリーフ"}
+,"meltryllis" : {v:"メルトリリス"}
+,"sailor pluto" : {v:"冥王せつな(セーラープルート)"}
+,"siesta" : {v:"シエスタ"}
 ,"elio" : {v:"エリオ", m:{"pokemon" : "ヨウ"}}
+,"nicole demara" : {v:"ニコ・デマラ"}
+,"sakura miko" : {v:"さくらみこ"}
+,"skyla" : {v:"フウロ"}
+,"trunks briefs" : {v:"トランクス・ブリーフ"}
 ,"satoko houjou" : {v:"北条沙都子"}
 ,"cure sunny" : {v:"日野あかね(キュアサニー)"}
-,"iowa" : {v:"Iowa(アイオワ)"}
-,"suletta mercury" : {v:"スレッタ・マーキュリー"}
-,"yukiko amagi" : {v:"天城雪子"}
-,"graf zeppelin" : {v:"Graf Zeppelin(グラーフ・ツェッペリン)", m:{"azur lane" : "グラーフ・ツェッペリン(KMS Graf Zeppelin)"}}
-,"iroha isshiki" : {v:"一色いろは"}
 ,"kaguya shinomiya" : {v:"四宮かぐや"}
+,"iowa" : {v:"Iowa(アイオワ)"}
+,"iroha isshiki" : {v:"一色いろは"}
 ,"maribel han" : {v:"マエリベリー・ハーン"}
-,"miyako tsukiyuki" : {v:"月雪ミヤコ"}
-,"saratoga" : {v:"サラトガ", m:{"kantai collection" : "Saratoga(サラトガ)", "azur lane" : "サラトガ(USS Saratoga)"}}
-,"daiki aomine" : {v:"青峰大輝"}
+,"graf zeppelin" : {v:"Graf Zeppelin(グラーフ・ツェッペリン)", m:{"azur lane" : "グラーフ・ツェッペリン(KMS Graf Zeppelin)"}}
+,"yukiko amagi" : {v:"天城雪子"}
 ,"kira yamato" : {v:"キラ・ヤマト"}
-,"rise kujikawa" : {v:"久慈川りせ"}
-,"lancer" : {v:"ランサー", m:{"goblin slayer" : "槍使い"}}
-,"multi" : {v:"マルチ(HMX-12)"}
-,"ibuki tanga" : {v:"丹花イブキ"}
-,"nicole demara" : {v:"ニコ・デマラ"}
-,"poplar taneshima" : {v:"種島ぽぷら"}
-,"evelyn chevalier" : {v:"イヴリン・シェヴァリエ"}
-,"negi springfield" : {v:"ネギ・スプリングフィールド"}
-,"sakura miko" : {v:"さくらみこ"}
-,"mina ashido" : {v:"芦戸三奈"}
-,"ouro kronii" : {v:"オーロ・クロニー"}
-,"skyla" : {v:"フウロ"}
+,"saratoga" : {v:"サラトガ", m:{"kantai collection" : "Saratoga(サラトガ)", "azur lane" : "サラトガ(USS Saratoga)"}}
 ,"sora" : {v:"ソラ", m:{"genshin impact" : "空", "no game no life" : "空"}}
+,"daiki aomine" : {v:"青峰大輝"}
+,"lancer" : {v:"ランサー", m:{"goblin slayer" : "槍使い"}}
+,"mina ashido" : {v:"芦戸三奈"}
+,"negi springfield" : {v:"ネギ・スプリングフィールド"}
+,"poplar taneshima" : {v:"種島ぽぷら"}
+,"rise kujikawa" : {v:"久慈川りせ"}
+,"anis" : {v:"アニス"}
 ,"hypno" : {v:"ヒプノ", m:{"pokemon" : "スリーパー"}}
+,"multi" : {v:"マルチ(HMX-12)"}
+,"shiranui flare" : {v:"不知火フレア"}
+,"rindou mikoto" : {v:"竜胆尊"}
 ,"nitocris" : {v:"ニトクリス"}
 ,"rintarou okabe" : {v:"岡部倫太郎"}
-,"rize tedeza" : {v:"天々座理世"}
-,"sousuke yamazaki" : {v:"山崎宗介"}
 ,"tetsuya kuroko" : {v:"黒子テツヤ"}
+,"venti" : {v:"ウェンティ"}
+,"alexis rhodes" : {v:"天上院明日香"}
+,"arlecchino" : {v:"アルレッキーノ"}
+,"fuuka ayase" : {v:"綾瀬風香"}
+,"kari kamiya" : {v:"八神ヒカリ"}
+,"rize tedeza" : {v:"天々座理世"}
 ,"satsuki kitaoji" : {v:"北大路さつき"}
+,"sousuke yamazaki" : {v:"山崎宗介"}
+,"mori calliope" : {v:"森カリオペ"}
 ,"sheryl nome" : {v:"シェリル・ノーム"}
+,"shishiro botan" : {v:"獅白ぼたん"}
+,"tanya von degurechaff" : {v:"ターニャ・デグレチャフ"}
 ,"vegeta" : {v:"ベジータ"}
 ,"zuihou" : {v:"瑞鳳", m:{"azur lane" : "瑞鳳(IJN Zuihou)"}}
 ,"cure happy" : {v:"星空みゆき(キュアハッピー)"}
-,"fuuka ayase" : {v:"綾瀬風香"}
-,"alexis rhodes" : {v:"天上院明日香"}
 ,"eru chitanda" : {v:"千反田える"}
-,"kari kamiya" : {v:"八神ヒカリ"}
+,"hibiki tachibana" : {v:"立花響"}
 ,"kotori otonashi" : {v:"音無小鳥"}
-,"anis" : {v:"アニス"}
-,"rindou mikoto" : {v:"竜胆尊"}
 ,"ryu" : {v:"リュウ"}
-,"tanya von degurechaff" : {v:"ターニャ・デグレチャフ"}
 ,"temari" : {v:"テマリ"}
+,"himiko toga" : {v:"トガヒミコ"}
 ,"kyouko kirigiri" : {v:"霧切響子"}
 ,"galko" : {v:"ギャル子"}
 ,"sakura shinguji" : {v:"真宮寺さくら"}
 ,"yuuri katsuki" : {v:"勝生勇利"}
-,"mori calliope" : {v:"森カリオペ"}
-,"sailor pluto" : {v:"冥王せつな(セーラープルート)"}
-,"venti" : {v:"ウェンティ"}
 ,"hina kagiyama" : {v:"鍵山雛"}
+,"kanade hayami" : {v:"速水奏"}
 ,"nadeko sengoku" : {v:"千石撫子"}
 ,"ryuujou" : {v:"龍驤", m:{"azur lane" : "龍驤(IJN Ryūjō)"}}
-,"shishiro botan" : {v:"獅白ぼたん"}
 ,"ami futami" : {v:"双海亜美"}
-,"arlecchino" : {v:"アルレッキーノ"}
+,"fubuki" : {v:"吹雪", m:{"azur lane" : "吹雪(IJN Fubuki)", "one punch man" : "地獄のフブキ", "senran kagura" : "雪不帰", "kamen no maid guy" : "フブキ"}}
 ,"rika furude" : {v:"古手梨花"}
-,"hibiki tachibana" : {v:"立花響"}
-,"kanade hayami" : {v:"速水奏"}
+,"beatrix" : {v:"ベアトリクス"}
 ,"kensou sie" : {v:"椎拳崇"}
 ,"motoko aoyama" : {v:"青山元子"}
-,"beatrix" : {v:"ベアトリクス"}
-,"fubuki" : {v:"吹雪", m:{"azur lane" : "吹雪(IJN Fubuki)", "one punch man" : "地獄のフブキ", "senran kagura" : "雪不帰", "kamen no maid guy" : "フブキ"}}
-,"kokonotsu shikada" : {v:"鹿田ココノツ"}
-,"nadia la arwall" : {v:"ナディア・ラ・アルウォール"}
 ,"sasara kusugawa" : {v:"久寿川ささら"}
-,"haruka morishima" : {v:"森島はるか"}
-,"himiko toga" : {v:"トガヒミコ"}
-,"kagura" : {v:"神楽", m:{"senran kagura" : "カグラ", "the onechanbara" : "カグラ"}}
-,"shizuka minamoto" : {v:"源静香"}
-,"keiichi morisato" : {v:"森里螢一"}
+,"izuna kuda" : {v:"久田イズナ"}
+,"kokonotsu shikada" : {v:"鹿田ココノツ"}
 ,"makoto niijima" : {v:"新島真"}
 ,"shiki ichinose" : {v:"一ノ瀬志希"}
-,"shiranui flare" : {v:"不知火フレア"}
-,"yui ohtsuki" : {v:"大槻唯"}
-,"albedo" : {v:"アルベド"}
-,"sei iori" : {v:"イオリ・セイ"}
+,"shizuka minamoto" : {v:"源静香"}
+,"haruka morishima" : {v:"森島はるか"}
 ,"hk416" : {v:"HK416"}
+,"kagura" : {v:"神楽", m:{"senran kagura" : "カグラ", "the onechanbara" : "カグラ"}}
+,"keiichi morisato" : {v:"森里螢一"}
+,"albedo" : {v:"アルベド"}
 ,"lisa minci" : {v:"リサ・ミンツ"}
+,"yui ohtsuki" : {v:"大槻唯"}
+,"sei iori" : {v:"イオリ・セイ"}
+,"nadia la arwall" : {v:"ナディア・ラ・アルウォール"}
+,"saki sorai" : {v:"空井サキ"}
+,"yu mei-ren" : {v:"虞美人"}
+,"yukari akiyama" : {v:"秋山優花里"}
 ,"cure rhythm" : {v:"南野奏(キュアリズム)"}
 ,"shampoo" : {v:"シャンプー"}
-,"yukari akiyama" : {v:"秋山優花里"}
-,"dizzy" : {v:"ディズィー", m:{"animal crossing" : "ヒュージ"}}
-,"simon" : {v:"シモン", m:{"animal crossing" : "エテキチ"}}
-,"yu mei-ren" : {v:"虞美人"}
 ,"sophitia alexandra" : {v:"ソフィーティア・アレクサンドル"}
-,"iroha" : {v:"いろは", m:{"blue archive" : "棗イロハ", "beatmania" : "彩葉"}}
-,"izuna kuda" : {v:"久田イズナ"}
-,"parsee mizuhashi" : {v:"水橋パルスィ"}
-,"saki sorai" : {v:"空井サキ"}
-,"urakaze" : {v:"浦風", m:{"azur lane" : "浦風(IJN Urakaze)"}}
-,"wo-class" : {v:"ヲ級"}
+,"dizzy" : {v:"ディズィー", m:{"animal crossing" : "ヒュージ"}}
 ,"kazari uiharu" : {v:"初春飾利"}
+,"march 7th" : {v:"三月なのか"}
+,"simon" : {v:"シモン", m:{"animal crossing" : "エテキチ"}}
+,"iroha" : {v:"いろは", m:{"blue archive" : "棗イロハ", "beatmania" : "彩葉"}}
+,"kyouka hikawa" : {v:"氷川鏡華(キョウカ)"}
+,"wo-class" : {v:"ヲ級"}
+,"koyanskaya" : {v:"コヤンスカヤ"}
+,"parsee mizuhashi" : {v:"水橋パルスィ"}
+,"urakaze" : {v:"浦風", m:{"azur lane" : "浦風(IJN Urakaze)"}}
+,"iori shiromi" : {v:"銀鏡イオリ"}
 ,"ooi" : {v:"大井"}
 ,"utaha kasumigaoka" : {v:"霞ヶ丘詩羽"}
-,"kyouka hikawa" : {v:"氷川鏡華(キョウカ)"}
-,"cure marine" : {v:"来海えりか(キュアマリン)"}
-,"aya toujou" : {v:"東城綾"}
-,"kraft lawrence" : {v:"クラフト・ロレンス"}
 ,"mitsuru kirijo" : {v:"桐条美鶴"}
+,"aya toujou" : {v:"東城綾"}
+,"belle" : {v:"リン", m:{"beauty and the beast" : "ベル"}}
+,"cure marine" : {v:"来海えりか(キュアマリン)"}
+,"sara kujou" : {v:"九条裟羅"}
 ,"houki shinonono" : {v:"篠ノ之箒"}
-,"leina vance" : {v:"レイナ・ヴァンス"}
+,"kraft lawrence" : {v:"クラフト・ロレンス"}
 ,"revy" : {v:"レヴィ"}
+,"texas" : {v:"テキサス"}
+,"yuzu hanaoka" : {v:"花岡ユズ"}
+,"ichika nakamasa" : {v:"仲正イチカ"}
+,"osomatsu matsuno" : {v:"松野おそ松"}
 ,"roy mustang" : {v:"ロイ・マスタング"}
 ,"sarada uchiha" : {v:"うちはサラダ"}
-,"victor nikiforov" : {v:"ビクター・ニキフォロフ"}
-,"karen hojo" : {v:"北条加蓮"}
-,"kasumi nakasu" : {v:"中須かすみ"}
-,"osomatsu matsuno" : {v:"松野おそ松"}
-,"texas" : {v:"テキサス"}
 ,"zhongli" : {v:"鍾離"}
-,"gendo ikari" : {v:"碇ゲンドウ"}
-,"iori shiromi" : {v:"銀鏡イオリ"}
-,"march 7th" : {v:"三月なのか"}
-,"purple heart" : {v:"パープルハート(ネプテューヌ)"}
-,"sasami masaki jurai" : {v:"柾木砂沙美樹雷"}
-,"sara kujou" : {v:"九条裟羅"}
+,"leina vance" : {v:"レイナ・ヴァンス"}
+,"victor nikiforov" : {v:"ビクター・ニキフォロフ"}
+,"honolulu" : {v:"Honolulu(ホノルル)", m:{"azur lane" : "ホノルル(USS Honolulu)"}}
 ,"kagome higurashi" : {v:"日暮かごめ"}
+,"kasumi nakasu" : {v:"中須かすみ"}
+,"pekoras mother" : {v:"ぺこらママ"}
+,"gendo ikari" : {v:"碇ゲンドウ"}
+,"hakui koyori" : {v:"博衣こより"}
 ,"kaoru ryuzaki" : {v:"龍崎薫"}
+,"karen hojo" : {v:"北条加蓮"}
+,"sasami masaki jurai" : {v:"柾木砂沙美樹雷"}
+,"yorumi rena" : {v:"夜見れな"}
 ,"manaka takane" : {v:"高嶺愛花"}
 ,"milly ashford" : {v:"ミレイ・アッシュフォード"}
+,"nagisa kirifuji" : {v:"桐藤ナギサ"}
 ,"neptune" : {v:"ネプテューヌ(パープルハート)"}
-,"shinka nibutani" : {v:"丹生谷森夏"}
-,"henrietta de tristain" : {v:"アンリエッタ・ド・トリステイン"}
-,"honolulu" : {v:"Honolulu(ホノルル)", m:{"azur lane" : "ホノルル(USS Honolulu)"}}
-,"maria" : {v:"マリア", m:{"seven mortal sins" : "十束真莉亜"}}
-,"karin asaka" : {v:"朝香果林"}
-,"ram" : {v:"ラム"}
-,"rebecca" : {v:"レベッカ"}
-,"souma yukihira" : {v:"幸平創真"}
-,"ai amatsu" : {v:"天津亜衣"}
-,"akari" : {v:"アカリ", m:{"pokemon" : "ショウ"}}
-,"alice liddell" : {v:"アリス・リデル"}
-,"makoto naegi" : {v:"苗木誠"}
-,"mononobe no futo" : {v:"物部布都"}
-,"stark" : {v:"シュタルク"}
-,"villetta nu" : {v:"ヴィレッタ・ヌゥ"}
-,"yuusaku fujiki" : {v:"藤木遊作"}
-,"9s" : {v:"ヨルハ九号S型"}
-,"koyanskaya" : {v:"コヤンスカヤ"}
-,"raku ichijou" : {v:"一条楽"}
-,"vivio takamachi" : {v:"高町ヴィヴィオ"}
-,"yurika misumaru" : {v:"ミスマル・ユリカ"}
 ,"nessa" : {v:"ネッサ", m:{"pokemon" : "ルリナ"}}
-,"wizard" : {v:"魔法使い"}
-,"yuzu hanaoka" : {v:"花岡ユズ"}
-,"hakui koyori" : {v:"博衣こより"}
-,"kyoko otonashi" : {v:"音無響子"}
-,"little red riding hood" : {v:"赤ずきん"}
-,"shana" : {v:"シャナ"}
-,"yorumi rena" : {v:"夜見れな"}
-,"kitakami" : {v:"北上"}
-,"saori takebe" : {v:"武部沙織"}
-,"ivy valentine" : {v:"イザベラ・バレンタイン(アイヴィー)"}
-,"pekoras mother" : {v:"ぺこらママ"}
-,"ai miyashita" : {v:"宮下愛"}
-,"amana osaki" : {v:"大崎甘奈"}
-,"ichika nakamasa" : {v:"仲正イチカ"}
-,"momoko asuka" : {v:"飛鳥ももこ"}
-,"tenchi masaki" : {v:"柾木天地"}
-,"kiara sessyoin" : {v:"殺生院キアラ"}
-,"oolong" : {v:"ウーロン"}
-,"shinji matou" : {v:"間桐慎二"}
+,"purple heart" : {v:"パープルハート(ネプテューヌ)"}
+,"rebecca" : {v:"レベッカ"}
+,"shinka nibutani" : {v:"丹生谷森夏"}
+,"stark" : {v:"シュタルク"}
+,"akari" : {v:"アカリ", m:{"pokemon" : "ショウ"}}
+,"henrietta de tristain" : {v:"アンリエッタ・ド・トリステイン"}
+,"maria" : {v:"マリア", m:{"seven mortal sins" : "十束真莉亜"}}
+,"yuusaku fujiki" : {v:"藤木遊作"}
+,"ai amatsu" : {v:"天津亜衣"}
+,"karin asaka" : {v:"朝香果林"}
+,"makoto naegi" : {v:"苗木誠"}
+,"souma yukihira" : {v:"幸平創真"}
+,"vivio takamachi" : {v:"高町ヴィヴィオ"}
+,"9s" : {v:"ヨルハ九号S型"}
+,"alice liddell" : {v:"アリス・リデル"}
 ,"iroha natsume" : {v:"棗イロハ"}
+,"mononobe no futo" : {v:"物部布都"}
+,"villetta nu" : {v:"ヴィレッタ・ヌゥ"}
+,"raku ichijou" : {v:"一条楽"}
+,"ram" : {v:"ラム"}
+,"shana" : {v:"シャナ"}
+,"yurika misumaru" : {v:"ミスマル・ユリカ"}
+,"kyoko otonashi" : {v:"音無響子"}
+,"saori takebe" : {v:"武部沙織"}
+,"wizard" : {v:"魔法使い"}
 ,"kirika akatsuki" : {v:"暁切歌"}
+,"little red riding hood" : {v:"赤ずきん"}
+,"shinji matou" : {v:"間桐慎二"}
+,"azki" : {v:"AZKi"}
+,"kitakami" : {v:"北上"}
+,"amana osaki" : {v:"大崎甘奈"}
+,"ivy valentine" : {v:"イザベラ・バレンタイン(アイヴィー)"}
+,"oolong" : {v:"ウーロン"}
+,"sylveon" : {v:"ニンフィア"}
+,"glaceon" : {v:"グレイシア"}
+,"kiara sessyoin" : {v:"殺生院キアラ"}
+,"momoko asuka" : {v:"飛鳥ももこ"}
 ,"priestess" : {v:"プリースティス", m:{"ragnarok online" : "プリースト", "goblin slayer" : "女神官"}}
 ,"saint martha" : {v:"聖女マルタ"}
+,"tenchi masaki" : {v:"柾木天地"}
+,"ai miyashita" : {v:"宮下愛"}
+,"hifumi ajitani" : {v:"阿慈谷ヒフミ"}
+,"citlali" : {v:"シトラリ"}
+,"nao kamiya" : {v:"神谷奈緒"}
 ,"sonia" : {v:"ソニア", m:{"berserk" : "ソーニャ"}}
-,"sylveon" : {v:"ニンフィア"}
 ,"conan edogawa" : {v:"江戸川コナン"}
+,"hakase fuyuki" : {v:"葉加瀬冬雪"}
+,"lina inverse" : {v:"リナ・インバース"}
 ,"umi ryuuzaki" : {v:"龍咲海"}
 ,"cure sword" : {v:"剣崎真琴(キュアソード)"}
-,"erza scarlet" : {v:"エルザ・スカーレット"}
-,"glaceon" : {v:"グレイシア"}
 ,"hiroyuki fujita" : {v:"藤田浩之"}
-,"lina inverse" : {v:"リナ・インバース"}
-,"nao kamiya" : {v:"神谷奈緒"}
-,"anko mitarashi" : {v:"みたらしアンコ"}
+,"eris boreas greyrat" : {v:"エリス・ボレアス・グレイラット"}
+,"erza scarlet" : {v:"エルザ・スカーレット"}
+,"kazama iroha" : {v:"風真いろは"}
 ,"keitaro urashima" : {v:"浦島景太郎"}
 ,"martial artist" : {v:"武闘家"}
 ,"meyrin hawke" : {v:"メイリン・ホーク"}
 ,"mitsuha miyamizu" : {v:"宮水三葉"}
-,"belle" : {v:"リン", m:{"beauty and the beast" : "ベル"}}
-,"clownpiece" : {v:"クラウンピース"}
 ,"ryo akizuki" : {v:"秋月涼"}
+,"shirabe tsukuyomi" : {v:"月読調"}
+,"anko mitarashi" : {v:"みたらしアンコ"}
+,"aoi inuyama" : {v:"犬山あおい"}
+,"clownpiece" : {v:"クラウンピース"}
+,"kikyou kiryuu" : {v:"桐生キキョウ"}
+,"lynette bishop" : {v:"リネット・ビショップ"}
+,"rika shinozaki" : {v:"篠崎里香(リズ)"}
+,"shou toramaru" : {v:"寅丸星"}
+,"takumi mukai" : {v:"向井拓海"}
 ,"yoshika miyafuji" : {v:"宮藤芳佳"}
 ,"yuuya sakaki" : {v:"榊遊矢"}
 ,"athrun zala" : {v:"アスラン・ザラ"}
-,"hakase fuyuki" : {v:"葉加瀬冬雪"}
-,"hifumi ajitani" : {v:"阿慈谷ヒフミ"}
-,"rika shinozaki" : {v:"篠崎里香(リズ)"}
-,"shou toramaru" : {v:"寅丸星"}
-,"tsukasa hiiragi" : {v:"柊つかさ"}
-,"azki" : {v:"AZKi"}
-,"lynette bishop" : {v:"リネット・ビショップ"}
 ,"ooyodo" : {v:"大淀"}
-,"takumi mukai" : {v:"向井拓海"}
-,"eris boreas greyrat" : {v:"エリス・ボレアス・グレイラット"}
-,"nagisa kirifuji" : {v:"桐藤ナギサ"}
-,"ranka lee" : {v:"ランカ・リー"}
-,"ryouta kise" : {v:"黄瀬涼太"}
+,"tsukasa hiiragi" : {v:"柊つかさ"}
 ,"tea gardner" : {v:"真崎杏子"}
-,"aoi inuyama" : {v:"犬山あおい"}
-,"kanata konoe" : {v:"近江彼方"}
-,"kikyou kiryuu" : {v:"桐生キキョウ"}
-,"megumi kato" : {v:"加藤恵"}
 ,"nijika ijichi" : {v:"伊地知虹夏"}
+,"ranka lee" : {v:"ランカ・リー"}
 ,"rinko akiyama" : {v:"秋山凜子"}
-,"shirabe tsukuyomi" : {v:"月読調"}
-,"souryuu" : {v:"蒼龍", m:{"azur lane" : "蒼龍(IJN Sōryū)"}}
-,"hikaru shidou" : {v:"獅堂光"}
-,"nagi sanzenin" : {v:"三千院ナギ"}
-,"tooru oikawa" : {v:"及川徹"}
+,"ryouta kise" : {v:"黄瀬涼太"}
 ,"ai nanasaki" : {v:"七咲逢"}
-,"helena blavatsky" : {v:"エレナ・ブラヴァツキー"}
-,"hitoha marui" : {v:"丸井ひとは"}
-,"rimuru tempest" : {v:"リムル=テンペスト"}
-,"citlali" : {v:"シトラリ"}
-,"seija kijin" : {v:"鬼人正邪"}
-,"chitoge kirisaki" : {v:"桐崎千棘"}
-,"cure aqua" : {v:"水無月かれん(キュアアクア)"}
-,"natarle badgiruel" : {v:"ナタル・バジルール"}
-,"ryuuji takasu" : {v:"高須竜児"}
-,"rimururu" : {v:"リムルル"}
-,"roxy migurdia" : {v:"ロキシー・ミグルディア"}
-,"akito tenkawa" : {v:"アキト・テンカワ"}
-,"alisa ilinichina amiella" : {v:"アリサ・イリーニチナ・アミエーラ"}
-,"hinata wakaba" : {v:"若葉ヒナタ"}
-,"kazama iroha" : {v:"風真いろは"}
-,"maya ibuki" : {v:"伊吹マヤ"}
-,"princess of moonbrook" : {v:"ムーンブルクの王女"}
-,"sofia" : {v:"ソフィア", m:{"dragon quest iv" : "勇者ソフィア", "dragon quest" : "勇者ソフィア", "punishing gray raven" : "ソフィア・銀牙"}}
 ,"dehya" : {v:"ディシア"}
+,"kanata konoe" : {v:"近江彼方"}
+,"megumi kato" : {v:"加藤恵"}
+,"rimuru tempest" : {v:"リムル=テンペスト"}
+,"souryuu" : {v:"蒼龍", m:{"azur lane" : "蒼龍(IJN Sōryū)"}}
+,"helena blavatsky" : {v:"エレナ・ブラヴァツキー"}
+,"hikaru shidou" : {v:"獅堂光"}
+,"tooru oikawa" : {v:"及川徹"}
+,"cure aqua" : {v:"水無月かれん(キュアアクア)"}
+,"cure peach" : {v:"桃園ラブ(キュアピーチ)"}
+,"hitoha marui" : {v:"丸井ひとは"}
+,"nagi sanzenin" : {v:"三千院ナギ"}
+,"chitoge kirisaki" : {v:"桐崎千棘"}
 ,"eevee" : {v:"イーブイ"}
-,"klee" : {v:"クレー"}
-,"kotetsu t. kaburagi" : {v:"鏑木・T・虎徹"}
 ,"noelle" : {v:"ノエル", m:{"deltarune" : "Noelle"}}
+,"roxy migurdia" : {v:"ロキシー・ミグルディア"}
+,"ryuuji takasu" : {v:"高須竜児"}
+,"seija kijin" : {v:"鬼人正邪"}
+,"hinata wakaba" : {v:"若葉ヒナタ"}
+,"natarle badgiruel" : {v:"ナタル・バジルール"}
 ,"wakana gojou" : {v:"五条新菜"}
+,"alisa ilinichina amiella" : {v:"アリサ・イリーニチナ・アミエーラ"}
+,"klee" : {v:"クレー"}
+,"rimururu" : {v:"リムルル"}
+,"akito tenkawa" : {v:"アキト・テンカワ"}
+,"mano sakuragi" : {v:"櫻木真乃"}
+,"maya ibuki" : {v:"伊吹マヤ"}
+,"toyosatomimi no miko" : {v:"豊聡耳神子"}
+,"princess of moonbrook" : {v:"ムーンブルクの王女"}
+,"serval" : {v:"サーバル"}
+,"sofia" : {v:"ソフィア", m:{"dragon quest iv" : "勇者ソフィア", "dragon quest" : "勇者ソフィア", "punishing gray raven" : "ソフィア・銀牙"}}
+,"kotetsu t. kaburagi" : {v:"鏑木・T・虎徹"}
+,"w" : {v:"W"}
 ,"kisaragi" : {v:"如月", m:{"azur lane" : "如月(IJN Kisaragi)"}}
 ,"mari ohara" : {v:"小原鞠莉"}
+,"miorine rembran" : {v:"ミオリネ・レンブラン"}
 ,"nemesis" : {v:"ネメシス"}
 ,"satsuki kiryuuin" : {v:"鬼龍院皐月"}
-,"serval" : {v:"サーバル"}
+,"sayo hikawa" : {v:"氷川紗夜"}
+,"shiina yuika" : {v:"椎名唯華"}
 ,"soi fon" : {v:"砕蜂"}
 ,"toshiro hijikata" : {v:"土方敏郎"}
 ,"kyouko kasodani" : {v:"幽谷響子"}
-,"asagi igawa" : {v:"井河アサギ"}
+,"tomoko hoshina" : {v:"保科智子"}
 ,"erio mondial" : {v:"エリオ・モンディアル"}
+,"hasshaku-sama" : {v:"八尺様"}
+,"kosuzu motoori" : {v:"本居小鈴"}
 ,"mitsuba marui" : {v:"丸井みつば"}
-,"rin kokonoe" : {v:"九重りん"}
-,"sayo hikawa" : {v:"氷川紗夜"}
+,"shiori fujisaki" : {v:"藤崎詩織"}
 ,"shirley fenette" : {v:"シャーリー・フェネット"}
 ,"tobio kageyama" : {v:"影山飛雄"}
-,"mano sakuragi" : {v:"櫻木真乃"}
-,"rainbow mika" : {v:"レインボー・ミカ"}
-,"shiori fujisaki" : {v:"藤崎詩織"}
-,"tomoko hoshina" : {v:"保科智子"}
 ,"vira" : {v:"ヴィーラ", m:{"punishing gray raven" : "ヴィラ"}}
+,"zero two" : {v:"ゼロツー"}
+,"rainbow mika" : {v:"レインボー・ミカ"}
+,"rin kokonoe" : {v:"九重りん"}
 ,"akeno himejima" : {v:"姫島朱乃"}
 ,"cure blossom" : {v:"花咲つぼみ(キュアブロッサム)"}
 ,"houshou" : {v:"鳳翔", m:{"azur lane" : "鳳翔(IJN Hōshō)"}}
-,"kosuzu motoori" : {v:"本居小鈴"}
 ,"mikazuki munechika" : {v:"三日月宗近"}
-,"toyosatomimi no miko" : {v:"豊聡耳神子"}
-,"zero two" : {v:"ゼロツー"}
-,"blue mary" : {v:"ブルー・マリー"}
-,"florian" : {v:"フローリアン", m:{"pokemon" : "ハルト"}}
 ,"paimon" : {v:"パイモン"}
-,"shigeo kageyama" : {v:"影山茂夫"}
 ,"shiki tohno" : {v:"遠野志貴"}
-,"shiranui mizuki" : {v:"水城不知火"}
-,"w" : {v:"W"}
-,"eila ilmatar juutilainen" : {v:"エイラ・イルマタル・ユーティライネン"}
+,"asagi igawa" : {v:"井河アサギ"}
+,"blue mary" : {v:"ブルー・マリー"}
 ,"euryale" : {v:"エウリュアレ", m:{"granblue fantasy" : "エウリュアレー"}}
-,"hideyoshi kinoshita" : {v:"木下秀吉"}
+,"florian" : {v:"フローリアン", m:{"pokemon" : "ハルト"}}
 ,"mai amatsu" : {v:"天津麻衣"}
+,"shigeo kageyama" : {v:"影山茂夫"}
+,"shiranui mizuki" : {v:"水城不知火"}
+,"anastasia nikolaevna romanova" : {v:"アナスタシア・ニコラエヴナ・ロマノヴァ"}
+,"eila ilmatar juutilainen" : {v:"エイラ・イルマタル・ユーティライネン"}
+,"hideyoshi kinoshita" : {v:"木下秀吉"}
+,"jane doe" : {v:"ジェーン・ドゥ"}
+,"nezuko kamado" : {v:"竈門禰豆子"}
 ,"sanya v. litvyak" : {v:"サーニャ・V・リトヴャク"}
 ,"tsukihi araragi" : {v:"阿良々木月火"}
-,"cure peach" : {v:"桃園ラブ(キュアピーチ)"}
-,"tartaglia" : {v:"タルタリヤ"}
-,"hajime hinata" : {v:"日向創"}
-,"hasshaku-sama" : {v:"八尺様"}
+,"arcueid brunestud" : {v:"アルクェイド・ブリュンスタッド"}
 ,"killua zoldyck" : {v:"キルア=ゾルディック"}
-,"shiina yuika" : {v:"椎名唯華"}
-,"tai kamiya" : {v:"八神太一"}
-,"akashi" : {v:"明石", m:{"azur lane" : "明石(IJN Akashi)"}}
-,"anastasia nikolaevna romanova" : {v:"アナスタシア・ニコラエヴナ・ロマノヴァ"}
-,"cure sunshine" : {v:"明堂院いつき(キュアサンシャイン)"}
+,"laplus darknesss" : {v:"ラプラス・ダークネス"}
+,"tartaglia" : {v:"タルタリヤ"}
 ,"eijirou kirishima" : {v:"切島鋭児郎"}
+,"england" : {v:"イングランド"}
+,"hajime hinata" : {v:"日向創"}
 ,"ikaruga" : {v:"斑鳩"}
-,"kaori kanzaki" : {v:"神裂火織"}
-,"miorine rembran" : {v:"ミオリネ・レンブラン"}
+,"kirin" : {v:"キリン", m:{"hoozuki no reitetsu" : "麒麟"}}
 ,"motoko kusanagi" : {v:"草薙素子"}
 ,"natsuha arisugawa" : {v:"有栖川夏葉"}
 ,"ryouko mikado" : {v:"御門涼子"}
+,"tai kamiya" : {v:"八神太一"}
+,"akashi" : {v:"明石", m:{"azur lane" : "明石(IJN Akashi)"}}
+,"cure sunshine" : {v:"明堂院いつき(キュアサンシャイン)"}
+,"elizabeth bathory" : {v:"エリザベート・バートリー"}
+,"exusiai" : {v:"エクシア"}
+,"kaori kanzaki" : {v:"神裂火織"}
+,"kirara" : {v:"キララ", m:{"blue archive" : "夜桜キララ", "genshin impact" : "綺良々", "inuyasha" : "雲母", "kirara fantasia" : "きらら"}}
+,"kozue yusa" : {v:"遊佐こずえ"}
 ,"seiya kanie" : {v:"可児江西也"}
 ,"andira" : {v:"アンチラ"}
 ,"kaoruko sazaki" : {v:"サザキ・カオルコ"}
-,"kirin" : {v:"キリン", m:{"hoozuki no reitetsu" : "麒麟"}}
-,"nezuko kamado" : {v:"竈門禰豆子"}
-,"ryoga hibiki" : {v:"響良牙"}
+,"natsumi hinata" : {v:"日向夏美", m:{"sharin no kuni himawari no shoujo" : "日向夏咲"}}
 ,"seolla schweizer" : {v:"ゼオラ・シュバイツァー"}
 ,"shizuo heiwajima" : {v:"平和島静雄"}
-,"elizabeth bathory" : {v:"エリザベート・バートリー"}
-,"kozue yusa" : {v:"遊佐こずえ"}
-,"mitsuki bakugou" : {v:"爆豪光己"}
-,"natsumi hinata" : {v:"日向夏美", m:{"sharin no kuni himawari no shoujo" : "日向夏咲"}}
-,"tomoya aki" : {v:"安芸倫也"}
 ,"tsukasa nishino" : {v:"西野つかさ"}
 ,"yukari takeba" : {v:"岳羽ゆかり"}
-,"chiyomi anzai" : {v:"安斎千代美(アンチョビ)"}
 ,"chris" : {v:"クリス"}
 ,"clarisse" : {v:"クラリス"}
-,"england" : {v:"イングランド"}
-,"exusiai" : {v:"エクシア"}
-,"nagi" : {v:"那岐", m:{"kannagi" : "ナギ", "fire emblem mystery of the emblem" : "ナギ", "shin megami tensei" : "凪", "persona q" : "ナギ"}}
+,"mitsuki bakugou" : {v:"爆豪光己"}
 ,"nana abe" : {v:"安部菜々"}
-,"sekai kamiki" : {v:"カミキ・セカイ"}
-,"arcueid brunestud" : {v:"アルクェイド・ブリュンスタッド"}
+,"ryoga hibiki" : {v:"響良牙"}
+,"tomoya aki" : {v:"安芸倫也"}
+,"chiyomi anzai" : {v:"安斎千代美(アンチョビ)"}
 ,"kakashi hatake" : {v:"はたけカカシ"}
-,"laplus darknesss" : {v:"ラプラス・ダークネス"}
-,"rikku" : {v:"リュック"}
-,"shokudaikiri mitsutada" : {v:"燭台切光忠"}
-,"jane doe" : {v:"ジェーン・ドゥ"}
-,"kirishima" : {v:"霧島", m:{"azur lane" : "霧島(IJN Kirishima)", "my hero academia" : "切島鋭児郎", "arpeggio of blue steel" : "キリシマ"}}
+,"nagi" : {v:"那岐", m:{"kannagi" : "ナギ", "fire emblem mystery of the emblem" : "ナギ", "shin megami tensei" : "凪", "persona q" : "ナギ"}}
+,"sekai kamiki" : {v:"カミキ・セカイ"}
 ,"kiritan tohoku" : {v:"東北きりたん"}
 ,"kogane tsukioka" : {v:"月岡恋鐘"}
-,"sakaki" : {v:"榊"}
 ,"shiho kitazawa" : {v:"北沢志保"}
-,"aiko takamori" : {v:"高森藍子"}
-,"hikari horaki" : {v:"洞木ヒカリ"}
-,"kirara" : {v:"キララ", m:{"blue archive" : "夜桜キララ", "genshin impact" : "綺良々", "inuyasha" : "雲母", "kirara fantasia" : "きらら"}}
+,"shokudaikiri mitsutada" : {v:"燭台切光忠"}
+,"stelle" : {v:"星"}
+,"kirishima" : {v:"霧島", m:{"azur lane" : "霧島(IJN Kirishima)", "my hero academia" : "切島鋭児郎", "arpeggio of blue steel" : "キリシマ"}}
+,"rikku" : {v:"リュック"}
+,"yixuan" : {v:"儀玄"}
+,"kaltsit" : {v:"ケルシー"}
 ,"kuroyukihime" : {v:"黒雪姫(ブラック・ロータス)"}
-,"mea kurosaki" : {v:"黒咲芽亜"}
-,"sorceress" : {v:"魔女", m:{"dragons crown" : "ソーサレス", "diablo" : "ソーサレス"}}
+,"sakaki" : {v:"榊"}
 ,"tear grants" : {v:"ティア・グランツ"}
-,"touya kinomoto" : {v:"木之本桃矢"}
+,"aiko takamori" : {v:"高森藍子"}
 ,"cure magical" : {v:"十六夜リコ(キュアマジカル)"}
 ,"cure miracle" : {v:"朝日奈みらい(キュアミラクル)"}
-,"karin kanzuki" : {v:"神月かりん"}
+,"hieda no akyuu" : {v:"稗田阿求"}
+,"hikari horaki" : {v:"洞木ヒカリ"}
 ,"leona heidern" : {v:"レオナ・ハイデルン"}
-,"ryoko hakubi" : {v:"魎呼"}
+,"mea kurosaki" : {v:"黒咲芽亜"}
+,"sorceress" : {v:"魔女", m:{"dragons crown" : "ソーサレス", "diablo" : "ソーサレス"}}
+,"syuko shiomi" : {v:"塩見周子"}
+,"touya kinomoto" : {v:"木之本桃矢"}
+,"anna mochizuki" : {v:"望月杏奈"}
 ,"iori yoshizuki" : {v:"葦月伊織"}
+,"karin kanzuki" : {v:"神月かりん"}
+,"ningguang" : {v:"凝光"}
+,"ryoko hakubi" : {v:"魎呼"}
+,"teana lanster" : {v:"ティアナ・ランスター"}
+,"tsukino mito" : {v:"月ノ美兎"}
 ,"kos-mos" : {v:"KOS-MOS"}
 ,"shoyo hinata" : {v:"日向翔陽"}
-,"tsubaki kasuga" : {v:"春日ツバキ"}
 ,"ui hirasawa" : {v:"平沢憂"}
+,"wakamo kosaka" : {v:"狐坂ワカモ"}
 ,"yamakaze" : {v:"山風", m:{"azur lane" : "山風(IJN Yamakaze)"}}
 ,"baltimore" : {v:"ボルチモア", m:{"azur lane" : "ボルチモア(USS Baltimore)"}}
-,"teana lanster" : {v:"ティアナ・ランスター"}
-,"wakamo kosaka" : {v:"狐坂ワカモ"}
-,"anna mochizuki" : {v:"望月杏奈"}
-,"futaba sakura" : {v:"佐倉双葉"}
-,"hieda no akyuu" : {v:"稗田阿求"}
-,"kaltsit" : {v:"ケルシー"}
+,"tsubaki kasuga" : {v:"春日ツバキ"}
+,"chieri ogata" : {v:"緒方智絵里"}
+,"echidna" : {v:"エキドナ", m:{"queens blade" : "歴戦の傭兵エキドナ"}}
 ,"katori" : {v:"香取", m:{"phantasy star online 2" : "カトリ"}}
 ,"luka megurine" : {v:"巡音ルカ"}
-,"syuko shiomi" : {v:"塩見周子"}
-,"echidna" : {v:"エキドナ", m:{"queens blade" : "歴戦の傭兵エキドナ"}}
-,"emma verde" : {v:"エマ・ヴェルデ"}
-,"ingrid" : {v:"イングリッド", m:{"resident evil" : "イングリド", "taimanin asagi" : "魔界騎士イングリッド", "sennen sensou aigis" : "魔戦団長イングリッド", "makai kishi ingrid" : "魔界騎士イングリッド", "atelier marie" : "イングリド", "atelier elie" : "イングリド", "atelier lilie" : "イングリド", "nelke to densetsu no renkinjutsushi-tachi" : "イングリド"}}
-,"shuuichi akai" : {v:"赤井秀一"}
-,"tsukino mito" : {v:"月ノ美兎"}
-,"chieri ogata" : {v:"緒方智絵里"}
 ,"yuel" : {v:"ユエル"}
 ,"z3" : {v:"Z3(マックス・シュルツ)"}
-,"asuka" : {v:"アスカ", m:{"senran kagura" : "飛鳥", "magic knight rayearth" : "阿洲花", "dream c club" : "あすか", "viper ctr" : "あすか"}}
-,"ningguang" : {v:"凝光"}
-,"tori aoi" : {v:"葵・トーリ"}
+,"emma verde" : {v:"エマ・ヴェルデ"}
+,"futaba sakura" : {v:"佐倉双葉"}
+,"shuuichi akai" : {v:"赤井秀一"}
+,"the herta" : {v:"マダム・ヘルタ"}
+,"ingrid" : {v:"イングリッド", m:{"resident evil" : "イングリド", "taimanin asagi" : "魔界騎士イングリッド", "sennen sensou aigis" : "魔戦団長イングリッド", "makai kishi ingrid" : "魔界騎士イングリッド", "atelier marie" : "イングリド", "atelier elie" : "イングリド", "atelier lilie" : "イングリド", "nelke to densetsu no renkinjutsushi-tachi" : "イングリド"}}
 ,"megumi tokoro" : {v:"所恵美"}
-,"taki" : {v:"多喜"}
 ,"moe kazekura" : {v:"風倉モエ"}
+,"sakurako utazumi" : {v:"歌住サクラコ"}
+,"tori aoi" : {v:"葵・トーリ"}
+,"yuriko nanao" : {v:"七尾百合子"}
+,"akiha tohno" : {v:"遠野秋葉"}
+,"asuka" : {v:"アスカ", m:{"senran kagura" : "飛鳥", "magic knight rayearth" : "阿洲花", "dream c club" : "あすか", "viper ctr" : "あすか"}}
+,"d.va" : {v:"D.Va"}
+,"suzuran" : {v:"スズラン", m:{"monster strike" : "鈴蘭"}}
+,"takamiya rion" : {v:"鷹宮リオン"}
+,"taki" : {v:"多喜"}
+,"ataru moroboshi" : {v:"諸星あたる"}
+,"chii" : {v:"ちぃ"}
+,"elf yamada" : {v:"山田エルフ"}
+,"kyoka jiro" : {v:"耳郎響香"}
 ,"reginald kastle" : {v:"神代凌牙"}
 ,"rinze morino" : {v:"杜野凛世"}
-,"stelle" : {v:"星"}
-,"akiha tohno" : {v:"遠野秋葉"}
-,"ayeka masaki jurai" : {v:"柾木阿重霞樹雷"}
-,"chii" : {v:"ちぃ"}
-,"d.va" : {v:"D.Va"}
-,"elf yamada" : {v:"山田エルフ"}
-,"junpei manaka" : {v:"真中淳平"}
 ,"shioriko mifune" : {v:"三船栞子"}
-,"suzuran" : {v:"スズラン", m:{"monster strike" : "鈴蘭"}}
 ,"yamame kurodani" : {v:"黒谷ヤマメ"}
+,"ayeka masaki jurai" : {v:"柾木阿重霞樹雷"}
+,"junpei manaka" : {v:"真中淳平"}
+,"kaori nishino" : {v:"西野かおり"}
+,"miles tails prower" : {v:"マイルス“テイルス”パウアー"}
+,"miyabi hoshimi" : {v:"星見雅"}
+,"ninomae inanis" : {v:"一伊那尓栖"}
+,"tiki" : {v:"ティキ", m:{"fire emblem" : "チキ", "fire emblem awakening" : "チキ", "fire emblem mystery of the emblem" : "チキ", "fire emblem heroes" : "チキ", "pangya" : "ティッキー"}}
 ,"yuki mori" : {v:"森雪"}
+,"akane kotonoha" : {v:"琴葉茜"}
 ,"christie" : {v:"クリスティ"}
 ,"isokaze" : {v:"磯風", m:{"azur lane" : "磯風(IJN Isokaze)"}}
-,"kaori nishino" : {v:"西野かおり"}
-,"suiseiseki" : {v:"翠星石"}
-,"takamiya rion" : {v:"鷹宮リオン"}
-,"tiki" : {v:"ティキ", m:{"fire emblem" : "チキ", "fire emblem awakening" : "チキ", "fire emblem mystery of the emblem" : "チキ", "fire emblem heroes" : "チキ", "pangya" : "ティッキー"}}
-,"akane kotonoha" : {v:"琴葉茜"}
-,"ataru moroboshi" : {v:"諸星あたる"}
-,"kyoka jiro" : {v:"耳郎響香"}
-,"ling yin huang" : {v:"凰鈴音"}
-,"miles tails prower" : {v:"マイルス“テイルス”パウアー"}
-,"sakurako utazumi" : {v:"歌住サクラコ"}
-,"yuriko nanao" : {v:"七尾百合子"}
 ,"luna" : {v:"ルナ", m:{"queens blade" : "月影の踊り手ルナルナ", "yu-gi-oh zexal" : "瑠那", "defense of the ancients" : "Luna"}}
-,"ninomae inanis" : {v:"一伊那尓栖"}
-,"rinko kobayakawa" : {v:"小早川凛子"}
-,"houtarou oreki" : {v:"折木奉太郎"}
-,"ika musume" : {v:"イカ娘"}
-,"izaya orihara" : {v:"折原臨也"}
-,"marie" : {v:"マリー", m:{"pokemon" : "オハギ"}}
+,"power" : {v:"パワー"}
+,"clorinde" : {v:"クロリンデ"}
+,"ling yin huang" : {v:"凰鈴音"}
+,"maria cadenzavna eve" : {v:"マリア・カデンツァヴナ・イヴ"}
 ,"niyah" : {v:"ニア"}
-,"noire" : {v:"ノワール(ブラックハート)", m:{"fire emblem awakening" : "ノワール"}}
-,"rokuro okajima" : {v:"岡島緑郎"}
+,"suiseiseki" : {v:"翠星石"}
 ,"ayanami" : {v:"綾波", m:{"azur lane" : "綾波(IJN Ayanami)"}}
 ,"denji" : {v:"デンジ"}
+,"ika musume" : {v:"イカ娘"}
+,"rinko kobayakawa" : {v:"小早川凛子"}
+,"anya forger" : {v:"アーニャ・フォージャー"}
+,"houtarou oreki" : {v:"折木奉太郎"}
+,"marie" : {v:"マリー", m:{"pokemon" : "オハギ"}}
+,"rokuro okajima" : {v:"岡島緑郎"}
+,"wu zetian" : {v:"武則天"}
+,"higuchi kaede" : {v:"樋口楓"}
+,"izaya orihara" : {v:"折原臨也"}
+,"riza hawkeye" : {v:"リザ・ホークアイ"}
 ,"hiei" : {v:"比叡(IJN Hiei)"}
 ,"i-401" : {v:"伊401"}
 ,"kumano" : {v:"熊野", m:{"azur lane" : "熊野(IJN Kumano)"}}
 ,"kyouka tachibana" : {v:"橘京香"}
-,"riza hawkeye" : {v:"リザ・ホークアイ"}
+,"mudrock" : {v:"Mudrock"}
+,"kashino" : {v:"樫野(IJN Kashino)"}
 ,"mayoi hachikuji" : {v:"八九寺真宵"}
-,"the herta" : {v:"マダム・ヘルタ"}
-,"wu zetian" : {v:"武則天"}
-,"anya forger" : {v:"アーニャ・フォージャー"}
-,"maria cadenzavna eve" : {v:"マリア・カデンツァヴナ・イヴ"}
-,"miyuki shiba" : {v:"司波深雪"}
 ,"son goten" : {v:"孫悟天"}
+,"inui toko" : {v:"戌亥とこ"}
+,"miyuki shiba" : {v:"司波深雪"}
+,"noire" : {v:"ノワール(ブラックハート)", m:{"fire emblem awakening" : "ノワール"}}
 ,"tokitsukaze" : {v:"時津風"}
-,"erica hartmann" : {v:"エーリカ・ハルトマン"}
-,"nepgear" : {v:"ネプギア(パープルシスター)"}
-,"power" : {v:"パワー"}
-,"sendai" : {v:"川内", m:{"azur lane" : "川内(IJN Sendai)"}}
 ,"tsukasa ayatsuji" : {v:"絢辻詞"}
+,"erica hartmann" : {v:"エーリカ・ハルトマン"}
+,"kaori sakuramori" : {v:"桜守歌織"}
+,"sendai" : {v:"川内", m:{"azur lane" : "川内(IJN Sendai)"}}
+,"wa2000" : {v:"WA2000"}
 ,"aichi sendou" : {v:"先導アイチ"}
-,"clorinde" : {v:"クロリンデ"}
 ,"flay allster" : {v:"フレイ・アルスター"}
 ,"kanade tachibana" : {v:"立華かなで"}
-,"kaori sakuramori" : {v:"桜守歌織"}
 ,"kusuha mizuha" : {v:"クスハ・ミズハ"}
-,"mudrock" : {v:"Mudrock"}
+,"natsuiro matsuri" : {v:"夏色まつり"}
 ,"sakuya" : {v:"サクヤ", m:{"touhou project" : "十六夜咲夜", "sister princess" : "咲耶", "puzzle and dragons" : "麒麟の化身・サクヤ", "shining blade" : "サクヤ・マキシマ・エンフィールド", "okami" : "木精サクヤ姫", "rune factory 3" : "さくや"}}
 ,"sumeragi lee noriega" : {v:"スメラギ・李・ノリエガ"}
 ,"tiffania westwood" : {v:"ティファニア・ウエストウッド"}
-,"inui toko" : {v:"戌亥とこ"}
-,"latifa fleuranza" : {v:"ラティファ・フルーランザ"}
-,"medaka kurokami" : {v:"黒神めだか"}
-,"natsuiro matsuri" : {v:"夏色まつり"}
-,"oboro" : {v:"オボロ", m:{"kantai collection" : "朧", "taimanin asagi" : "朧", "basilisk" : "朧"}}
-,"selvaria bles" : {v:"セルベリア・ブレス"}
-,"wa2000" : {v:"WA2000"}
-,"eri sawachika" : {v:"沢近愛理"}
-,"higuchi kaede" : {v:"樋口楓"}
+,"chiyoko sonoda" : {v:"園田智代子"}
 ,"kazuma ikezawa" : {v:"池沢佳主馬"}
+,"latifa fleuranza" : {v:"ラティファ・フルーランザ"}
 ,"lopunny" : {v:"ミミロップ"}
 ,"luna child" : {v:"ルナチャイルド"}
 ,"mai fukuyama" : {v:"福山舞"}
+,"medaka kurokami" : {v:"黒神めだか"}
+,"nepgear" : {v:"ネプギア(パープルシスター)"}
+,"selvaria bles" : {v:"セルベリア・ブレス"}
 ,"star sapphire" : {v:"スターサファイア"}
 ,"stocking anarchy" : {v:"アナーキー・ストッキング"}
-,"chiyoko sonoda" : {v:"園田智代子"}
+,"eri sawachika" : {v:"沢近愛理"}
 ,"jeanne alter lily" : {v:"ジャンヌ・ダルク・オルタ・サンタ・リリィ"}
-,"kashino" : {v:"樫野(IJN Kashino)"}
 ,"laffey" : {v:"ラフィー(USS Laffey)"}
-,"rin okumura" : {v:"奥村燐"}
+,"oboro" : {v:"オボロ", m:{"kantai collection" : "朧", "taimanin asagi" : "朧", "basilisk" : "朧"}}
+,"vivi nefertari" : {v:"ネフェルタリ・ビビ"}
+,"naganami" : {v:"長波", m:{"azur lane" : "長波(IJN Naganami)"}}
+,"ume hanami" : {v:"花海佑芽"}
+,"cure dream" : {v:"夢原のぞみ(キュアドリーム)"}
 ,"ibaraki douji" : {v:"茨木童子"}
+,"mai" : {v:"マイ", m:{"pokemon" : "ヨネ", "popotan" : "まい"}}
+,"rin okumura" : {v:"奥村燐"}
+,"wiz" : {v:"ウィズ"}
+,"yuzuki choco" : {v:"癒月ちょこ"}
+,"gon freecss" : {v:"ゴン=フリークス"}
 ,"iris chateaubriand" : {v:"イリス・シャトーブリアン"}
 ,"kyou fujibayashi" : {v:"藤林杏"}
-,"mai" : {v:"マイ", m:{"pokemon" : "ヨネ", "popotan" : "まい"}}
-,"naganami" : {v:"長波", m:{"azur lane" : "長波(IJN Naganami)"}}
-,"rose" : {v:"ローズ", m:{"king of fighters" : "ローズ・バーンシュタイン", "dragon quest iv" : "ロザリー", "elsword" : "ロゼ", "tiger and bunny" : "ブルーローズ(カリーナ・ライル)", "tales of zestiria" : "ロゼ", "epic seven" : "カーマイン・ローズ", "the legend of dragoon" : "ロゼ"}}
+,"ruan mei" : {v:"ルアン・メェイ"}
 ,"tetsurou kuroo" : {v:"黒尾鉄朗"}
-,"vivi nefertari" : {v:"ネフェルタリ・ビビ"}
-,"yuzuki choco" : {v:"癒月ちょこ"}
+,"yukimi sajo" : {v:"佐城雪美"}
 ,"akari kanzaki" : {v:"神崎あかり"}
 ,"aliza" : {v:"アリーザ", m:{"ragnarok online" : "エリザ", "undertale" : "アリザ"}}
-,"cure dream" : {v:"夢原のぞみ(キュアドリーム)"}
-,"gon freecss" : {v:"ゴン=フリークス"}
+,"kay" : {v:"ケイ"}
+,"krista lenz" : {v:"クリスタ・レンズ"}
 ,"miyuki takara" : {v:"高良みゆき"}
+,"moon" : {v:"ミヅキ"}
+,"nayuki minase" : {v:"水瀬名雪"}
 ,"nodoka miyazaki" : {v:"宮崎のどか"}
+,"roll" : {v:"ロールちゃん"}
+,"rose" : {v:"ローズ", m:{"king of fighters" : "ローズ・バーンシュタイン", "dragon quest iv" : "ロザリー", "elsword" : "ロゼ", "tiger and bunny" : "ブルーローズ(カリーナ・ライル)", "tales of zestiria" : "ロゼ", "epic seven" : "カーマイン・ローズ", "the legend of dragoon" : "ロゼ"}}
+,"toriel" : {v:"トリエル"}
 ,"vikala" : {v:"ビカラ"}
-,"wiz" : {v:"ウィズ"}
 ,"chiyo shimada" : {v:"島田千代"}
 ,"kaban" : {v:"かばんちゃん"}
-,"miyabi hoshimi" : {v:"星見雅"}
-,"moon" : {v:"ミヅキ"}
 ,"rina tennoji" : {v:"天王寺璃奈"}
+,"rudeus greyrat" : {v:"ルーデウス・グレイラット"}
+,"shinichi sakurai" : {v:"桜井真一"}
 ,"shinku" : {v:"真紅"}
-,"yukimi sajo" : {v:"佐城雪美"}
+,"subaru nakajima" : {v:"スバル・ナカジマ"}
+,"cure pine" : {v:"山吹祈里(キュアパイン)"}
 ,"hibiki tsukahara" : {v:"塚原響"}
 ,"jotaro kujo" : {v:"空条承太郎"}
-,"rein" : {v:"レイン"}
-,"subaru nakajima" : {v:"スバル・ナカジマ"}
-,"uruha rushia" : {v:"潤羽るしあ"}
-,"erasa" : {v:"イレーザ"}
-,"hakuno kishinami" : {v:"岸波白野"}
-,"krista lenz" : {v:"クリスタ・レンズ"}
 ,"mamizou futatsuiwa" : {v:"二ッ岩マミゾウ"}
-,"misaka-imouto" : {v:"御坂妹"}
-,"roll" : {v:"ロールちゃん"}
+,"rein" : {v:"レイン"}
 ,"sumireko usami" : {v:"宇佐見菫子"}
-,"toriel" : {v:"トリエル"}
-,"ume hanami" : {v:"花海佑芽"}
+,"uruha rushia" : {v:"潤羽るしあ"}
 ,"wang liu mei" : {v:"王留美"}
-,"fuu hououji" : {v:"鳳凰寺風"}
+,"zara" : {v:"Zara(ザラ)", m:{"azur lane" : "ザラ(RN Zara)"}}
+,"erasa" : {v:"イレーザ"}
 ,"ikuyo hoshizora" : {v:"星空育代"}
-,"kay" : {v:"ケイ"}
+,"misaka-imouto" : {v:"御坂妹"}
+,"wendy marvell" : {v:"ウェンディ・マーベル"}
+,"akali" : {v:"アカリ	"}
+,"cure mint" : {v:"秋元こまち(キュアミント)"}
+,"fuu hououji" : {v:"鳳凰寺風"}
+,"giyuu tomioka" : {v:"冨岡義勇"}
 ,"lulu" : {v:"ルル", m:{"final fantasy" : "ルールー", "final fantasy x" : "ルールー", "final fantasy x-2" : "ルールー", "tenshi no shippo" : "カエルのルル"}}
 ,"luminary" : {v:"勇者"}
-,"nayuki minase" : {v:"水瀬名雪"}
-,"rudeus greyrat" : {v:"ルーデウス・グレイラット"}
 ,"rydia" : {v:"リディア"}
-,"shinichi sakurai" : {v:"桜井真一"}
-,"wendy marvell" : {v:"ウェンディ・マーベル"}
-,"zara" : {v:"Zara(ザラ)", m:{"azur lane" : "ザラ(RN Zara)"}}
-,"cure mint" : {v:"秋元こまち(キュアミント)"}
-,"giyuu tomioka" : {v:"冨岡義勇"}
-,"ruan mei" : {v:"ルアン・メェイ"}
-,"sayla mass" : {v:"セイラ・マス"}
-,"yixuan" : {v:"儀玄"}
-,"akali" : {v:"アカリ	"}
-,"chiya ujimatsu" : {v:"宇治松千夜"}
-,"gertrud barkhorn" : {v:"ゲルトルート・バルクホルン"}
-,"navia caspar" : {v:"ナヴィア・カスパール"}
-,"rio rollins tachibana" : {v:"リオ・ロリンズ・タチバナ"}
 ,"sukoya kana" : {v:"健屋花那"}
+,"azusa shirasu" : {v:"白洲アズサ"}
+,"chiya ujimatsu" : {v:"宇治松千夜"}
+,"pan" : {v:"パン"}
+,"sayla mass" : {v:"セイラ・マス"}
+,"gertrud barkhorn" : {v:"ゲルトルート・バルクホルン"}
+,"hakuno kishinami" : {v:"岸波白野"}
+,"rio rollins tachibana" : {v:"リオ・ロリンズ・タチバナ"}
+,"sunny milk" : {v:"サニーミルク"}
+,"yanagi tsukishiro" : {v:"月城柳"}
+,"annie leonhart" : {v:"アニ・レオンハート"}
 ,"artoria pendragon rider alter" : {v:"アルトリア・ペンドラゴン ライダー［オルタ］"}
+,"kohaku" : {v:"コハク", m:{"tsukihime" : "琥珀", "inuyasha" : "琥珀"}}
 ,"kosaki onodera" : {v:"小野寺小咲"}
+,"loid forger" : {v:"ロイド・フォージャー"}
 ,"mihoshi kuramitsu" : {v:"九羅密美星"}
 ,"misao amano" : {v:"天野美紗緒"}
-,"sunny milk" : {v:"サニーミルク"}
+,"ryou yamada" : {v:"山田リョウ"}
+,"zhu yuan" : {v:"朱鳶"}
 ,"agrias oaks" : {v:"アグリアス・オークス"}
-,"annie leonhart" : {v:"アニ・レオンハート"}
-,"pan" : {v:"パン"}
+,"evangeline a.k. mcdowell" : {v:"エヴァンジェリン・A・K・マクダウェル"}
+,"lisa imai" : {v:"今井リサ"}
+,"navia caspar" : {v:"ナヴィア・カスパール"}
+,"ada wong" : {v:"エイダ・ウォン"}
+,"bronya zaychik" : {v:"ブローニャ・ザイチク"}
 ,"ciel" : {v:"シエル", m:{"tsukihime" : "エレイシア(シエル)", "god eater" : "シエル・アランソン"}}
 ,"maou" : {v:"魔王"}
-,"reiko katherine akimoto" : {v:"秋本・カトリーヌ・麗子"}
-,"ciel phantomhive" : {v:"シエル・ファントムハイヴ"}
-,"evangeline a.k. mcdowell" : {v:"エヴァンジェリン・A・K・マクダウェル"}
-,"ichigo morino" : {v:"森野苺"}
-,"ryou yamada" : {v:"山田リョウ"}
-,"barnaby brooks jr." : {v:"バーナビー・ブルックスJr."}
-,"bayonetta" : {v:"ベヨネッタ"}
-,"loid forger" : {v:"ロイド・フォージャー"}
-,"pola" : {v:"Pola(ポーラ)", m:{"azur lane" : "ポーラ(RN Pola)"}}
-,"sebastian michaelis" : {v:"セバスチャン・ミカエリス"}
-,"ada wong" : {v:"エイダ・ウォン"}
-,"laala manaka" : {v:"真中らぁら"}
 ,"nui sociere" : {v:"ニュイ・ソシエール"}
+,"pola" : {v:"Pola(ポーラ)", m:{"azur lane" : "ポーラ(RN Pola)"}}
+,"reiko katherine akimoto" : {v:"秋本・カトリーヌ・麗子"}
 ,"umbreon" : {v:"ブラッキー"}
-,"yukikaze panettone" : {v:"ユキカゼ・パネトーネ"}
-,"azusa shirasu" : {v:"白洲アズサ"}
-,"kanako ohno" : {v:"大野加奈子(神無月曜湖)"}
-,"lisa imai" : {v:"今井リサ"}
+,"bayonetta" : {v:"ベヨネッタ"}
+,"ciel phantomhive" : {v:"シエル・ファントムハイヴ"}
+,"ichigo morino" : {v:"森野苺"}
+,"barnaby brooks jr." : {v:"バーナビー・ブルックスJr."}
 ,"lunch" : {v:"ランチ"}
 ,"ryoken kogami" : {v:"鴻上了見"}
+,"scaramouche" : {v:"スカラマシュ"}
+,"sebastian michaelis" : {v:"セバスチャン・ミカエリス"}
+,"akebono" : {v:"曙"}
+,"astra yao" : {v:"アストラ・ヤオ"}
+,"chiori" : {v:"千織"}
+,"kotoha tanaka" : {v:"田中琴葉"}
+,"laala manaka" : {v:"真中らぁら"}
+,"nishikata" : {v:"西片"}
+,"shiroko terror" : {v:"シロコ*テラー"}
+,"ump45" : {v:"UMP45"}
+,"yukikaze panettone" : {v:"ユキカゼ・パネトーネ"}
+,"hayate hisakawa" : {v:"久川颯"}
+,"kanako ohno" : {v:"大野加奈子(神無月曜湖)"}
+,"tomoya okazaki" : {v:"岡崎朋也"}
 ,"vector" : {v:"ベクター", m:{"girls frontline" : "Vector"}}
 ,"yukikaze" : {v:"雪風", m:{"azur lane" : "雪風(IJN Yukikaze)"}}
 ,"fusou" : {v:"扶桑(IJN Fuso)"}
-,"hayate hisakawa" : {v:"久川颯"}
-,"klan klan" : {v:"クラン・クラン"}
-,"kohaku" : {v:"コハク", m:{"tsukihime" : "琥珀", "inuyasha" : "琥珀"}}
-,"nishikata" : {v:"西片"}
-,"sasami kawai" : {v:"河合砂沙美"}
-,"ump45" : {v:"UMP45"}
-,"akebono" : {v:"曙"}
-,"harusame" : {v:"春雨"}
-,"kotoha tanaka" : {v:"田中琴葉"}
-,"okita souji alter" : {v:"沖田総司［オルタ］"}
-,"sona buvelle" : {v:"Sona Buvelle"}
-,"tomoya okazaki" : {v:"岡崎朋也"}
-,"bronya zaychik" : {v:"ブローニャ・ザイチク"}
-,"ghislaine dedoldia" : {v:"ギレーヌ・デドルディア"}
 ,"hiori kazano" : {v:"風野灯織"}
+,"hiro shinosawa" : {v:"篠澤広"}
+,"klan klan" : {v:"クラン・クラン"}
+,"okita souji alter" : {v:"沖田総司［オルタ］"}
+,"sasami kawai" : {v:"河合砂沙美"}
+,"aki izayoi" : {v:"十六夜アキ"}
+,"chihiro senkawa" : {v:"千川ちひろ"}
+,"harusame" : {v:"春雨"}
 ,"inkling" : {v:"インクリング"}
+,"mei izumi" : {v:"和泉愛依"}
+,"sona buvelle" : {v:"Sona Buvelle"}
+,"aki hinata" : {v:"日向秋"}
+,"boruto uzumaki" : {v:"うずまきボルト"}
+,"castorice" : {v:"キャストリス"}
+,"layla" : {v:"レイラ", m:{"the idolmaster" : "ライラ"}}
+,"minamitsu murasa" : {v:"村紗水蜜"}
+,"regu" : {v:"レグ"}
+,"skadi" : {v:"スカディ", m:{"fate grand order" : "スカサハ=スカディ", "arknights" : "スカジ"}}
+,"stheno" : {v:"ステンノ"}
 ,"tabitha" : {v:"タバサ", m:{"pokemon" : "ホムラ", "dragon quest v" : "タバサ王女", "dragon quest" : "タバサ王女"}}
 ,"warspite" : {v:"ウォースパイト", m:{"kantai collection" : "Warspite(ウォースパイト)", "azur lane" : "ウォースパイト(HMS Warspite)"}}
-,"aki hinata" : {v:"日向秋"}
-,"chihiro senkawa" : {v:"千川ちひろ"}
 ,"cure milky" : {v:"羽衣ララ(キュアミルキー)"}
-,"hiro shinosawa" : {v:"篠澤広"}
-,"scaramouche" : {v:"スカラマシュ"}
-,"stheno" : {v:"ステンノ"}
+,"ghislaine dedoldia" : {v:"ギレーヌ・デドルディア"}
+,"shin sato" : {v:"佐藤心"}
 ,"suruga kanbaru" : {v:"神原駿河"}
+,"takanashi kiara" : {v:"小鳥遊キアラ"}
 ,"tsurumaru kuninaga" : {v:"鶴丸国永"}
 ,"yasutomo arakita" : {v:"荒北靖友"}
-,"chiori" : {v:"千織"}
-,"hina hikawa" : {v:"氷川日菜"}
-,"kei kusanagi" : {v:"草薙桂"}
-,"luca" : {v:"リュカ", m:{"duel masters" : "ルカ"}}
-,"tatsuya shiba" : {v:"司波達也"}
-,"yanagi tsukishiro" : {v:"月城柳"}
-,"yukio okumura" : {v:"奥村雪男"}
-,"zhu yuan" : {v:"朱鳶"}
-,"angel" : {v:"エンジェル", m:{"king of fighters" : "アンヘル", "fairy tail" : "ソラノ・アグリア(エンジェル)", "actraiser" : "天使"}}
-,"deedlit" : {v:"ディードリット"}
-,"etna" : {v:"エトナ"}
-,"issei hyoudou" : {v:"兵藤一誠"}
-,"megumi fushiguro" : {v:"伏黒恵"}
-,"momo" : {v:"モモ", m:{"xenosaga" : "モモ(M.O.M.O.)", "idolish7" : "百"}}
-,"regu" : {v:"レグ"}
-,"scheherazade" : {v:"シェヘラザード"}
-,"shin sato" : {v:"佐藤心"}
-,"takanashi kiara" : {v:"小鳥遊キアラ"}
-,"aki izayoi" : {v:"十六夜アキ"}
 ,"amazon" : {v:"アマゾン(HMS Amazon)"}
 ,"amiya" : {v:"アーミヤ"}
-,"arataka reigen" : {v:"霊幻新隆"}
+,"hina hikawa" : {v:"氷川日菜"}
 ,"hiro" : {v:"ヒロ", m:{"lunar eternal blue" : "ヒイロ"}}
-,"kaede isami" : {v:"勇美カエデ"}
-,"keiichi maebara" : {v:"前原圭一"}
-,"mei izumi" : {v:"和泉愛依"}
-,"minamitsu murasa" : {v:"村紗水蜜"}
-,"shiroko terror" : {v:"シロコ*テラー"}
-,"skadi" : {v:"スカディ", m:{"fate grand order" : "スカサハ=スカディ", "arknights" : "スカジ"}}
-,"arisa ichigaya" : {v:"市ヶ谷有咲"}
-,"boruto uzumaki" : {v:"うずまきボルト"}
+,"kaho komiya" : {v:"小宮果穂"}
+,"kei kusanagi" : {v:"草薙桂"}
+,"luca" : {v:"リュカ", m:{"duel masters" : "ルカ"}}
+,"megumi fushiguro" : {v:"伏黒恵"}
+,"scheherazade" : {v:"シェヘラザード"}
+,"serika kuromi" : {v:"黒見セリカ"}
+,"tatsuya shiba" : {v:"司波達也"}
+,"yukio okumura" : {v:"奥村雪男"}
+,"angel" : {v:"エンジェル", m:{"king of fighters" : "アンヘル", "fairy tail" : "ソラノ・アグリア(エンジェル)", "actraiser" : "天使"}}
+,"anna yamada" : {v:"山田杏奈"}
 ,"chizuru ichinose" : {v:"一ノ瀬ちづる(水原千鶴)"}
 ,"cure moonlight" : {v:"月影ゆり(キュアムーンライト)"}
-,"cure pine" : {v:"山吹祈里(キュアパイン)"}
-,"fine" : {v:"フィーネ", m:{"fushigiboshi no futagohime" : "ファイン"}}
-,"hange zoe" : {v:"ハンジ・ゾエ"}
+,"cure passion" : {v:"東せつな(キュアパッション)"}
+,"deedlit" : {v:"ディードリット"}
+,"etna" : {v:"エトナ"}
 ,"haruka" : {v:"ハルカ", m:{"senran kagura" : "春花", "sister princess" : "春歌", "dream c club" : "遙華", "tactics" : "春華"}}
-,"haruka yuzuhara" : {v:"柚原春夏"}
 ,"heles" : {v:"ヘルエス"}
-,"kaho komiya" : {v:"小宮果穂"}
-,"kaoru niimi" : {v:"新見薫"}
+,"issei hyoudou" : {v:"兵藤一誠"}
+,"kaede isami" : {v:"勇美カエデ"}
+,"arataka reigen" : {v:"霊幻新隆"}
+,"arisa ichigaya" : {v:"市ヶ谷有咲"}
+,"fu xuan" : {v:"符玄"}
+,"hange zoe" : {v:"ハンジ・ゾエ"}
+,"keiichi maebara" : {v:"前原圭一"}
+,"momo" : {v:"モモ", m:{"xenosaga" : "モモ(M.O.M.O.)", "idolish7" : "百"}}
 ,"rika nonaka" : {v:"牧野留姫"}
-,"sword maiden" : {v:"剣の乙女"}
 ,"yumi" : {v:"ユミ", m:{"senran kagura" : "雪泉", "ape escape" : "サヤカ"}}
 ,"yuni shingyouji" : {v:"真行寺由仁(ユニ)"}
-,"cornelia li britannia" : {v:"コーネリア・リ・ブリタニア"}
-,"layla" : {v:"レイラ", m:{"the idolmaster" : "ライラ"}}
-,"nina ichihara" : {v:"市原仁奈"}
-,"ai-chan" : {v:"アイちゃん", m:{"honkai gakuen" : "AIちゃん"}}
-,"anna yamada" : {v:"山田杏奈"}
-,"debora briscoletti" : {v:"デボラ・ブリスコレッティ"}
+,"charlotte" : {v:"シャルロット", m:{"granblue fantasy" : "シャルロッテ・フェニヤ", "puella magi madoka magica" : "シャルロッテ", "last origin" : "シャーロット", "south park" : "シャーロット", "unlight" : "シャーロット", "kangokutou mary skelter" : "シャーロット", "kaiketsu zorori" : "シャーロット", "fire emblem if" : "シャーロッテ"}}
+,"fine" : {v:"フィーネ", m:{"fushigiboshi no futagohime" : "ファイン"}}
+,"haruka yuzuhara" : {v:"柚原春夏"}
 ,"hayase nagatoro" : {v:"長瀞早瀬"}
+,"kaoru niimi" : {v:"新見薫"}
+,"sword maiden" : {v:"剣の乙女"}
+,"ai hayasaka" : {v:"早坂愛"}
+,"ai-chan" : {v:"アイちゃん", m:{"honkai gakuen" : "AIちゃん"}}
+,"cornelia li britannia" : {v:"コーネリア・リ・ブリタニア"}
+,"inugami korone" : {v:"戌神ころね"}
+,"nanachi" : {v:"ナナチ"}
+,"nina ichihara" : {v:"市原仁奈"}
+,"debora briscoletti" : {v:"デボラ・ブリスコレッティ"}
+,"haruna kurodate" : {v:"黒舘ハルナ"}
+,"hsien-ko" : {v:"レイレイ"}
 ,"inuyasha" : {v:"犬夜叉"}
 ,"kouwan seiki" : {v:"港湾棲姫"}
 ,"rain mikamura" : {v:"レイン・ミカムラ"}
+,"rihoko sakurai" : {v:"桜井梨穂子"}
+,"touji suzuhara" : {v:"鈴原トウジ"}
+,"yuko yoshida" : {v:"吉田優子"}
 ,"ashley graham" : {v:"アシュリー・グラハム"}
-,"charlotte" : {v:"シャルロット", m:{"granblue fantasy" : "シャルロッテ・フェニヤ", "puella magi madoka magica" : "シャルロッテ", "last origin" : "シャーロット", "south park" : "シャーロット", "unlight" : "シャーロット", "kangokutou mary skelter" : "シャーロット", "kaiketsu zorori" : "シャーロット", "fire emblem if" : "シャーロッテ"}}
 ,"cure ange" : {v:"薬師寺さあや(キュアアンジュ)"}
+,"cure chocolat" : {v:"剣城あきら(キュアショコラ)"}
 ,"cure muse" : {v:"調辺アコ(キュアミューズ)"}
-,"hsien-ko" : {v:"レイレイ"}
+,"furen e lustario" : {v:"フレン・E・ルスタリオ"}
 ,"kon the knight" : {v:"ジャミ"}
 ,"mina majikina" : {v:"真鏡名ミナ"}
-,"nanachi" : {v:"ナナチ"}
-,"rihoko sakurai" : {v:"桜井梨穂子"}
-,"yuko yoshida" : {v:"吉田優子"}
 ,"chifuyu orimura" : {v:"織斑千冬"}
-,"lucina" : {v:"ルキナ", m:{"galactic drifter vifam" : "ルチーナ・プレシェット"}}
 ,"maya jouga" : {v:"条河麻耶"}
 ,"mika" : {v:"ミカ", m:{"genshin impact" : "ミカ・シュミット", "nintama rantarou" : "みか"}}
 ,"nobita nobi" : {v:"野比のび太"}
-,"touji suzuhara" : {v:"鈴原トウジ"}
-,"winry rockbell" : {v:"ウィンリィ・ロックベル"}
-,"cure chocolat" : {v:"剣城あきら(キュアショコラ)"}
-,"fu xuan" : {v:"符玄"}
-,"hacka doll no.3" : {v:"ハッカドール3号"}
-,"haruna kurodate" : {v:"黒舘ハルナ"}
-,"raven" : {v:"レイヴン", m:{"fire emblem the blazing blade" : "レイモンド", "teen titans" : "レイブン", "ben 10" : "レイブン", "gravity rush" : "グラビティ・クロウ", "rune factory 3" : "トゥーナ"}}
-,"serika kuromi" : {v:"黒見セリカ"}
+,"shizuka mogami" : {v:"最上静香"}
 ,"vaporeon" : {v:"シャワーズ"}
-,"astra yao" : {v:"アストラ・ヤオ"}
-,"captain nemo" : {v:"ネモ船長", m:{"fate grand order" : "キャプテン・ネモ", "fushigi no umi no nadia" : "ネモ(エルシス・ラ・アルウォール)"}}
-,"cure beat" : {v:"黒川エレン(キュアビート)"}
-,"furen e lustario" : {v:"フレン・E・ルスタリオ"}
-,"inugami korone" : {v:"戌神ころね"}
-,"sagume kishin" : {v:"稀神サグメ"}
-,"tomo asama" : {v:"浅間・智"}
-,"ai hayasaka" : {v:"早坂愛"}
+,"winry rockbell" : {v:"ウィンリィ・ロックベル"}
 ,"akari kizuna" : {v:"紲星あかり"}
+,"captain nemo" : {v:"ネモ船長", m:{"fate grand order" : "キャプテン・ネモ", "fushigi no umi no nadia" : "ネモ(エルシス・ラ・アルウォール)"}}
+,"erika" : {v:"エリカ", m:{"beatmania" : "北見エリカ"}}
+,"hacka doll no.3" : {v:"ハッカドール3号"}
+,"lucina" : {v:"ルキナ", m:{"galactic drifter vifam" : "ルチーナ・プレシェット"}}
+,"shion" : {v:"シオン", m:{"king of fighters" : "紫苑", "shinrabansho" : "征嵐剣シオン", "xenosaga" : "シオン・ウヅキ", "no. 6" : "紫苑"}}
+,"cure beat" : {v:"黒川エレン(キュアビート)"}
+,"dantoudai no aura" : {v:"断頭台のアウラ"}
+,"passionlip" : {v:"パッションリップ"}
+,"sagume kishin" : {v:"稀神サグメ"}
+,"suzuhara lulu" : {v:"鈴原るる"}
+,"tomo asama" : {v:"浅間・智"}
+,"baiken" : {v:"梅喧"}
+,"caenis" : {v:"カイニス"}
 ,"hiro hamada" : {v:"ヒロ・ハマダ"}
+,"marcille donato" : {v:"マルシル・ドナトー"}
 ,"mint blancmanche" : {v:"ミント・ブラマンシュ"}
 ,"ryoko asakura" : {v:"朝倉涼子", m:{"kuromajo-san ga tooru" : "麻倉良子"}}
-,"shion" : {v:"シオン", m:{"king of fighters" : "紫苑", "shinrabansho" : "征嵐剣シオン", "xenosaga" : "シオン・ウヅキ", "no. 6" : "紫苑"}}
-,"shizuka mogami" : {v:"最上静香"}
-,"ako atarashi" : {v:"新子憧"}
-,"baiken" : {v:"梅喧"}
-,"cure passion" : {v:"東せつな(キュアパッション)"}
-,"marcille donato" : {v:"マルシル・ドナトー"}
-,"shinn asuka" : {v:"シン・アスカ"}
 ,"tenka osaki" : {v:"大崎甜花"}
 ,"tsubasa kazanari" : {v:"風鳴翼"}
+,"ako atarashi" : {v:"新子憧"}
+,"astaroth" : {v:"アスタロト", m:{"soulcalibur" : "アスタロス", "highschool dxd" : "ディオドラ・アスタロト", "shinrabansho" : "アスタロット", "dragonaut" : "ディオドラ・アスタロト"}}
+,"lynette" : {v:"リネット"}
+,"osaka" : {v:"春日歩(大阪)"}
+,"shinn asuka" : {v:"シン・アスカ"}
+,"xianyun" : {v:"閑雲"}
+,"america" : {v:"アメリカ"}
+,"asuka kazama" : {v:"風間飛鳥"}
 ,"atlanta" : {v:"アトランタ", m:{"kantai collection" : "Atlanta(アトランタ)", "azur lane" : "アトランタ(USS Atlanta)"}}
 ,"danua" : {v:"ダヌア"}
 ,"konomi yuzuhara" : {v:"柚原このみ"}
-,"lynette" : {v:"リネット"}
 ,"mako reizei" : {v:"冷泉麻子"}
-,"osaka" : {v:"春日歩(大阪)"}
-,"passionlip" : {v:"パッションリップ"}
-,"ryoji kaji" : {v:"加持リョウジ"}
-,"asuka kazama" : {v:"風間飛鳥"}
-,"erika" : {v:"エリカ", m:{"beatmania" : "北見エリカ"}}
 ,"phoenix wright" : {v:"成歩堂龍一"}
-,"sakura igawa" : {v:"井河さくら"}
-,"suzuhara lulu" : {v:"鈴原るる"}
+,"ryoji kaji" : {v:"加持リョウジ"}
+,"meowscarada" : {v:"マスカーニャ"}
+,"monika" : {v:"モニカ", m:{"princess connect" : "モニカ・ヴァイスヴィント"}}
+,"raven" : {v:"レイヴン", m:{"fire emblem the blazing blade" : "レイモンド", "ben 10" : "レイブン", "teen titans" : "レイブン", "gravity rush" : "グラビティ・クロウ", "rune factory 3" : "トゥーナ"}}
+,"rover" : {v:"漂泊者", m:{"etrian odyssey" : "ハウンド"}}
+,"tingyun" : {v:"停雲"}
 ,"tomoe" : {v:"トモエ", m:{"blue archive" : "佐城トモエ", "hololive" : "白雪巴", "queens blade" : "武者巫女トモエ", "tsuki ga michibiku isekai douchuu" : "巴"}}
-,"astaroth" : {v:"アスタロト", m:{"soulcalibur" : "アスタロス", "highschool dxd" : "ディオドラ・アスタロト", "shinrabansho" : "アスタロット", "dragonaut" : "ディオドラ・アスタロト"}}
-,"blanc" : {v:"ブラン", m:{"hyperdimension neptunia" : "ブラン(ホワイトハート)"}}
-,"caenis" : {v:"カイニス"}
-,"castorice" : {v:"キャストリス"}
+,"watson amelia" : {v:"ワトソン・アメリア"}
+,"akane shinjou" : {v:"新条アカネ", m:{"miracle giants dome-kun" : "新城あかね"}}
+,"burnice white" : {v:"バーニス・ホワイト"}
 ,"cinque izumi" : {v:"シンク・イズミ"}
-,"dantoudai no aura" : {v:"断頭台のアウラ"}
+,"cure macaron" : {v:"琴爪ゆかり(キュアマカロン)"}
+,"galleon" : {v:"ガレヲン"}
+,"hibari" : {v:"ヒバリ", m:{"one piece" : "ひばり", "senran kagura" : "雲雀", "river city girls" : "ひばり"}}
+,"kiana kaslana" : {v:"キアナ・カスラナ"}
 ,"momo kawashima" : {v:"河嶋桃"}
+,"sasaki saku" : {v:"笹木咲"}
 ,"tsukiko tsutsukakushi" : {v:"筒隠月子"}
+,"acheron" : {v:"黄泉"}
 ,"cassandra alexandra" : {v:"カサンドラ・アレクサンドル"}
 ,"china kousaka" : {v:"コウサカ・チナ"}
 ,"haguro" : {v:"羽黒", m:{"azur lane" : "羽黒(IJN Haguro)"}}
-,"hibari" : {v:"ヒバリ", m:{"one piece" : "ひばり", "senran kagura" : "雲雀", "river city girls" : "ひばり"}}
-,"meowscarada" : {v:"マスカーニャ"}
 ,"reki kyan" : {v:"喜屋武暦"}
 ,"rika sasaki" : {v:"佐々木利佳"}
 ,"saki miyanaga" : {v:"宮永咲"}
+,"sakura igawa" : {v:"井河さくら"}
 ,"setsuna sakurazaki" : {v:"桜咲刹那"}
 ,"stella loussier" : {v:"ステラ・ルーシェ"}
-,"watson amelia" : {v:"ワトソン・アメリア"}
 ,"akane hino" : {v:"日野茜"}
-,"akane shinjou" : {v:"新条アカネ", m:{"miracle giants dome-kun" : "新城あかね"}}
-,"america" : {v:"アメリカ"}
-,"cure macaron" : {v:"琴爪ゆかり(キュアマカロン)"}
+,"blanc" : {v:"ブラン", m:{"hyperdimension neptunia" : "ブラン(ホワイトハート)"}}
 ,"eve" : {v:"イヴ", m:{"to love-ru" : "イヴ(金色の闇)", "parasite eve" : "イヴ・ブレア", "needless" : "イヴ・ノイシュヴァンシュタイン"}}
-,"galleon" : {v:"ガレヲン"}
 ,"ken kaneki" : {v:"金木研"}
-,"monika" : {v:"モニカ", m:{"princess connect" : "モニカ・ヴァイスヴィント"}}
 ,"nobunaga oda" : {v:"織田信長", m:{"sengoku otome" : "織田ノブナガ", "sengoku collection" : "織田ノブナガ"}}
 ,"panty anarchy" : {v:"アナーキー・パンティ"}
 ,"rei miyamoto" : {v:"宮本麗"}
-,"tingyun" : {v:"停雲"}
+,"tsubasa ibuki" : {v:"伊吹翼"}
+,"aoko aozaki" : {v:"蒼崎青子(フォーリナー)", m:{"mahou tsukai no yoru" : "蒼崎青子"}}
 ,"bradamante" : {v:"ブラダマンテ"}
+,"eas" : {v:"イース(東せつな)"}
 ,"francesca lucchini" : {v:"フランチェスカ・ルッキーニ"}
+,"galo thymos" : {v:"ガロ・ティモス"}
 ,"konoka konoe" : {v:"近衛木乃香"}
 ,"kotori mizuki" : {v:"観月小鳥"}
 ,"mio sakamoto" : {v:"坂本美緒"}
 ,"mirai kamiki" : {v:"カミキ・ミライ"}
+,"mualani" : {v:"ムアラニ"}
 ,"rana" : {v:"ラナ", m:{"mega man star force" : "ラーナ", "langrisser" : "ラーナ"}}
-,"sasaki saku" : {v:"笹木咲"}
 ,"satoshi tainaka" : {v:"田井中聡"}
-,"xianyun" : {v:"閑雲"}
-,"elaina" : {v:"イレイナ"}
+,"aigis" : {v:"アイギス"}
+,"chen hui-chieh" : {v:"チェン"}
+,"dante" : {v:"ダンテ", m:{"shironeko project" : "気高き騎士団長ダンテ"}}
 ,"euphemia li britannia" : {v:"ユーフェミア・リ・ブリタニア"}
-,"galo thymos" : {v:"ガロ・ティモス"}
+,"iris" : {v:"アイリス"}
 ,"irisviel von einzbern" : {v:"アイリスフィール・フォン・アインツベルン"}
 ,"jintsuu" : {v:"神通", m:{"azur lane" : "神通(IJN Jintsū)"}}
-,"kiana kaslana" : {v:"キアナ・カスラナ"}
+,"mihari oyama" : {v:"緒山みはり"}
 ,"miyuki shirogane" : {v:"白銀御行"}
 ,"toushirou hitsugaya" : {v:"日番谷冬獅郎"}
-,"tsubasa ibuki" : {v:"伊吹翼"}
-,"aigis" : {v:"アイギス"}
 ,"alice zuberg" : {v:"アリス・ツーベルク"}
-,"aoko aozaki" : {v:"蒼崎青子(フォーリナー)", m:{"mahou tsukai no yoru" : "蒼崎青子"}}
 ,"high elf archer" : {v:"妖精弓手"}
 ,"kokichi ouma" : {v:"王馬小吉"}
-,"mihari oyama" : {v:"緒山みはり"}
-,"nabiki tendo" : {v:"天道なびき"}
 ,"sae nakata" : {v:"中多紗江"}
+,"yahagi" : {v:"矢矧"}
 ,"zange" : {v:"ざんげちゃん"}
-,"chen hui-chieh" : {v:"チェン"}
+,"bowser" : {v:"クッパ"}
+,"braixen" : {v:"テールナー"}
+,"elaina" : {v:"イレイナ"}
 ,"katsuragi" : {v:"葛城", m:{"azur lane" : "葛城(IJN Katsuragi)"}}
 ,"koyomi mizuhara" : {v:"水原暦"}
+,"kyoko igarashi" : {v:"五十嵐響子"}
+,"le malin" : {v:"ル・マラン", m:{"azur lane" : "ル・マラン(MNF Le Malin)"}}
+,"nabiki tendo" : {v:"天道なびき"}
 ,"seto kaiba" : {v:"海馬瀬人"}
+,"shion yorigami" : {v:"依神紫苑"}
 ,"taki tachibana" : {v:"立花瀧"}
 ,"yuuno scrya" : {v:"ユーノ・スクライア"}
+,"akane murokasa" : {v:"室笠アカネ"}
 ,"aoi kotonoha" : {v:"琴葉葵"}
-,"braixen" : {v:"テールナー"}
 ,"kaito" : {v:"KAITO", m:{"ajin" : "海斗"}}
 ,"manami tamura" : {v:"田村麻奈実"}
 ,"megumi natsu" : {v:"奈津恵"}
-,"mualani" : {v:"ムアラニ"}
-,"shion yorigami" : {v:"依神紫苑"}
+,"rouge the bat" : {v:"ルージュ・ザ・バット"}
+,"serika hakozaki" : {v:"箱崎星梨花"}
 ,"vice" : {v:"バイス"}
-,"yahagi" : {v:"矢矧"}
 ,"yakumo tsukamoto" : {v:"塚本八雲"}
 ,"yousuke koiwai" : {v:"小岩井葉介"}
+,"amamiya kokoro" : {v:"天宮こころ"}
 ,"ashelia bnargin dalmasca" : {v:"アーシェ・バナルガン・ダルマスカ"}
 ,"chiho sasaki" : {v:"佐々木千穂"}
-,"iris" : {v:"アイリス"}
-,"kyoko igarashi" : {v:"五十嵐響子"}
+,"cure berry" : {v:"蒼乃美希(キュアベリー)"}
+,"jtf mob" : {v:"JTFモブ"}
+,"kako takafuji" : {v:"鷹富士茄子"}
+,"kotone fujita" : {v:"藤田ことね"}
 ,"mai tokiha" : {v:"鴇羽舞衣"}
-,"rouge the bat" : {v:"ルージュ・ザ・バット"}
 ,"shido itsuka" : {v:"五河士道"}
 ,"shinichi kudo" : {v:"工藤新一"}
+,"surtr" : {v:"スルト"}
+,"theresa apocalypse" : {v:"テレサ・アポカリプス"}
 ,"yukina himeragi" : {v:"姫柊雪菜"}
 ,"akari kamigishi" : {v:"神岸あかり"}
 ,"alisa reinford" : {v:"アリサ・ラインフォルト"}
-,"bowser" : {v:"クッパ"}
+,"atsuko hakari" : {v:"秤アツコ"}
+,"fuka toyokawa" : {v:"豊川風花"}
 ,"iroha tamaki" : {v:"環いろは"}
-,"kako takafuji" : {v:"鷹富士茄子"}
+,"judy hopps" : {v:"ジュディ・ホップス"}
 ,"kirari moroboshi" : {v:"諸星きらり"}
-,"le malin" : {v:"ル・マラン", m:{"azur lane" : "ル・マラン(MNF Le Malin)"}}
 ,"makoto aki" : {v:"安芸真琴(マコト)"}
 ,"saya endou" : {v:"遠藤サヤ"}
-,"serika hakozaki" : {v:"箱崎星梨花"}
+,"suguru geto" : {v:"夏油傑"}
+,"tenten" : {v:"テンテン"}
 ,"tsukiumi" : {v:"月海"}
+,"elegg" : {v:"エレグ"}
 ,"erica fontaine" : {v:"エリカ・フォンティーヌ"}
-,"fuka toyokawa" : {v:"豊川風花"}
 ,"hanako kuroe" : {v:"黒江花子(クロエ)"}
+,"hiyori tsuchinaga" : {v:"槌永ヒヨリ"}
 ,"jean kirschtein" : {v:"ジャン・キルシュタイン"}
-,"jtf mob" : {v:"JTFモブ"}
 ,"kirei kotomine" : {v:"言峰綺礼"}
+,"kyojuro rengoku" : {v:"煉獄杏寿郎"}
+,"lio fotia" : {v:"リオ・フォーティア"}
 ,"mafuyu kirisu" : {v:"桐須真冬"}
 ,"millhiore firianno biscotti" : {v:"ミルヒオーレ・フィリアンノ・ビスコッティ"}
+,"mogami" : {v:"最上", m:{"azur lane" : "最上(IJN Mogami)"}}
 ,"shuuichi saihara" : {v:"最原終一"}
-,"suguru geto" : {v:"夏油傑"}
-,"surtr" : {v:"スルト"}
-,"acheron" : {v:"黄泉"}
-,"amamiya kokoro" : {v:"天宮こころ"}
 ,"ashigara" : {v:"足柄", m:{"azur lane" : "足柄(IJN Ashigara)"}}
 ,"camilla" : {v:"カミラ"}
+,"cham cham" : {v:"チャムチャム"}
 ,"haman karn" : {v:"ハマーン・カーン"}
 ,"hoozuki" : {v:"ほおずき", m:{"flower knight girl" : "ホオズキ", "hoozuki no reitetsu" : "鬼灯", "otome youkai zakuro" : "鬼灯"}}
-,"lio fotia" : {v:"リオ・フォーティア"}
-,"mogami" : {v:"最上", m:{"azur lane" : "最上(IJN Mogami)"}}
+,"mai kazuki" : {v:"香月舞", m:{"magne robo ga-keen" : "花月舞"}}
+,"sadayo kawakami" : {v:"川上貞代"}
+,"shinobu kuki" : {v:"久岐忍"}
 ,"tokiko tsumura" : {v:"津村斗貴子"}
 ,"tsunayoshi sawada" : {v:"沢田綱吉"}
 ,"yumi fukuzawa" : {v:"福沢祐巳"}
-,"burnice white" : {v:"バーニス・ホワイト"}
-,"cham cham" : {v:"チャムチャム"}
-,"langa hasegawa" : {v:"馳河ランガ"}
-,"sadayo kawakami" : {v:"川上貞代"}
-,"tenten" : {v:"テンテン"}
-,"eijun sawamura" : {v:"沢村栄純"}
-,"judy hopps" : {v:"ジュディ・ホップス"}
 ,"junko enoshima" : {v:"江ノ島盾子"}
+,"kanao tsuyuri" : {v:"栗花落カナヲ"}
+,"langa hasegawa" : {v:"馳河ランガ"}
+,"springfield" : {v:"スプリングフィールド"}
+,"eijun sawamura" : {v:"沢村栄純"}
 ,"leonardo watch" : {v:"レオナルド・ウォッチ"}
+,"lunasa prismriver" : {v:"ルナサ・プリズムリバー"}
 ,"nariyuki yuiga" : {v:"唯我成幸"}
 ,"oberon" : {v:"オベロン", m:{"sword art online" : "須郷伸之(妖精王オベイロン)"}}
-,"akane murokasa" : {v:"室笠アカネ"}
-,"atsuko hakari" : {v:"秤アツコ"}
+,"celes chere" : {v:"セリス・シェール"}
+,"charlotte e. yeager" : {v:"シャーロット・E・イェーガー"}
 ,"cure flora" : {v:"春野はるか(キュアフローラ)"}
 ,"cure mermaid" : {v:"海藤みなみ(キュアマーメイド)"}
-,"hiyori tsuchinaga" : {v:"槌永ヒヨリ"}
-,"ibuki" : {v:"伊吹(IJN Ibuki)"}
-,"kotone fujita" : {v:"藤田ことね"}
-,"lunasa prismriver" : {v:"ルナサ・プリズムリバー"}
-,"mai kazuki" : {v:"香月舞", m:{"magne robo ga-keen" : "花月舞"}}
-,"mumei" : {v:"無名"}
-,"springfield" : {v:"スプリングフィールド"}
-,"theresa apocalypse" : {v:"テレサ・アポカリプス"}
-,"ayaka kurusugawa" : {v:"来栖川綾香"}
-,"chacha" : {v:"チャチャ"}
-,"charlotte e. yeager" : {v:"シャーロット・E・イェーガー"}
+,"dusk" : {v:"ダスク"}
 ,"elpeo ple" : {v:"エルピー・プル"}
-,"hakutaku" : {v:"白澤"}
+,"faruzan" : {v:"ファルザン"}
+,"ibuki" : {v:"伊吹(IJN Ibuki)"}
 ,"kaho hinata" : {v:"日向夏帆"}
 ,"lanzhu zhong" : {v:"鐘嵐珠"}
+,"mumei" : {v:"無名"}
+,"rinami himesaki" : {v:"姫崎莉波"}
+,"sekibanki" : {v:"赤蛮奇"}
+,"valkyrie" : {v:"ヴァルキリー", m:{"fate grand order" : "ワルキューレ", "valkyrie no bouken" : "ワルキューレ", "ufo princess valkyrie" : "ワるきゅーレ", "galzoo island" : "バルキリー"}}
+,"ayaka kurusugawa" : {v:"来栖川綾香"}
+,"chacha" : {v:"チャチャ"}
+,"espeon" : {v:"エーフィ"}
+,"fujiko mine" : {v:"峰不二子"}
+,"hakutaku" : {v:"白澤"}
+,"ibuki douji" : {v:"伊吹童子"}
+,"jinx" : {v:"ジンクス"}
+,"kana arima" : {v:"有馬かな"}
+,"katyusha" : {v:"カチューシャ"}
 ,"mamimi tanaka" : {v:"田中摩美々"}
+,"misogi hodaka" : {v:"穂高みそぎ(ミソギ)"}
 ,"noel vermillion" : {v:"ノエル=ヴァーミリオン"}
 ,"taigei" : {v:"大鯨"}
-,"valkyrie" : {v:"ヴァルキリー", m:{"fate grand order" : "ワルキューレ", "valkyrie no bouken" : "ワルキューレ", "ufo princess valkyrie" : "ワるきゅーレ", "galzoo island" : "バルキリー"}}
 ,"ai hinatsuru" : {v:"雛鶴あい"}
 ,"akihisa yoshii" : {v:"吉井明久"}
+,"artoria caster" : {v:"アルトリア キャスター"}
 ,"chiyo mihama" : {v:"美浜ちよ"}
+,"cure rouge" : {v:"夏木りん(キュアルージュ)"}
+,"delia ketchum" : {v:"ハナコ"}
 ,"eureka" : {v:"エウレカ"}
 ,"kaolla su" : {v:"カオラ・スゥ"}
-,"katyusha" : {v:"カチューシャ"}
 ,"kouichi aihara" : {v:"相原光一"}
 ,"kurumi tokisaki" : {v:"時崎狂三"}
-,"kyojuro rengoku" : {v:"煉獄杏寿郎"}
+,"libeccio" : {v:"Libeccio(リベッチオ)", m:{"azur lane" : "リベッチオ(RN Libeccio)"}}
+,"mion sonozaki" : {v:"園崎魅音"}
 ,"orange pekoe" : {v:"オレンジペコ"}
 ,"principal" : {v:"校長"}
-,"sekibanki" : {v:"赤蛮奇"}
-,"shinobu kuki" : {v:"久岐忍"}
 ,"talia gladys" : {v:"タリア・グラディス"}
+,"toru asakura" : {v:"浅倉透"}
+,"tron bonne" : {v:"トロン・ボーン"}
+,"waver velvet" : {v:"ウェイバー・ベルベット"}
 ,"yusei fudo" : {v:"不動遊星"}
 ,"yuuki otokura" : {v:"乙倉悠貴"}
 ,"airi" : {v:"アイリ", m:{"queens blade" : "冥土へ誘うものアイリ", "arena of valor" : "愛里", "robotics notes" : "愛理"}}
-,"celes chere" : {v:"セリス・シェール"}
-,"cure rouge" : {v:"夏木りん(キュアルージュ)"}
-,"fujiko mine" : {v:"峰不二子"}
+,"hana isuzu" : {v:"五十鈴華"}
 ,"haru okumura" : {v:"奥村春"}
-,"ibuki douji" : {v:"伊吹童子"}
+,"iv" : {v:"Ⅳ"}
 ,"kamoi" : {v:"神威"}
 ,"kenichi saruyama" : {v:"猿山ケンイチ"}
-,"libeccio" : {v:"Libeccio(リベッチオ)", m:{"azur lane" : "リベッチオ(RN Libeccio)"}}
-,"mion sonozaki" : {v:"園崎魅音"}
-,"misogi hodaka" : {v:"穂高みそぎ(ミソギ)"}
-,"rover" : {v:"漂泊者", m:{"etrian odyssey" : "ハウンド"}}
+,"niyaniya kyouju" : {v:"ニヤニヤ教授"}
 ,"sachiko ogasawara" : {v:"小笠原祥子"}
+,"shermie" : {v:"シェルミー"}
 ,"sturm" : {v:"スツルム"}
+,"tokino sora" : {v:"ときのそら"}
 ,"tomoyo sakagami" : {v:"坂上智代"}
-,"toru asakura" : {v:"浅倉透"}
-,"tron bonne" : {v:"トロン・ボーン"}
 ,"youto yokodera" : {v:"横寺陽人"}
 ,"yue ayase" : {v:"綾瀬夕映"}
-,"artoria caster" : {v:"アルトリア キャスター"}
-,"beatrice" : {v:"ベアトリーチェ", m:{"granblue fantasy" : "ベアトリクス", "re zero kara hajimeru isekai seikatsu" : "ベアトリス", "zero no tsukaima" : "ベアトリス・イヴォンヌ・フォン・クルデンホルフ", "final fantasy ix" : "ベアトリクス", "kage no jitsuryokusha ni naritakute" : "ベアトリクス", "rune factory" : "ベアトリス", "princess principal" : "ベアトリス", "diabolik lovers" : "ベアトリクス", "mamoru-kun ni megami no shukufuku wo" : "鷹栖絢子(魔女ベアトリーチェ)"}}
-,"dusk" : {v:"ダスク"}
-,"eas" : {v:"イース(東せつな)"}
-,"faruzan" : {v:"ファルザン"}
 ,"hideki motosuwa" : {v:"本須和秀樹"}
 ,"iskandar" : {v:"イスカンダル"}
-,"iv" : {v:"Ⅳ"}
+,"lancelot" : {v:"ランスロット", m:{"fate grand order" : "ランスロット(セイバー)", "fate zero" : "ランスロット(バーサーカー)"}}
 ,"leafeon" : {v:"リーフィア"}
 ,"mikoto utsugi" : {v:"卯都木命"}
 ,"mitsune konno" : {v:"紺野みつね"}
 ,"murasame" : {v:"村雨", m:{"senren banka" : "ムラサメ"}}
-,"shermie" : {v:"シェルミー"}
-,"waver velvet" : {v:"ウェイバー・ベルベット"}
+,"rosaria" : {v:"ロサリア"}
+,"android 21" : {v:"21号"}
 ,"ferry" : {v:"フェリ"}
-,"hana isuzu" : {v:"五十鈴華"}
-,"jinx" : {v:"ジンクス"}
-,"kana arima" : {v:"有馬かな"}
+,"fourth raikage" : {v:"四代目雷影(エー)"}
+,"hibiki nekozuka" : {v:"猫塚ヒビキ"}
+,"hinoa" : {v:"ヒノエ"}
 ,"kaname chidori" : {v:"千鳥かなめ", m:{"koi kaze" : "千鳥要"}}
-,"kanao tsuyuri" : {v:"栗花落カナヲ"}
 ,"krystal" : {v:"クリスタル"}
-,"lancelot" : {v:"ランスロット", m:{"fate grand order" : "ランスロット(セイバー)", "fate zero" : "ランスロット(バーサーカー)"}}
 ,"mai kawakami" : {v:"川神舞"}
 ,"maria takayama" : {v:"高山マリア"}
 ,"nunnally vi britannia" : {v:"ナナリー・ヴィ・ブリタニア"}
 ,"nyaruko" : {v:"ニャル子"}
+,"ragna the bloodedge" : {v:"ラグナ=ザ=ブラッドエッジ"}
+,"rin shima" : {v:"志摩リン"}
 ,"souseiseki" : {v:"蒼星石"}
-,"tokino sora" : {v:"ときのそら"}
-,"android 21" : {v:"21号"}
+,"ami kawashima" : {v:"川嶋亜美"}
+,"beatrice" : {v:"ベアトリーチェ", m:{"granblue fantasy" : "ベアトリクス", "re zero kara hajimeru isekai seikatsu" : "ベアトリス", "zero no tsukaima" : "ベアトリス・イヴォンヌ・フォン・クルデンホルフ", "final fantasy ix" : "ベアトリクス", "kage no jitsuryokusha ni naritakute" : "ベアトリクス", "rune factory" : "ベアトリス", "princess principal" : "ベアトリス", "diabolik lovers" : "ベアトリクス", "mamoru-kun ni megami no shukufuku wo" : "鷹栖絢子(魔女ベアトリーチェ)"}}
 ,"coquelicot" : {v:"コクリコ"}
-,"cure berry" : {v:"蒼乃美希(キュアベリー)"}
 ,"elena" : {v:"エレナ", m:{"final fantasy vii" : "イリーナ"}}
-,"espeon" : {v:"エーフィ"}
 ,"hagikaze" : {v:"萩風"}
-,"hibiki nekozuka" : {v:"猫塚ヒビキ"}
+,"kou seiya" : {v:"星野光"}
+,"momoko suou" : {v:"周防桃子"}
 ,"naga the serpent" : {v:"サーペントのナーガ"}
 ,"ookurikara" : {v:"大倶利伽羅"}
-,"ragna the bloodedge" : {v:"ラグナ=ザ=ブラッドエッジ"}
+,"rena ryuuguu" : {v:"竜宮レナ"}
 ,"rika shiguma" : {v:"志熊理科"}
-,"rin shima" : {v:"志摩リン"}
 ,"shauna" : {v:"サナ"}
+,"takane lui" : {v:"鷹嶺ルイ"}
 ,"teletha tessa testarossa" : {v:"テレサ・テスタロッサ(テッサ)"}
-,"ami kawashima" : {v:"川嶋亜美"}
+,"tsumugi shiraishi" : {v:"白石紬"}
+,"caro ru lushe" : {v:"キャロ・ル・ルシエ"}
 ,"caster" : {v:"キャスター", m:{"fate stay night" : "メディア(キャスター)", "fate hollow ataraxia" : "メディア(キャスター)", "fate zero" : "ジル・ド・レェ(キャスター)", "fate extra" : "玉藻の前(キャスター)", "fate apocrypha" : "アヴィケブロン、シェイクスピア(キャスター)", "fate prototype" : "メディア(キャスター)"}}
 ,"cell" : {v:"セル"}
-,"fourth raikage" : {v:"四代目雷影(エー)"}
-,"hinoa" : {v:"ヒノエ"}
 ,"lightning" : {v:"ライトニング"}
+,"lyndis" : {v:"リンディス"}
 ,"maria tachibana" : {v:"マリア・タチバナ"}
-,"momoko suou" : {v:"周防桃子"}
-,"rena ryuuguu" : {v:"竜宮レナ"}
-,"rosaria" : {v:"ロサリア"}
+,"mostima" : {v:"モスティマ"}
+,"suzuka gozen" : {v:"鈴鹿御前"}
 ,"takashi komuro" : {v:"小室孝"}
+,"tsukasa kudamaki" : {v:"菅牧典"}
 ,"aisha" : {v:"アイシャ", m:{"sennen sensou aigis" : "伏龍の軍師アイシャ", "koihime musou" : "愛紗(関羽 雲長)"}}
 ,"alice nakiri" : {v:"薙切アリス"}
 ,"amelia wil tesla seyruun" : {v:"アメリア=ウィル=テスラ=セイルーン"}
-,"caro ru lushe" : {v:"キャロ・ル・ルシエ"}
-,"delia ketchum" : {v:"ハナコ"}
+,"black swan" : {v:"ブラックスワン"}
+,"erich von rerugen" : {v:"エーリッヒ・フォン・レルゲン"}
+,"himari akeboshi" : {v:"明星ヒマリ"}
 ,"irida" : {v:"イリーダ", m:{"pokemon" : "カイ"}}
 ,"isuzu" : {v:"五十鈴", m:{"azur lane" : "五十鈴(IJN Isuzu)"}}
-,"lyndis" : {v:"リンディス"}
 ,"merchant" : {v:"商人", m:{"ragnarok online" : "マーチャント"}}
 ,"morgiana" : {v:"モルジアナ"}
 ,"regina" : {v:"レジーナ", m:{"pokemon" : "チホコ"}}
-,"shima katase" : {v:"片瀬志麻"}
-,"tsukasa kudamaki" : {v:"菅牧典"}
-,"tsumugi shiraishi" : {v:"白石紬"}
-,"dante" : {v:"ダンテ", m:{"shironeko project" : "気高き騎士団長ダンテ"}}
-,"elegg" : {v:"エレグ"}
-,"frederica miyamoto" : {v:"宮本フレデリカ"}
-,"himari akeboshi" : {v:"明星ヒマリ"}
-,"mostima" : {v:"モスティマ"}
 ,"sakura" : {v:"サクラ", m:{"naruto" : "春野サクラ", "street fighter" : "春日野さくら", "urusei yatsura" : "サクラ先生", "ijiranaide nagatoro-san" : "桜", "isekai wa smartphone to tomo ni." : "桜", "tsubasa reservoir chronicle" : "サクラ姫"}}
-,"shuuko komi" : {v:"古見秀子"}
-,"tone" : {v:"利根"}
+,"shima katase" : {v:"片瀬志麻"}
 ,"anzu kadotani" : {v:"角谷杏"}
+,"ayane okusora" : {v:"奥空アヤネ"}
 ,"ceres fauna" : {v:"セレス・ファウナ"}
-,"cure sky" : {v:"ソラ・ハレワタール(キュアスカイ)"}
-,"eriri spencer sawamura" : {v:"澤村・スペンサー・英梨々"}
+,"frederica miyamoto" : {v:"宮本フレデリカ"}
 ,"isabelle" : {v:"しずえ", m:{"shadowverse" : "イザベル"}}
-,"kou seiya" : {v:"星野光"}
-,"mai sakurajima" : {v:"桜島麻衣"}
-,"niyaniya kyouju" : {v:"ニヤニヤ教授"}
-,"noshiro" : {v:"能代", m:{"azur lane" : "能代(IJN Noshiro)"}}
-,"rean schwarzer" : {v:"リィン・シュバルツァー"}
-,"rinami himesaki" : {v:"姫崎莉波"}
-,"suzuka gozen" : {v:"鈴鹿御前"}
-,"yoshika miyako" : {v:"宮古芳香"}
-,"yugi mutou" : {v:"武藤遊戯"}
-,"arle nadja" : {v:"アルル・ナジャ"}
-,"hajime iwaizumi" : {v:"岩泉一"}
-,"karen" : {v:"カレン", m:{"pokemon" : "カリン"}}
-,"mutsumi otohime" : {v:"乙姫むつみ"}
-,"nia teppelin" : {v:"ニア・テッペリン"}
-,"shun kurosaki" : {v:"黒崎隼", m:{"yu-gi-oh arc-v" : "黒咲隼"}}
-,"tabitha helene orleans de gallia" : {v:"タバサ(シャルロット・エレーヌ・オルレアン・デ・ガリア)"}
-,"takane lui" : {v:"鷹嶺ルイ"}
-,"yoshino yorita" : {v:"依田芳乃"}
-,"yukina minato" : {v:"湊友希那"}
-,"aya maruyama" : {v:"丸山彩"}
-,"enterprise" : {v:"エンタープライズ", m:{"azur lane" : "エンタープライズ(USS Enterprise)"}}
-,"erich von rerugen" : {v:"エーリッヒ・フォン・レルゲン"}
-,"junko" : {v:"純狐"}
-,"kimi aoi" : {v:"葵・喜美"}
-,"mahiru inami" : {v:"伊波まひる"}
-,"mysterious heroine x alter" : {v:"謎のヒロインX［オルタ］"}
-,"samui" : {v:"サムイ"}
 ,"secelia dote" : {v:"セセリア・ドート"}
-,"seishirou tsugumi" : {v:"鶫誠士郎"}
-,"tohru" : {v:"トール"}
+,"tone" : {v:"利根"}
+,"yukina minato" : {v:"湊友希那"}
+,"arle nadja" : {v:"アルル・ナジャ"}
+,"aya maruyama" : {v:"丸山彩"}
+,"cure sky" : {v:"ソラ・ハレワタール(キュアスカイ)"}
+,"enterprise" : {v:"エンタープライズ", m:{"azur lane" : "エンタープライズ(USS Enterprise)"}}
+,"eriri spencer sawamura" : {v:"澤村・スペンサー・英梨々"}
 ,"hakos baelz" : {v:"ハコス・ベールズ"}
 ,"ichirin kumoi" : {v:"雲居一輪"}
-,"kirara yozakura" : {v:"夜桜キララ"}
-,"lecia" : {v:"リーシャ"}
-,"madoka ayukawa" : {v:"鮎川まどか"}
-,"riko saikawa" : {v:"才川リコ"}
+,"mai sakurajima" : {v:"桜島麻衣"}
+,"nia teppelin" : {v:"ニア・テッペリン"}
+,"rean schwarzer" : {v:"リィン・シュバルツァー"}
 ,"sanae katagiri" : {v:"片桐早苗"}
+,"tohru" : {v:"トール"}
+,"yoshika miyako" : {v:"宮古芳香"}
+,"yugi mutou" : {v:"武藤遊戯"}
+,"hajime iwaizumi" : {v:"岩泉一"}
+,"junko" : {v:"純狐"}
+,"karen" : {v:"カレン", m:{"pokemon" : "カリン"}}
+,"mutsumi otohime" : {v:"乙姫むつみ"}
+,"noshiro" : {v:"能代", m:{"azur lane" : "能代(IJN Noshiro)"}}
+,"shun kurosaki" : {v:"黒崎隼", m:{"yu-gi-oh arc-v" : "黒咲隼"}}
+,"shuuko komi" : {v:"古見秀子"}
+,"tabitha helene orleans de gallia" : {v:"タバサ(シャルロット・エレーヌ・オルレアン・デ・ガリア)"}
+,"yoshino yorita" : {v:"依田芳乃"}
+,"alexander" : {v:"アレクサンダー", m:{"fate grand order" : "アレキサンダー", "fullmetal alchemist" : "アレキサンダー", "kaitou tenshi twin angel" : "アレキサンダー", "yuukyuu no sharin" : "アレキサンダー", "bahamut lagoon" : "アレキサンダー"}}
+,"evelynn" : {v:"イブリン"}
+,"kimi aoi" : {v:"葵・喜美"}
+,"lecia" : {v:"リーシャ"}
+,"mahiru inami" : {v:"伊波まひる"}
+,"mysterious heroine x alter" : {v:"謎のヒロインX［オルタ］"}
+,"riko saikawa" : {v:"才川リコ"}
+,"sae kobayakawa" : {v:"小早川紗枝"}
+,"samui" : {v:"サムイ"}
+,"seishirou tsugumi" : {v:"鶫誠士郎"}
+,"yuu morisawa" : {v:"森沢優"}
+,"chinatsu hinomiya" : {v:"火宮チナツ"}
+,"elesa" : {v:"エリーサ", m:{"pokemon" : "カミツレ"}}
+,"kirara yozakura" : {v:"夜桜キララ"}
+,"madoka ayukawa" : {v:"鮎川まどか"}
+,"nick wilde" : {v:"ニック・ワイルド"}
 ,"shouta magatsuchi" : {v:"真ヶ土翔太"}
 ,"tsuruya" : {v:"鶴屋さん"}
-,"alexander" : {v:"アレクサンダー", m:{"fate grand order" : "アレキサンダー", "fullmetal alchemist" : "アレキサンダー", "kaitou tenshi twin angel" : "アレキサンダー", "yuukyuu no sharin" : "アレキサンダー", "bahamut lagoon" : "アレキサンダー"}}
+,"zoroark" : {v:"ゾロアーク"}
 ,"alibaba saluja" : {v:"アリババ・サルージャ"}
 ,"aoba suzukaze" : {v:"涼風青葉"}
-,"elesa" : {v:"エリーサ", m:{"pokemon" : "カミツレ"}}
-,"evelynn" : {v:"イブリン"}
+,"choromatsu matsuno" : {v:"松野チョロ松"}
 ,"ikumi mito" : {v:"水戸郁魅"}
 ,"kazuya miyuki" : {v:"御幸一也"}
+,"minako satake" : {v:"佐竹美奈子"}
+,"momo chiyoda" : {v:"千代田桃"}
 ,"nonna" : {v:"ノンナ"}
-,"sae kobayakawa" : {v:"小早川紗枝"}
+,"sasha blouse" : {v:"サシャ・ブラウス"}
 ,"shiranui" : {v:"不知火", m:{"azur lane" : "不知火(IJN Shiranui)"}}
 ,"swan white" : {v:"スワン・ホワイト"}
 ,"takaya abe" : {v:"阿部隆也"}
+,"topaz" : {v:"トパーズ"}
 ,"yoichi isagi" : {v:"潔世一"}
-,"choromatsu matsuno" : {v:"松野チョロ松"}
+,"aoi asahina" : {v:"朝日奈葵"}
+,"hatsuzuki" : {v:"初月", m:{"azur lane" : "初月(IJN Hatsuzuki)"}}
 ,"jun sagami" : {v:"佐上ジュン"}
 ,"katalina aryze" : {v:"カタリナ・アリゼ"}
 ,"korwa" : {v:"コルワ"}
 ,"kyouko toshinou" : {v:"歳納京子"}
 ,"menace" : {v:"メナス"}
 ,"miho kohinata" : {v:"小日向美穂"}
-,"momo chiyoda" : {v:"千代田桃"}
 ,"rena andou" : {v:"安藤レナ"}
 ,"riina tada" : {v:"多田李衣菜"}
 ,"sadao maou" : {v:"真奥貞夫"}
-,"sasha blouse" : {v:"サシャ・ブラウス"}
+,"tashigi" : {v:"たしぎ"}
 ,"tia halibel" : {v:"ティア・ハリベル"}
 ,"unryuu" : {v:"雲龍"}
-,"yuu morisawa" : {v:"森沢優"}
-,"zoroark" : {v:"ゾロアーク"}
-,"ayane okusora" : {v:"奥空アヤネ"}
+,"xiao" : {v:"魈"}
+,"yui" : {v:"ユイ", m:{"persona 5" : "YUI", "lucky star" : "成実ゆい", "sekirei" : "結", "jigokuraku" : "結", "mitsuboshi colors" : "結衣", "sakuna of rice and ruin" : "ゆい"}}
 ,"doremy sweet" : {v:"ドレミー・スイート"}
 ,"flareon" : {v:"ブースター"}
-,"hatsuzuki" : {v:"初月", m:{"azur lane" : "初月(IJN Hatsuzuki)"}}
 ,"ichigo hoshimiya" : {v:"星宮いちご"}
-,"minako satake" : {v:"佐竹美奈子"}
+,"minoto" : {v:"ミノト"}
 ,"twilight sparkle" : {v:"トワイライトスパークル"}
 ,"big bad wolf" : {v:"悪いオオカミ"}
 ,"chika itou" : {v:"伊藤千佳"}
@@ -25289,383 +25380,376 @@ var chars_ejdic = {
 ,"kohran li" : {v:"李紅蘭"}
 ,"magisa" : {v:"マギサ"}
 ,"medb" : {v:"メイヴ"}
-,"minoto" : {v:"ミノト"}
 ,"nagito komaeda" : {v:"狛枝凪斗"}
-,"nick wilde" : {v:"ニック・ワイルド"}
-,"tashigi" : {v:"たしぎ"}
-,"yui" : {v:"ユイ", m:{"persona 5" : "YUI", "lucky star" : "成実ゆい", "sekirei" : "結", "jigokuraku" : "結", "mitsuboshi colors" : "結衣", "sakuna of rice and ruin" : "ゆい"}}
-,"aoi asahina" : {v:"朝日奈葵"}
+,"ultrawoman" : {v:"ウルトラウーマン"}
 ,"asuha chigusa" : {v:"千種明日葉"}
 ,"cure honey" : {v:"大森ゆうこ(キュアハニー)"}
 ,"ena ayase" : {v:"綾瀬恵那"}
-,"hana shirosaki" : {v:"白咲花"}
 ,"makoto nanaya" : {v:"マコト=ナナヤ"}
 ,"mamako oosuki" : {v:"大好真々子"}
+,"mature" : {v:"マチュア"}
+,"misaki imashino" : {v:"戒野ミサキ"}
 ,"percival" : {v:"パーシヴァル"}
-,"rabi en rose" : {v:"ラ・ビ・アン・ローズ(うさだヒカル)"}
+,"rin" : {v:"リン", m:{"king of fighters" : "麟", "senran kagura" : "凜", "inuyasha" : "りん", "kamen rider zero-one" : "厘", "nagasarete airantou" : "りん", "kemurikusa" : "りん", "bunny garden" : "凜", "needless" : "凜"}}
+,"saya takagi" : {v:"高城沙耶"}
 ,"shiki" : {v:"シキ", m:{"samurai spirits" : "色", "senran kagura" : "四季", "tsukihime" : "遠野志貴", "durarara" : "四木", "beatmania" : "識", "tsuki ga michibiku isekai douchuu" : "識"}}
 ,"super crown bowser" : {v:"クッパ姫"}
-,"topaz" : {v:"トパーズ"}
-,"ultrawoman" : {v:"ウルトラウーマン"}
-,"yuubari" : {v:"夕張", m:{"azur lane" : "夕張(IJN Yūbari)"}}
-,"black swan" : {v:"ブラックスワン"}
-,"kasumi chigusa" : {v:"千種霞"}
-,"mature" : {v:"マチュア"}
-,"meiko shiraki" : {v:"白木芽衣子"}
-,"perrine h. clostermann" : {v:"ペリーヌ＝アンリ・クロステルマン"}
-,"saori kido" : {v:"城戸沙織"}
-,"saya takagi" : {v:"高城沙耶"}
-,"sinbad" : {v:"シンドバッド"}
-,"xiao" : {v:"魈"}
 ,"yosuke hanamura" : {v:"花村陽介"}
+,"yuubari" : {v:"夕張", m:{"azur lane" : "夕張(IJN Yūbari)"}}
 ,"yuzuru otonashi" : {v:"音無結弦"}
+,"eris" : {v:"エリス"}
+,"hana shirosaki" : {v:"白咲花"}
 ,"ilsa" : {v:"イルザ"}
 ,"kaoru tanamachi" : {v:"棚町薫"}
+,"kasumi chigusa" : {v:"千種霞"}
+,"meiko shiraki" : {v:"白木芽衣子"}
+,"millia rage" : {v:"ミリア=レイジ"}
+,"perrine h. clostermann" : {v:"ペリーヌ＝アンリ・クロステルマン"}
+,"rabi en rose" : {v:"ラ・ビ・アン・ローズ(うさだヒカル)"}
+,"saori kido" : {v:"城戸沙織"}
+,"sinbad" : {v:"シンドバッド"}
+,"ymir" : {v:"ユミル", m:{"queens blade" : "ユーミル", "queens blade rebellion" : "ユーミル"}}
+,"yuki himekawa" : {v:"姫川友紀"}
+,"cure lemonade" : {v:"春日野うらら(キュアレモネード)"}
 ,"kiriko yukoku" : {v:"幽谷霧子"}
 ,"liliruca arde" : {v:"リリルカ・アーデ"}
 ,"makie sasaki" : {v:"佐々木まき絵"}
-,"millia rage" : {v:"ミリア=レイジ"}
 ,"natsuki kuga" : {v:"玖我なつき"}
 ,"riven" : {v:"Riven"}
 ,"tomoka minato" : {v:"湊智花"}
-,"ymir" : {v:"ユミル", m:{"queens blade" : "ユーミル", "queens blade rebellion" : "ユーミル"}}
-,"yuki himekawa" : {v:"姫川友紀"}
-,"chinatsu hinomiya" : {v:"火宮チナツ"}
-,"cure lemonade" : {v:"春日野うらら(キュアレモネード)"}
-,"eris" : {v:"エリス"}
 ,"hei" : {v:"黒"}
 ,"kamina" : {v:"カミナ"}
 ,"kokoro" : {v:"ココロ", m:{"dead or alive" : "こころ", "kokoro library" : "こころ"}}
 ,"letty whiterock" : {v:"レティ・ホワイトロック"}
 ,"loran cehack" : {v:"ロラン・セアック"}
+,"miya tachibana" : {v:"橘美也"}
+,"rance" : {v:"ランス"}
 ,"rei ryuugazaki" : {v:"竜ヶ崎怜"}
-,"rin" : {v:"リン", m:{"king of fighters" : "麟", "senran kagura" : "凜", "inuyasha" : "りん", "kamen rider zero-one" : "厘", "nagasarete airantou" : "りん", "kemurikusa" : "りん", "needless" : "凜", "bunny garden" : "凜"}}
 ,"akizuki" : {v:"秋月"}
 ,"kotona elegance" : {v:"コトナ・エレガンス"}
 ,"minoriko aki" : {v:"秋穣子"}
 ,"nate argente loup mitotsudaira" : {v:"ネイト・ミトツダイラ"}
-,"rance" : {v:"ランス"}
 ,"risa momioka" : {v:"籾岡里紗"}
 ,"sanae dekomori" : {v:"凸守早苗"}
 ,"ichika takatsuki" : {v:"貴月イチカ"}
-,"miya tachibana" : {v:"橘美也"}
 ,"momoko akatsutsumi" : {v:"赤堤ももこ(ハイパー・ブロッサム)"}
 ,"nagi hisakawa" : {v:"久川凪"}
+,"natalia" : {v:"ナターリア"}
 ,"ririchiyo shirakiin" : {v:"白鬼院凜々蝶"}
 ,"iku nakatani" : {v:"中谷育"}
-,"natalia" : {v:"ナターリア"}
-,"jessica" : {v:"ジェシカ", m:{"pokemon" : "ナツキ"}}
-,"juushimatsu matsuno" : {v:"松野十四松"}
-,"suzutsuki" : {v:"涼月", m:{"azur lane" : "涼月(IJN Suzutsuki)"}}
-,"haruyuki arita" : {v:"有田春雪(シルバー・クロウ)"}
-,"incineroar" : {v:"ガオガエン"}
-,"kirlia" : {v:"キルリア"}
-,"leaf" : {v:"リーフ"}
-,"nemona" : {v:"ネモナ", m:{"pokemon" : "ネモ"}}
-,"teruzuki" : {v:"照月"}
-,"tsumugi mayumiya" : {v:"繭宮つむぎ"}
-,"yumi aiba" : {v:"相葉夕美"}
-,"greninja" : {v:"ゲッコウガ"}
 ,"juliana" : {v:"ジュリアナ", m:{"pokemon" : "アオイ"}}
 ,"urumi ushizaki" : {v:"牛崎潤美"}
+,"caesar king" : {v:"キング・シーザー"}
+,"incineroar" : {v:"ガオガエン"}
+,"jessica" : {v:"ジェシカ", m:{"pokemon" : "ナツキ"}}
+,"juushimatsu matsuno" : {v:"松野十四松"}
+,"leaf" : {v:"リーフ"}
+,"reisa uzawa" : {v:"宇沢レイサ"}
+,"suzutsuki" : {v:"涼月", m:{"azur lane" : "涼月(IJN Suzutsuki)"}}
+,"teruzuki" : {v:"照月"}
+,"yumi aiba" : {v:"相葉夕美"}
+,"haruyuki arita" : {v:"有田春雪(シルバー・クロウ)"}
+,"kirlia" : {v:"キルリア"}
+,"nao yokoyama" : {v:"横山奈緒"}
+,"nemona" : {v:"ネモナ", m:{"pokemon" : "ネモ"}}
+,"tsumugi mayumiya" : {v:"繭宮つむぎ"}
+,"greninja" : {v:"ゲッコウガ"}
+,"sara" : {v:"サラ", m:{"genshin impact" : "九条サラ", "pokemon" : "マリ", "jewelpet tinkle" : "沙羅", "tenshi ni narumon" : "サーラ"}}
+,"shizuru hoshino" : {v:"星野静流"}
 ,"uzuki" : {v:"卯月", m:{"azur lane" : "卯月(IJN Uzuki)"}}
 ,"akigumo" : {v:"秋雲"}
-,"akitsu maru" : {v:"あきつ丸"}
-,"misaki imashino" : {v:"戒野ミサキ"}
 ,"nachi" : {v:"那智", m:{"azur lane" : "那智(IJN Nachi)"}}
-,"shizuru hoshino" : {v:"星野静流"}
-,"cheshire" : {v:"チェシャー", m:{"azur lane" : "チェシャー(HMS Cheshire)"}}
-,"konomi baba" : {v:"馬場このみ"}
-,"nono morikubo" : {v:"森久保乃々"}
 ,"raihan" : {v:"ライハン", m:{"pokemon" : "キバナ"}}
 ,"shiny luminous" : {v:"九条ひかり(シャイニールミナス)"}
+,"akitsu maru" : {v:"あきつ丸"}
+,"cheshire" : {v:"チェシャー", m:{"azur lane" : "チェシャー(HMS Cheshire)"}}
+,"housen ryofu" : {v:"恋(呂布 奉先)"}
+,"konomi baba" : {v:"馬場このみ"}
+,"nono morikubo" : {v:"森久保乃々"}
 ,"yayoi" : {v:"弥生"}
 ,"calem" : {v:"カルム"}
 ,"erik" : {v:"エリク", m:{"pokemon" : "マサシ", "fairy tail" : "エリック(毒竜のコブラ)", "dragon quest xi" : "カミュ", "animal crossing" : "チャック"}}
+,"hinana ichikawa" : {v:"市川雛菜"}
+,"pikachu" : {v:"ピカチュウ"}
+,"cure macherie" : {v:"愛崎えみる(キュアマシェリ)"}
 ,"hinata hoshino" : {v:"星野ひなた"}
 ,"ringo" : {v:"鈴瑚"}
-,"sara" : {v:"サラ", m:{"genshin impact" : "九条サラ", "pokemon" : "マリ", "jewelpet tinkle" : "沙羅", "tenshi ni narumon" : "サーラ"}}
-,"cure macherie" : {v:"愛崎えみる(キュアマシェリ)"}
-,"housen ryofu" : {v:"恋(呂布 奉先)"}
-,"nao yokoyama" : {v:"横山奈緒"}
-,"pikachu" : {v:"ピカチュウ"}
 ,"syoko hoshi" : {v:"星輝子"}
+,"vajra" : {v:"ヴァジラ"}
 ,"cure princess" : {v:"白雪ひめ(キュアプリンセス)"}
 ,"cure star" : {v:"星奈ひかる(キュアスター)"}
 ,"etorofu" : {v:"択捉"}
-,"ginrei" : {v:"銀鈴", m:{"senran kagura" : "銀嶺"}}
-,"jolteon" : {v:"サンダース"}
+,"koyuki kurosaki" : {v:"黒崎コユキ"}
+,"poppy" : {v:"ポピー", m:{"league of legends" : "ポッピー", "animal crossing" : "グミ", "poppy playtime" : "Poppy"}}
 ,"shinmyoumaru sukuna" : {v:"少名針妙丸"}
 ,"hiryuu" : {v:"飛龍", m:{"azur lane" : "飛龍(IJN Hiryū)"}}
+,"jolteon" : {v:"サンダース"}
 ,"kiyoshimo" : {v:"清霜"}
 ,"kumbhira" : {v:"クビラ"}
-,"poppy" : {v:"ポピー", m:{"league of legends" : "ポッピー", "animal crossing" : "グミ", "poppy playtime" : "Poppy"}}
-,"vajra" : {v:"ヴァジラ"}
+,"saki hanami" : {v:"花海咲季"}
 ,"washu hakubi" : {v:"白眉鷲羽"}
 ,"aoi futaba" : {v:"双葉碧"}
-,"hinana ichikawa" : {v:"市川雛菜"}
+,"fubuki nemugaki" : {v:"合歓垣フブキ"}
+,"hazuki nanakusa" : {v:"七草はづき"}
+,"akira sunazuka" : {v:"砂塚あきら"}
 ,"charizard" : {v:"リザードン"}
 ,"cow girl" : {v:"牛飼娘"}
+,"eimi izumimoto" : {v:"和泉元エイミ"}
 ,"milfeulle sakuraba" : {v:"ミルフィーユ・桜葉"}
-,"saki hanami" : {v:"花海咲季"}
-,"yukito tsukishiro" : {v:"月城雪兎(月)"}
-,"akira sunazuka" : {v:"砂塚あきら"}
-,"cure prism" : {v:"虹ヶ丘ましろ(キュアプリズム)"}
 ,"silva" : {v:"シルバ"}
-,"yukari mizumoto" : {v:"水本ゆかり"}
+,"yukito tsukishiro" : {v:"月城雪兎(月)"}
 ,"arashio" : {v:"荒潮(IJN Arashio)"}
-,"caesar king" : {v:"キング・シーザー"}
-,"cure yell" : {v:"野乃はな(キュアエール)"}
-,"hazuki nanakusa" : {v:"七草はづき"}
+,"asahi serizawa" : {v:"芹沢あさひ"}
+,"cure prism" : {v:"虹ヶ丘ましろ(キュアプリズム)"}
+,"ginrei" : {v:"銀鈴", m:{"senran kagura" : "銀嶺"}}
 ,"peorth" : {v:"ペイオース"}
-,"reisa uzawa" : {v:"宇沢レイサ"}
+,"yukari mizumoto" : {v:"水本ゆかり"}
+,"cure yell" : {v:"野乃はな(キュアエール)"}
 ,"joon yorigami" : {v:"依神女苑"}
-,"koyuki kurosaki" : {v:"黒崎コユキ"}
+,"gwen tennyson" : {v:"グウェン・テニスン"}
 ,"ranpha franboise" : {v:"蘭花・フランボワーズ"}
+,"rei" : {v:"レイ", m:{"pokemon" : "テル", "goddess of victory nikke" : "ライ"}}
 ,"tomo takino" : {v:"滝野智"}
 ,"umi kousaka" : {v:"高坂海美"}
-,"asahi serizawa" : {v:"芹沢あさひ"}
 ,"choukai" : {v:"鳥海", m:{"azur lane" : "鳥海(IJN Chōkai)"}}
 ,"ginko sora" : {v:"空銀子"}
-,"gwen tennyson" : {v:"グウェン・テニスン"}
-,"rei" : {v:"レイ", m:{"pokemon" : "テル", "goddess of victory nikke" : "ライ"}}
+,"kikuri hiroi" : {v:"廣井きくり"}
+,"tomoka tenkubashi" : {v:"天空橋朋花"}
 ,"acolyte" : {v:"アコライト"}
-,"eimi izumimoto" : {v:"和泉元エイミ"}
+,"elena shimabara" : {v:"島原エレナ"}
 ,"fletcher" : {v:"フレッチャー", m:{"kantai collection" : "Fletcher(フレッチャー)", "azur lane" : "フレッチャー(USS Fletcher)"}}
+,"haruka igusa" : {v:"伊草ハルカ"}
 ,"kris" : {v:"クリス"}
 ,"kurenai yuhi" : {v:"夕日紅"}
+,"miko iino" : {v:"伊井野ミコ"}
 ,"mutsuki" : {v:"睦月", m:{"azur lane" : "睦月(IJN Mutsuki)"}}
+,"nelson" : {v:"ネルソン", m:{"kantai collection" : "Nelson(ネルソン)", "azur lane" : "ネルソン(HMS Nelson)"}}
 ,"shirayuki" : {v:"白雪", m:{"azur lane" : "白雪(IJN Shirayuki)"}}
 ,"watatsuki no yorihime" : {v:"綿月依姫"}
-,"elena shimabara" : {v:"島原エレナ"}
-,"fubuki nemugaki" : {v:"合歓垣フブキ"}
+,"arezu" : {v:"アリーズ", m:{"pokemon" : "ヒナツ"}}
 ,"kagerou" : {v:"陽炎(IJN Kagerō)"}
+,"z23" : {v:"Z23(KMS Z23)"}
+,"aoi oki" : {v:"扇喜アオイ"}
+,"mizuki makabe" : {v:"真壁瑞希"}
+,"noa himesaka" : {v:"姫坂乃愛"}
 ,"sabrina" : {v:"サブリナ", m:{"pokemon" : "ナツメ"}}
 ,"seiran" : {v:"清蘭"}
-,"tomoka tenkubashi" : {v:"天空橋朋花"}
-,"z23" : {v:"Z23(KMS Z23)"}
-,"arezu" : {v:"アリーズ", m:{"pokemon" : "ヒナツ"}}
-,"haruka igusa" : {v:"伊草ハルカ"}
-,"kikuri hiroi" : {v:"廣井きくり"}
-,"miko iino" : {v:"伊井野ミコ"}
-,"mizuki makabe" : {v:"真壁瑞希"}
-,"nelson" : {v:"ネルソン", m:{"kantai collection" : "Nelson(ネルソン)", "azur lane" : "ネルソン(HMS Nelson)"}}
-,"noa himesaka" : {v:"姫坂乃愛"}
-,"yaia" : {v:"ヤイア"}
-,"bianca" : {v:"ビアンカ", m:{"pokemon" : "ベル", "animal crossing" : "コユキ"}}
 ,"shizuha aki" : {v:"秋静葉"}
+,"yaia" : {v:"ヤイア"}
 ,"agano" : {v:"阿賀野", m:{"azur lane" : "阿賀野(IJN Agano)"}}
+,"ankha" : {v:"ナイル"}
+,"bianca" : {v:"ビアンカ", m:{"pokemon" : "ベル", "animal crossing" : "コユキ"}}
+,"cure selene" : {v:"香久矢まどか(キュアセレーネ)"}
 ,"kamikaze" : {v:"神風", m:{"azur lane" : "神風(IJN Kamikaze)"}}
 ,"kiyone makibi" : {v:"真備清音"}
+,"natsu yutori" : {v:"柚鳥ナツ"}
 ,"sheffield" : {v:"シェフィールド", m:{"kantai collection" : "Sheffield(シェフィールド)", "azur lane" : "シェフィールド(HMS Sheffield)"}}
-,"ankha" : {v:"ナイル"}
-,"aoba" : {v:"青葉", m:{"azur lane" : "青葉(IJN Aoba)"}}
-,"aoi oki" : {v:"扇喜アオイ"}
-,"aria" : {v:"アリア"}
-,"cure selene" : {v:"香久矢まどか(キュアセレーネ)"}
 ,"shiori kashiwazaki" : {v:"柏崎栞"}
-,"javelin" : {v:"ジャベリン", m:{"kantai collection" : "Javelin(ジャヴェリン)", "azur lane" : "ジャベリン(HMS Javelin)"}}
 ,"wakasagihime" : {v:"わかさぎ姫"}
+,"aoba" : {v:"青葉", m:{"azur lane" : "青葉(IJN Aoba)"}}
+,"aria" : {v:"アリア"}
+,"rin nanagami" : {v:"七神リン"}
+,"javelin" : {v:"ジャベリン", m:{"kantai collection" : "Javelin(ジャヴェリン)", "azur lane" : "ジャベリン(HMS Javelin)"}}
+,"kieran" : {v:"スグリ"}
 ,"bache" : {v:"バッチ", m:{"azur lane" : "バッチ(USS Bache)"}}
 ,"blaziken" : {v:"バシャーモ"}
 ,"cure cosmo" : {v:"ユニ(キュアコスモ)"}
 ,"eriko kuraishi" : {v:"倉石恵理子"}
+,"melony" : {v:"メロニー", m:{"pokemon" : "メロン"}}
 ,"red" : {v:"レッド"}
 ,"shinano" : {v:"信濃(IJN Shinano)"}
 ,"cure amour" : {v:"ルールー・アムール(キュアアムール)"}
 ,"cure gelato" : {v:"立神あおい(キュアジェラート)"}
 ,"forte stollen" : {v:"フォルテ・シュトーレン"}
-,"melony" : {v:"メロニー", m:{"pokemon" : "メロン"}}
+,"mimi akane" : {v:"茜ミミ"}
 ,"naka" : {v:"那珂", m:{"azur lane" : "那珂(IJN Naka)"}}
-,"natsu yutori" : {v:"柚鳥ナツ"}
 ,"nozomi sakurai" : {v:"桜井望"}
-,"rin nanagami" : {v:"七神リン"}
 ,"yuugumo" : {v:"夕雲"}
+,"aglaea" : {v:"アグライア"}
 ,"ai yashajin" : {v:"夜叉神天衣"}
 ,"hunter" : {v:"ハンター", m:{"azur lane" : "ハンター(HMS Hunter)"}}
-,"kieran" : {v:"スグリ"}
-,"dido" : {v:"ダイドー", m:{"azur lane" : "ダイドー(HMS Dido)"}}
+,"chihiro kagami" : {v:"各務チヒロ"}
 ,"medusa" : {v:"メデューサ", m:{"fate grand order" : "メドゥーサ(ライダー)", "fate stay night" : "メドゥーサ(ライダー)", "kid icarus" : "冥界女王メデューサ", "ghost sweeper mikami" : "メドーサ"}}
-,"mimi akane" : {v:"茜ミミ"}
+,"mirai kasuga" : {v:"春日未来"}
+,"dido" : {v:"ダイドー", m:{"azur lane" : "ダイドー(HMS Dido)"}}
+,"rio momose" : {v:"百瀬莉緒"}
 ,"arashi" : {v:"嵐"}
 ,"cure grace" : {v:"花寺のどか(キュアグレース)"}
 ,"eldridge" : {v:"エルドリッジ", m:{"azur lane" : "エルドリッジ(USS Eldridge)"}}
 ,"goblin slayer" : {v:"ゴブリンスレイヤー"}
 ,"kuroshio" : {v:"黒潮", m:{"azur lane" : "黒潮(IJN Kuroshio)"}}
-,"mirai kasuga" : {v:"春日未来"}
-,"rio momose" : {v:"百瀬莉緒"}
-,"u-511" : {v:"U-511"}
-,"chihiro kagami" : {v:"各務チヒロ"}
-,"elise" : {v:"エリス", m:{"fire emblem" : "エリーゼ", "fire emblem fates" : "エリーゼ", "animal crossing" : "モンこ", "fire emblem heroes" : "エリーゼ"}}
-,"hakufu sonsaku" : {v:"雪蓮(孫策 伯符)"}
-,"i-58" : {v:"伊58", m:{"azur lane" : "伊58(IJN I58)"}}
 ,"leon" : {v:"レオン", m:{"the idolmaster" : "玲音", "pokemon" : "ダンデ"}}
 ,"megumu iizunamaru" : {v:"飯綱丸龍"}
 ,"miya miyao" : {v:"宮尾美也"}
+,"u-511" : {v:"U-511"}
+,"elise" : {v:"エリス", m:{"fire emblem" : "エリーゼ", "fire emblem fates" : "エリーゼ", "animal crossing" : "モンこ", "fire emblem heroes" : "エリーゼ"}}
+,"hakufu sonsaku" : {v:"雪蓮(孫策 伯符)"}
+,"i-58" : {v:"伊58", m:{"azur lane" : "伊58(IJN I58)"}}
+,"juri saijo" : {v:"西城樹里"}
+,"rumi akeshiro" : {v:"朱城ルミ"}
+,"soga no tojiko" : {v:"蘇我屠自古"}
+,"wicke" : {v:"ビッケ"}
 ,"yaichi kuzuryuu" : {v:"九頭竜八一"}
 ,"cure lovely" : {v:"愛乃めぐみ(キュアラブリー)"}
 ,"cure scarlet" : {v:"紅城トワ(キュアスカーレット)"}
-,"i-26" : {v:"伊26", m:{"azur lane" : "伊26(IJN I26)"}}
-,"zangoose" : {v:"ザングース"}
 ,"ditto" : {v:"メタモン"}
-,"juri saijo" : {v:"西城樹里"}
+,"i-26" : {v:"伊26", m:{"azur lane" : "伊26(IJN I26)"}}
 ,"kobayashi-san" : {v:"小林さん"}
-,"samidare" : {v:"五月雨"}
-,"shigure mayoi" : {v:"間宵シグレ"}
-,"shikamaru nara" : {v:"奈良シカマル"}
-,"soga no tojiko" : {v:"蘇我屠自古"}
-,"fuuka aikiyo" : {v:"愛清フウカ"}
-,"hayashimo" : {v:"早霜"}
-,"hornet" : {v:"ホーネット", m:{"kantai collection" : "Hornet(ホーネット)", "azur lane" : "ホーネット(USS Hornet)"}}
-,"i-8" : {v:"伊8"}
-,"sazanami" : {v:"漣"}
-,"wicke" : {v:"ビッケ"}
-,"aglaea" : {v:"アグライア"}
-,"amagi" : {v:"天城", m:{"azur lane" : "天城(IJN Amagi)"}}
-,"cure fortune" : {v:"氷川いおな(キュアフォーチュン)"}
-,"hatsune kashiwazaki" : {v:"柏崎初音"}
 ,"serina sumi" : {v:"鷲見セリナ"}
+,"shikamaru nara" : {v:"奈良シカマル"}
+,"zangoose" : {v:"ザングース"}
+,"fuuka aikiyo" : {v:"愛清フウカ"}
+,"hornet" : {v:"ホーネット", m:{"kantai collection" : "Hornet(ホーネット)", "azur lane" : "ホーネット(USS Hornet)"}}
+,"samidare" : {v:"五月雨"}
+,"sazanami" : {v:"漣"}
+,"shigure mayoi" : {v:"間宵シグレ"}
+,"hatsune kashiwazaki" : {v:"柏崎初音"}
+,"hayashimo" : {v:"早霜"}
+,"i-8" : {v:"伊8"}
+,"carmine" : {v:"カーマイン", m:{"pokemon" : "ゼイユ"}}
+,"cure fortune" : {v:"氷川いおな(キュアフォーチュン)"}
+,"temari tsukimura" : {v:"月村手毬"}
 ,"todomatsu matsuno" : {v:"松野トド松"}
-,"vert" : {v:"ベール(グリーンハート)"}
+,"amagi" : {v:"天城", m:{"azur lane" : "天城(IJN Amagi)"}}
 ,"cure soleil" : {v:"天宮えれな(キュアソレイユ)"}
 ,"flonne" : {v:"フロン"}
 ,"kurumi" : {v:"クルミ", m:{"steel angel kurumi" : "くるみ", "murenase seton gakuen" : "猫米クルミ"}}
 ,"yuika mitsumine" : {v:"三峰結華"}
 ,"catura" : {v:"シャトラ"}
 ,"ike" : {v:"アイク", m:{"animal crossing" : "ダイク"}}
-,"mary stuart" : {v:"メアリ"}
-,"carmine" : {v:"カーマイン", m:{"pokemon" : "ゼイユ"}}
-,"miyako hoshino" : {v:"星野みやこ"}
-,"satsuki" : {v:"皐月", m:{"blue archive" : "京極サツキ", "quiz magic academy" : "サツキ", "my neighbor totoro" : "サツキ"}}
-,"yuuna akashi" : {v:"明石裕奈"}
-,"hammann" : {v:"ハムマン", m:{"azur lane" : "ハムマン(USS Hammann)"}}
-,"rumi akeshiro" : {v:"朱城ルミ"}
-,"shikinami" : {v:"敷波"}
-,"temari tsukimura" : {v:"月村手毬"}
-,"cinderace" : {v:"エースバーン"}
-,"dunkerque" : {v:"ダンケルク", m:{"azur lane" : "ダンケルク(MNF Dunkerque)"}}
 ,"kaya shiranui" : {v:"不知火カヤ"}
-,"kearsarge" : {v:"キアサージ", m:{"azur lane" : "キアサージ(USS Kearsarge)"}}
-,"rui" : {v:"ルイ", m:{"dream c club" : "るい"}}
+,"mary stuart" : {v:"メアリ"}
+,"satsuki" : {v:"皐月", m:{"blue archive" : "京極サツキ", "quiz magic academy" : "サツキ", "my neighbor totoro" : "サツキ"}}
+,"shuro yabuki" : {v:"箭吹シュロ"}
+,"hammann" : {v:"ハムマン", m:{"azur lane" : "ハムマン(USS Hammann)"}}
+,"miyako hoshino" : {v:"星野みやこ"}
+,"roon" : {v:"ローン", m:{"azur lane" : "ローン(KMS Roon)"}}
+,"vert" : {v:"ベール(グリーンハート)"}
+,"yuuna akashi" : {v:"明石裕奈"}
+,"phoebe" : {v:"フィービー", m:{"pokemon" : "フヨウ", "granblue fantasy" : "ヴェトル"}}
+,"shikinami" : {v:"敷波"}
 ,"amuro ray" : {v:"アムロ・レイ"}
-,"chikuma" : {v:"筑摩", m:{"azur lane" : "筑摩(IJN Chikuma)"}}
+,"chiyo shirayuki" : {v:"白雪千夜"}
+,"dunkerque" : {v:"ダンケルク", m:{"azur lane" : "ダンケルク(MNF Dunkerque)"}}
+,"kearsarge" : {v:"キアサージ", m:{"azur lane" : "キアサージ(USS Kearsarge)"}}
 ,"keith" : {v:"ケイト"}
+,"rui" : {v:"ルイ", m:{"dream c club" : "るい"}}
+,"chikuma" : {v:"筑摩", m:{"azur lane" : "筑摩(IJN Chikuma)"}}
 ,"yoshimi ibaragi" : {v:"伊原木ヨシミ"}
 ,"chisame hasegawa" : {v:"長谷川千雨"}
 ,"chitose" : {v:"千歳", m:{"azur lane" : "千歳(IJN Chitose)"}}
-,"new jersey" : {v:"ニュージャージー", m:{"azur lane" : "ニュージャージー(USS New Jersey)"}}
-,"roon" : {v:"ローン", m:{"azur lane" : "ローン(KMS Roon)"}}
-,"shuro yabuki" : {v:"箭吹シュロ"}
-,"vulpix" : {v:"ロコン"}
-,"white heart" : {v:"ホワイトハート(ブラン)"}
-,"yura" : {v:"由良", m:{"azur lane" : "由良(IJN Yura)"}}
-,"chiyo shirayuki" : {v:"白雪千夜"}
+,"cinderace" : {v:"エースバーン"}
 ,"delphox" : {v:"マフォクシー"}
-,"elma" : {v:"エルマ"}
 ,"kasumi kirihara" : {v:"霧原かすみ"}
 ,"lily white" : {v:"リリーホワイト"}
-,"marina" : {v:"マリーナ", m:{"pokemon" : "マリン", "animal crossing" : "タコリーナ"}}
+,"new jersey" : {v:"ニュージャージー", m:{"azur lane" : "ニュージャージー(USS New Jersey)"}}
+,"vulpix" : {v:"ロコン"}
+,"yura" : {v:"由良", m:{"azur lane" : "由良(IJN Yura)"}}
+,"elma" : {v:"エルマ"}
 ,"myoukou" : {v:"妙高", m:{"azur lane" : "妙高(IJN Myōkō)"}}
-,"tsunami" : {v:"津名魅"}
+,"qingyi" : {v:"青衣"}
 ,"asuka ninomiya" : {v:"二宮飛鳥"}
+,"marina" : {v:"マリーナ", m:{"pokemon" : "マリン", "animal crossing" : "タコリーナ"}}
+,"marina ikekura" : {v:"池倉マリナ"}
+,"tsunami" : {v:"津名魅"}
+,"mine aomori" : {v:"蒼森ミネ"}
+,"misuzu hataya" : {v:"秦谷美鈴"}
+,"white heart" : {v:"ホワイトハート(ブラン)"}
+,"yukari kadenokouji" : {v:"勘解由小路ユカリ"}
+,"alexandrina sebastiane" : {v:"アレクサンドリナ・セバスチャン"}
 ,"ayaka yukihiro" : {v:"雪広あやか"}
 ,"chiharu mihara" : {v:"三原千春"}
-,"qingyi" : {v:"青衣"}
-,"brock" : {v:"ブロック", m:{"pokemon" : "タケシ"}}
-,"mine aomori" : {v:"蒼森ミネ"}
-,"mirei hayasaka" : {v:"早坂美玲"}
+,"reijo kayama" : {v:"鹿山レイジョ"}
 ,"tashkent" : {v:"タシュケント", m:{"kantai collection" : "Ташкент(タシュケント)", "azur lane" : "タシュケント(SN Tashkent)"}}
+,"brock" : {v:"ブロック", m:{"pokemon" : "タケシ"}}
+,"mirei hayasaka" : {v:"早坂美玲"}
+,"subaru nagayoshi" : {v:"永吉昴"}
+,"watatsuki no toyohime" : {v:"綿月豊姫"}
 ,"absol" : {v:"アブソル"}
+,"anby demara" : {v:"アンビー・デマラ"}
 ,"daisy" : {v:"デイジー", m:{"animal crossing" : "バニラ", "flower knight girl" : "デージー"}}
 ,"indomitable" : {v:"インドミタブル", m:{"azur lane" : "インドミタブル(HMS Indomitable)"}}
+,"lance" : {v:"ランス", m:{"pokemon" : "ワタル"}}
 ,"naoko yanagisawa" : {v:"柳沢奈緒子"}
 ,"penny" : {v:"ペニー", m:{"pokemon" : "ボタン"}}
-,"subaru nagayoshi" : {v:"永吉昴"}
+,"riolu" : {v:"リオル"}
+,"societte" : {v:"ソシエ"}
 ,"tenzou crossunite" : {v:"点蔵・クロスユナイト"}
-,"watatsuki no toyohime" : {v:"綿月豊姫"}
 ,"cherry" : {v:"チェリー", m:{"urusei yatsura" : "錯乱坊", "animal crossing" : "ハンナ"}}
-,"ilya ornstein" : {v:"イリヤ・オーンスタイン"}
-,"lance" : {v:"ランス", m:{"pokemon" : "ワタル"}}
-,"marina ikekura" : {v:"池倉マリナ"}
-,"yukari kadenokouji" : {v:"勘解由小路ユカリ"}
-,"cleveland" : {v:"クリーブランド", m:{"azur lane" : "クリーブランド(USS Cleveland)"}}
 ,"cure ace" : {v:"円亜久里(キュアエース)"}
+,"ilya ornstein" : {v:"イリヤ・オーンスタイン"}
+,"olivia" : {v:"オリビア", m:{"pokemon" : "ライチ"}}
+,"alsace" : {v:"アルザス", m:{"azur lane" : "アルザス(FFNF Alsace)"}}
+,"cleveland" : {v:"クリーブランド", m:{"azur lane" : "クリーブランド(USS Cleveland)"}}
 ,"drang" : {v:"ドランク"}
+,"gotland" : {v:"ゴトランド", m:{"kantai collection" : "Gotland(ゴトランド)"}}
 ,"hina araki" : {v:"荒木比奈"}
 ,"mochizuki" : {v:"望月"}
-,"olivia" : {v:"オリビア", m:{"pokemon" : "ライチ"}}
-,"societte" : {v:"ソシエ"}
-,"alexandrina sebastiane" : {v:"アレクサンドリナ・セバスチャン"}
+,"momoyo himemushi" : {v:"姫虫百々世"}
 ,"cure etoile" : {v:"輝木ほまれ(キュアエトワール)"}
 ,"cure precious" : {v:"和実ゆい(キュアプレシャス)"}
+,"furutaka" : {v:"古鷹", m:{"azur lane" : "古鷹(IJN Furutaka)"}}
 ,"i-168" : {v:"伊168", m:{"azur lane" : "伊168(IJN I168)"}}
 ,"mightyena" : {v:"グラエナ"}
-,"momoyo himemushi" : {v:"姫虫百々世"}
-,"phoebe" : {v:"フィービー", m:{"pokemon" : "フヨウ", "granblue fantasy" : "ヴェトル"}}
-,"reijo kayama" : {v:"鹿山レイジョ"}
-,"alsace" : {v:"アルザス", m:{"azur lane" : "アルザス(FFNF Alsace)"}}
-,"amy" : {v:"アミー", m:{"pokemon" : "ウッチー"}}
 ,"cure summer" : {v:"夏海まなつ(キュアサマー)"}
-,"furutaka" : {v:"古鷹", m:{"azur lane" : "古鷹(IJN Furutaka)"}}
-,"gotland" : {v:"ゴトランド", m:{"kantai collection" : "Gotland(ゴトランド)"}}
-,"kaho kuwakami" : {v:"桑上カホ"}
+,"hanae asagao" : {v:"朝顔ハナエ"}
 ,"machamp" : {v:"カイリキー"}
-,"anby demara" : {v:"アンビー・デマラ"}
+,"mao arimura" : {v:"有村麻央"}
+,"tsukuyo oono" : {v:"大野ツクヨ"}
+,"amy" : {v:"アミー", m:{"pokemon" : "ウッチー"}}
 ,"brendan" : {v:"ユウキ"}
+,"courtney" : {v:"コートニー", m:{"pokemon" : "カガリ"}}
 ,"cure la mer" : {v:"ローラ(キュアラメール)"}
 ,"hecatia lapislazuli" : {v:"ヘカーティア・ラピスラズリ"}
+,"kaho kuwakami" : {v:"桑上カホ"}
 ,"merlin prismriver" : {v:"メルラン・プリズムリバー"}
+,"milky rose" : {v:"美々野くるみ(ミルキィローズ)"}
 ,"ning hai" : {v:"寧海(ROC Ning Hai)"}
-,"reshiram" : {v:"レシラム"}
-,"riolu" : {v:"リオル"}
+,"tsurugi kensaki" : {v:"剣先ツルギ"}
 ,"colorado" : {v:"コロラド", m:{"kantai collection" : "Colorado(コロラド)", "azur lane" : "コロラド(USS Colorado)"}}
-,"courtney" : {v:"コートニー", m:{"pokemon" : "カガリ"}}
 ,"emily stewart" : {v:"エミリー スチュアート"}
-,"misuzu hataya" : {v:"秦谷美鈴"}
-,"yuniko kouzuki" : {v:"上月由仁子(スカーレット・レイン)"}
-,"chen hai" : {v:"鎮海", m:{"azur lane" : "鎮海(ROC Chen Hai)"}}
-,"cure spicy" : {v:"芙羽ここね(キュアスパイシー)"}
-,"hanae asagao" : {v:"朝顔ハナエ"}
 ,"hilbert" : {v:"ヒルベルト", m:{"pokemon" : "トウヤ"}}
 ,"kotori toyomi" : {v:"豊見コトリ"}
-,"mahira" : {v:"マキラ"}
-,"mao arimura" : {v:"有村麻央"}
-,"matsuwa" : {v:"松輪"}
 ,"michishio" : {v:"満潮(IJN Michishio)"}
-,"milky rose" : {v:"美々野くるみ(ミルキィローズ)"}
+,"reshiram" : {v:"レシラム"}
+,"yuniko kouzuki" : {v:"上月由仁子(スカーレット・レイン)"}
+,"chen hai" : {v:"鎮海", m:{"azur lane" : "鎮海(ROC Chen Hai)"}}
+,"cure felice" : {v:"花海ことは(キュアフェリーチェ)"}
+,"cure lillian" : {v:"猫屋敷まゆ(キュアリリアン)"}
+,"cure spicy" : {v:"芙羽ここね(キュアスパイシー)"}
+,"mahira" : {v:"マキラ"}
+,"matsuwa" : {v:"松輪"}
+,"michiru chidori" : {v:"千鳥ミチル"}
 ,"niyon" : {v:"ニオ"}
-,"tsurugi kensaki" : {v:"剣先ツルギ"}
+,"airi kurimura" : {v:"栗村アイリ"}
 ,"camieux" : {v:"クムユ"}
 ,"chimata tenkyuu" : {v:"天弓千亦"}
 ,"chitose kurosaki" : {v:"黒埼ちとせ"}
-,"cure felice" : {v:"花海ことは(キュアフェリーチェ)"}
-,"cure lillian" : {v:"猫屋敷まゆ(キュアリリアン)"}
-,"green heart" : {v:"グリーンハート(ベール)"}
+,"megu shimokura" : {v:"下倉メグ"}
+,"mogador" : {v:"モガドール", m:{"kantai collection" : "Mogador(モガドール)", "azur lane" : "モガドール(MNF Mogador)"}}
+,"reika kitakami" : {v:"北上麗花"}
 ,"tsushima" : {v:"対馬"}
-,"airi kurimura" : {v:"栗村アイリ"}
+,"allister" : {v:"アリスター", m:{"genshin impact" : "主人公(炎)", "pokemon" : "オニオン"}}
 ,"cure butterfly" : {v:"聖あげは(キュアバタフライ)"}
 ,"hyuuga" : {v:"日向", m:{"azur lane" : "日向(IJN Hyūga)"}}
 ,"kazuto hongou" : {v:"北郷一刀"}
-,"megu shimokura" : {v:"下倉メグ"}
 ,"mizuki kawashima" : {v:"川島瑞樹"}
 ,"pegasus seiya" : {v:"ペガサス星矢"}
-,"reika kitakami" : {v:"北上麗花"}
 ,"sarah" : {v:"サラ", m:{"pokemon" : "スイ"}}
+,"tamao suzumi" : {v:"涼水玉青"}
 ,"zeraora" : {v:"ゼラオラ"}
-,"black heart" : {v:"ブラックハート(ノワール)"}
+,"green heart" : {v:"グリーンハート(ベール)"}
 ,"guild girl" : {v:"受付嬢"}
 ,"haruna saotome" : {v:"早乙女ハルナ"}
 ,"hatsuyuki" : {v:"初雪"}
+,"okina matara" : {v:"摩多羅隠岐奈"}
 ,"professor kukui" : {v:"ククイ博士"}
 ,"shinki" : {v:"神綺"}
-,"allister" : {v:"アリスター", m:{"genshin impact" : "主人公(炎)", "pokemon" : "オニオン"}}
+,"fumizuki" : {v:"文月", m:{"azur lane" : "文月(IJN Fumizuki)"}}
 ,"hotaru shiragiku" : {v:"白菊ほたる"}
+,"karen shinomiya" : {v:"篠宮可憐"}
 ,"kisume" : {v:"キスメ"}
-,"michiru chidori" : {v:"千鳥ミチル"}
 ,"mikoto aketa" : {v:"緋田美琴"}
-,"okina matara" : {v:"摩多羅隠岐奈"}
-,"tamao suzumi" : {v:"涼水玉青"}
-,"tsukuyo oono" : {v:"大野ツクヨ"}
 ,"altina orion" : {v:"アルティナ・オライオン"}
 ,"arisa ayase" : {v:"絢瀬亜里沙"}
 ,"bonnie" : {v:"ボニー", m:{"pokemon" : "ユリーカ"}}
@@ -25673,205 +25757,209 @@ var chars_ejdic = {
 ,"gentoku ryuubi" : {v:"桃香(劉備 玄徳)"}
 ,"hayasui" : {v:"速吸"}
 ,"junyou" : {v:"隼鷹", m:{"azur lane" : "隼鷹(IJN Jun'yō)"}}
-,"karen shinomiya" : {v:"篠宮可憐"}
+,"lucas" : {v:"ルーカス", m:{"pokemon" : "コウキ", "re zero kara hajimeru isekai seikatsu" : "リュカ"}}
 ,"lyrica prismriver" : {v:"リリカ・プリズムリバー"}
 ,"makigumo" : {v:"巻雲"}
+,"matsuri tokugawa" : {v:"徳川まつり"}
 ,"meiling li" : {v:"李苺鈴"}
-,"mogador" : {v:"モガドール", m:{"kantai collection" : "Mogador(モガドール)", "azur lane" : "モガドール(MNF Mogador)"}}
+,"niko" : {v:"ニコ"}
 ,"prier" : {v:"プリエ"}
 ,"tamaki ogami" : {v:"大神環"}
-,"fumizuki" : {v:"文月", m:{"azur lane" : "文月(IJN Fumizuki)"}}
+,"zebstrika" : {v:"ゼブライカ"}
+,"august von parseval" : {v:"アウグスト・フォン・パーセヴァル", m:{"azur lane" : "アウグスト・フォン・パーセヴァル(KMS August von Parseval)"}}
+,"black heart" : {v:"ブラックハート(ノワール)"}
 ,"klara" : {v:"クララ"}
 ,"kuma" : {v:"球磨", m:{"persona 4" : "クマ", "tekken" : "クマ"}}
-,"shiryuu chouun" : {v:"星(趙雲 子龍)"}
-,"zebstrika" : {v:"ゼブライカ"}
-,"kutaka niwatari" : {v:"庭渡久侘歌"}
 ,"lily" : {v:"リリィ", m:{"animal crossing" : "レイニー"}}
-,"lugia" : {v:"ルギア"}
-,"matsuri tokugawa" : {v:"徳川まつり"}
-,"ping hai" : {v:"平海", m:{"azur lane" : "平海(ROC Ping Hai)"}}
-,"snivy" : {v:"ツタージャ"}
+,"shiryuu chouun" : {v:"星(趙雲 子龍)"}
 ,"acerola" : {v:"アセロラ"}
-,"akari kazemiya" : {v:"風宮あかり"}
-,"ako izumi" : {v:"和泉亜子"}
-,"august von parseval" : {v:"アウグスト・フォン・パーセヴァル", m:{"azur lane" : "アウグスト・フォン・パーセヴァル(KMS August von Parseval)"}}
-,"cure whip" : {v:"宇佐美いちか(キュアホイップ)"}
-,"deutschland" : {v:"ドイッチュラント", m:{"azur lane" : "ドイッチュラント(KMS Deutschland)"}}
 ,"elizabeth" : {v:"エリザベス"}
 ,"hare omagari" : {v:"小鈎ハレ"}
-,"i-13" : {v:"伊13(IJN I13)"}
+,"kasumi kinugawa" : {v:"鬼怒川カスミ"}
 ,"koito fukumaru" : {v:"福丸小糸"}
-,"lucas" : {v:"ルーカス", m:{"pokemon" : "コウキ", "re zero kara hajimeru isekai seikatsu" : "リュカ"}}
-,"nichika nanakusa" : {v:"七草にちか"}
-,"niko" : {v:"ニコ"}
-,"queen elizabeth" : {v:"クイーン・エリザベス", m:{"azur lane" : "クイーン・エリザベス(HMS Queen Elizabeth)"}}
+,"kutaka niwatari" : {v:"庭渡久侘歌"}
+,"ping hai" : {v:"平海", m:{"azur lane" : "平海(ROC Ping Hai)"}}
 ,"rei shijo" : {v:"士条怜"}
+,"snivy" : {v:"ツタージャ"}
+,"akari kazemiya" : {v:"風宮あかり"}
+,"akira kiyosumi" : {v:"清澄アキラ"}
+,"ako izumi" : {v:"和泉亜子"}
+,"deutschland" : {v:"ドイッチュラント", m:{"azur lane" : "ドイッチュラント(KMS Deutschland)"}}
+,"i-13" : {v:"伊13(IJN I13)"}
+,"lugia" : {v:"ルギア"}
+,"nichika nanakusa" : {v:"七草にちか"}
+,"pamiat merkuria" : {v:"パーミャチ・メルクーリヤ", m:{"azur lane" : "パーミャチ・メルクーリヤ(SN Pamiat Merkuria)"}}
+,"queen elizabeth" : {v:"クイーン・エリザベス", m:{"azur lane" : "クイーン・エリザベス(HMS Queen Elizabeth)"}}
 ,"richelieu" : {v:"リシュリュー", m:{"kantai collection" : "Richelieu(リシュリュー)", "azur lane" : "リシュリュー(FFNF Richelieu)"}}
 ,"shouhou" : {v:"祥鳳", m:{"azur lane" : "祥鳳(IJN Shōhō)"}}
+,"yuuma toutetsu" : {v:"饕餮尤魔"}
 ,"z46" : {v:"Z46(KMS Z46)"}
+,"azuma" : {v:"吾妻(IJN Azuma)"}
+,"chika yokoyama" : {v:"横山千佳"}
 ,"chiyoda" : {v:"千代田", m:{"azur lane" : "千代田(IJN Chiyoda)", "oshiro project" : "千代田城"}}
+,"cure whip" : {v:"宇佐美いちか(キュアホイップ)"}
 ,"kana yabuki" : {v:"矢吹可奈"}
 ,"kaori" : {v:"カオリ", m:{"azumanga daioh" : "かおりん", "super real mahjong" : "香織", "persona 2" : "香", "generation of chaos" : "香莉"}}
+,"lilja katsuragi" : {v:"葛城リーリヤ"}
 ,"littorio" : {v:"リットリオ", m:{"kantai collection" : "Littorio(リットリオ)", "azur lane" : "リットリオ(RN Littorio)"}}
 ,"umikaze" : {v:"海風", m:{"azur lane" : "海風(IJN Umikaze)"}}
 ,"victor" : {v:"ヴィクトル", m:{"pokemon" : "マサル"}}
+,"villager" : {v:"村人"}
 ,"whitney" : {v:"ホイットニー", m:{"pokemon" : "アカネ", "animal crossing" : "ビアンカ"}}
-,"azuma" : {v:"吾妻(IJN Azuma)"}
-,"horizon ariadust" : {v:"ホライゾン・アリアダスト"}
-,"lilja katsuragi" : {v:"葛城リーリヤ"}
-,"pamiat merkuria" : {v:"パーミャチ・メルクーリヤ", m:{"azur lane" : "パーミャチ・メルクーリヤ(SN Pamiat Merkuria)"}}
 ,"yuko hori" : {v:"堀裕子"}
-,"admiral graf spee" : {v:"アドミラル・グラーフ・シュペー", m:{"azur lane" : "アドミラル・グラーフ・シュペー(KMS Admiral Graf Spee)"}}
-,"akira kiyosumi" : {v:"清澄アキラ"}
-,"chika yokoyama" : {v:"横山千佳"}
 ,"cure egret" : {v:"美翔舞(キュアイーグレット)"}
+,"horizon ariadust" : {v:"ホライゾン・アリアダスト"}
+,"monika weisswind" : {v:"モニカ・ヴァイスヴィント"}
+,"ranger" : {v:"レンジャー", m:{"kantai collection" : "Ranger(レンジャー)", "azur lane" : "レンジャー(USS Ranger)"}}
+,"roxanne" : {v:"ロクサーヌ", m:{"pokemon" : "ツツジ", "kyonyuu fantasy" : "ロクサーヌ・ド・デジール"}}
+,"admiral graf spee" : {v:"アドミラル・グラーフ・シュペー", m:{"azur lane" : "アドミラル・グラーフ・シュペー(KMS Admiral Graf Spee)"}}
+,"ajax" : {v:"エイジャックス", m:{"azur lane" : "エイジャックス(HMS Ajax)"}}
+,"ein" : {v:"アイン"}
 ,"eri" : {v:"エリ", m:{"pokemon" : "ビワ"}}
 ,"goodra" : {v:"ヌメルゴン"}
 ,"kawakaze" : {v:"江風", m:{"azur lane" : "江風(IJN Kawakaze)"}}
 ,"kiso" : {v:"木曾"}
 ,"machoke" : {v:"ゴーリキー"}
-,"monika weisswind" : {v:"モニカ・ヴァイスヴィント"}
 ,"oyashio" : {v:"親潮", m:{"azur lane" : "親潮(IJN Oyashio)"}}
 ,"prince of wales" : {v:"プリンス・オブ・ウェールズ", m:{"azur lane" : "プリンス・オブ・ウェールズ(HMS Prince of Wales)"}}
-,"ranger" : {v:"レンジャー", m:{"kantai collection" : "Ranger(レンジャー)", "azur lane" : "レンジャー(USS Ranger)"}}
-,"roxanne" : {v:"ロクサーヌ", m:{"pokemon" : "ツツジ", "kyonyuu fantasy" : "ロクサーヌ・ド・デジール"}}
+,"sumomo" : {v:"スモモ"}
 ,"vanilla h" : {v:"ヴァニラ・H"}
-,"yuuma toutetsu" : {v:"饕餮尤魔"}
-,"ajax" : {v:"エイジャックス", m:{"azur lane" : "エイジャックス(HMS Ajax)"}}
 ,"chihiro fujimi" : {v:"藤見千尋"}
 ,"cure fontaine" : {v:"沢泉ちゆ(キュアフォンテーヌ)"}
-,"ein" : {v:"アイン"}
+,"lacey" : {v:"タロ"}
 ,"medicine melancholy" : {v:"メディスン・メランコリー"}
 ,"reno" : {v:"レノ", m:{"azur lane" : "リノ(USS Reno)"}}
-,"villager" : {v:"村人"}
-,"chachamaru karakuri" : {v:"絡繰茶々丸"}
-,"freya" : {v:"フレイヤ", m:{"animal crossing" : "ツンドラ", "valkyrie profile" : "フレイア"}}
-,"friedrich der grosse" : {v:"フリードリヒ・デア・グローセ", m:{"azur lane" : "フリードリヒ・デア・グローセ(KMS Friedrich der Grosse)"}}
-,"kasumi kinugawa" : {v:"鬼怒川カスミ"}
-,"roxie" : {v:"ロキシー", m:{"pokemon" : "ホミカ"}}
-,"sai" : {v:"サイ", m:{"koihime musou" : "祭"}}
-,"sumomo" : {v:"スモモ"}
-,"xp-tan" : {v:"XPたん"}
 ,"yachie kicchou" : {v:"吉弔八千慧"}
-,"arcanine" : {v:"ウインディ"}
-,"cure custard" : {v:"有栖川ひまり(キュアカスタード)"}
-,"fuuko kurasaki" : {v:"倉崎楓子(スカイ・レイカー)"}
+,"akari wanibuchi" : {v:"鰐渕アカリ"}
+,"chachamaru karakuri" : {v:"絡繰茶々丸"}
+,"friedrich der grosse" : {v:"フリードリヒ・デア・グローセ", m:{"azur lane" : "フリードリヒ・デア・グローセ(KMS Friedrich der Grosse)"}}
 ,"jasmine" : {v:"ジャスミン", m:{"pokemon" : "ミカン"}}
-,"kako" : {v:"加古", m:{"azur lane" : "加古(IJN Kako)"}}
 ,"kei shirogane" : {v:"白銀圭"}
 ,"koharu koga" : {v:"古賀小春"}
-,"lacey" : {v:"タロ"}
 ,"noriko fukuda" : {v:"福田のり子"}
-,"owari" : {v:"尾張(IJN Owari)"}
+,"roxie" : {v:"ロキシー", m:{"pokemon" : "ホミカ"}}
+,"sai" : {v:"サイ", m:{"koihime musou" : "祭"}}
 ,"typhlosion" : {v:"バクフーン"}
+,"xp-tan" : {v:"XPたん"}
+,"aki yamato" : {v:"大和亜季"}
+,"arcanine" : {v:"ウインディ"}
+,"cure custard" : {v:"有栖川ひまり(キュアカスタード)"}
 ,"cure nyammy" : {v:"猫屋敷ユキ(キュアニャミー)"}
-,"iris heart" : {v:"アイリスハート(プルルート)"}
+,"freya" : {v:"フレイヤ", m:{"animal crossing" : "ツンドラ", "valkyrie profile" : "フレイア"}}
+,"fuuko kurasaki" : {v:"倉崎楓子(スカイ・レイカー)"}
 ,"johnston" : {v:"ジョンストン", m:{"kantai collection" : "Johnston(ジョンストン)"}}
+,"kako" : {v:"加古", m:{"azur lane" : "加古(IJN Kako)"}}
 ,"mimori mizuha" : {v:"水羽ミモリ"}
+,"niya amachi" : {v:"天地ニヤ"}
+,"owari" : {v:"尾張(IJN Owari)"}
 ,"miyoi okunoda" : {v:"奥野田美宵"}
+,"seika ijichi" : {v:"伊地知星歌"}
 ,"tweyen" : {v:"ソーン"}
 ,"vampire" : {v:"ヴァンパイア", m:{"azur lane" : "ヴァンパイア(HMS Vampire)", "etrian odyssey" : "闇の眷属"}}
-,"aki yamato" : {v:"大和亜季"}
+,"volo" : {v:"ウォロ"}
 ,"akiha ikebukuro" : {v:"池袋晶葉"}
-,"albion" : {v:"アルビオン", m:{"azur lane" : "アルビオン(HMS Albion)"}}
 ,"benben tsukumo" : {v:"九十九弁々"}
+,"ethan" : {v:"イーサン", m:{"pokemon" : "ヒビキ"}}
+,"gengar" : {v:"ゲンガー"}
 ,"hiyori harusaki" : {v:"春咲ひより"}
 ,"kinugasa" : {v:"衣笠", m:{"azur lane" : "衣笠(IJN Kinugasa)"}}
-,"seika ijichi" : {v:"伊地知星歌"}
+,"kirino nakatsukasa" : {v:"中務キリノ"}
+,"piper wheel" : {v:"パイパー・ウィール"}
 ,"shiratsuyu" : {v:"白露", m:{"azur lane" : "白露(IJN Shiratsuyu)"}}
-,"volo" : {v:"ウォロ"}
-,"gengar" : {v:"ゲンガー"}
+,"albion" : {v:"アルビオン", m:{"azur lane" : "アルビオン(HMS Albion)"}}
+,"aunn komano" : {v:"高麗野あうん"}
+,"briar" : {v:"ブライア"}
 ,"hajime fujiwara" : {v:"藤原肇"}
-,"hood" : {v:"フッド", m:{"azur lane" : "フッド(HMS Hood)"}}
 ,"i-14" : {v:"伊14"}
+,"io hasekura" : {v:"支倉伊緒"}
 ,"lyra" : {v:"ライラ", m:{"pokemon" : "コトネ"}}
 ,"maki konuri" : {v:"小塗マキ"}
-,"nier" : {v:"ニーア"}
+,"renge fuwa" : {v:"不破レンゲ"}
+,"sena himuro" : {v:"氷室セナ"}
+,"zorua" : {v:"ゾロア"}
 ,"brest" : {v:"ブレスト(FFNF Brest)"}
-,"briar" : {v:"ブライア"}
-,"ethan" : {v:"イーサン", m:{"pokemon" : "ヒビキ"}}
-,"io hasekura" : {v:"支倉伊緒"}
+,"garchomp" : {v:"ガブリアス"}
+,"hood" : {v:"フッド", m:{"azur lane" : "フッド(HMS Hood)"}}
+,"iris heart" : {v:"アイリスハート(プルルート)"}
 ,"lisia" : {v:"リシア", m:{"pokemon" : "ルチア"}}
 ,"morgan" : {v:"モーガン", m:{"pokemon" : "ルミタン"}}
-,"ray" : {v:"レイ", m:{"pokemon" : "コウタ"}}
-,"akari wanibuchi" : {v:"鰐渕アカリ"}
+,"nier" : {v:"ニーア"}
+,"reed" : {v:"リード", m:{"pokemon" : "ツゲ"}}
 ,"ark royal" : {v:"アーク・ロイヤル", m:{"kantai collection" : "Ark Royal(アークロイヤル)", "azur lane" : "アーク・ロイヤル(HMS Ark Royal)"}}
-,"aunn komano" : {v:"高麗野あうん"}
 ,"chiyuri kurashima" : {v:"倉嶋千百合(ライム・ベル)"}
 ,"cure finale" : {v:"菓彩あまね(キュアフィナーレ)"}
 ,"cure wonderful" : {v:"犬飼こむぎ(キュアワンダフル)"}
 ,"eternity larva" : {v:"エタニティラルバ"}
-,"garchomp" : {v:"ガブリアス"}
 ,"hatakaze" : {v:"旗風", m:{"azur lane" : "旗風(IJN Hatakaze)"}}
 ,"hatsuharu" : {v:"初春", m:{"azur lane" : "初春(IJN Hatsuharu)"}}
-,"kirino nakatsukasa" : {v:"中務キリノ"}
 ,"kurumi ohnuma" : {v:"大沼くるみ"}
 ,"peter strasser" : {v:"ペーター・シュトラッサー(KMS Peter Strasser)"}
+,"ray" : {v:"レイ", m:{"pokemon" : "コウタ"}}
 ,"razor" : {v:"レザー", m:{"robopon" : "マーシャル", "swat kats" : "Jake Clawson(Razor)"}}
-,"reed" : {v:"リード", m:{"pokemon" : "ツゲ"}}
-,"renge fuwa" : {v:"不破レンゲ"}
+,"yume kuchinashi" : {v:"梔子ユメ"}
+,"aurora" : {v:"オーロラ", m:{"azur lane" : "オーロラ(HMS Aurora)", "league of legends" : "Aurora"}}
+,"chiaki motomiya" : {v:"元宮チアキ"}
 ,"cure friendly" : {v:"犬飼いろは(キュアフレンディ)"}
 ,"eri mizutani" : {v:"水谷絵理"}
+,"grace howard" : {v:"グレース・ハワード"}
 ,"ku fei" : {v:"古菲"}
 ,"miyuki" : {v:"深雪", m:{"azur lane" : "深雪(IJN Miyuki)"}}
 ,"pheromosa" : {v:"フェローチェ"}
 ,"professor juniper" : {v:"アララギ博士"}
+,"shizuko kawawa" : {v:"河和シズコ"}
 ,"sonomi daidouji" : {v:"大道寺園美"}
 ,"akira okouchi" : {v:"大河内アキラ"}
-,"aurora" : {v:"オーロラ", m:{"azur lane" : "オーロラ(HMS Aurora)", "league of legends" : "Aurora"}}
 ,"cure coral" : {v:"涼村さんご(キュアコーラル)"}
 ,"fennekin" : {v:"フォッコ"}
+,"grecale" : {v:"グレカーレ", m:{"kantai collection" : "Grecale(グレカーレ)"}}
 ,"hindenburg" : {v:"ヒンデンブルク", m:{"azur lane" : "ヒンデンブルク(KMS Hindenburg)"}}
+,"keiki haniyasushin" : {v:"埴安神袿姫"}
 ,"lucy" : {v:"アザミ"}
 ,"lycanroc" : {v:"ルガルガン"}
-,"niya amachi" : {v:"天地ニヤ"}
-,"piper wheel" : {v:"パイパー・ウィール"}
-,"shizuko kawawa" : {v:"河和シズコ"}
-,"zorua" : {v:"ゾロア"}
+,"maho himemiya" : {v:"姫宮真歩"}
+,"mayumi joutouguu" : {v:"杖刀偶磨弓"}
+,"sayoko takayama" : {v:"高山紗代子"}
 ,"ai" : {v:"アイ", m:{"yu-gi-oh vrains" : "Ai", "aria" : "愛野アイ", "popotan" : "あい"}}
 ,"asashimo" : {v:"朝霜"}
 ,"buizel" : {v:"ブイゼル"}
-,"grace howard" : {v:"グレース・ハワード"}
-,"grecale" : {v:"グレカーレ", m:{"kantai collection" : "Grecale(グレカーレ)"}}
+,"chise waraku" : {v:"和楽チセ"}
 ,"haaselia" : {v:"ハーゼリーラ"}
-,"maho himemiya" : {v:"姫宮真歩"}
+,"miriam" : {v:"ミリアム", m:{"pokemon" : "ミモザ"}}
 ,"ooshio" : {v:"大潮(IJN Ōshio)"}
-,"sayoko takayama" : {v:"高山紗代子"}
-,"sena himuro" : {v:"氷室セナ"}
 ,"tanikaze" : {v:"谷風", m:{"azur lane" : "谷風(IJN Tanikaze)"}}
 ,"yatsuhashi tsukumo" : {v:"九十九八橋"}
 ,"drowzee" : {v:"スリープ"}
 ,"genji" : {v:"ゲンジ", m:{"overwatch" : "島田源氏"}}
-,"keiki haniyasushin" : {v:"埴安神袿姫"}
-,"lamretta" : {v:"ラムレッダ"}
-,"mayumi joutouguu" : {v:"杖刀偶磨弓"}
-,"miriam" : {v:"ミリアム", m:{"pokemon" : "ミモザ"}}
-,"suzume amano" : {v:"天野すずめ"}
-,"yume kuchinashi" : {v:"梔子ユメ"}
-,"abukuma" : {v:"阿武隈", m:{"azur lane" : "阿武隈(IJN Abukuma)"}}
-,"akari tsujino" : {v:"辻野あかり"}
-,"chise waraku" : {v:"和楽チセ"}
-,"chizuru nikaido" : {v:"二階堂千鶴"}
-,"hatsukaze" : {v:"初風"}
 ,"jade" : {v:"ジェイド", m:{"azur lane" : "ヤーデ(KMS Jade)"}}
 ,"junko akashi" : {v:"赤司ジュンコ"}
+,"lamretta" : {v:"ラムレッダ"}
+,"satono nishida" : {v:"爾子田里乃"}
+,"suzume amano" : {v:"天野すずめ"}
+,"tokiko zaizen" : {v:"財前時子"}
+,"abukuma" : {v:"阿武隈", m:{"azur lane" : "阿武隈(IJN Abukuma)"}}
+,"akari tsujino" : {v:"辻野あかり"}
+,"chizuru nikaido" : {v:"二階堂千鶴"}
+,"conte di cavour" : {v:"コンテ・ディ・カブール", m:{"kantai collection" : "Conte di Cavour(カブール)", "azur lane" : "コンテ・ディ・カブール(RN Conte di Cavour)"}}
+,"hatsukaze" : {v:"初風"}
 ,"latias" : {v:"ラティアス"}
 ,"matsu" : {v:"松", m:{"dungeon meshi" : "マツ(ベニチドリ)", "sengoku basara" : "まつ"}}
 ,"natural harmonia gropius" : {v:"ナチュラル・ハルモニア・グロピウス(N)"}
-,"satono nishida" : {v:"爾子田里乃"}
 ,"yukari tanizaki" : {v:"谷崎ゆかり"}
 ,"yumeko sakurai" : {v:"桜井夢子"}
 ,"isonami" : {v:"磯波"}
 ,"mina" : {v:"ミナ", m:{"pokemon" : "マツリカ", "granblue fantasy" : "マイム", "samurai spirits" : "真鏡名ミナ", "rage of bahamut" : "マイム"}}
 ,"minamo kurosawa" : {v:"黒沢みなも"}
 ,"narumi yatadera" : {v:"矢田寺成美"}
+,"saki kurokoma" : {v:"驪駒早鬼"}
 ,"toraichi tamiya" : {v:"田宮寅一"}
 ,"yuu ishigami" : {v:"石上優"}
-,"conte di cavour" : {v:"コンテ・ディ・カブール", m:{"kantai collection" : "Conte di Cavour(カブール)", "azur lane" : "コンテ・ディ・カブール(RN Conte di Cavour)"}}
+,"china kuramoto" : {v:"倉本千奈"}
+,"cidala" : {v:"シンダラ"}
 ,"cure sparkle" : {v:"平光ひなた(キュアスパークル)"}
 ,"cure wing" : {v:"夕凪ツバサ(キュアウィング)"}
 ,"harukaze" : {v:"春風"}
 ,"ise" : {v:"伊勢(IJN Ise)"}
+,"jervis" : {v:"ジャーヴィス", m:{"kantai collection" : "Jervis(ジャーヴィス)", "azur lane" : "ジャーヴィス(HMS Jervis)"}}
 ,"kaede nagase" : {v:"長瀬楓"}
 ,"maikaze" : {v:"舞風"}
 ,"maruyu" : {v:"まるゆ"}
@@ -25879,108 +25967,104 @@ var chars_ejdic = {
 ,"takano morisato" : {v:"森里鷹乃"}
 ,"yoshiyuki terada" : {v:"寺田良幸"}
 ,"atsumi munakata" : {v:"棟方愛海"}
-,"china kuramoto" : {v:"倉本千奈"}
 ,"guzma" : {v:"グズマ"}
 ,"hikozaemon otaki" : {v:"大滝彦左衛門"}
-,"jervis" : {v:"ジャーヴィス", m:{"kantai collection" : "Jervis(ジャーヴィス)", "azur lane" : "ジャーヴィス(HMS Jervis)"}}
 ,"kerberos" : {v:"ケルベロス"}
 ,"papi" : {v:"パピ", m:{"animal crossing" : "オカッピ"}}
 ,"rino inosaki" : {v:"衣之咲璃乃"}
-,"saki kurokoma" : {v:"驪駒早鬼"}
 ,"viola" : {v:"ビオラ"}
 ,"zinnia" : {v:"ジニア", m:{"pokemon" : "ヒガナ"}}
 ,"akitsushima" : {v:"秋津洲"}
-,"cidala" : {v:"シンダラ"}
 ,"cure parfait" : {v:"キラ星シエル(キュアパルフェ)"}
 ,"floatzel" : {v:"フローゼル"}
 ,"kiawe" : {v:"カキ"}
 ,"rika" : {v:"リカ", m:{"pokemon" : "チリ"}}
 ,"roma" : {v:"ローマ", m:{"kantai collection" : "Roma(ローマ)", "azur lane" : "ローマ(RN Rome)"}}
 ,"sagiri" : {v:"狭霧"}
-,"tokiko zaizen" : {v:"財前時子"}
+,"bulbasaur" : {v:"フシギダネ"}
 ,"cygnet" : {v:"シグニット", m:{"azur lane" : "シグニット(HMS Cygnet)"}}
 ,"gin tachibana" : {v:"立花・誾"}
 ,"hijiri mochizuki" : {v:"望月聖"}
+,"julia" : {v:"ジュリア", m:{"pokemon" : "フミコ"}}
+,"luxray" : {v:"レントラー"}
 ,"mana tatsumiya" : {v:"龍宮真名"}
 ,"miyako izumo" : {v:"出雲宮子"}
 ,"nagara" : {v:"長良", m:{"azur lane" : "長良(IJN Nagara)"}}
 ,"natori" : {v:"名取", m:{"azur lane" : "名取(IJN Natori)"}}
-,"bulbasaur" : {v:"フシギダネ"}
+,"unzen" : {v:"雲仙", m:{"azur lane" : "雲仙(IJN Unzen)"}}
+,"achilles" : {v:"アキリーズ", m:{"azur lane" : "アキリーズ(HMS Achilles)"}}
 ,"eve santaclaus" : {v:"イヴ・サンタクロース"}
 ,"hop" : {v:"ホップ"}
 ,"ikoma" : {v:"生駒"}
 ,"intrepid" : {v:"イントレピッド", m:{"kantai collection" : "Intrepid(イントレピッド)", "azur lane" : "イントレピッド(USS Intrepid)"}}
-,"julia" : {v:"ジュリア", m:{"pokemon" : "フミコ"}}
 ,"kaori kyan" : {v:"喜屋武香織"}
 ,"kinu" : {v:"キヌ", m:{"kantai collection" : "鬼怒", "azur lane" : "鬼怒(IJN Kinu)"}}
-,"luxray" : {v:"レントラー"}
+,"luca ikaruga" : {v:"斑鳩ルカ"}
 ,"mawile" : {v:"クチート"}
 ,"mizuho" : {v:"瑞穂"}
 ,"mudsdale" : {v:"バンバドロ"}
 ,"pa-san" : {v:"PAさん"}
 ,"sora hasegawa" : {v:"長谷川空"}
-,"unzen" : {v:"雲仙", m:{"azur lane" : "雲仙(IJN Unzen)"}}
 ,"vittorio veneto" : {v:"ヴィットリオ・ヴェネト", m:{"azur lane" : "ヴィットリオ・ヴェネト(RN Vittorio Veneto)"}}
-,"achilles" : {v:"アキリーズ", m:{"azur lane" : "アキリーズ(HMS Achilles)"}}
 ,"admiral hipper" : {v:"アドミラル・ヒッパー", m:{"azur lane" : "アドミラル・ヒッパー(KMS Admiral Hipper)"}}
 ,"ayame hamaguchi" : {v:"浜口あやめ"}
 ,"ayame yomogawa" : {v:"四方川菖蒲"}
+,"caitlin" : {v:"ケイトリン", m:{"pokemon" : "カトレア"}}
+,"candice" : {v:"キャンディス", m:{"pokemon" : "スズナ"}}
 ,"cure flamingo" : {v:"滝沢あすか(キュアフラミンゴ)"}
 ,"honey" : {v:"ハニー", m:{"pokemon" : "ミツバ"}}
 ,"izumi ohishi" : {v:"大石泉"}
+,"juno" : {v:"ジュノー", m:{"azur lane" : "ジュノー(HMS Juno)", "overwatch" : "ジュノ", "beastars" : "ジュノ", "fire emblem the binding blade" : "ユーノ"}}
 ,"katy" : {v:"カティ", m:{"pokemon" : "カエデ"}}
 ,"majin buu" : {v:"魔人ブウ"}
+,"makoto hanuma" : {v:"羽沼マコト"}
 ,"manami kiba" : {v:"木場真奈美"}
 ,"mienshao" : {v:"コジョンド"}
+,"misato aikawa" : {v:"愛川美里"}
 ,"nanami asari" : {v:"浅利七海"}
 ,"perth" : {v:"パース", m:{"kantai collection" : "Perth(パース)"}}
+,"professor oak" : {v:"オーキド博士"}
 ,"sims" : {v:"シムス(USS Sims)"}
-,"caitlin" : {v:"ケイトリン", m:{"pokemon" : "カトレア"}}
+,"von lycaon" : {v:"フォン・ライカン"}
 ,"emboar" : {v:"エンブオー"}
+,"hakuryuu" : {v:"白龍", m:{"azur lane" : "白龍(IJN Hakuryu)"}}
 ,"hamanami" : {v:"浜波"}
 ,"jingei" : {v:"迅鯨"}
 ,"kotoka saionji" : {v:"西園寺琴歌"}
-,"luca ikaruga" : {v:"斑鳩ルカ"}
 ,"madoka kugimiya" : {v:"釘宮円"}
-,"misato aikawa" : {v:"愛川美里"}
+,"nagusa goryou" : {v:"御稜ナグサ"}
 ,"nemuno sakata" : {v:"坂田ネムノ"}
 ,"north carolina" : {v:"ノースカロライナ", m:{"azur lane" : "ノースカロライナ(USS North Carolina)"}}
 ,"okinami" : {v:"沖波"}
 ,"suzukaze" : {v:"涼風"}
-,"takane miyoshi" : {v:"三善タカネ"}
-,"candice" : {v:"キャンディス", m:{"pokemon" : "スズナ"}}
+,"corin wickes" : {v:"カリン・ウィクス"}
 ,"cure yum-yum" : {v:"華満らん(キュアヤムヤム)"}
-,"hakuryuu" : {v:"白龍", m:{"azur lane" : "白龍(IJN Hakuryu)"}}
-,"juno" : {v:"ジュノー", m:{"azur lane" : "ジュノー(HMS Juno)", "overwatch" : "ジュノ", "fire emblem the binding blade" : "ユーノ", "beastars" : "ジュノ"}}
-,"makoto hanuma" : {v:"羽沼マコト"}
+,"izumi shishidou" : {v:"獅子堂イズミ"}
 ,"mikasa" : {v:"三笠", m:{"azur lane" : "三笠(IJN Mikasa)"}}
 ,"noriko shiina" : {v:"椎名法子"}
-,"professor oak" : {v:"オーキド博士"}
+,"ralts" : {v:"ラルトス"}
 ,"ryuuhou" : {v:"龍鳳", m:{"azur lane" : "龍鳳(IJN Ryūhō)"}}
-,"von lycaon" : {v:"フォン・ライカン"}
+,"takane miyoshi" : {v:"三善タカネ"}
 ,"yuzu kitami" : {v:"喜多見柚"}
+,"arisa matsuda" : {v:"松田亜利沙"}
 ,"gambier bay" : {v:"ガンビア・ベイ", m:{"kantai collection" : "Gambier Bay(ガンビア・ベイ)"}}
 ,"hau" : {v:"ハウ"}
+,"jack" : {v:"ジャック", m:{"pokemon" : "カネコウジ"}}
 ,"maestrale" : {v:"マエストラーレ", m:{"kantai collection" : "Maestrale(マエストラーレ)", "azur lane" : "マエストラーレ(RN Maestrale)"}}
 ,"melleau" : {v:"メルゥ"}
 ,"nowaki" : {v:"野分", m:{"azur lane" : "野分(IJN Nowaki)"}}
 ,"prinz heinrich" : {v:"プリンツ・ハインリヒ", m:{"azur lane" : "プリンツ・ハインリヒ(KMS Prinz Heinrich)"}}
-,"ralts" : {v:"ラルトス"}
 ,"sado" : {v:"佐渡"}
 ,"sarina matsumoto" : {v:"松本沙理奈"}
 ,"silver" : {v:"シルバー"}
-,"arisa matsuda" : {v:"松田亜利沙"}
+,"soukaku" : {v:"蒼角"}
 ,"charlotte dizoard" : {v:"シャルロット・イゾアール"}
 ,"diantha" : {v:"カルネ"}
 ,"grace" : {v:"グレース", m:{"pokemon" : "サキ"}}
-,"izumi shishidou" : {v:"獅子堂イズミ"}
 ,"kishinami" : {v:"岸波"}
 ,"minazuki" : {v:"水無月", m:{"azur lane" : "水無月(IJN Minazuki)"}}
-,"monarch" : {v:"モナーク", m:{"azur lane" : "モナーク(HMS Monarch)"}}
-,"nagusa goryou" : {v:"御稜ナグサ"}
 ,"reina koseki" : {v:"小関麗奈"}
 ,"scylla" : {v:"シラ", m:{"azur lane" : "シラ(HMS Scylla)"}}
-,"soukaku" : {v:"蒼角"}
 ,"takanami" : {v:"高波"}
 ,"weavile" : {v:"ウェービー", m:{"pokemon" : "マニューラ"}}
 ,"yori kazemiya" : {v:"風宮より"}
@@ -25991,11 +26075,12 @@ var chars_ejdic = {
 ,"dendra" : {v:"デンドラ", m:{"pokemon" : "キハダ"}}
 ,"ekitoku chouhi" : {v:"鈴々(張飛 翼徳)"}
 ,"eriol hiiragizawa" : {v:"柊沢エリオル"}
-,"jack" : {v:"ジャック", m:{"pokemon" : "カネコウジ"}}
+,"gene" : {v:"ジーン", m:{"pokemon" : "ゲンゾウ"}}
 ,"kazagumo" : {v:"風雲", m:{"azur lane" : "風雲(IJN Kazagumo)"}}
 ,"malga naruze" : {v:"マルガ・ナルゼ"}
 ,"margot knight" : {v:"マルゴット・ナイト"}
 ,"mikuma" : {v:"三隈", m:{"azur lane" : "三隈(IJN Mikuma)"}}
+,"monarch" : {v:"モナーク", m:{"azur lane" : "モナーク(HMS Monarch)"}}
 ,"natsuki kimura" : {v:"木村夏樹"}
 ,"shauntal" : {v:"シキミ"}
 ,"sumika shiun" : {v:"紫雲清夏"}
@@ -26004,11 +26089,10 @@ var chars_ejdic = {
 ,"zahlhamelina" : {v:"ザルハメリナ"}
 ,"akino toudou" : {v:"藤堂秋乃"}
 ,"clemont" : {v:"クレモント", m:{"pokemon" : "シトロン"}}
-,"corin wickes" : {v:"カリン・ウィクス"}
 ,"drum" : {v:"ドラム", m:{"kantai collection" : "Drum(ドラム)"}}
+,"flannery" : {v:"フラネリ", m:{"pokemon" : "アスナ"}}
 ,"fujitaka kinomoto" : {v:"木之本藤隆"}
 ,"gangut" : {v:"ガングート", m:{"kantai collection" : "Гангут(ガングート)", "azur lane" : "ガングート(SN Gangut)"}}
-,"gene" : {v:"ジーン", m:{"pokemon" : "ゲンゾウ"}}
 ,"hatsushimo" : {v:"初霜", m:{"azur lane" : "初霜(IJN Hatsushimo)"}}
 ,"honoka ayase" : {v:"綾瀬穂乃香"}
 ,"kazumi asakura" : {v:"朝倉和美"}
@@ -26019,49 +26103,48 @@ var chars_ejdic = {
 ,"portland" : {v:"ポートランド", m:{"azur lane" : "ポートランド(USS Portland)"}}
 ,"risa kamizaki" : {v:"上崎裡沙"}
 ,"roco handa" : {v:"伴田路子(ロコ)"}
-,"tien" : {v:"エッセル"}
-,"toshiyuki aoshima" : {v:"青嶋紀元"}
-,"elaine" : {v:"エレイン", m:{"pokemon" : "アユミ"}}
-,"primarina" : {v:"アシレーヌ"}
-,"rodney" : {v:"ロドニー", m:{"kantai collection" : "Rodney(ロドニー)", "azur lane" : "ロドニー(HMS Rodney)"}}
 ,"serperior" : {v:"ジャローダ"}
 ,"south dakota" : {v:"サウスダコタ", m:{"kantai collection" : "South Dakota(サウスダコタ)", "azur lane" : "サウスダコタ(USS South Dakota)"}}
+,"tien" : {v:"エッセル"}
+,"toshiyuki aoshima" : {v:"青嶋紀元"}
+,"yume narumiya" : {v:"成宮由愛"}
+,"chapayev" : {v:"チャパエフ", m:{"azur lane" : "チャパエフ(SN Chapayev)"}}
+,"gardenia" : {v:"ガーデニア", m:{"pokemon" : "ナタネ"}}
+,"houndoom" : {v:"ヘルガー"}
+,"jirachi" : {v:"ジラーチ"}
+,"natsumi murakami" : {v:"村上夏美"}
+,"otogi" : {v:"オトギ"}
+,"primarina" : {v:"アシレーヌ"}
+,"rodney" : {v:"ロドニー", m:{"kantai collection" : "Rodney(ロドニー)", "azur lane" : "ロドニー(HMS Rodney)"}}
+,"shanghai" : {v:"上海"}
+,"solana" : {v:"ソラーナ", m:{"pokemon" : "ヒナタ"}}
 ,"ulrich von hutten" : {v:"ウルリッヒ・フォン・フッテン", m:{"azur lane" : "ウルリッヒ・フォン・フッテン(KMS Ulrich von Hutten)"}}
 ,"yukari ayase" : {v:"綾瀬ゆかり"}
-,"yume narumiya" : {v:"成宮由愛"}
 ,"adele balfette" : {v:"アデーレ・バルフェット"}
 ,"ako tsuchiya" : {v:"土屋亜子"}
 ,"albacore" : {v:"アルバコア", m:{"azur lane" : "アルバコア(USS Albacore)"}}
-,"anchorage" : {v:"アンカレッジ", m:{"azur lane" : "アンカレッジ(USS Anchorage)"}}
-,"chang chun" : {v:"長春", m:{"azur lane" : "長春(PRAN Chang Chun)"}}
-,"chapayev" : {v:"チャパエフ", m:{"azur lane" : "チャパエフ(SN Chapayev)"}}
 ,"coco" : {v:"ココ", m:{"animal crossing" : "やよい"}}
 ,"cucouroux" : {v:"ククル"}
-,"gardenia" : {v:"ガーデニア", m:{"pokemon" : "ナタネ"}}
+,"elaine" : {v:"エレイン", m:{"pokemon" : "アユミ"}}
 ,"haruna kamijou" : {v:"上条春菜"}
+,"hikaru nanjo" : {v:"南条光"}
 ,"hinata kinoshita" : {v:"木下ひなた"}
-,"houndoom" : {v:"ヘルガー"}
 ,"hydreigon" : {v:"サザンドラ"}
-,"jirachi" : {v:"ジラーチ"}
 ,"mashiro shizuyama" : {v:"静山マシロ"}
 ,"mima" : {v:"魅魔"}
-,"natsumi murakami" : {v:"村上夏美"}
-,"otogi" : {v:"オトギ"}
+,"perseus" : {v:"パーシュース", m:{"azur lane" : "パーシュース(HMS Perseus)"}}
 ,"sakurako shiina" : {v:"椎名桜子"}
-,"shanghai" : {v:"上海"}
-,"solana" : {v:"ソラーナ", m:{"pokemon" : "ヒナタ"}}
 ,"u-47" : {v:"U-47", m:{"azur lane" : "U-47(KMS U-47)"}}
+,"anchorage" : {v:"アンカレッジ", m:{"azur lane" : "アンカレッジ(USS Anchorage)"}}
 ,"ben bigger" : {v:"ベン・ビガー"}
-,"chiaki motomiya" : {v:"元宮チアキ"}
+,"chang chun" : {v:"長春", m:{"azur lane" : "長春(PRAN Chang Chun)"}}
 ,"chika misumi" : {v:"三角千歌"}
 ,"chitose karasuma" : {v:"烏丸ちとせ", m:{"girlish number" : "烏丸千歳"}}
 ,"cure earth" : {v:"風鈴アスミ(キュアアース)"}
-,"flannery" : {v:"フラネリ", m:{"pokemon" : "アスナ"}}
 ,"hatterene" : {v:"ブリムオン"}
-,"hikaru nanjo" : {v:"南条光"}
 ,"mary cochran" : {v:"メアリー・コクラン"}
 ,"maya takahashi" : {v:"高橋麻耶"}
-,"perseus" : {v:"パーシュース", m:{"azur lane" : "パーシュース(HMS Perseus)"}}
+,"mina konoe" : {v:"近衛ミナ"}
 ,"quilava" : {v:"マグマラシ"}
 ,"sayoko mishima" : {v:"三嶋沙夜子"}
 ,"uranami" : {v:"浦波", m:{"azur lane" : "浦波(IJN Uranami)"}}
@@ -26072,98 +26155,98 @@ var chars_ejdic = {
 ,"cure papaya" : {v:"一之瀬みのり(キュアパパイア)"}
 ,"fang" : {v:"ファング", m:{"arknights" : "フェン", "street fighter" : "ファン", "animal crossing" : "シベリア"}}
 ,"fuyutsuki" : {v:"冬月", m:{"neon genesis evangelion" : "冬月コウゾウ"}}
+,"grusha" : {v:"グルーシャ"}
 ,"hiyou" : {v:"飛鷹", m:{"azur lane" : "飛鷹(IJN Hiyō)"}}
+,"janus" : {v:"ジェーナス", m:{"kantai collection" : "Janus(ジェーナス)", "azur lane" : "ジェーナス(HMS Janus)"}}
+,"kahili" : {v:"カヒリ"}
 ,"karin domyoji" : {v:"道明寺歌鈴"}
 ,"lind" : {v:"リンド", m:{"pokemon" : "リンキ"}}
 ,"nodoka amami" : {v:"天見ノドカ"}
+,"payila" : {v:"ハイラ"}
 ,"rina fujimoto" : {v:"藤本里奈"}
 ,"russia" : {v:"ロシア"}
 ,"steenee" : {v:"アママイコ"}
 ,"yaya nanto" : {v:"南都夜々"}
 ,"akane nonohara" : {v:"野々原茜"}
-,"cogita" : {v:"コギト"}
 ,"dragonite" : {v:"カイリュー"}
+,"drake" : {v:"ドレイク", m:{"pokemon" : "ゲンジ", "azur lane" : "ドレイク(HMS Drake)", "animal crossing" : "フォアグラ"}}
 ,"erika hatami" : {v:"旗見エリカ"}
 ,"essex" : {v:"エセックス", m:{"azur lane" : "エセックス(USS Essex)"}}
 ,"kaguya urushibara" : {v:"漆原カグヤ"}
-,"kahili" : {v:"カヒリ"}
 ,"luigi torelli" : {v:"ルイージ・トレッリ", m:{"kantai collection" : "Luigi Torelli(ルイージ・トレッリ)"}}
 ,"makino yagami" : {v:"八神マキノ"}
 ,"misaki tamaizumi" : {v:"玉泉美咲"}
-,"payila" : {v:"ハイラ"}
 ,"rapidash" : {v:"ギャロップ"}
 ,"reika shindai" : {v:"神代玲花"}
 ,"salazzle" : {v:"エンニュート"}
+,"sheffy" : {v:"シェフィ"}
 ,"shinshuu maru" : {v:"神州丸"}
 ,"2k-tan" : {v:"2Kたん"}
 ,"ampharos" : {v:"デンリュウ"}
 ,"asakaze" : {v:"朝風"}
+,"cogita" : {v:"コギト"}
 ,"cotaro yazawa" : {v:"矢澤虎太郎"}
-,"grusha" : {v:"グルーシャ"}
 ,"heidi" : {v:"ハイディ", m:{"alps no shoujo heidi" : "ハイジ"}}
 ,"hugh" : {v:"ヒュウ"}
-,"janus" : {v:"ジェーナス", m:{"kantai collection" : "Janus(ジェーナス)", "azur lane" : "ジェーナス(HMS Janus)"}}
+,"koraidon" : {v:"コライドン"}
+,"makura" : {v:"マコラ"}
 ,"maria theresa" : {v:"マリア・テレサ"}
 ,"mei sakura" : {v:"佐倉愛衣"}
-,"sakawa" : {v:"酒匂", m:{"azur lane" : "酒匂(IJN Sakawa)"}}
+,"miranda" : {v:"ミランダ"}
+,"momoka yuragi" : {v:"由良木モモカ"}
 ,"samurott" : {v:"ダイケンキ"}
 ,"seth lowell" : {v:"セス・ローウェル"}
-,"sheffy" : {v:"シェフィ"}
 ,"victorious" : {v:"ヴィクトリアス", m:{"kantai collection" : "Victorious(ヴィクトリアス)", "azur lane" : "ヴィクトリアス(HMS Victorious)"}}
 ,"zekrom" : {v:"ゼクロム"}
 ,"arven" : {v:"アーベン", m:{"pokemon" : "ペパー"}}
 ,"decidueye" : {v:"ジュナイパー"}
 ,"dragon shiryu" : {v:"ドラゴン紫龍"}
-,"drake" : {v:"ドレイク", m:{"pokemon" : "ゲンジ", "azur lane" : "ドレイク(HMS Drake)", "animal crossing" : "フォアグラ"}}
 ,"drasna" : {v:"ドラセナ"}
 ,"hobby" : {v:"ホビー", m:{"azur lane" : "ホビー(USS Hobby)"}}
-,"koraidon" : {v:"コライドン"}
+,"juri ushimaki" : {v:"牛牧ジュリ"}
 ,"kuuka tomi" : {v:"遠見空花"}
 ,"latios" : {v:"ラティオス"}
 ,"london" : {v:"ロンドン", m:{"azur lane" : "ロンドン(HMS London)"}}
-,"miranda" : {v:"ミランダ"}
-,"momoka yuragi" : {v:"由良木モモカ"}
-,"mona" : {v:"ミイム"}
 ,"newcastle" : {v:"ニューカッスル", m:{"azur lane" : "ニューカッスル(HMS Newcastle)"}}
 ,"raboot" : {v:"ラビフット"}
-,"renown" : {v:"レナウン", m:{"azur lane" : "レナウン(HMS Renown)"}}
+,"sakawa" : {v:"酒匂", m:{"azur lane" : "酒匂(IJN Sakawa)"}}
+,"scorbunny" : {v:"ヒバニー"}
 ,"tama" : {v:"多摩", m:{"selector infected wixoss" : "タマ", "nyan koi" : "タマ"}}
 ,"tomoka wakabayashi" : {v:"若林智香"}
 ,"troubadour" : {v:"トルバドール", m:{"etrian odyssey" : "バード"}}
 ,"volga" : {v:"ヴォルガ", m:{"azur lane" : "ヴォルガ(SN Volga)"}}
 ,"anabel" : {v:"アナベル", m:{"pokemon" : "リラ"}}
 ,"audino" : {v:"タブンネ"}
+,"bond forger" : {v:"ボンド・フォージャー"}
+,"chiyari tenkajin" : {v:"天火人ちやり"}
 ,"clarice" : {v:"クラリス"}
+,"cure majesty" : {v:"プリンセス・エル(キュアマジェスティ)"}
+,"futari gotou" : {v:"後藤ふたり"}
 ,"hild" : {v:"ヒルド"}
-,"juri ushimaki" : {v:"牛牧ジュリ"}
 ,"kent" : {v:"ケント", m:{"azur lane" : "ケント(HMS Kent)"}}
 ,"koleda belobog" : {v:"クレタ・ベロボーグ"}
 ,"lexington" : {v:"レキシントン", m:{"kantai collection" : "Lexington(レキシントン)", "azur lane" : "レキシントン(USS Lexington)"}}
 ,"lorelei" : {v:"ローレライ", m:{"pokemon" : "カンナ"}}
 ,"lurantis" : {v:"ラランテス"}
-,"makura" : {v:"マコラ"}
-,"mina konoe" : {v:"近衛ミナ"}
+,"mona" : {v:"ミイム"}
 ,"naho ebihara" : {v:"海老原菜帆"}
-,"scorbunny" : {v:"ヒバニー"}
+,"renown" : {v:"レナウン", m:{"azur lane" : "レナウン(HMS Renown)"}}
 ,"shinobu kamiki" : {v:"上喜しのぶ"}
 ,"shinobu kudo" : {v:"工藤忍"}
 ,"shinx" : {v:"コリンク"}
 ,"shun andromeda" : {v:"アンドロメダ瞬"}
+,"sunny" : {v:"サニー", m:{"pokemon" : "ニチオ"}}
 ,"swiftsure" : {v:"スウィフトシュア", m:{"azur lane" : "スウィフトシュア(HMS Swiftsure)"}}
 ,"takane d. goodman" : {v:"高音・D・グッドマン"}
+,"tangrowth" : {v:"モジャンボ"}
 ,"touma amagase" : {v:"天ヶ瀬冬馬"}
 ,"tuscaloosa" : {v:"タスカルーサ", m:{"kantai collection" : "Tuscaloosa(タスカルーサ)"}}
 ,"viktoriya ivanovna serebryakov" : {v:"ヴィクトーリヤ・イヴァーノヴナ・セレブリャコーフ"}
 ,"arceus" : {v:"アルセウス"}
-,"arisa mochida" : {v:"持田亜里沙"}
-,"bond forger" : {v:"ボンド・フォージャー"}
-,"cheryl" : {v:"シェリル", m:{"pokemon" : "モミ"}}
-,"chiyari tenkajin" : {v:"天火人ちやり"}
-,"cure majesty" : {v:"プリンセス・エル(キュアマジェスティ)"}
+,"cherino renkawa" : {v:"連河チェリノ"}
 ,"drayton" : {v:"カキツバタ"}
 ,"feraligatr" : {v:"オーダイル"}
 ,"flint" : {v:"フリント", m:{"pokemon" : "オーバ"}}
-,"futari gotou" : {v:"後藤ふたり"}
 ,"futayo honda" : {v:"本多・二代"}
 ,"impidimp" : {v:"ベロバー"}
 ,"indianapolis" : {v:"インディアナポリス", m:{"azur lane" : "インディアナポリス(USS Indianapolis)"}}
@@ -26177,27 +26260,29 @@ var chars_ejdic = {
 ,"regensburg" : {v:"レーゲンスブルク", m:{"azur lane" : "レーゲンスブルク(KMS Regensburg)"}}
 ,"saya yakushi" : {v:"薬子サヤ"}
 ,"shimushu" : {v:"占守"}
-,"sunny" : {v:"サニー", m:{"pokemon" : "ニチオ"}}
+,"umika satohama" : {v:"里浜ウミカ"}
 ,"yukari ayatsuji" : {v:"絢辻縁"}
+,"arisa mochida" : {v:"持田亜里沙"}
 ,"ayane hojo" : {v:"北条綾音"}
-,"compa" : {v:"コンパちゃん"}
+,"billy the kid" : {v:"ビリー・ザ・キッド", m:{"zenless zone zero" : "ビリー・キッド"}}
+,"cheren" : {v:"チェレン"}
+,"cheryl" : {v:"シェリル", m:{"pokemon" : "モミ"}}
 ,"elbe" : {v:"エルベ", m:{"azur lane" : "エルベ(KMS Elbe)"}}
+,"evelyn" : {v:"ルスワール"}
 ,"gladion" : {v:"グラジオ"}
 ,"hacka doll no.2" : {v:"ハッカドール2号"}
 ,"i-400" : {v:"伊400"}
-,"if" : {v:"アイエフちゃん"}
 ,"kat" : {v:"グラビティ・キトゥン"}
 ,"momiji akiizumi" : {v:"秋泉モミジ"}
 ,"moutoku sousou" : {v:"華琳(曹操 孟徳)"}
 ,"nidoqueen" : {v:"ニドクイン"}
 ,"ninetales" : {v:"キュウコン"}
-,"tangrowth" : {v:"モジャンボ"}
-,"umika satohama" : {v:"里浜ウミカ"}
+,"rosie" : {v:"ロジー", m:{"pokemon" : "ラプラ"}}
+,"soldier 11" : {v:"「11号」"}
+,"takane yamashiro" : {v:"山城たかね"}
 ,"yukino aihara" : {v:"相原雪乃"}
 ,"arthur" : {v:"アーサー", m:{"pokemon" : "モクオ"}}
 ,"azuki momoi" : {v:"桃井あずき"}
-,"billy the kid" : {v:"ビリー・ザ・キッド", m:{"zenless zone zero" : "ビリー・キッド"}}
-,"cheren" : {v:"チェレン"}
 ,"flygon" : {v:"フライゴン"}
 ,"fortune" : {v:"フォーチュン(HMS Fortune)"}
 ,"giratina" : {v:"ギラティナ"}
@@ -26205,60 +26290,62 @@ var chars_ejdic = {
 ,"harper" : {v:"ハーパー", m:{"pokemon" : "ホウ"}}
 ,"helena" : {v:"ヘレナ", m:{"kantai collection" : "Helena(ヘレナ)", "pokemon" : "ヒマワリ", "azur lane" : "ヘレナ(USS Helena)", "dead or alive" : "エレナ・ダグラス"}}
 ,"houston" : {v:"ヒューストン", m:{"kantai collection" : "Houston(ヒューストン)", "azur lane" : "ヒューストン(USS Houston)"}}
+,"if" : {v:"アイエフちゃん"}
+,"litten" : {v:"ニャビー"}
 ,"long island" : {v:"ロング・アイランド", m:{"azur lane" : "ロング・アイランド(USS Long Island)"}}
 ,"marller" : {v:"マーラー"}
 ,"nagatsuki" : {v:"長月", m:{"azur lane" : "長月(IJN Nagatsuki)"}}
 ,"palina" : {v:"パウリナ", m:{"pokemon" : "ガラナ"}}
-,"rosie" : {v:"ロジー", m:{"pokemon" : "ラプラ"}}
+,"pina asahina" : {v:"朝比奈フィーナ"}
 ,"ruby moon" : {v:"ルビー・ムーン(秋月奈久留)"}
 ,"saint louis" : {v:"サン・ルイ", m:{"azur lane" : "サン・ルイ(FFNF Saint-Louis)"}}
 ,"satomi sakakibara" : {v:"榊原里美"}
+,"shaymin" : {v:"シェイミ"}
 ,"sprigatito" : {v:"ニャオハ"}
 ,"tamami wakiyama" : {v:"脇山珠美"}
 ,"tirpitz" : {v:"ティルピッツ", m:{"azur lane" : "ティルピッツ(KMS Tirpitz)"}}
+,"urshifu" : {v:"ウーラオス"}
 ,"chao lingshen" : {v:"超鈴音"}
-,"cherino renkawa" : {v:"連河チェリノ"}
 ,"chiaki kurokawa" : {v:"黒川千秋"}
+,"compa" : {v:"コンパちゃん"}
 ,"feower" : {v:"カトル"}
 ,"fuka asano" : {v:"浅野風香"}
+,"geeta" : {v:"ギータ", m:{"pokemon" : "オモダカ"}}
 ,"hirato" : {v:"平戸"}
 ,"hiromi seki" : {v:"関裕美"}
+,"jean bart" : {v:"ジャン・バール", m:{"kantai collection" : "Jean Bart(ジャン・バール)", "azur lane" : "ジャン・バール(MNF Jean Bart)"}}
 ,"kana imai" : {v:"今井加奈"}
 ,"kikuzuki" : {v:"菊月"}
-,"litten" : {v:"ニャビー"}
-,"mii" : {v:"みい"}
 ,"mimlemel" : {v:"ミムルメモル"}
 ,"ryo matsunaga" : {v:"松永涼"}
-,"soldier 11" : {v:"「11号」"}
-,"takane yamashiro" : {v:"山城たかね"}
 ,"tepig" : {v:"ポカブ"}
 ,"tomoe murakami" : {v:"村上巴"}
-,"urshifu" : {v:"ウーラオス"}
 ,"washington" : {v:"ワシントン", m:{"kantai collection" : "Washington(ワシントン)", "azur lane" : "ワシントン(USS Washington)"}}
 ,"bede" : {v:"ビート"}
 ,"chizuru matsuo" : {v:"松尾千鶴"}
-,"evelyn" : {v:"ルスワール"}
 ,"firefox-tan" : {v:"ふぉくす子"}
-,"geeta" : {v:"ギータ", m:{"pokemon" : "オモダカ"}}
 ,"hachijou" : {v:"八丈"}
-,"jean bart" : {v:"ジャン・バール", m:{"kantai collection" : "Jean Bart(ジャン・バール)", "azur lane" : "ジャン・バール(MNF Jean Bart)"}}
 ,"kimura" : {v:"木村先生"}
 ,"kouchuu kanshou" : {v:"紫苑(黄忠 漢升)"}
 ,"lenora" : {v:"レノラ", m:{"pokemon" : "アロエ"}}
 ,"maryland" : {v:"メリーランド", m:{"kantai collection" : "Maryland(メリーランド)", "azur lane" : "メリーランド(USS Maryland)"}}
 ,"matsukaze" : {v:"松風", m:{"azur lane" : "松風(IJN Matsukaze)"}}
+,"mii" : {v:"みい"}
 ,"obstagoon" : {v:"タチフサグマ"}
-,"pina asahina" : {v:"朝比奈フィーナ"}
 ,"ruby" : {v:"ルビー", m:{"fate kaleid liner prisma illya" : "マジカルルビー", "animal crossing" : "ルナ", "rwby" : "ルビー・ローズ", "final fantasy ix" : "ルビィ", "lunar eternal blue" : "ルビィ", "unlimited saga" : "ルビィ"}}
 ,"ruka tachiarai" : {v:"太刀洗流夏"}
-,"shaymin" : {v:"シェイミ"}
+,"suzumi morizuki" : {v:"守月スズミ"}
+,"tangela" : {v:"モンジャラ"}
 ,"tomo mikuma" : {v:"御久間智"}
+,"utaha shiraishi" : {v:"白石ウタハ"}
 ,"wakaba" : {v:"若葉", m:{"azur lane" : "若葉(IJN Wakaba)", "kemurikusa" : "わかば"}}
+,"akemi kurihama" : {v:"栗浜アケミ"}
 ,"barawa" : {v:"バロワ"}
 ,"bayleef" : {v:"ベイリーフ"}
 ,"charmander" : {v:"ヒトカゲ"}
 ,"duke of york" : {v:"デューク・オブ・ヨーク", m:{"azur lane" : "デューク・オブ・ヨーク(HMS Duke of York)"}}
 ,"georgia" : {v:"ジョージア", m:{"pokemon" : "ラングレー", "azur lane" : "ジョージア(USS Georgia)"}}
+,"gloucester" : {v:"グロスター", m:{"azur lane" : "グロスター(HMS Gloucester)"}}
 ,"hacka doll no.1" : {v:"ハッカドール1号"}
 ,"hayashio" : {v:"早潮"}
 ,"hermione" : {v:"ハーマイオニー", m:{"azur lane" : "ハーマイオニー(HMS Hermione)"}}
@@ -26267,22 +26354,23 @@ var chars_ejdic = {
 ,"kobayashi" : {v:"小林さん", m:{"knights of sidonia" : "小林"}}
 ,"koumei shokatsuryou" : {v:"朱里(諸葛亮 孔明)"}
 ,"lily black" : {v:"リリーブラック"}
+,"minori yasumori" : {v:"安守ミノリ"}
 ,"norman" : {v:"ノーマン", m:{"pokemon" : "センリ"}}
 ,"raika" : {v:"ライカ"}
 ,"rumi wakui" : {v:"和久井留美"}
+,"sabi" : {v:"ワサビ"}
+,"san diego" : {v:"サンディエゴ", m:{"azur lane" : "サンディエゴ(USS San Diego)"}}
 ,"shinyou" : {v:"神鷹"}
-,"tangela" : {v:"モンジャラ"}
-,"utaha shiraishi" : {v:"白石ウタハ"}
+,"solgaleo" : {v:"ソルガレオ"}
+,"tentacruel" : {v:"ドククラゲ"}
 ,"wanda" : {v:"ワンダ", m:{"pokemon" : "ミチル"}}
 ,"ai ebihara" : {v:"海老原あい", m:{"ai mai mi" : "蛯原愛"}}
-,"akemi kurihama" : {v:"栗浜アケミ"}
 ,"anya cocolova" : {v:"アンナ・ココロウァ"}
 ,"aquila" : {v:"アクィラ", m:{"kantai collection" : "Aquila(アクィラ)", "azur lane" : "アクィラ(RN Aquila)"}}
 ,"aya" : {v:"亜夜", m:{"pokemon" : "アヤ", "selector infected wixoss" : "あや"}}
 ,"bruno" : {v:"ブルーノ", m:{"pokemon" : "シバ"}}
 ,"chikorita" : {v:"チコリータ"}
 ,"fraux" : {v:"フラウ"}
-,"gloucester" : {v:"グロスター", m:{"azur lane" : "グロスター(HMS Gloucester)"}}
 ,"helen" : {v:"ヘレン"}
 ,"joey" : {v:"ジョー", m:{"animal crossing" : "リチャード"}}
 ,"kalk" : {v:"カーク", m:{"azur lane" : "カーク(USS Kalk)"}}
@@ -26295,21 +26383,21 @@ var chars_ejdic = {
 ,"marguerite pistail" : {v:"マルグリット・ピステール"}
 ,"matt" : {v:"マット", m:{"pokemon" : "ウシオ"}}
 ,"mew" : {v:"ミュウ"}
-,"minori yasumori" : {v:"安守ミノリ"}
 ,"noa takamine" : {v:"高峯のあ"}
 ,"rockruff" : {v:"イワンコ"}
-,"san diego" : {v:"サンディエゴ", m:{"azur lane" : "サンディエゴ(USS San Diego)"}}
 ,"sariel" : {v:"サリエル", m:{"touhou project" : "Sariel"}}
 ,"shaman" : {v:"シャーマン"}
 ,"snorlax" : {v:"カビゴン"}
-,"solgaleo" : {v:"ソルガレオ"}
 ,"steve" : {v:"スティーブ"}
 ,"tauros" : {v:"ケンタロス"}
 ,"tora" : {v:"トラ", m:{"ushio to tora" : "とら"}}
 ,"toxtricity" : {v:"ストリンダー"}
+,"tsukasa kiryu" : {v:"桐生つかさ"}
 ,"ukuru" : {v:"鵜来"}
 ,"yuki nijimura" : {v:"虹村雪"}
 ,"adaman" : {v:"アダマン", m:{"pokemon" : "セキ"}}
+,"alexa" : {v:"アレクサ", m:{"pokemon" : "パンジー"}}
+,"arriet" : {v:"アンリエット"}
 ,"bill" : {v:"ビル", m:{"pokemon" : "マサキ", "animal crossing" : "ピータン"}}
 ,"charmeleon" : {v:"リザード"}
 ,"ciony regis" : {v:"シオニー・レジス"}
@@ -26319,44 +26407,49 @@ var chars_ejdic = {
 ,"gothitelle" : {v:"ゴチルゼル"}
 ,"hapu" : {v:"ハプウ"}
 ,"hinako kita" : {v:"喜多日菜子"}
+,"hisami yomotsu" : {v:"豫母都日狭美"}
 ,"hokuto ijuuin" : {v:"伊集院 北斗"}
 ,"indeedee" : {v:"イエッサン"}
 ,"inteleon" : {v:"インテレオン"}
 ,"iron valiant" : {v:"テツノブジン"}
 ,"kanae itou" : {v:"伊藤香苗"}
 ,"meowth" : {v:"ニャース"}
+,"mewtwo" : {v:"ミュウツー"}
 ,"mifuyu ogami" : {v:"大神美冬"}
 ,"mikazuki" : {v:"三日月", m:{"azur lane" : "三日月(IJN Mikazuki)"}}
 ,"milotic" : {v:"ミロカロス"}
 ,"miyo harada" : {v:"原田美世"}
 ,"mizuchi miyadeguchi" : {v:"宮出口瑞霊"}
 ,"nekomata" : {v:"猫又", m:{"zenless zone zero" : "猫宮又奈"}}
+,"nihilego" : {v:"ウツロイド"}
 ,"ponyta" : {v:"ポニータ"}
 ,"poochyena" : {v:"ポチエナ"}
 ,"rain" : {v:"レイン"}
 ,"reiko takahashi" : {v:"高橋礼子"}
-,"sabi" : {v:"ワサビ"}
 ,"sana miyoshi" : {v:"三好紗南"}
 ,"seira mizuki" : {v:"水木聖來"}
 ,"shangri-la" : {v:"シャングリラ", m:{"azur lane" : "シャングリラ(USS Shangri-La)"}}
+,"shimiko endou" : {v:"円堂シミコ"}
+,"sumire otohana" : {v:"乙花スミレ"}
 ,"tadakatsu honda" : {v:"本多・忠勝"}
 ,"tamaki miyasaka" : {v:"宮坂たまき"}
 ,"tsareena" : {v:"アマージョ"}
-,"tsukasa kiryu" : {v:"桐生つかさ"}
 ,"yumemi okazaki" : {v:"岡崎夢美"}
-,"alexa" : {v:"アレクサ", m:{"pokemon" : "パンジー"}}
 ,"barry" : {v:"バリー", m:{"pokemon" : "ジュン"}}
 ,"batai" : {v:"蒲公英(馬岱)"}
 ,"blucher" : {v:"ブリュッヒャー", m:{"azur lane" : "ブリュッヒャー(KMS Blücher)"}}
 ,"charybdis" : {v:"カリブディス", m:{"azur lane" : "カリブディス(HMS Charybdis)"}}
 ,"chespin" : {v:"ハリマロン"}
+,"dahlia" : {v:"ダリア"}
 ,"david" : {v:"デイビッド", m:{"pokemon" : "ヤスユキ"}}
+,"diglett" : {v:"ディグダ"}
 ,"emolga" : {v:"エモンガ"}
 ,"friedrich carl" : {v:"フリードリヒ・カール", m:{"azur lane" : "フリードリヒ・カール(KMS Friedrich Carl)"}}
+,"froslass" : {v:"ユキメノコ"}
 ,"hacka doll no.0" : {v:"ハッカドール0号"}
 ,"hanazuki" : {v:"花月", m:{"azur lane" : "花月(IJN Hanazuki)", "hanazuki full of treasures" : "Hanazüki"}}
+,"haunter" : {v:"ゴースト"}
 ,"hiburi" : {v:"日振"}
-,"hisami yomotsu" : {v:"豫母都日狭美"}
 ,"kai nishijima" : {v:"西島櫂"}
 ,"koga" : {v:"コガ", m:{"pokemon" : "キョウ"}}
 ,"kurusu" : {v:"来栖華", m:{"koutetsujou no kabaneri" : "来栖"}}
@@ -26364,20 +26457,18 @@ var chars_ejdic = {
 ,"maki shijo" : {v:"四条眞妃"}
 ,"massachusetts" : {v:"マサチューセッツ", m:{"kantai collection" : "Massachusetts(マサチューセッツ)", "azur lane" : "マサチューセッツ(USS Massachusetts)"}}
 ,"mena" : {v:"メイム"}
-,"mewtwo" : {v:"ミュウツー"}
 ,"mimikyu" : {v:"ミミッキュ"}
 ,"mismagius" : {v:"ムウマージ"}
 ,"muneshige tachibana" : {v:"立花・宗茂"}
 ,"nadeshiko kinomoto" : {v:"木之本撫子"}
-,"nihilego" : {v:"ウツロイド"}
 ,"ogerpon" : {v:"オーガポン"}
 ,"pichu" : {v:"ピチュー"}
 ,"plusle" : {v:"プラスル"}
 ,"rayquaza" : {v:"レックウザ"}
+,"rillaboom" : {v:"ゴリランダー"}
 ,"spinel" : {v:"スピネル"}
-,"sumire otohana" : {v:"乙花スミレ"}
-,"suzumi morizuki" : {v:"守月スズミ"}
-,"tentacruel" : {v:"ドククラゲ"}
+,"tsubame amaya" : {v:"雨夜燕"}
+,"vestal" : {v:"ヴェスタル", m:{"azur lane" : "ヴェスタル(USS Vestal)"}}
 ,"wattson" : {v:"ワトソン", m:{"pokemon" : "テッセン"}}
 ,"yao fueifuei" : {v:"楊菲菲"}
 ,"yoko saito" : {v:"斉藤洋子"}
@@ -26385,7 +26476,6 @@ var chars_ejdic = {
 ,"yumeko" : {v:"夢子"}
 ,"algerie" : {v:"アルジェリー", m:{"azur lane" : "アルジェリー(MNF Algérie)"}}
 ,"archie" : {v:"アーチー", m:{"pokemon" : "アオギリ"}}
-,"arriet" : {v:"アンリエット"}
 ,"asahi" : {v:"朝日", m:{"shin megami tensei" : "アサヒ"}}
 ,"asanagi" : {v:"朝凪(IJN Asanagi)"}
 ,"beagle" : {v:"ビーグル", m:{"azur lane" : "ビーグル(HMS Beagle)"}}
@@ -26394,22 +26484,21 @@ var chars_ejdic = {
 ,"brionne" : {v:"オシャマリ"}
 ,"chesnaught" : {v:"ブリガロン"}
 ,"chougei" : {v:"長鯨"}
-,"dahlia" : {v:"ダリア"}
-,"diglett" : {v:"ディグダ"}
 ,"dragonair" : {v:"ハクリュー"}
 ,"drayden" : {v:"シャガ"}
 ,"dusknoir" : {v:"ヨノワール"}
-,"froslass" : {v:"ユキメノコ"}
 ,"fuka narutaki" : {v:"鳴滝風香"}
 ,"fumika narutaki" : {v:"鳴滝史伽"}
+,"gholdengo" : {v:"サーフゴー"}
 ,"golden hind" : {v:"ゴールデン・ハインド", m:{"azur lane" : "ゴールデン・ハインド(MOT Golden Hind)"}}
-,"haunter" : {v:"ゴースト"}
 ,"johanna" : {v:"ヨハンナ", m:{"pokemon" : "アヤコ"}}
 ,"kiyora yanagi" : {v:"柳清良"}
 ,"kizuna hida" : {v:"飛弾傷無"}
+,"kotama otose" : {v:"音瀬コタマ"}
 ,"kronshtadt" : {v:"クロンシュタット", m:{"azur lane" : "クロンシュタット(SN Kronshtadt)"}}
 ,"leipzig" : {v:"ライプツィヒ", m:{"azur lane" : "ライプツィヒ(KMS Leipzig)"}}
 ,"makiko oriotorai" : {v:"オリオトライ・真喜子"}
+,"marshal" : {v:"マーシャル", m:{"pokemon" : "レンブ", "animal crossing" : "ジュン"}}
 ,"mela" : {v:"メロコ"}
 ,"minneapolis" : {v:"ミネアポリス", m:{"azur lane" : "ミネアポリス(USS Minneapolis)"}}
 ,"miraidon" : {v:"ミライドン"}
@@ -26418,43 +26507,44 @@ var chars_ejdic = {
 ,"nenohi" : {v:"子日"}
 ,"palkia" : {v:"パルキア"}
 ,"pignite" : {v:"チャオブー"}
-,"rillaboom" : {v:"ゴリランダー"}
 ,"saki yoshioka" : {v:"吉岡沙紀"}
 ,"shelly" : {v:"シェリー", m:{"pokemon" : "イズミ"}}
-,"shimiko endou" : {v:"円堂シミコ"}
 ,"shizuma hanazono" : {v:"花園静馬"}
 ,"shouta mitarai" : {v:"御手洗 翔太"}
 ,"siebold" : {v:"ズミ"}
 ,"silas" : {v:"サイラス"}
 ,"surcouf" : {v:"シュルクーフ", m:{"azur lane" : "シュルクーフ(FFNF Surcouf)"}}
 ,"tamanami" : {v:"玉波"}
-,"tsubame amaya" : {v:"雨夜燕"}
-,"vestal" : {v:"ヴェスタル", m:{"azur lane" : "ヴェスタル(USS Vestal)"}}
+,"tinkaton" : {v:"デカヌチャン"}
+,"wally" : {v:"ウォーリー", m:{"pokemon" : "ミツル"}}
 ,"whimsicott" : {v:"エルフーン"}
 ,"aina ardebit" : {v:"アイナ・アルデビット"}
 ,"arbok" : {v:"アーボック"}
+,"ayumu iwabitsu" : {v:"岩櫃アユム"}
+,"beatrix brehme" : {v:"ベアトリクス・ブレーメ"}
 ,"daitou" : {v:"大東"}
 ,"dan" : {v:"ダン", m:{"pokemon" : "ダンペイ"}}
 ,"drapion" : {v:"ドラピオン"}
 ,"emily sevensheep" : {v:"エミリィ・セブンシープ"}
+,"fantina" : {v:"メリッサ"}
 ,"fennel" : {v:"マコモ"}
 ,"flandre" : {v:"フランドル", m:{"azur lane" : "フランドル(MNF Flandre)"}}
 ,"floragato" : {v:"ニャローテ"}
+,"guam" : {v:"グアム", m:{"azur lane" : "グアム(USS Guam)"}}
 ,"i-203" : {v:"伊203"}
 ,"ibuki komatsu" : {v:"小松伊吹"}
 ,"inagi" : {v:"稲木"}
+,"infernape" : {v:"ゴウカザル"}
 ,"ivysaur" : {v:"フシギソウ"}
 ,"juana" : {v:"フアナ"}
 ,"juneau" : {v:"ジュノー", m:{"azur lane" : "ジュノー(USS Juneau)"}}
 ,"ken" : {v:"ケン", m:{"pokemon" : "アカバネ"}}
 ,"kohaku okuzora" : {v:"奥空心白"}
-,"kotama otose" : {v:"音瀬コタマ"}
 ,"kurumi kuribayashi" : {v:"栗林くるみ"}
 ,"kyogre" : {v:"カイオーガ"}
 ,"lain iwakura" : {v:"岩倉玲音"}
 ,"lapras" : {v:"ラプラス"}
 ,"marshadow" : {v:"マーシャドー"}
-,"marshal" : {v:"マーシャル", m:{"pokemon" : "レンブ", "animal crossing" : "ジュン"}}
 ,"mike" : {v:"ミケ", m:{"jinrou judgement" : "マイク"}}
 ,"morty" : {v:"マツバ"}
 ,"mugetsu" : {v:"夢月"}
@@ -26464,29 +26554,30 @@ var chars_ejdic = {
 ,"pittsburgh" : {v:"ピッツバーグ(USS Pittsburgh)"}
 ,"plumeria" : {v:"プルメリア", m:{"pokemon" : "プルメリ"}}
 ,"repulse" : {v:"レパルス", m:{"azur lane" : "レパルス(HMS Repulse)"}}
+,"satomi hakase" : {v:"葉加瀬聡美"}
 ,"scharnhorst" : {v:"シャルンホルスト", m:{"azur lane" : "シャルンホルスト(KMS Scharnhorst)"}}
 ,"scirocco" : {v:"シロッコ", m:{"kantai collection" : "Scirocco(シロッコ)"}}
 ,"scolipede" : {v:"ペンドラー"}
 ,"seofon" : {v:"シエテ"}
 ,"shiho makihara" : {v:"槙原志保"}
+,"shimanto" : {v:"四万十(IJN Shimanto)"}
 ,"sovetskaya belorussiya" : {v:"ソビエツカヤ・ベラルーシア", m:{"azur lane" : "ソビエツカヤ・ベラルーシア(SN Sovetskaya Belarusia)"}}
+,"sovetsky soyuz" : {v:"ソビエツキー・ソユーズ", m:{"azur lane" : "ソビエツキー・ソユーズ(SN Sovetsky Soyuz)"}}
 ,"steven stone" : {v:"ツワブキダイゴ"}
 ,"suzuna minami" : {v:"美波鈴奈"}
 ,"swampert" : {v:"ラグラージ"}
 ,"terror" : {v:"テラー", m:{"azur lane" : "テラー(HMS Terror)"}}
 ,"toxicroak" : {v:"ドクロッグ"}
+,"trieste" : {v:"トリエステ", m:{"azur lane" : "トリエステ(RN Trieste)"}}
 ,"usugumo" : {v:"薄雲"}
 ,"uxie" : {v:"ユクシー"}
 ,"venus" : {v:"ヴィーナス", m:{"zenless zone zero" : "Venus"}}
 ,"virizion" : {v:"ビリジオン"}
-,"wally" : {v:"ウォーリー", m:{"pokemon" : "ミツル"}}
 ,"yat sen" : {v:"逸仙", m:{"azur lane" : "逸仙(ROC Yat Sen)"}}
 ,"yorck" : {v:"ヨルク", m:{"azur lane" : "ヨルク(KMS Yorck)"}}
 ,"ai togo" : {v:"東郷あい"}
 ,"avrora" : {v:"アヴローラ", m:{"azur lane" : "アヴローラ(SN Avrora)"}}
 ,"ayumi ishibashi" : {v:"石橋あゆみ"}
-,"ayumu iwabitsu" : {v:"岩櫃アユム"}
-,"beatrix brehme" : {v:"ベアトリクス・ブレーメ"}
 ,"beatrix monroe" : {v:"ベアトリクス・モンロー"}
 ,"beedrill" : {v:"スピアー"}
 ,"blue" : {v:"ブルー", m:{"pokemon" : "グリーン"}}
@@ -26504,7 +26595,6 @@ var chars_ejdic = {
 ,"gaston" : {v:"ガストン", m:{"animal crossing" : "モサキチ"}}
 ,"gengan" : {v:"桔梗(厳顔)"}
 ,"groudon" : {v:"グラードン"}
-,"guam" : {v:"グアム", m:{"azur lane" : "グアム(USS Guam)"}}
 ,"hacka doll no.4" : {v:"ハッカドール4号"}
 ,"hikari konohana" : {v:"此花光莉"}
 ,"hwah jah" : {v:"華甲(ROC Hwah Jah)"}
@@ -26517,25 +26607,24 @@ var chars_ejdic = {
 ,"maylene" : {v:"スモモ"}
 ,"minun" : {v:"マイナン"}
 ,"misaki masaki jurai" : {v:"柾木美砂樹樹雷"}
+,"nate" : {v:"ネイト", m:{"pokemon" : "キョウヘイ"}}
 ,"nicholas" : {v:"ニコラス", m:{"pokemon" : "ソウスケ", "azur lane" : "ニコラス(USS Nicholas)"}}
 ,"onix" : {v:"オニキス", m:{"pokemon" : "イワーク"}}
 ,"otoha umeki" : {v:"梅木音葉"}
 ,"san jacinto" : {v:"サン・ジャシント", m:{"azur lane" : "サン・ジャシント(USS San Jacinto)"}}
-,"satomi hakase" : {v:"葉加瀬聡美"}
 ,"scamp" : {v:"スキャンプ", m:{"kantai collection" : "Scamp(スキャンプ)"}}
 ,"seydlitz" : {v:"ザイドリッツ", m:{"azur lane" : "ザイドリッツ(SMS Seydlitz)"}}
-,"shimanto" : {v:"四万十(IJN Shimanto)"}
 ,"shuuyu koukin" : {v:"冥琳(周瑜 公瑾)"}
-,"sovetsky soyuz" : {v:"ソビエツキー・ソユーズ", m:{"azur lane" : "ソビエツキー・ソユーズ(SN Sovetsky Soyuz)"}}
 ,"ting an" : {v:"定安", m:{"azur lane" : "定安(ROC Ting An)"}}
-,"trieste" : {v:"トリエステ", m:{"azur lane" : "トリエステ(RN Trieste)"}}
 ,"tsubomi okukawa" : {v:"奥若蕾"}
 ,"wartortle" : {v:"カメール"}
 ,"yasuha okazaki" : {v:"岡崎泰葉"}
 ,"zacian" : {v:"ザシアン"}
+,"zanmu nippaku" : {v:"日白残無"}
 ,"banette" : {v:"ジュペッタ"}
 ,"bellossom" : {v:"キレイハナ"}
 ,"bewear" : {v:"キテルグマ"}
+,"blitzle" : {v:"シママ"}
 ,"chili" : {v:"チリ", m:{"pokemon" : "ポッド"}}
 ,"cilan" : {v:"デント"}
 ,"collet farandole" : {v:"コレット・ファランドール"}
@@ -26544,7 +26633,6 @@ var chars_ejdic = {
 ,"echo" : {v:"エコー", m:{"azur lane" : "エコー(HMS Echo)"}}
 ,"emden" : {v:"エムデン", m:{"azur lane" : "エムデン(SMS Emden)"}}
 ,"erebus" : {v:"エレバス", m:{"azur lane" : "エレバス(HMS Erebus)"}}
-,"fantina" : {v:"メリッサ"}
 ,"foxhound" : {v:"フォックスハウンド", m:{"azur lane" : "フォックスハウンド(HMS Foxhound)"}}
 ,"gallade" : {v:"エルレイド"}
 ,"gengetsu" : {v:"幻月"}
@@ -26553,15 +26641,20 @@ var chars_ejdic = {
 ,"howe" : {v:"ハウ", m:{"azur lane" : "ハウ(HMS Howe)"}}
 ,"icarus" : {v:"イカルス", m:{"azur lane" : "イカルス(HMS Icarus)"}}
 ,"ilima" : {v:"イリマ"}
-,"infernape" : {v:"ゴウカザル"}
 ,"joel" : {v:"ジョウ"}
 ,"keika kiyotaki" : {v:"清滝桂香"}
+,"kid cat" : {v:"1ごう"}
+,"kuzunoha" : {v:"クズノハ"}
+,"le triomphant" : {v:"ル・トリオンファン", m:{"azur lane" : "ル・トリオンファン(FFNF Le Triomphant)"}}
 ,"machop" : {v:"ワンリキー"}
 ,"makoto takiya" : {v:"滝谷真"}
 ,"marblehead" : {v:"マーブルヘッド", m:{"azur lane" : "マーブルヘッド(USS Marblehead)"}}
+,"mark" : {v:"マーク", m:{"pokemon" : "パーク"}}
+,"mars" : {v:"マーズ"}
 ,"megumi natsume" : {v:"夏目萌"}
 ,"meiko namiki" : {v:"並木芽衣子"}
 ,"meru himeki" : {v:"姫木メル"}
+,"mesprit" : {v:"エムリット"}
 ,"michael" : {v:"ミカエル"}
 ,"misora kasuga" : {v:"春日美空"}
 ,"misumaru tamatsukuri" : {v:"玉造魅須丸"}
@@ -26580,24 +26673,23 @@ var chars_ejdic = {
 ,"reuniclus" : {v:"ランクルス"}
 ,"salandit" : {v:"ヤトウモリ"}
 ,"saori okuyama" : {v:"奥山沙織"}
+,"slaking" : {v:"ケッキング"}
 ,"sneasel" : {v:"ニューラ"}
 ,"spinda" : {v:"パッチール"}
 ,"takashi yamazaki" : {v:"山崎貴史"}
+,"tennessee" : {v:"テネシー", m:{"azur lane" : "テネシー(USS Tennessee)"}}
 ,"tomo fujii" : {v:"藤居朋"}
 ,"tulip" : {v:"チューリップ", m:{"pokemon" : "リップ"}}
 ,"tyranitar" : {v:"バンギラス"}
 ,"valerie" : {v:"バレリー", m:{"pokemon" : "マーシュ"}}
 ,"york" : {v:"ヨーク(HMS York)"}
 ,"z20" : {v:"Z20", m:{"azur lane" : "Z20(KMS Karl Galster)"}}
-,"zanmu nippaku" : {v:"日白残無"}
 ,"akiho shinomoto" : {v:"詩之本秋穂"}
 ,"akishimo" : {v:"秋霜"}
 ,"aoi shuto" : {v:"首藤葵"}
-,"arfoire" : {v:"マジェコンヌ"}
 ,"ariake" : {v:"有明", m:{"azur lane" : "有明(IJN Ariake)"}}
 ,"ayumu maihama" : {v:"舞浜歩"}
 ,"blastoise" : {v:"カメックス"}
-,"blitzle" : {v:"シママ"}
 ,"chikaru minamoto" : {v:"源千華留"}
 ,"chiyuri kitashirakawa" : {v:"北白河ちゆり"}
 ,"comet" : {v:"コメット", m:{"azur lane" : "コメット(HMS Comet)"}}
@@ -26608,7 +26700,7 @@ var chars_ejdic = {
 ,"ed" : {v:"エド", m:{"animal crossing" : "キザノホマレ"}}
 ,"froakie" : {v:"ケロマツ"}
 ,"gabite" : {v:"ガバイト"}
-,"gholdengo" : {v:"サーフゴー"}
+,"gliscor" : {v:"グライオン"}
 ,"grapploct" : {v:"オトスパス"}
 ,"haine" : {v:"ハイネ"}
 ,"heian maru" : {v:"平安丸"}
@@ -26616,27 +26708,20 @@ var chars_ejdic = {
 ,"kana anaberal" : {v:"カナ・アナベラル"}
 ,"kanna ariura" : {v:"有浦柑奈"}
 ,"kanon konomori" : {v:"小之森夏音"}
-,"kuzunoha" : {v:"クズノハ"}
-,"le triomphant" : {v:"ル・トリオンファン", m:{"azur lane" : "ル・トリオンファン(FFNF Le Triomphant)"}}
 ,"louisville" : {v:"ルイビル", m:{"azur lane" : "ルイビル(USS Louisville)"}}
 ,"lt. surge" : {v:"マチス"}
 ,"manaphy" : {v:"マナフィ"}
-,"mark" : {v:"マーク", m:{"pokemon" : "パーク"}}
-,"mars" : {v:"マーズ"}
 ,"medicham" : {v:"チャーレム"}
-,"mesprit" : {v:"エムリット"}
 ,"midori mizuno" : {v:"水野翠"}
 ,"mike goutokuji" : {v:"豪徳寺ミケ"}
 ,"miltank" : {v:"ミルタンク"}
-,"mira" : {v:"ミラ", m:{"pokemon" : "ミル", "animal crossing" : "ミラコ"}}
 ,"misaki etou" : {v:"衛藤美紗希"}
 ,"miyuki yanase" : {v:"柳瀬美由紀"}
-,"nate" : {v:"ネイト", m:{"pokemon" : "キョウヘイ"}}
 ,"nevada" : {v:"ネバダ", m:{"kantai collection" : "Nevada(ネヴァダ)", "azur lane" : "ネバダ(USS Nevada)"}}
 ,"ninon joubert" : {v:"ニノン・ジュベール"}
 ,"olympia" : {v:"オリンピア", m:{"pokemon" : "ゴジカ", "etrian odyssey" : "オランピア"}}
 ,"ortega" : {v:"オルティガ"}
-,"professor sada" : {v:"オーリム博士"}
+,"pensacola" : {v:"ペンサコーラ", m:{"azur lane" : "ペンサコーラ(USS Pensacola)"}}
 ,"sakura muramatsu" : {v:"村松さくら"}
 ,"sandslash" : {v:"サンドパン"}
 ,"sannyo komakusa" : {v:"駒草山如"}
@@ -26648,11 +26733,8 @@ var chars_ejdic = {
 ,"seviper" : {v:"ハブネーク"}
 ,"shaoren" : {v:"小蓮(孫尚香)"}
 ,"shinon kawaru" : {v:"川流シノン"}
-,"slaking" : {v:"ケッキング"}
 ,"spectrier" : {v:"レイスポス"}
 ,"tai yuan" : {v:"太原", m:{"azur lane" : "太原(PRAN Tai Yuan)"}}
-,"tennessee" : {v:"テネシー", m:{"azur lane" : "テネシー(USS Tennessee)"}}
-,"tinkaton" : {v:"デカヌチャン"}
 ,"tosa" : {v:"土佐", m:{"azur lane" : "土佐(IJN Tosa)"}}
 ,"ursaring" : {v:"リングマ"}
 ,"utai shinomiya" : {v:"四埜宮謡(アーダー・メイデン)"}
@@ -26666,6 +26748,7 @@ var chars_ejdic = {
 ,"bellona" : {v:"ベローナ", m:{"azur lane" : "ベローナ(HMS Bellona)"}}
 ,"celesteela" : {v:"テッカグヤ"}
 ,"chachazero" : {v:"チャチャゼロ"}
+,"chase" : {v:"チェイス", m:{"pokemon" : "カケル"}}
 ,"cocoro yazawa" : {v:"矢澤こころ"}
 ,"columbia" : {v:"コロンビア", m:{"azur lane" : "コロンビア(USS Columbia)"}}
 ,"cress" : {v:"クレス", m:{"pokemon" : "コーン"}}
@@ -26676,17 +26759,19 @@ var chars_ejdic = {
 ,"ferrothorn" : {v:"ナットレイ"}
 ,"fujinami" : {v:"藤波"}
 ,"galatea" : {v:"ガラティア", m:{"azur lane" : "ガラティア(HMS Galatea)"}}
-,"gliscor" : {v:"グライオン"}
 ,"glorious" : {v:"グロリアス", m:{"azur lane" : "グロリアス(HMS Glorious)"}}
+,"grimer" : {v:"ベトベター"}
 ,"growlithe" : {v:"ガーディ"}
+,"hayanami" : {v:"早波"}
 ,"heliolisk" : {v:"エレザード"}
 ,"ho-oh" : {v:"ホウオウ"}
+,"joe" : {v:"ジョー"}
 ,"joseph" : {v:"ヨセフ", m:{"pokemon" : "ソウタ"}}
 ,"kate" : {v:"ケイト"}
-,"kid cat" : {v:"1ごう"}
 ,"kiev" : {v:"キエフ", m:{"azur lane" : "キエフ(SN Kiev)"}}
 ,"kii" : {v:"紀伊", m:{"azur lane" : "紀伊(IJN Kii)"}}
 ,"layla prismriver" : {v:"レイラ・プリズムリバー"}
+,"leavanny" : {v:"ハハコモリ"}
 ,"lechonk" : {v:"グルトン"}
 ,"linoone" : {v:"マッスグマ"}
 ,"mable" : {v:"モミジ"}
@@ -26694,15 +26779,17 @@ var chars_ejdic = {
 ,"me-tan" : {v:"Meたん"}
 ,"mikura" : {v:"御蔵"}
 ,"milo" : {v:"ヤロー"}
+,"mira" : {v:"ミラ", m:{"pokemon" : "ミル", "animal crossing" : "ミラコ"}}
 ,"misdreavus" : {v:"ムウマ"}
 ,"miu yaguchi" : {v:"矢口美羽"}
 ,"mudbray" : {v:"ドロバンコ"}
 ,"mudkip" : {v:"ミズゴロウ"}
 ,"natsumi soma" : {v:"相馬夏美"}
 ,"pansage" : {v:"ヤナップ"}
-,"pensacola" : {v:"ペンサコーラ", m:{"azur lane" : "ペンサコーラ(USS Pensacola)"}}
+,"professor sada" : {v:"オーリム博士"}
 ,"quaquaval" : {v:"ウェーニバル"}
 ,"rattata" : {v:"コラッタ"}
+,"rei nomasa" : {v:"野正レイ"}
 ,"rin morichika" : {v:"森近鈴"}
 ,"rin satsuki" : {v:"冴月麟"}
 ,"roserade" : {v:"ロズレイド"}
@@ -26727,16 +26814,17 @@ var chars_ejdic = {
 ,"alabama" : {v:"アラバマ", m:{"azur lane" : "アラバマ(USS Alabama)"}}
 ,"amagiri" : {v:"天霧"}
 ,"annihilape" : {v:"コノヨザル"}
+,"arfoire" : {v:"マジェコンヌ"}
 ,"ariados" : {v:"アリアドス"}
 ,"armarouge" : {v:"グレンアルマ"}
 ,"articuno" : {v:"フリーザー"}
+,"avery" : {v:"セイボリー"}
 ,"azelf" : {v:"アグノム"}
 ,"bellsprout" : {v:"マダツボミ"}
 ,"bisharp" : {v:"キリキザン"}
 ,"buneary" : {v:"ミミロル"}
 ,"casablanca" : {v:"カサブランカ", m:{"azur lane" : "カサブランカ(USS Casablanca)"}}
 ,"ceruledge" : {v:"ソウブレイズ"}
-,"chase" : {v:"チェイス", m:{"pokemon" : "カケル"}}
 ,"chiyo-chichi" : {v:"ちよ父"}
 ,"chuukou kyocho" : {v:"季衣(許緒 仲康)"}
 ,"cobalion" : {v:"コバルオン"}
@@ -26749,26 +26837,24 @@ var chars_ejdic = {
 ,"emi namba" : {v:"難波笑美"}
 ,"espathra" : {v:"クエスパトラ"}
 ,"fiji" : {v:"フィジー", m:{"azur lane" : "フィジー(HMS Fiji)"}}
+,"furfrou" : {v:"トリミアン"}
+,"gastrodon" : {v:"トリトドン"}
 ,"genjii" : {v:"玄爺"}
 ,"genjyo sanzo" : {v:"玄奘三蔵"}
 ,"glacia" : {v:"プリム"}
 ,"greta" : {v:"コゴミ"}
-,"grimer" : {v:"ベトベター"}
 ,"gurdurr" : {v:"ドテッコツ"}
 ,"hawlucha" : {v:"ルチャブル"}
-,"hayanami" : {v:"早波"}
 ,"heywood l.e." : {v:"Heywood L.E.(ヘイウッド)"}
 ,"houndour" : {v:"デルビル"}
 ,"hyouga cygnus" : {v:"キグナス氷河"}
 ,"i-47" : {v:"伊47"}
 ,"itsuki manabe" : {v:"真鍋いつき"}
 ,"jamaica" : {v:"ジャマイカ", m:{"azur lane" : "ジャマイカ(HMS Jamaica)"}}
-,"joe" : {v:"ジョー"}
 ,"kogitsune" : {v:"子狐"}
 ,"kommo-o" : {v:"ジャラランガ"}
 ,"kursk" : {v:"クルスク", m:{"azur lane" : "クルスク(SN Kursk)"}}
 ,"leander" : {v:"リアンダー", m:{"azur lane" : "リアンダー(HMS Leander)"}}
-,"leavanny" : {v:"ハハコモリ"}
 ,"liepard" : {v:"レパルダス"}
 ,"lucian" : {v:"ルシアン", m:{"pokemon" : "ゴヨウ"}}
 ,"lutzow" : {v:"リュッツォウ", m:{"azur lane" : "リュッツォウ(SMS Lützow)"}}
@@ -26799,9 +26885,7 @@ var chars_ejdic = {
 ,"poliwrath" : {v:"ニョロボン"}
 ,"popplio" : {v:"アシマリ"}
 ,"regigigas" : {v:"レジギガス"}
-,"rei nomasa" : {v:"野正レイ"}
 ,"rhydon" : {v:"サイドン"}
-,"roaring moon" : {v:"トドロクツキ"}
 ,"roselia" : {v:"ロゼリア"}
 ,"rotom" : {v:"ロトム"}
 ,"san francisco" : {v:"サンフランシスコ", m:{"azur lane" : "サンフランシスコ(USS San Francisco)"}}
@@ -26815,10 +26899,12 @@ var chars_ejdic = {
 ,"sora nonomura" : {v:"野々村そら"}
 ,"suicune" : {v:"スイクン"}
 ,"takumu mayuzumi" : {v:"黛拓武(シアン・パイル)"}
+,"toedscool" : {v:"ノノクラゲ"}
 ,"toko hattori" : {v:"服部瞳子"}
 ,"torchic" : {v:"アチャモ"}
 ,"torracat" : {v:"ニャヒート"}
 ,"u-556" : {v:"U-556", m:{"azur lane" : "U-556(KMS U-556)"}}
+,"victini" : {v:"ビクティニ"}
 ,"victreebel" : {v:"ウツボット"}
 ,"volkner" : {v:"デンジ"}
 ,"voroshilov" : {v:"ヴォロシーロフ(SN Voroshilov)"}
@@ -26839,7 +26925,6 @@ var chars_ejdic = {
 ,"archen" : {v:"アーケン"}
 ,"astoria" : {v:"アストリア", m:{"azur lane" : "アストリア(USS Astoria)"}}
 ,"aurorus" : {v:"アマルルガ"}
-,"avery" : {v:"セイボリー"}
 ,"ayuna hamakawa" : {v:"浜川愛結奈"}
 ,"baltoy" : {v:"ヤジロン"}
 ,"bellibolt" : {v:"ハラバリー"}
@@ -26875,10 +26960,8 @@ var chars_ejdic = {
 ,"fei yuen" : {v:"飛雲", m:{"azur lane" : "飛雲(ROC Fei Yuen)"}}
 ,"flutter mane" : {v:"ハバタクカミ"}
 ,"frogadier" : {v:"ゲコガシラ"}
-,"furfrou" : {v:"トリミアン"}
 ,"gascogne" : {v:"ガスコーニュ", m:{"azur lane" : "ガスコーニュ(MNF Gascogne)"}}
 ,"gastly" : {v:"ゴース"}
-,"gastrodon" : {v:"トリトドン"}
 ,"gogoat" : {v:"ゴーゴート"}
 ,"grovyle" : {v:"ジュプトル"}
 ,"grumpig" : {v:"ブーピッグ"}
@@ -26888,6 +26971,7 @@ var chars_ejdic = {
 ,"i-201" : {v:"伊201"}
 ,"iron thorns" : {v:"テツノイバラ"}
 ,"jennifer" : {v:"ジェニファー", m:{"pokemon" : "ユカ"}}
+,"jynx" : {v:"ルージュラ"}
 ,"kakei mihaya" : {v:"掛居美早(ブラッド・レパード)"}
 ,"kangaskhan" : {v:"ガルーラ"}
 ,"langley" : {v:"ラングレー", m:{"kantai collection" : "Langley(ラングレー)", "azur lane" : "ラングレー(USS Langley)"}}
@@ -26896,7 +26980,6 @@ var chars_ejdic = {
 ,"mainz" : {v:"マインツ(KMS Mainz)"}
 ,"marco polo" : {v:"マルコ・ポーロ", m:{"azur lane" : "マルコ・ポーロ(RN Marco Polo)"}}
 ,"marilyn catto" : {v:"マリリン・キャット"}
-,"marley" : {v:"マーレイ", m:{"pokemon" : "マイ"}}
 ,"marowak" : {v:"ガラガラ"}
 ,"melli" : {v:"ツバキ"}
 ,"minccino" : {v:"チラーミィ"}
@@ -26948,7 +27031,6 @@ var chars_ejdic = {
 ,"tate" : {v:"フウ"}
 ,"t-bone" : {v:"ティー・ボーン", m:{"animal crossing" : "ボルシチ", "swat kats" : "Chance Furlong(T-Bone)"}}
 ,"ticonderoga" : {v:"タイコンデロガ", m:{"azur lane" : "タイコンデロガ(USS Ticonderoga)"}}
-,"toedscool" : {v:"ノノクラゲ"}
 ,"togepi" : {v:"トゲピー"}
 ,"trevenant" : {v:"オーロット"}
 ,"tsumugi shiina" : {v:"椎名ツムギ"}
@@ -26958,11 +27040,11 @@ var chars_ejdic = {
 ,"unzan" : {v:"雲山"}
 ,"ursaluna" : {v:"ガチグマ"}
 ,"venusaur" : {v:"フシギバナ"}
-,"victini" : {v:"ビクティニ"}
 ,"walking wake" : {v:"ウネルミナモ"}
 ,"wiglett" : {v:"ウミディグダ"}
 ,"windows 95-tan" : {v:"Windows95たん"}
 ,"winona" : {v:"ウィノナ", m:{"pokemon" : "ナギ"}}
+,"yakumo aramaki" : {v:"荒槇ヤクモ"}
 ,"yuriko ohnishi" : {v:"大西由里子"}
 ,"yuugure" : {v:"夕暮"}
 ,"z21" : {v:"Z21(KMS Wilhelm Heidkamp)"}
@@ -27037,7 +27119,6 @@ var chars_ejdic = {
 ,"ishihara" : {v:"Mr.イシハラ"}
 ,"italia" : {v:"イタリア"}
 ,"jigglypuff" : {v:"プリン"}
-,"jynx" : {v:"ルージュラ"}
 ,"kajika" : {v:"鰍"}
 ,"kecleon" : {v:"カクレオン"}
 ,"kingdra" : {v:"キングドラ"}
@@ -27052,6 +27133,7 @@ var chars_ejdic = {
 ,"magmar" : {v:"ブーバー"}
 ,"magnezone" : {v:"ジバコイル"}
 ,"manami okamoto" : {v:"岡本まなみ"}
+,"marley" : {v:"マーレイ", m:{"pokemon" : "マイ"}}
 ,"megumi ijuin" : {v:"伊集院惠"}
 ,"memphis" : {v:"メンフィス(USS Memphis)"}
 ,"minsk" : {v:"ミンスク(SN Minsk)"}
@@ -27074,6 +27156,7 @@ var chars_ejdic = {
 ,"pyroar" : {v:"カエンジシ"}
 ,"rei shinohara" : {v:"篠原礼"}
 ,"reiko ozaki" : {v:"尾崎玲子"}
+,"roaring moon" : {v:"トドロクツキ"}
 ,"ruriko yuzuki" : {v:"夕月琉璃子"}
 ,"saya matsubara" : {v:"松原早耶"}
 ,"seattle" : {v:"シアトル(USS Seattle)"}
@@ -27116,7 +27199,6 @@ var chars_ejdic = {
 ,"wugtrio" : {v:"ウミトリオ"}
 ,"wulfric" : {v:"ウルップ"}
 ,"wyrdeer" : {v:"アヤシシ"}
-,"yakumo aramaki" : {v:"荒槇ヤクモ"}
 ,"yamper" : {v:"ワンパチ"}
 ,"yuu ohta" : {v:"太田優"}
 ,"yveltal" : {v:"イベルタル"}
