@@ -123,8 +123,11 @@ if (typeof image_downloaded != 'undefined') {
 		progressLabel.offset({left:x, top:y});
 	};
 
+	//ダウンロードボタンにファイル数を追記する。
 	//プログレスバーに情報表示領域を追加する。
 	$(document).ready(function(){
+		$("#dl-button h1").append(" (" + (galleryinfo.files.length) + "files)");
+
 		$("#progressbar").append("<span id='progressbar_label' style='position:absolute;font-size:12px;'></span>");
 
 		//ウィンドウのリサイズに追従する
@@ -582,7 +585,7 @@ if (typeof download_gallery != 'undefined') {
 		//ファイル名に使用できない文字の置換
 		filename = convertFilename(filename);
 
-		filename = prompt("download filename", filename);
+		filename = prompt("download filename (" + (galleryinfo.files.length) + " files)" , filename);
 		if ( filename ) {
 			original_download_gallery(filename);
 		}
