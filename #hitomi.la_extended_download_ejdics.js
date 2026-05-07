@@ -14,6 +14,7 @@ var artist_ejdic = {
 ,"35 machi" : "３５まち"
 ,"45acp" : "45ACP"
 ,"4uu" : "4UU"
+,"r-wade" : ["70B", "R.c.W.d"]
 ,"846gou" : "846号"
 ,"92m" : "92M"
 ,"a.k" : "A・K"
@@ -107,6 +108,7 @@ var artist_ejdic = {
 ,"koi nobori" : "Koiのぼり"
 ,"ks" : "KS"
 ,"kumasteam" : "KumaSteam"
+,"kuutamo" : "KUUTAMO"
 ,"k-ko" : "K子"
 ,"laika" : "LAIKA"
 ,"lien" : "Lien"
@@ -403,6 +405,7 @@ var artist_ejdic = {
 ,"aizawa misawo" : "相澤みさを"
 ,"aizawa monyo" : "逢沢もにょ"
 ,"ice" : "ICE"
+,"aisu no a" : "アイスのあ"
 ,"icelatte" : "アイス・ラテ"
 ,"icelee" : "IceLee"
 ,"aizome gorou" : "愛染五郎"
@@ -444,6 +447,7 @@ var artist_ejdic = {
 ,"aoi kumiko" : "葵久美子"
 ,"aoi shou" : "葵抄"
 ,"aoi tiduru" : "葵井ちづる"
+,"aoi chimaki" : "蒼井ちまき"
 ,"aoi nagisa" : "葵渚"
 ,"kinata" : "葵奈太"
 ,"aoi nyaoko" : "あおいにゃおこ"
@@ -640,6 +644,7 @@ var artist_ejdic = {
 ,"akira" : "AKIRA"
 ,"akira hajime" : ["あきら肇", "あきらはじめ"]
 ,"akira renji" : "秋良蓮二"
+,"akire" : "アキレ"
 ,"akuochisukii sensei" : "アクオチスキー先生"
 ,"akusema" : "あくせま"
 ,"akutagawa yoshizumi" : "芥川義澄"
@@ -832,7 +837,9 @@ var artist_ejdic = {
 ,"apatite" : "アパタイト"
 ,"acht" : "アハト"
 ,"app" : ["あぱぱ", "東雲舞樹"]
+,"abayama" : "あばやま"
 ,"abi" : "あび"
+,"avis" : "あびすぽっと"
 ,"af kuro" : "アフ黒"
 ,"new ab" : ["亜部脳丸", "にゅ～AB", "亞部脳丸", "あ～び～NORMAL", "にゅーAB"]
 ,"abu hyaku" : "あぶひゃく"
@@ -888,7 +895,7 @@ var artist_ejdic = {
 ,"amadu nami" : "天津ナミ"
 ,"amadume ryuuta" : ["甘詰留太", "A・浪漫・我慢"]
 ,"amaduyu tatsuki" : "甘露樹"
-,"amadeusky" : "アマデウスキー"
+,"amadeusky" : ["アマデウスキー", "ロジオン"]
 ,"amanagi seiji" : "天凪青磁"
 ,"amanatsu amane" : "甘夏あまね"
 ,"amanatsu makoto" : ["甘夏真琴", "あまなつまこと"]
@@ -900,6 +907,7 @@ var artist_ejdic = {
 ,"amane mari" : "天音真理"
 ,"amane ruri" : "天音るり"
 ,"amano ameno" : "天野雨乃"
+,"ameno kaeru" : ["飴音かえる", "谷奥の蛙"]
 ,"amano kazumi" : ["天乃一水", "平いっすい"]
 ,"amanogami dai" : "あまのがみだい"
 ,"amano koyo" : "天乃紅葉"
@@ -1069,6 +1077,7 @@ var artist_ejdic = {
 ,"alto seneka" : "或十せねか"
 ,"aruto naruto" : "有人成徒"
 ,"arnage" : "あるなーじゅ"
+,"alpaca club" : "あるぱかくらぶ"
 ,"alpine" : "あるぴーぬ"
 ,"alp" : "あるぷ"
 ,"alpha" : "有葉"
@@ -1088,6 +1097,7 @@ var artist_ejdic = {
 ,"alex" : "あれっくす"
 ,"arou rei" : ["あろうれい", "亜朧麗"]
 ,"aronyan" : "あろにゃん"
+,"aroha natsumi" : "アロハ夏見"
 ,"aro hiroshi" : "あろひろし"
 ,"awa" : ["AWA", "AwA"]
 ,"awaji himeji" : "あわじひめじ"
@@ -1096,6 +1106,7 @@ var artist_ejdic = {
 ,"awayume" : "淡夢"
 ,"anchors" : "Anchors"
 ,"uncle sam" : "あんくるさむ"
+,"uncow" : "暗稿"
 ,"ankou norimitsu" : "安光紀充"
 ,"ankoku emu shougun" : "暗黒えむ将軍"
 ,"ainu mania" : ["暗黒のアイヌマニア", "アイヌマニア"]
@@ -1138,6 +1149,7 @@ var artist_ejdic = {
 ,"ie-i tomii" : ["いえ～い富井", "いえーい富井"]
 ,"iero" : "いえろ～"
 ,"ion" : "伊翁"
+,"iokawa" : "五百川"
 ,"iogi juichi" : "井荻寿一"
 ,"io takuya" : "射尾卓弥"
 ,"iori yuzuru" : "庵譲"
@@ -1152,6 +1164,7 @@ var artist_ejdic = {
 ,"igarashi hazuki" : "五十嵐はづき"
 ,"igarashi yuu" : ["いがらし☆ゆう", "いがらしゆう"]
 ,"ikisugi shokudou" : "イキスギ食堂"
+,"ikinuki." : "イキヌキ。"
 ,"iku ikuo" : "威駆イク夫"
 ,"ikue fuji" : "幾枝風児"
 ,"ikusa ryuji" : "いくさりゅうじ"
@@ -1170,6 +1183,7 @@ var artist_ejdic = {
 ,"ikegami akane" : "池上茜"
 ,"ikegami tatsuya" : "池上竜矢"
 ,"ikegami ryouichi" : "池上竜一"
+,"ikekokei" : "イケコケイ"
 ,"ikezaki misa" : "池咲ミサ"
 ,"ikeshita maue" : "池下真上"
 ,"ikeda kazunari" : "池田一成"
@@ -1361,6 +1375,7 @@ var artist_ejdic = {
 ,"itokei" : "いとけい"
 ,"itosugi jou" : "いとすぎ常"
 ,"itosugi masahiro" : "糸杉柾宏"
+,"itoda shunta" : "いとだ旬太"
 ,"itohana" : "イトハナ"
 ,"inagita" : "INAGITA"
 ,"inago" : "INAGO"
@@ -1468,6 +1483,7 @@ var artist_ejdic = {
 ,"iro" : "色"
 ,"iroito" : "色糸"
 ,"irotsuki sakari" : "十六女十八女"
+,"irodori ramune" : "色鳥ラムネ"
 ,"iroha" : "彩葉"
 ,"iroha chiyo" : "彩葉チヨ"
 ,"erory" : "いろり"
@@ -1485,12 +1501,14 @@ var artist_ejdic = {
 ,"iwama yoshiki" : ["いわまよしき", "いわまん"]
 ,"iwami yasoya" : "石見やそや"
 ,"inkey" : ["inkey", "inkey、和泉万夜"]
+,"interstellar" : "Interstellar"
 ,"indo curry" : ["印度カリー", "印カ・オブ・ザ・デッド"]
 ,"in pulse" : "inぱるす"
 ,"infraton" : "インフラトン"
 ,"uasa hiyu" : "雨浅ひゆ"
 ,"uishi poru" : "羽衣石ぽる"
 ,"uirou" : "うぃろう"
+,"winter" : "うぃんたぁ"
 ,"uuizumi" : "うういずみ"
 ,"umon" : "ウーモン"
 ,"u-ring" : "うーりん"
@@ -1588,6 +1606,7 @@ var artist_ejdic = {
 ,"uchi-uchi keyaki" : ["内々けやき", "内々欅"]
 ,"uchigawa" : "ウチガワ"
 ,"uchikubi gokumon" : "浮乳首極悶"
+,"uchida kaoru" : "内田カヲル"
 ,"uchida koneri" : "内田こねり"
 ,"uchino bungo" : "うちの文吾"
 ,"uchi mikitaka" : "ウチミキタカ"
@@ -1605,6 +1624,7 @@ var artist_ejdic = {
 ,"utsunomiya ukatsu" : "鬱ノ宮うかつ"
 ,"utsunomiya tsumire" : "宇都宮つみれ"
 ,"uhhii" : "うっひー"
+,"utsurogi angu" : "空木あんぐ"
 ,"utena emu" : "蒂絵夢"
 ,"uten ameka" : "雨天あめか"
 ,"u-tom" : "う～とむ"
@@ -1844,6 +1864,7 @@ var artist_ejdic = {
 ,"ero murasaki" : "エロムラサキ"
 ,"eroya chaos" : "絵ろ屋かおす"
 ,"engawa suguru" : "エンガワ卓"
+,"engo" : "えんご"
 ,"enji" : "エンジ"
 ,"enzo enzou" : "エンゾ円蔵"
 ,"end" : "えんど"
@@ -2098,6 +2119,7 @@ var artist_ejdic = {
 ,"oshiume nyora" : "押梅にょら"
 ,"oshikiri raiden" : "押切来電"
 ,"oshida j.o" : "押田J・O"
+,"ojitama" : "おじたま"
 ,"oshino" : "推乃"
 ,"oshino shinobu" : "忍野しのぶ"
 ,"oshare kyoushitsu." : ["おしゃれ教室。", "おしゃれ教室"]
@@ -2160,8 +2182,10 @@ var artist_ejdic = {
 ,"oniku" : "お肉"
 ,"oniku." : "お肉。"
 ,"onikubo hirohisa" : "鬼窪浩久"
+,"oniken" : "おにけん"
 ,"onija tarou" : "鬼邪太郎"
 ,"hinata neru" : ["おにちくねる", "ひなたねる"]
+,"onizuka chris" : "鬼塚クリス"
 ,"onizuka takuto" : "鬼塚たくと"
 ,"onizuka naoshi" : "鬼束直"
 ,"oninarasu" : "鬼鳴らす"
@@ -2197,6 +2221,7 @@ var artist_ejdic = {
 ,"omita" : "おみた☆"
 ,"omecho" : "おめちょ"
 ,"omochi" : "おもち"
+,"omochi." : "おもち。"
 ,"omochi nabe" : "おもちなべ"
 ,"ojanu" : "おやぬ"
 ,"oyabe ryo" : "小矢部亮"
@@ -2359,6 +2384,7 @@ var artist_ejdic = {
 ,"kazami haruki" : "風見春樹"
 ,"kazami rei" : "KAZAMI零"
 ,"kasaya mogeru" : "笠屋もげる"
+,"kazayuki kaya" : "風雪花夜"
 ,"gaasan" : "がぁさん"
 ,"kashii yutaka" : "香椎ゆたか"
 ,"kajiki tetsu" : "カジキ鉄"
@@ -2461,6 +2487,7 @@ var artist_ejdic = {
 ,"kakkuu" : "滑空"
 ,"guts ishibashi" : "ガッツ石橋"
 ,"guts shihan" : "ガッツ師範"
+,"guts no kani" : "ガッツ師範"
 ,"gattsun" : "ガッツン"
 ,"kappa" : "かっぱ"
 ,"kappa yoshimi" : "かっぱよしみ"
@@ -2545,6 +2572,7 @@ var artist_ejdic = {
 ,"kanoe" : "庚"
 ,"kanola u" : "カノラユ"
 ,"kapa" : "かぱ"
+,"kagto" : "嗅人"
 ,"gabyonuno" : "ガビョ布"
 ,"kafu" : "カフ"
 ,"kabuki shigeyuki" : "香吹茂之"
@@ -2640,6 +2668,7 @@ var artist_ejdic = {
 ,"karateka value" : ["カラテカ・バリュー", "カラテカバリュー", "からてか罵詈"]
 ,"garana" : "ガラナ"
 ,"karione" : "かりおね"
+,"karigura" : "カリぐら"
 ,"theremin" : "仮野テル"
 ,"agumen" : ["仮野テル", "アグ麺"]
 ,"karino hasumi" : "狩野ハスミ"
@@ -2829,6 +2858,7 @@ var artist_ejdic = {
 ,"kiss koori" : "キス氷"
 ,"kise itsuki" : "木瀬樹"
 ,"kisen" : "奇仙"
+,"kiso fumihiro" : "木曽フミヒロ"
 ,"kitaura" : "キタウラ"
 ,"kitakata kuniaki" : "北方国明"
 ,"kita kaduki" : "北かづき"
@@ -2840,6 +2870,7 @@ var artist_ejdic = {
 ,"kitazaki taku" : "北崎拓"
 ,"kitazato nawoki" : "北里ナヲキ"
 ,"kitasato makoto" : "北里マコト"
+,"ktzw" : "北澤産業"
 ,"kidataro" : "きだた郎"
 ,"kitani sai" : "木谷さい"
 ,"kitano urara" : "北野うらら"
@@ -3070,6 +3101,7 @@ var artist_ejdic = {
 ,"cooper" : "くぅぱぁ"
 ,"kuuya" : "空鵺"
 ,"cool kyou shinja" : "クール教信者"
+,"kuron" : "クゥロン"
 ,"gwegwe" : ["gweda", "gwegwe"]
 ,"kuon" : "久遠"
 ,"kuon itsuki" : "久遠樹"
@@ -3086,6 +3118,7 @@ var artist_ejdic = {
 ,"kuki hiruko" : "九鬼ひるこ"
 ,"kukui can" : "くく維きゃん"
 ,"kuguri oimo" : "九栗おいも"
+,"kugurofu" : "くぐろふ"
 ,"kusaka souji" : "久坂宗次"
 ,"kusakabe rei" : "草壁レイ"
 ,"kusakami akira" : "草上明"
@@ -3182,6 +3215,7 @@ var artist_ejdic = {
 ,"kumoi takashi" : ["くもいたかし", "菅野タカシ"]
 ,"kumoemon" : "くもえもん"
 ,"kumo suzume" : "くもすずめ"
+,"kumozora huume" : "雲空ふうめ"
 ,"kumon ryuu" : "九紋竜"
 ,"klaus neu" : "くらうすのい"
 ,"kurauda shouta" : "クラウド翔太"
@@ -3328,6 +3362,7 @@ var artist_ejdic = {
 ,"kurobe tomo" : "黒部知"
 ,"kuroboshi kouhaku" : "黒星紅白"
 ,"kuromaimai" : "黒舞々"
+,"kuromasu" : "黒鱒"
 ,"kuromame" : "クロマメ"
 ,"kuromotokun" : "黒本君"
 ,"kuroyui" : "黒結"
@@ -3347,6 +3382,7 @@ var artist_ejdic = {
 ,"kei jiei" : ["けいじえい", "KEIJIEI"]
 ,"keijima yuu" : "圭島ゆう"
 ,"keishouryaku" : "敬称略"
+,"keishirou" : "けい志ろう"
 ,"keitarou" : "ケイタロウ"
 ,"keito" : "慶人"
 ,"k no ji" : "Kの字"
@@ -3401,6 +3437,7 @@ var artist_ejdic = {
 ,"kenji" : "けんじ"
 ,"gennsui" : "元帥"
 ,"ken sogen" : "研そうげん"
+,"fukumoto masahisa" : ["幻想ポンプ", "福本眞久"]
 ,"kentarou" : "けんたろう"
 ,"gentsuki" : "ゲンツキ"
 ,"ken tsukikage" : ["ケン月影", "ケン・月影"]
@@ -3714,6 +3751,7 @@ var artist_ejdic = {
 ,"konjou nappi" : ["紺条なっぴ", "紺條夏生", "紺条夏生"]
 ,"konjou natsumi" : ["紺條夏生", "紺条夏生", "紺条なっぴ"]
 ,"konshin" : "魂神"
+,"gonta" : "ごんた"
 ,"konchiki" : "こんちき"
 ,"konchan" : "Konchan"
 ,"kontetsu" : "こんてつ"
@@ -3784,6 +3822,7 @@ var artist_ejdic = {
 ,"sakai minato" : "坂井みなと"
 ,"sakai meri" : "境メリ"
 ,"sakai ringo" : "坂井リンゴ"
+,"sakai waka" : "さかいワカ"
 ,"sakagaki" : "サカガキ"
 ,"sakagami umi" : "坂上海"
 ,"sakaki izumi" : "さかきいずみ"
@@ -4112,6 +4151,7 @@ var artist_ejdic = {
 ,"sawarano goan" : "さわらの五庵"
 ,"sangai" : "算涯"
 ,"sankaku sui" : "サンカクスイ"
+,"sangatsu" : "三月"
 ,"sangatsu usagi" : "三月うさぎ"
 ,"sangatsu sanichi" : "三月さんいち"
 ,"sanku" : "三九"
@@ -4198,6 +4238,7 @@ var artist_ejdic = {
 ,"siomidu" : "シオミヅ"
 ,"shiomi yuusuke" : ["士臣祐介", "士臣佑介"]
 ,"sioyaki ayu" : "汐焼あゆ"
+,"shioya coluli" : "潮屋こるり"
 ,"shioya maico" : "塩屋舞子"
 ,"shiory" : "Shiory"
 ,"shioroku" : "シオロク"
@@ -4232,6 +4273,7 @@ var artist_ejdic = {
 ,"shigunyan" : "しぐにゃん"
 ,"signo mandara" : "シグノマンダラ"
 ,"sigma rio" : "しぐまりお"
+,"shikumi" : "仕組み"
 ,"shigure" : "時雨"
 ,"shikuro" : "しくろ"
 ,"shikei" : "しけー"
@@ -4295,6 +4337,7 @@ var artist_ejdic = {
 ,"haguki" : "歯肉はぐき"
 ,"shiniku haguki" : "歯肉はぐき"
 ,"shinima" : "しにま"
+,"shinentai a" : "思念体A"
 ,"shino" : ["シノ", "獅乃", "しの", "SHINO"]
 ,"shinooka homare" : "篠岡ほまれ"
 ,"sinogi asa" : "しのぎあさ"
@@ -4358,6 +4401,7 @@ var artist_ejdic = {
 ,"shimada panda" : "しま田ぱんだ"
 ,"shimachiyo" : "しまちよ"
 ,"shimazu tekko" : "島津鉄甲"
+,"archipelago" : "しまなみ"
 ,"shimahara" : "40原"
 ,"shima mitsuru" : "志摩みつる"
 ,"shimamura" : "しまむら"
@@ -4401,6 +4445,7 @@ var artist_ejdic = {
 ,"shaketsu rh minus" : "瀉血Rh-"
 ,"jakou nezumi" : "じゃこうねずみ"
 ,"shako punch" : "シャコぱんち。"
+,"shasha inu" : "しゃしゃ犬"
 ,"jackie kameyama" : "ジャッキー亀山"
 ,"jacky knee-san" : "ジャッキーニーさん"
 ,"jack" : ["ジャック", "JACK"]
@@ -4553,6 +4598,7 @@ var artist_ejdic = {
 ,"sirokuro" : "シロクロ"
 ,"shiro kuro" : "シロクロ"
 ,"shirokouji shio" : "白麹シヲ"
+,"siroi sio" : "白麹シヲ"
 ,"shirogoma rai" : "白駒らい"
 ,"sirosaki aroe" : "白崎アロエ"
 ,"shirosuzu" : "しろすず"
@@ -4572,6 +4618,7 @@ var artist_ejdic = {
 ,"mochio" : "白蜜モチ"
 ,"shiromochi sakura" : "白もち桜"
 ,"shiroyagi hato" : "白夜木ハト"
+,"shiroron mochi" : "しろろん餅。"
 ,"shiwasu no okina" : "師走の翁"
 ,"shiwasu horio" : "師走ほりお"
 ,"shiworiita" : "シヲリイタ"
@@ -4739,6 +4786,7 @@ var artist_ejdic = {
 ,"suzuri" : "硯"
 ,"sexyturkey" : "すたーきー"
 ,"studio sfc" : "スタジオSFC"
+,"studio linka" : "Studio Linka"
 ,"magurono yukinao" : ["スタンダードアザラシ", "鮪之ゆきなお", "maguro."]
 ,"zucchini" : "ズッキーニ"
 ,"zutta" : "Zutta"
@@ -4814,6 +4862,7 @@ var artist_ejdic = {
 ,"seishoujo" : "聖少女"
 ,"seishinja" : "精子ンジャ"
 ,"seito a" : "生徒A"
+,"seinen hormone" : "青年ホルモン"
 ,"seihoukei" : "せいほうけい"
 ,"seiya" : "西哉"
 ,"sayryu" : "性竜"
@@ -4856,6 +4905,7 @@ var artist_ejdic = {
 ,"senor daietsu" : "セニョール大悦"
 ,"seneto" : "セネト"
 ,"senoo hibiteru" : "瀬尾日々照"
+,"xenon" : "世音"
 ,"sebata jun" : "瀬畑純"
 ,"sepiruth" : "Sepiruth"
 ,"sevengar" : "せぶんがー"
@@ -4933,6 +4983,7 @@ var artist_ejdic = {
 ,"sogabe toshinori" : ["羽田としのり", "そがべ利典", "宗我部としのり"]
 ,"sokumaru" : "即丸"
 ,"sozatsu nae" : "粗雑那絵"
+,"sozoremi" : "そぞれみ"
 ,"sody" : "Sody"
 ,"sonozaki souichi" : "園崎宗一"
 ,"sonoda kenichi" : "園田健一"
@@ -5067,6 +5118,7 @@ var artist_ejdic = {
 ,"takano kou" : "高野昴"
 ,"takano saku" : "嵩乃朔"
 ,"takanotume" : "たかのつめ"
+,"takano tomohiro" : "高野友宏"
 ,"takano masayuki" : "高野真之"
 ,"takano miki" : "高野美紀"
 ,"takano yuu" : "タカノユウ"
@@ -5308,6 +5360,7 @@ var artist_ejdic = {
 ,"tabigarasu" : "旅烏"
 ,"tabiguchi kouji" : "旅口工路"
 ,"tabito kazuhiro" : "旅人和弘"
+,"tabbto" : "旅人"
 ,"daphnia" : "DAPHNIA"
 ,"tablis" : "タブリス"
 ,"double deck" : "だぶるでっく"
@@ -5366,6 +5419,7 @@ var artist_ejdic = {
 ,"tamon sakaki" : "多紋サカキ"
 ,"tayama mamito" : "田山真美人"
 ,"tarakan" : "たらかん"
+,"tarazoo" : "たらぞお"
 ,"darabuchi" : "だらぶち"
 ,"tarisukawa" : "足履須川"
 ,"taryl." : "たりる。"
@@ -5593,6 +5647,7 @@ var artist_ejdic = {
 ,"dusu" : "づす"
 ,"zutako" : "づ蛸"
 ,"tsuda nanafushi" : "津田七節"
+,"tsuda hitokuchi" : "津田ひとくち"
 ,"tsutaya honmirin" : "蔦屋ほんみりん"
 ,"tsuchinoko" : "ツチノコ"
 ,"tsuchinoshita kaeru" : "土ノ下かえる"
@@ -5629,6 +5684,7 @@ var artist_ejdic = {
 ,"tsuru" : "鶴"
 ,"tsurui" : "鶴井"
 ,"tsuruomi" : "つるおみ"
+,"tsuruga" : "鶴賀"
 ,"tsurugi ichiro" : "鶴来いちろ"
 ,"tsurugi kai" : "剣解"
 ,"tsurugi hagane" : "蔓木鋼音"
@@ -5784,6 +5840,7 @@ var artist_ejdic = {
 ,"tou" : "トウ"
 ,"tokaidow micty" : "東海道みっちい"
 ,"tohgarashi hideyu" : "唐辛子ひでゆ"
+,"toukibi" : "とうきび"
 ,"doukutsu tamago" : "洞窟たまご"
 ,"touge hiro" : "峠比呂"
 ,"tohzai" : "東西"
@@ -5802,6 +5859,7 @@ var artist_ejdic = {
 ,"toutou" : "とうとう"
 ,"toudou kurei" : ["藤堂玖麗", "藤堂玖玲"]
 ,"todo tsumari" : "藤堂つまり"
+,"touno" : "とうの"
 ,"touno itsuki" : "桐野いつき"
 ,"toubaru rairu" : "桃原らいる"
 ,"doubutsu danchou" : "動物団長"
@@ -5877,6 +5935,7 @@ var artist_ejdic = {
 ,"tokunaga tomoko" : "とくながともこ"
 ,"dokuneko noil" : "毒猫ノイル"
 ,"dokuhaku" : "ドクハク"
+,"tokupyon" : "とくぴょん"
 ,"dokumu" : "DOKUMU"
 ,"tokumei hero" : "匿名ヒーロー"
 ,"dr.momo" : ["毒桃", "Dr.Momo"]
@@ -5919,6 +5978,7 @@ var artist_ejdic = {
 ,"tony taka" : "トニー"
 ,"tonikaku" : "兎二角"
 ,"done" : "どね"
+,"tonezato honu" : "豊音里ホヌ"
 ,"dobato" : "ドバト"
 ,"tobatoinu" : "とばといぬ"
 ,"toba yuga" : "跳馬遊鹿"
@@ -6064,6 +6124,7 @@ var artist_ejdic = {
 ,"naomu" : "なおむ"
 ,"naoya" : "直哉"
 ,"naoya susumu" : "なお屋すすむ"
+,"naoyuki" : "なおゆき"
 ,"naga" : "な～が"
 ,"na-ga" : "な～が"
 ,"nagaikusa" : "長い草"
@@ -6179,6 +6240,7 @@ var artist_ejdic = {
 ,"naglfar" : "なぐるふぁる"
 ,"nako" : "奈子"
 ,"nako sir" : "なこ汁"
+,"wano umi" : "和野うみ"
 ,"nagoyaka jirou" : "なごやか次郎"
 ,"nagoya shachihachi" : "名古屋鯱八"
 ,"cai pi jun" : "菜さん"
@@ -6376,6 +6438,7 @@ var artist_ejdic = {
 ,"nanzaki iku" : "南崎いく"
 ,"nanjou asuka" : "南条飛鳥"
 ,"nanjou haruno" : "南條ハルノ"
+,"out type" : "なんだそのパンツは…"
 ,"nandaba" : "ナンダバ"
 ,"nandemona" : "なんでもな"
 ,"nantoka" : "なンとか"
@@ -6466,6 +6529,7 @@ var artist_ejdic = {
 ,"nicchi sangyou" : "にっちさんぎょう"
 ,"nippa takahide" : "新羽隆秀"
 ,"nippori" : "にっぽり"
+,"nitou neet" : "弐籐にと"
 ,"nitouhen" : "二等辺"
 ,"nitoh yuhsa" : "仁藤勇砂"
 ,"nina" : "仁奈"
@@ -6515,6 +6579,7 @@ var artist_ejdic = {
 ,"nukunuku orange" : "ヌクヌクオレンジ"
 ,"nukeru" : "ぬける"
 ,"nukkoru" : "ぬっこる"
+,"numa" : "ぬま"
 ,"numata chihiro" : "ぬまたちひろ"
 ,"numahana" : "ヌマハナ"
 ,"nuyakana" : "ぬャカな"
@@ -6559,6 +6624,8 @@ var artist_ejdic = {
 ,"neko denryoku" : "ねこ電力"
 ,"nekoniku shake" : "猫肉しゃけ"
 ,"nekonyan" : "ねこにゃん"
+,"nekonin" : "猫忍"
+,"nekono shiro" : "ねこのしろ"
 ,"nekonose hajime" : "猫ノ瀬はじめ"
 ,"neko no te" : "猫の手"
 ,"nekono fuguri" : "猫乃ふぐり"
@@ -6589,6 +6656,7 @@ var artist_ejdic = {
 ,"nezu mickey" : "ねずみっき"
 ,"nezumin" : "ネズミン"
 ,"nekko" : "ねっこ"
+,"nessie tomato" : "ネッシートマト"
 ,"nedokoro mitsuki" : "ねどころみつき"
 ,"netoromorikon" : "ねとろもりこん"
 ,"neneneg" : "ねねねじ"
@@ -6597,6 +6665,7 @@ var artist_ejdic = {
 ,"nemitarou" : "ネミタロウ"
 ,"nemu" : "ねむ"
 ,"nemui neru" : "眠井ねる"
+,"hoshina mimiwo" : ["眠田", "星奈みみヲ"]
 ,"nemunemu" : ["ネムネム", "ねむねむ", "眠々", "眠眠"]
 ,"nemuri taiyo" : "ねむり太陽"
 ,"menea the dog" : "メネア・ザ・ドッグ"
@@ -6767,6 +6836,7 @@ var artist_ejdic = {
 ,"paja" : "破邪"
 ,"bajou takurou" : "馬乗拓郎"
 ,"basyosyo" : "ばしょたろう"
+,"pastaskii" : "ぱすたすきい"
 ,"hasuno" : "蓮野"
 ,"hasunoue baitsu" : "はすの上梅津"
 ,"hasblow cream" : ["はすぶろ", "はすぶろくりーむ"]
@@ -6896,6 +6966,7 @@ var artist_ejdic = {
 ,"hamada yoshikadu" : "浜田よしかづ"
 ,"hamachi" : "ハマチ"
 ,"hamatyonn" : "ハマちょん"
+,"hamado qunjiro" : "浜土キュン治郎"
 ,"hamamura toshikiri" : "はまむらとしきり"
 ,"hamamoto ryuusuke" : "濱元隆輔"
 ,"hamayarawan" : "はまやらわん"
@@ -6957,6 +7028,7 @@ var artist_ejdic = {
 ,"haritama hiroki" : "針玉ヒロキ"
 ,"haru" : ["Haru", "HaRu", "はる"]
 ,"hal" : ["ハル", "hal"]
+,"haruichi" : "春一"
 ,"haruichigo" : "はるいちご"
 ,"haruomi" : ["治臣", "冒険工房"]
 ,"harukaze unipo" : "春風うにぽ"
@@ -7052,6 +7124,7 @@ var artist_ejdic = {
 ,"higashide irodori" : "東出イロドリ"
 ,"higashitotsuka raisuta" : "東戸塚らいすた"
 ,"higashitotsuka rai suta" : "東戸塚らいすた"
+,"higashino gojuri" : "東野ごじゅり"
 ,"higashino mikan" : "東野みかん"
 ,"higashimidou hisagi" : "東御堂ひさぎ"
 ,"higashiyama show" : "東山翔"
@@ -7153,6 +7226,7 @@ var artist_ejdic = {
 ,"hinase aya" : "雛瀬あや"
 ,"hinata aimi" : "日向アイミ"
 ,"hinata momo" : "ひなたもも"
+,"hinata yuu" : "ひなた悠"
 ,"ouji hiyoko" : ["ひなづか凉", "桜路ひよこ"]
 ,"hinahara emi" : "雛原えみ"
 ,"hinahara hajime" : "雛原肇"
@@ -7173,6 +7247,7 @@ var artist_ejdic = {
 ,"hinotsuki neko" : "日月ネコ"
 ,"hino toshiyuki" : "飛野俊之"
 ,"hino hino" : "緋乃ひの"
+,"hino himoto" : "日野ひもと"
 ,"hino yamada" : "ヒノ山田"
 ,"hinori" : "ひのり"
 ,"hibari rei" : "ひばり・れい"
@@ -7255,6 +7330,7 @@ var artist_ejdic = {
 ,"hirama hirokazu" : ["平間ひろかず", "鳴子"]
 ,"hiramaru akira" : "平丸あきら"
 ,"hirame" : ["ヒラメ", "T.F.P [Fishin]"]
+,"hiramedousa" : "Hiramedousa"
 ,"molokonomi" : ["平屋のぼり", "MOLOKONOMI"]
 ,"hirayan" : "ひらやん"
 ,"hirari" : "ひらり"
@@ -7282,6 +7358,7 @@ var artist_ejdic = {
 ,"hirogoori akio" : "広郡明生"
 ,"hiroshi" : "HIROSHI"
 ,"hiroshiki" : "宏式"
+,"hirota shimaguni" : "浩田島国"
 ,"hirosue maron" : "広末まろん"
 ,"hirose kaito" : "広瀬海斗"
 ,"hirose madoka" : "広瀬まどか"
@@ -7289,6 +7366,7 @@ var artist_ejdic = {
 ,"hirota" : "ひろた"
 ,"hirotake awataka" : "粟岳高弘"
 ,"hirota masatane" : "廣田眞胤"
+,"hirotti" : "ひろっち"
 ,"hironii" : "ひろにい"
 ,"hirono akitomi" : "ひろのあきとみ"
 ,"hirono azuma" : "広乃あずま"
@@ -7431,6 +7509,7 @@ var artist_ejdic = {
 ,"fujimaru" : "藤丸"
 ,"fujimaru arikui" : "ふぢまるありくい"
 ,"fujimi" : "藤味"
+,"fushimi poko" : "伏見ぽこ"
 ,"fujimiya omurice" : "藤宮★オムライス"
 ,"fujimiya hiroshi" : "藤宮博士"
 ,"fujimura erika" : "藤村絵梨香"
@@ -7482,6 +7561,7 @@ var artist_ejdic = {
 ,"futoshi slim" : "ふとしSLIM"
 ,"fudono fudou" : "ふどのふどう"
 ,"ptomaine" : "プトマイン"
+,"futomomo daimaou" : "ふともも大魔王"
 ,"futon no naka" : "布団ノ中"
 ,"funatsu kazuki" : "ふなつかずき"
 ,"funato hitoshi" : ["船戸等", "船戸ひとし", "ふなとひとし"]
@@ -7582,6 +7662,7 @@ var artist_ejdic = {
 ,"furomochi" : "フロモチ"
 ,"fuwa satoru" : "不破悟"
 ,"fuwa shinri" : "不破慎理"
+,"huwahuwa raidou" : "ふわふわらいどう"
 ,"bun" : "ぶん"
 ,"fumi miyabi" : "文雅"
 ,"funjin" : "FUN人"
@@ -7658,8 +7739,10 @@ var artist_ejdic = {
 ,"houou-tan" : ["鳳凰たん", "鳳凰KIM"]
 ,"houkisei" : "ほうき星"
 ,"boukenou hajime" : ["冒険王ハジメ", "冒険王はじめ"]
+,"houzui reno" : "宝瑞レノ"
 ,"houtengeki" : "方天戟"
 ,"bouningen" : "某人間"
+,"fangqiao yepo" : "坊橋夜泊"
 ,"bou hachi" : "忘八"
 ,"houmitsu" : "方密"
 ,"houruri" : "蓬瑠璃"
@@ -7672,6 +7755,7 @@ var artist_ejdic = {
 ,"potion" : "ぽ～しょん"
 ,"hoono yurumu" : "頬乃ゆるむ"
 ,"homing" : "ホーミング"
+,"horn-wood" : "Hornwood"
 ,"bonehead" : "Bone Head"
 ,"hoka" : "ほか"
 ,"pocaeri" : "ぽかえり"
@@ -7714,6 +7798,7 @@ var artist_ejdic = {
 ,"hota." : "ほた。"
 ,"hodaka akira" : "穂高アキラ"
 ,"potaki" : "歩滝"
+,"hotate innovation studio" : "ほたてイノベーションスタジオ"
 ,"hotate-chan" : "ほたてちゃん"
 ,"bota mochito" : "牡丹もちと"
 ,"botan mochito" : "牡丹もちと"
@@ -7905,6 +7990,7 @@ var artist_ejdic = {
 ,"makoto daikichi" : "まこと大吉"
 ,"macop" : ["Macop.", "まこぷ"]
 ,"masaaki" : "MASAAKI"
+,"masui" : "マサイ"
 ,"masakazu" : "まさかず"
 ,"masakado tsukasa" : ["将門つかさ", "まさかどつかさ", "将門司"]
 ,"masaki aizo" : "柾木愛造"
@@ -8067,6 +8153,7 @@ var artist_ejdic = {
 ,"mabo" : "マボ"
 ,"maboku" : "魔ボク"
 ,"mabo nasu" : "麻婆なす"
+,"mahomaho" : "まほまほ"
 ,"mahorogi hiroshi" : "真幌木弘"
 ,"maboroshi chouji" : "幻超二"
 ,"mahoroba" : "まほろば"
@@ -8084,6 +8171,7 @@ var artist_ejdic = {
 ,"mame denkyuu" : "まめでんきゅう"
 ,"mameneko" : "まめ猫"
 ,"mamemochi" : "まめもち"
+,"mamerakko" : "豆ラッコ"
 ,"mameroku" : "豆六"
 ,"mamo" : "MAMO"
 ,"mamo williams" : "まもウィリアムズ"
@@ -8326,6 +8414,7 @@ var artist_ejdic = {
 ,"mizuryu kei" : "水龍敬"
 ,"mithril rim" : "みすりるリム"
 ,"miseo" : "みせお"
+,"misekai" : "みせかぃ"
 ,"misooden" : "みそおでん"
 ,"miso oden" : "みそおでん"
 ,"miso katsu" : ["ミソカツ", "みそカツ"]
@@ -8351,6 +8440,7 @@ var artist_ejdic = {
 ,"michio" : "美知夫"
 ,"michinoku atami" : "みちのくアタミ"
 ,"michu" : "美中"
+,"michiyuku hana" : "みちゆくはな"
 ,"mitsu king" : "蜜キング"
 ,"mitsuaki" : "みつあき"
 ,"mitsuashi" : "みつあし"
@@ -8689,6 +8779,7 @@ var artist_ejdic = {
 ,"murayamamon" : "村山門"
 ,"muraro" : "むらろ"
 ,"muririn" : "むりりん"
+,"muro" : "MURO"
 ,"muroi sasuke" : "室井佐介"
 ,"muronaga chaashuu" : "室永叉焼"
 ,"meiousei jin" : "冥王星人"
@@ -8732,6 +8823,7 @@ var artist_ejdic = {
 ,"memeyu" : "めめゆ"
 ,"meramera jealousy" : "メラメラジェラシー"
 ,"meria" : "メリア"
+,"meriibe" : "めりーべ"
 ,"merkonig" : "メルコニグ"
 ,"merubo run" : ["めるぼ・るん", "めるぼるん"]
 ,"melonleaf" : "メロソリーフ"
@@ -8815,6 +8907,7 @@ var artist_ejdic = {
 ,"mofuriru" : "もふりる"
 ,"momio" : "もみお"
 ,"momico" : "もみ子"
+,"momi-san" : "もみさん"
 ,"momiji" : "もみじ"
 ,"momiji mimo" : "紅葉みも"
 ,"momiyama" : "もみやま"
@@ -8955,6 +9048,7 @@ var artist_ejdic = {
 ,"yaguchiya tomoshi" : "矢口屋ともし"
 ,"yakumi benishouga" : "薬味紅生姜"
 ,"yakumo kinako" : "やくもきなこ"
+,"yakumo ginjirou" : "八雲銀次郎"
 ,"yagumo kengou" : "八雲剣豪"
 ,"yakuya" : "やくや"
 ,"yakura waka" : "矢倉わか"
@@ -9052,6 +9146,7 @@ var artist_ejdic = {
 ,"yamashita shunya" : "山下しゅんや"
 ,"yamashita nigou" : "山下にごう"
 ,"yamashita masahiro" : "山下正浩"
+,"yamashima chihane" : "山島ちはね"
 ,"yamasuke" : ["夜魔介", "西野映一"]
 ,"yamase zenn" : "山瀬ゼン"
 ,"yamada kanan" : "山田可南"
@@ -9101,6 +9196,7 @@ var artist_ejdic = {
 ,"yamano konzaburo" : "山野紺三郎"
 ,"yamano hajime" : ["山野一", "ねこぢるy"]
 ,"yamanobe kitta" : "やまのべきった"
+,"yamabatake" : "やまばたけ"
 ,"yamahata rian" : "山畑璃杏"
 ,"yamabuki ema" : "山吹エマ"
 ,"yamabuki satoshi" : "矢吹怜史"
@@ -9182,6 +9278,7 @@ var artist_ejdic = {
 ,"yuuki ringo" : "有機リンゴ"
 ,"yuuki ray" : "ユウキレイ"
 ,"yuuki rei" : "悠稀れい"
+,"yukura aki" : "夕倉あき"
 ,"yuugo" : "ユーゴ"
 ,"yuzaki" : "ユウザキ"
 ,"yuuji" : "ゆうじ"
@@ -9286,6 +9383,7 @@ var artist_ejdic = {
 ,"yuzu ramune" : "柚子ラムネ"
 ,"yuzuri ai" : "ゆずりあい"
 ,"yuzuriha" : ["ユズリハ", "譲葉", "ゆずりは"]
+,"yuzuriha runch" : "𣜿らんち"
 ,"yutakame" : "ゆたかめ"
 ,"yuduki ichi" : "唯月一"
 ,"yuzuki iro" : "柚月いろ"
@@ -9336,6 +9434,7 @@ var artist_ejdic = {
 ,"yurikawa" : "ゆりかわ"
 ,"yurishima shiro" : "ゆりしましろ"
 ,"yurihara aki" : "百合原明"
+,"yurimo" : "ゆりも"
 ,"yuruta" : "ゆるた"
 ,"yuruchin kyouso" : "ゆるちん教祖"
 ,"yuncha" : "ゆんちゃ*"
@@ -9356,6 +9455,7 @@ var artist_ejdic = {
 ,"yoongonji" : "YOONGONJI"
 ,"yoki" : "ヨキ"
 ,"yoki kana" : "斧カナ"
+,"shiranai hitoshi" : ["よくないひとし", "しらないひとし"]
 ,"yokoi rego" : "横井レゴ"
 ,"yokosima" : ["横縞", "縦縞キタ"]
 ,"yokoshima koishi" : "よこしま小石"
@@ -9731,6 +9831,7 @@ var artist_ejdic = {
 ,"rorimo" : ["ロリモ", "ヌカきゅーり"]
 ,"rororogi mogera" : "露々々木もげら"
 ,"rondonko" : "ろんどんこ"
+,"london pariko" : "倫敦巴里子"
 ,"ronna" : "ろんな"
 ,"ronrinri ronri" : "論倫理ろんり"
 ,"wise speak" : "ワイズスピーク"
@@ -9926,6 +10027,7 @@ var group_ejdic = {
 ,"air plants" : "エアプランツ"
 ,"airy socks" : "エアリーソックス"
 ,"airyu" : "あいりゅ"
+,"aisu hatsudenjyo" : "アイス発電所"
 ,"aiu show communication" : "A.I.U SHOW COMMUNICATION"
 ,"ajala" : "戯(あじゃら)"
 ,"aji no hiraki" : "あじのひらき"
@@ -9950,6 +10052,7 @@ var group_ejdic = {
 ,"akanenone" : "AKANENONE"
 ,"akapenguin" : "アカペンギン"
 ,"akari blast" : "Akari Blast!"
+,"akari note" : "アカリノオト。"
 ,"akatama" : "アカタマ"
 ,"akatonbo" : "あかとんぼ"
 ,"akatsuki souken" : "サークル暁創圏"
@@ -9963,6 +10066,7 @@ var group_ejdic = {
 ,"akihabara chika kakutoujou" : "秋葉原地下格闘場"
 ,"akikaze asparagus" : "秋風アスパラガス"
 ,"akinasuya" : "秋茄子屋"
+,"akirerushoujo" : "アキレルショウジョ"
 ,"akitsu seisakujo" : "現津製作所"
 ,"akiyama production" : "アキヤマ興行"
 ,"akkan-bi project" : "Akkan-Bi PROJECT"
@@ -10089,6 +10193,7 @@ var group_ejdic = {
 ,"aquahouse" : "AQUA HOUSE"
 ,"aquamarine" : "あくあまりん"
 ,"aquaplus" : "アクアプラス"
+,"aquarius gate" : "アクエリアス・ゲート"
 ,"arakureta monotachi" : "あらくれた者たち"
 ,"aramaa" : "あらまあ"
 ,"aramushadou" : "荒武者堂"
@@ -10163,6 +10268,8 @@ var group_ejdic = {
 ,"atelier d" : "アトリエD"
 ,"atelier gh" : "Atelier GH"
 ,"atelier gons" : "アトリエGONS"
+,"atelier hachifukuan" : "あとりえ八福庵"
+,"atelier hinata" : "あとりえひなた"
 ,"atelier kaguya" : "アトリエかぐや"
 ,"atelier kaguya berkshire yorkshire" : "アトリエかぐや Berkshire Yorkshire"
 ,"atelier kaguya cheshirecat" : "アトリエかぐや CheshireCat"
@@ -10555,6 +10662,7 @@ var group_ejdic = {
 ,"citrus" : "Citrus"
 ,"citrus air" : "Citrus Air"
 ,"cla cla clala" : "Cla Cla Clala"
+,"clam chowder" : "くらむちゃうだー"
 ,"clapworks" : "CLAPWORKS"
 ,"class of love girls" : "ふともも組"
 ,"clear" : "Clear"
@@ -10607,6 +10715,7 @@ var group_ejdic = {
 ,"countack" : "カウンタック"
 ,"counter attack" : "COUNTER ATTACK"
 ,"courmet-nyankichi" : "くるめにゃん吉"
+,"courreges accel" : "クレージュアンセル"
 ,"courreges ace" : "クレージュA"
 ,"cowper" : "COWPER"
 ,"craft" : "CRAFT"
@@ -10683,6 +10792,7 @@ var group_ejdic = {
 ,"dame tamashii" : "ダメ魂"
 ,"danbooru" : "ダンボール"
 ,"dancing cat" : "ダンシングキャット"
+,"dandelion" : "だんでらいおん"
 ,"dangan densetsu" : "弾丸伝説"
 ,"dangan densetsu laser" : "弾丸伝説 LASER"
 ,"danger equals zone" : "DANGER=ZONE"
@@ -10759,6 +10869,7 @@ var group_ejdic = {
 ,"diskdream" : "DISKDREAM"
 ,"ditama kikaku" : "ぢたま企画"
 ,"diva" : "DIVA"
+,"dksha" : "DKsha"
 ,"dl mate" : "DLメイト"
 ,"d-lovers" : "D-LOVERS"
 ,"dmm.com" : "DMM.com"
@@ -11062,6 +11173,7 @@ var group_ejdic = {
 ,"game dome hamamatsuchouten" : "GAME DOME 浜松町店"
 ,"gamushara" : "がむしゃら"
 ,"ganmenki joe" : "厳面鬼JOE"
+,"-ganso- shioya honpo" : "元祖塩屋本舗"
 ,"garage-talk" : "GARAGE-TALK"
 ,"garakuta-ya" : "GARAKUTA-YA"
 ,"garden" : "Garden"
@@ -11098,6 +11210,7 @@ var group_ejdic = {
 ,"genshokuya" : "原色屋"
 ,"genshoudou" : "幻笙堂"
 ,"gensou kuukan" : "幻蒼空間"
+,"gensou pump" : "幻想ポンプ"
 ,"gensou shoujo" : "幻捜少女"
 ,"gensou toshi" : "幻想都市"
 ,"gensyokuhakoniwa" : "原色箱庭"
@@ -11180,6 +11293,7 @@ var group_ejdic = {
 ,"greenhouse" : "ぐりいん野はうす"
 ,"greyhound" : "Greyhound"
 ,"grisedge" : "GRISEDGE"
+,"grooming" : "Grooming"
 ,"groover" : "GROOVER"
 ,"ground-zero" : "GROUND-Zero"
 ,"group 601" : "グループ601"
@@ -11210,6 +11324,7 @@ var group_ejdic = {
 ,"gyara cter" : "ギャラ☆クター"
 ,"gyokusaijima" : "玉砕島"
 ,"gyoukousyu" : "僥倖酒"
+,"gyoza baby" : "Gyoza Baby"
 ,"gyuunyuuya" : "牛乳屋"
 ,"gyuutan teishoku e no koi" : "牛タン定食への恋"
 ,"h and k" : "H and K"
@@ -11274,6 +11389,7 @@ var group_ejdic = {
 ,"happies" : "ハピエス"
 ,"happo ryuu" : "HAPPO流"
 ,"happy birthday" : "Happy Birthday"
+,"happy color festival" : "HAPPY COLOR FESTIVAL!"
 ,"happy kamu kamu" : "はっぴーかむかむ"
 ,"happy man" : "HAPPY MAN"
 ,"happy paranoia" : "ハッピーパラノイア"
@@ -11386,6 +11502,7 @@ var group_ejdic = {
 ,"hisagoya" : "ヒサゴヤ"
 ,"hispano-suiza" : "Hispano-Suiza"
 ,"hisuitei" : "翡翠亭"
+,"hisyoku no tansansui" : "緋色の炭酸水"
 ,"hito no fundoshi" : "ひとのふんどし"
 ,"hitomakase" : "ヒトまかせ"
 ,"hitori tower bridge" : "ヒトリタワーブリッジ"
@@ -11523,6 +11640,7 @@ var group_ejdic = {
 ,"inout" : "INOUT"
 ,"inre" : "インレ"
 ,"insert" : "INSERT"
+,"inst" : "INST"
 ,"intendou" : "淫天堂"
 ,"interheart" : "INTERHEART"
 ,"interrupt voice" : "Interrupt Voice"
@@ -11542,6 +11660,7 @@ var group_ejdic = {
 ,"ironman" : "IRONMAN"
 ,"irotenya" : "色点屋"
 ,"ishikari shake nabe doukoukai" : "石狩シャケ鍋同好会"
+,"ishimuraya" : "石村屋"
 ,"ishin doujinkai" : "維新同人會"
 ,"island belle" : "Island Belle"
 ,"isotonix" : "アイソトニクス"
@@ -11796,6 +11915,7 @@ var group_ejdic = {
 ,"kiss project" : "KISS PROJECT"
 ,"kiss-ma" : "KISS-MA"
 ,"kitaku jikan" : "帰宅時間"
+,"kitazawa sangyo" : "北澤産業"
 ,"kitchies" : "KITCHIES"
 ,"kitkaters" : "KITKATERS"
 ,"kitsch" : "KITSCH"
@@ -11881,6 +12001,7 @@ var group_ejdic = {
 ,"kudoki dancer" : "くどきダンサー"
 ,"kujira club" : "くじら倶楽部"
 ,"kujira logic" : "くぢらろじっく"
+,"kujuukuri nyajuu kai" : "九十九里ニャ獣会"
 ,"kumagaya hakushon kai" : "熊谷ハクション会"
 ,"kuma-tan flash" : ["くまたんFlash!", "熊尾もふもふ"]
 ,"kumatyu bokujou" : "クマチュウ牧場"
@@ -11902,6 +12023,7 @@ var group_ejdic = {
 ,"kurohina" : "黒雛"
 ,"kurohonyasan" : "くろほんやさん"
 ,"kuroirodoru yomiji" : "黒彩黄泉路"
+,"kurokoya" : "くろこ屋"
 ,"kuromagedon" : "くろまげどん"
 ,"kuromahou kenkyuujo" : "黒魔法研究所"
 ,"kuronekodou" : "黒猫堂"
@@ -12077,6 +12199,7 @@ var group_ejdic = {
 ,"mado soft" : "まどそふと"
 ,"madoromi andon" : "まどろみ行灯"
 ,"madraid" : "マッドレイド"
+,"mag kan" : "MAG館"
 ,"magi" : "MAGI"
 ,"magi black" : "MAGI black"
 ,"magic bullet" : "Magic BulleT"
@@ -12093,6 +12216,7 @@ var group_ejdic = {
 ,"mahirutei" : "まひる亭"
 ,"mahjong yugen co.ltd 58" : "麻雀有限会社58"
 ,"mahola" : "まほら"
+,"mahomaho koubou" : "まほまほ工房"
 ,"maho-shinsengumi" : "魔法新選組"
 ,"maidoll" : "MAIDOLL"
 ,"maika" : "MAIKA"
@@ -12120,6 +12244,7 @@ var group_ejdic = {
 ,"manga super" : "マンガスーパー"
 ,"mangana" : "漫画な"
 ,"manganiku" : "マンガ肉"
+,"manguri cannon" : "まんぐりキャノン"
 ,"maniac street" : "ManiacStreet"
 ,"manifla ent" : "マニフラエント"
 ,"manitic" : "まにてぃっく"
@@ -12221,6 +12346,7 @@ var group_ejdic = {
 ,"meromero cute" : "めろめろキュート"
 ,"meromerofactory xl" : "メロメロファクトリーXL"
 ,"merrymoon" : "MerryMoon"
+,"mesa" : "MESA"
 ,"meshikutteneru." : "飯食って寝る。"
 ,"metabocafe offensive smell uproar" : "メタボ喫茶異臭騒ぎ"
 ,"metal" : "METAL"
@@ -12260,6 +12386,7 @@ var group_ejdic = {
 ,"milksoft" : ["牛乳ソフト", "みるくそふと"]
 ,"milky way" : "MilkyWay"
 ,"milkypoko" : "みるきーポコ"
+,"mille-feuille" : "ミルフィーユ"
 ,"millenium-garage" : "ミレニアムガレージ"
 ,"million drops" : "MILLION＊DROPS"
 ,"milts chaya" : "みるつ茶屋"
@@ -12267,6 +12394,7 @@ var group_ejdic = {
 ,"mimimimi" : "みみみみ"
 ,"mimizu thousand" : "ミミズサウザンド"
 ,"mimoneland" : "ミモネランド"
+,"minamihamaya" : "南浜屋"
 ,"minatekishugi" : "御奈的主義"
 ,"minato carnival" : "みなとカーニバル"
 ,"minato-soft" : "みなとそふと"
@@ -12292,6 +12420,7 @@ var group_ejdic = {
 ,"misaki" : "MISAKI COMICS"
 ,"mischief" : "MISCHIEF"
 ,"mischievous" : "Mischievous"
+,"misonikomi daijoudaijin" : "味噌煮込み太政大臣"
 ,"misoshiru" : "みそ汁"
 ,"missing link" : "Missing Link"
 ,"missing park" : "MISSING PARK"
@@ -12387,6 +12516,7 @@ var group_ejdic = {
 ,"more" : "MORE"
 ,"more prity" : "More Prity"
 ,"morelia standard" : "もれりあすたんだーど"
+,"moreriikusu" : "モレリークス"
 ,"mori no michi" : "森の道"
 ,"moriisan-tokono" : "森井さんとこの"
 ,"morimi-ya" : "森見屋"
@@ -12403,6 +12533,7 @@ var group_ejdic = {
 ,"motchie kingdom" : "もっちー王国"
 ,"mothman" : "もすまん"
 ,"motion" : "MOTION"
+,"motley crew" : "Motley Crew"
 ,"motsu ryouri" : "もつ料理"
 ,"mouko mouretsu hasai dan" : "蒙古猛烈破砕団"
 ,"mount position" : "マウントポジション"
@@ -12413,6 +12544,7 @@ var group_ejdic = {
 ,"mozham" : "MozHAM"
 ,"mozukuya" : "もずく屋"
 ,"mr.outside" : "Mr.OUTSIDE"
+,"ms" : "M's"
 ,"ms is" : "M's I's"
 ,"msize" : ["エムサイズ", "MSIZE"]
 ,"mtsp" : "MTSP"
@@ -12535,6 +12667,7 @@ var group_ejdic = {
 ,"nejiya no hito" : "ねじやのひと"
 ,"nekketsu kouenji housoukyoku" : "熱血高円寺放送局"
 ,"nekketsu project" : "熱血プロジェクト"
+,"neko daifuku" : "ねこ大福"
 ,"neko ga kyuuhiki" : "猫が九匹！"
 ,"neko gohan" : "ねこごはん"
 ,"neko happyaku" : "ねこはっぴゃく"
@@ -12553,6 +12686,7 @@ var group_ejdic = {
 ,"nekodotto" : "ネコドット"
 ,"nekohigetei" : "ねこひげ亭"
 ,"nekojarasare" : "猫じゃらされ"
+,"nekolovelandou" : "ねこらぶらん堂"
 ,"nekomarudow." : "猫丸堂"
 ,"nekomataya" : "ねこまた屋"
 ,"nekomaya" : "ねこま屋。"
@@ -12806,6 +12940,7 @@ var group_ejdic = {
 ,"ouchi jikan" : "おうちじかん"
 ,"ousama to ichigo" : "おうさまと苺"
 ,"out of sight" : "OUT OF SIGHT"
+,"outlaw" : "OUTLAW"
 ,"ouun" : "桜雲"
 ,"ovacas" : ["OVACAS", "おばかーず"]
 ,"over" : "OVER"
@@ -12964,6 +13099,7 @@ var group_ejdic = {
 ,"plastic image" : "PLASTIC IMAGE"
 ,"plastic people" : "PLASTIC PEOPLE"
 ,"platina blonde" : ["PLATINA BLONDE", "プラチナブロンド"]
+,"platinum soft" : "PlatinumSoft"
 ,"platonic shoujo" : "Platonic少女"
 ,"pleco" : "PLECO"
 ,"pleiades fortune" : "PLEIADES☆FORTUNE"
@@ -13362,9 +13498,11 @@ var group_ejdic = {
 ,"sekai kakumei club" : "世界革命倶楽部"
 ,"sekai no hate" : "世界のHATE"
 ,"seki sabato" : "関サバト"
-,"sekirara" : "せ・き・ら・ら"
+,"sekilala" : "せ・き・ら・ら"
+,"sekirara" : "セキララ"
 ,"sekitou" : "赤橙"
 ,"selen" : "Selen"
+,"selfish" : "SELFISH"
 ,"semakute kurai" : "狭くて暗い"
 ,"semedain g" : "セメダインG"
 ,"senbon knock zadankai" : "千本ノック座談会"
@@ -13382,6 +13520,7 @@ var group_ejdic = {
 ,"service heaven" : "サービスヘブン"
 ,"setagaya kingyo" : "せたがや金魚"
 ,"setoran" : "せとらん"
+,"setsugetsuhuuka" : "雪月楓花"
 ,"seven wonder" : "SEVEN WONDER"
 ,"seventh door" : "Seventh Door"
 ,"seventh garden" : "SEVENTH GARDEN"
@@ -13413,12 +13552,14 @@ var group_ejdic = {
 ,"shiitake" : "椎茸"
 ,"shiitake nouen" : "しいたけ農園"
 ,"shikaper" : "シカパー"
+,"shikisha" : "色写"
 ,"shikishima guntool" : "敷島贋具"
 ,"shikitenshi" : "色天使"
 ,"shikkokuno j.p.s." : ["漆黒のJ.P.S.", "J.P.S. OF BLACK BEAUTY"]
 ,"shiko neru mix" : "しこ寝るミックス"
 ,"shimahokke" : "しまほっけ"
 ,"shimajiya" : "しまじや"
+,"shimanami" : "サークルしまなみ"
 ,"shimanto ryouri gakkou" : "四万十料理学校"
 ,"shimanto seiryuu" : "四万十清流"
 ,"shimapan" : ["しまぱん", "SHIMAPAN"]
@@ -13451,6 +13592,7 @@ var group_ejdic = {
 ,"shiroi pantsu" : "しろいぱんつ"
 ,"shirokuma dango" : "しろくまだんご"
 ,"shironegiya" : "白ネギ屋"
+,"shironyan" : "しろにゃん"
 ,"shirukke no ooi zakuro" : "汁っけの多い柘榴"
 ,"shiruzaru" : "汁・ザル"
 ,"shis laboratory" : "SHi's Laboratory"
@@ -13479,6 +13621,7 @@ var group_ejdic = {
 ,"showa saishuu sensen" : "昭和最終戦戦"
 ,"shungabu" : "春画部"
 ,"shuraba keikaku" : "修羅場計画"
+,"shuukyuu 8-ka" : "週休8日"
 ,"shyness over drive" : "SHYNESS OVER DRIVE"
 ,"sibakarigumi" : "芝刈組"
 ,"sick boys" : "Sick Boys"
@@ -13564,10 +13707,12 @@ var group_ejdic = {
 ,"sougetsutei" : "双月亭"
 ,"soul company" : "SOUL COMPANY"
 ,"soul magic" : "そうるまぢっく"
+,"sound milk" : "SOUND MILK"
 ,"sound sticker" : "サウンドステッカー"
 ,"souzai soft" : "そうざいそふと"
 ,"soy-darake" : "SOYだらけ"
 ,"space color" : "SPACE COLOR"
+,"space project" : "SPACE PROJECT"
 ,"special antlers" : "SPECIAL ANTLERS"
 ,"spec-r" : "Spec-R"
 ,"speed" : "SPEED"
@@ -13676,6 +13821,7 @@ var group_ejdic = {
 ,"studio n.ball" : "スタジオN.BALL"
 ,"studio nama" : "スタジオ生"
 ,"studio neko punch" : "STUDIOねこぱんち"
+,"studio nekopanchi" : "STUDIOねこぱんち"
 ,"studio neo black" : "studio NEO BLACK"
 ,"studio nikuman" : "スタジオにくまん"
 ,"studio nishi tokyo" : "studio西東京"
@@ -13702,6 +13848,7 @@ var group_ejdic = {
 ,"studio sitomi" : "STUDIO-SITOMI"
 ,"studio skb" : "STUDIO SKB"
 ,"studio t.r.c." : "STUDIO T.R.C."
+,"studio tagata" : "Studio TAGATA"
 ,"studio tapa tapa" : "すたじお☆たぱたぱ"
 ,"studio tar" : ["スタジオた～", "STUDIO TAR"]
 ,"studio tiamat" : "STUDIO TIAMAT"
@@ -13712,9 +13859,11 @@ var group_ejdic = {
 ,"studio wallaby" : "スタジオワラビー"
 ,"studio z-agnam" : "スタジオZ-AGNAM"
 ,"studio zuburi" : "スタジオ ズブリ"
+,"studio-5cylinder" : "スタジオ5気筒"
 ,"studio-ash" : "Studio-Ash"
 ,"studio-sakura" : "Studio Sakura"
 ,"style-c3" : "Style-C3"
+,"subesube1kg" : "すべすべ1kg"
 ,"subsonic factor" : "SUBSONIC FACTOR"
 ,"succubus" : "SUCCUBUS"
 ,"sueya" : "末屋"
@@ -13850,6 +13999,7 @@ var group_ejdic = {
 ,"tamakiya" : "環屋"
 ,"tamamo soft" : "玉藻ソフト"
 ,"tamamo studio" : "玉藻スタジオ"
+,"tamanokoshi" : "たまのこし"
 ,"tamaranchi" : "たまらんち"
 ,"tamashii max" : "魂MAX"
 ,"tamashiro" : "たましろ"
@@ -14006,6 +14156,7 @@ var group_ejdic = {
 ,"tougenkyo" : "桃源郷"
 ,"tougesakuraya" : "峠桜屋"
 ,"tougeya honpo" : "峠屋本舗"
+,"toukibi batake de tsukamaete" : "とうきび畑でつかまえて"
 ,"toukyou shinbunsha" : "倒狂新聞社"
 ,"toumei kousoku" : "透明光速"
 ,"toumei tsuushin" : "透明通信"
@@ -14316,6 +14467,7 @@ var group_ejdic = {
 ,"yamamoto j.k" : "山本J・K"
 ,"yamanashi musume." : "やまなし娘。"
 ,"yami ni ugomeku" : "闇に蠢く"
+,"yamikumo tsuushin" : "闇雲通信"
 ,"yamitsuki honpo" : "やみつき本舗"
 ,"yamitsuki koubou" : "闇憑キ工房"
 ,"yamo7" : "ヤモセブン"
@@ -14562,6 +14714,7 @@ var series_ejdic = {
 ,"amagami-san chi no enmusubi" : "甘神さんちの縁結び"
 ,"amagi brilliant park" : "甘城ブリリアントパーク"
 ,"amairo islenauts" : "天色＊アイルノーツ"
+,"amaizo dango" : "あまいぞ!男吾"
 ,"amakano" : "アマカノ"
 ,"amakano 2" : "アマカノ2"
 ,"amanchu" : "あまんちゅ！"
@@ -14939,6 +15092,7 @@ var series_ejdic = {
 ,"chibi vampire" : "かりん"
 ,"chichi chichi" : "チチチチ"
 ,"chihayafuru" : "ちはやふる"
+,"chiikawa" : "ちいかわ"
 ,"chinpui" : "チンプイ"
 ,"chip n dale rescue rangers" : "チップとデールの大作戦 レスキュー・レンジャーズ"
 ,"chiyu mahou no machigatta tsukaikata" : "治癒魔法の間違った使い方"
@@ -15204,6 +15358,7 @@ var series_ejdic = {
 ,"dragon force" : "ドラゴンフォース"
 ,"dragon half" : "ドラゴンハーフ"
 ,"dragon knight" : "ドラゴンナイト"
+,"dragon master silk" : "ドラゴンマスターシルク"
 ,"dragon nest" : "ドラゴンネスト"
 ,"dragon pink" : "ドラゴンピンク"
 ,"dragon poker" : "ドラゴンポーカー"
@@ -15313,6 +15468,7 @@ var series_ejdic = {
 ,"fairy tail" : "FAIRY TAIL"
 ,"fallout" : "Fallout"
 ,"famicom rocky" : "ファミコンロッキー"
+,"famicom tantei club" : "ファミコン探偵俱楽部"
 ,"family guy" : "ファミリー・ガイ"
 ,"family project" : "家族計画"
 ,"fancy lala" : "魔法のステージファンシーララ"
@@ -16035,6 +16191,7 @@ var series_ejdic = {
 ,"kare kano" : "彼氏彼女の事情"
 ,"kashimashi" : ["かしまし", "かしまし ～ガール・ミーツ・ガール～"]
 ,"kasumin" : "カスミン"
+,"katainaka no ossan kensei ni naru" : "片田舎のおっさん、剣聖になる　～ただの田舎の剣術師範だったのに、大成した弟子たちが俺を放ってくれない件～"
 ,"katanagatari" : "刀語"
 ,"katawa shoujo" : "かたわ少女"
 ,"katekyo hitman reborn" : "家庭教師ヒットマンREBORN!"
@@ -16106,6 +16263,7 @@ var series_ejdic = {
 ,"kirara fantasia" : "きららファンタジア"
 ,"kiratto pri chan" : "キラッとプリ チャン"
 ,"kirby" : "星のカービィ"
+,"kirei ni shite moraemasu ka." : "綺麗にしてもらえますか。"
 ,"kisaku" : "鬼作"
 ,"kisei juui suzune" : "寄性獣医・鈴音"
 ,"kisetsu no hanayome" : "季節の花嫁"
@@ -16499,6 +16657,7 @@ var series_ejdic = {
 ,"midnight panther" : "ミッドナイトパンサー"
 ,"midori no hibi" : "美鳥の日々"
 ,"midori no makibao" : "みどりのマキバオー"
+,"midori no umi" : "翠の海 -midori no umi-"
 ,"mieruko-chan" : "見える子ちゃん"
 ,"mika ni harassment" : "みかにハラスメント"
 ,"mikakunin de shinkoukei" : "未確認で進行形"
@@ -16521,6 +16680,7 @@ var series_ejdic = {
 ,"misty moon metropolis" : "朧月都市"
 ,"mitsuboshi colors" : "三ツ星カラーズ"
 ,"mitsudomoe" : "みつどもえ"
+,"mitsume ga tooru" : "三つ目がとおる"
 ,"miyuki" : "みゆき"
 ,"mizuiro" : "みずいろ"
 ,"mizuiro jidai" : "水色時代"
@@ -16876,6 +17036,7 @@ var series_ejdic = {
 ,"playerunknowns battlegrounds" : "PUBG"
 ,"pokemon" : "ポケモン"
 ,"pokonyan" : "ポコニャン"
+,"pole princess" : "ポールプリンセス!!"
 ,"pon no michi" : "ぽんのみち"
 ,"ponkotsu quest" : "ポンコツクエスト～魔王と派遣の魔物たち～"
 ,"ponyo" : "ぽにょ"
@@ -16988,6 +17149,7 @@ var series_ejdic = {
 ,"regalia the three sacred stars" : "レガリア The Three Sacred Stars"
 ,"regular show" : "レギュラーSHOW〜コリない2人〜"
 ,"reibaishi izuna" : "霊媒師いずな"
+,"reiwa no dara-san" : "令和のダラさん"
 ,"rekishi ni nokoru akujo ni naru zo" : "歴史に残る悪女になるぞ"
 ,"remi nobodys girl" : "家なき子レミ"
 ,"renkin san-kyuu magical pokaan" : "錬金3級 まじかる?ぽか～ん"
@@ -18051,6 +18213,7 @@ var series_ejdic = {
 ,"zoids wild" : "ゾイドワイルド"
 ,"zoids wild zero" : "ゾイドワイルド Zero"
 ,"zom 100 zombie ni naru made ni shitai 100 no koto" : "ゾン100 ～ゾンビになるまでにしたい100のこと"
+,"zombie high school" : "ゾンビ高校"
 ,"zombie land saga" : "ゾンビランドサガ"
 ,"zombie revenge" : "ゾンビリベンジ"
 ,"zombiepowder." : "ZOMBIEPOWDER."
@@ -18167,6 +18330,8 @@ var tags_ejdic = {
 ,"fox" : {n:"キツネ"}
 ,"fox boy" : {m:"キツネ少年"}
 ,"fox girl" : {f:"キツネ娘"}
+,"mushroom boy" : {n:"キノコ少年"}
+,"mushroom girl" : {n:"キノコ娘"}
 ,"gyaru" : {f:"ギャル"}
 ,"giraffe boy" : {m:"キリン少年"}
 ,"giraffe girl" : {f:"キリン娘"}
@@ -18369,6 +18534,8 @@ var tags_ejdic = {
 ,"miko" : {f:"巫女"}
 ,"worm" : {n:"蟲"}
 ,"inflation" : {n:"インフレ"}
+,"ossan paradise" : {n:"おっさんパラダイス"}
+,"oshinobi date" : {n:"お忍びデート"}
 ,"gaping" : {n:"ギャップ"}
 ,"christmas" : {n:"クリスマス"}
 ,"futanarization" : {f:"フタナリ化"}
@@ -18384,6 +18551,7 @@ var tags_ejdic = {
 ,"brain fuck" : {n:"洗脳"}
 ,"ruined orgasm" : {n:"台無し絶頂",m:"台無し射精"}
 ,"chikan" : {n:"痴漢"}
+,"suspended" : {n:"吊り下げ"}
 ,"out of order" : {n:"非日常"}
 ,"yuri" : {n:"百合"}
 ,"glory hole" : {n:"壁穴"}
@@ -18784,6 +18952,7 @@ var tags_ejdic = {
 ,"pasties" : {n:"ニプレス"}
 ,"harness" : {n:"ハーネス"}
 ,"body packing" : {n:"ピンクローター"}
+,"figure" : {n:"フィギュア"}
 ,"strap-on" : {n:"ペニスバンド"}
 ,"latex" : {n:"ラテックス"}
 ,"leash" : {n:"リード"}
@@ -18914,6 +19083,7 @@ var tags_ejdic = {
 ,"vocaloid paradise bangaihen 7" : {n:"VOCALOID PARADISE 番外編 7"}
 ,"vocaloid paradise bangaihen 8" : {n:"VOCALOID PARADISE 番外編 8"}
 ,"vocaloid street 08" : {n:"VOCALOID STREET 08"}
+,"voice connect" : {n:"ボイスコネクト"}
 ,"voice connect 2" : {n:"ボイスコネクト2"}
 ,"voiceroid march" : {n:"ボイスロイドマーチ"}
 ,"voiceroid march 3" : {n:"ボイスロイドマーチ3"}
@@ -18969,15 +19139,18 @@ var tags_ejdic = {
 ,"yarou fes 2019" : {n:"野郎フェス 2019"}
 ,"yarou fes 2020" : {n:"野郎フェス 2020"}
 ,"yarofes2022" : {n:"野郎フェス 2022"}
+,"yarofes2022-autumn-" : {n:"野郎フェス 2022 -automn-"}
 ,"yarou fes 2022 -autumn-" : {n:"野郎フェス 2022 -automn-"}
-,"yarofes2022-autumn-" : {n:"野郎フェス 2022秋"}
+,"yarou fes 2022-autumn-" : {n:"野郎フェス 2022 -automn-"}
 ,"yarou fes 2023" : {n:"野郎フェス 2023"}
 ,"yarou fes 2023 -autumn-" : {n:"野郎フェス 2023 -automn-"}
 ,"yarou fes 2023-autumn-" : {n:"野郎フェス 2023 -automn-"}
 ,"yarou fes 2023-summer-" : {n:"野郎フェス 2023 -summer-"}
+,"yarou fes 2024-summer-" : {n:"野郎フェス 2024 -summer-"}
 ,"yarofes2025" : {n:"野郎フェス 2025"}
-,"yarofes2025-summer-" : {n:"野郎フェス 2025夏"}
-,"yarou fes 2024-summer-" : {n:"野郎フェス2024 -summer-"}
+,"yarofes2025-summer-" : {n:"野郎フェス 2025 -summer-"}
+,"yarou fes 2025 -summer-" : {n:"野郎フェス 2025 -summer-"}
+,"yarofes 2026-summer-" : {n:"野郎フェス 2026 -summer-"}
 ,"osuket 2" : {n:"雄ケット2"}
 ,"osuket 3" : {n:"雄ケット3"}
 ,"osuket 4" : {n:"雄ケット4"}
@@ -18985,6 +19158,7 @@ var tags_ejdic = {
 ,"further confusion 2003" : {n:"Further Confusion 2003"}
 ,"further confusion 2009" : {n:"Further Confusion 2009"}
 ,"kemokko lovers" : {n:"Kemokko lovers"}
+,"kemokko lovers 5" : {n:"Kemokko lovers 5"}
 ,"kemekko lovers 6" : {n:"Kemokko lovers 6"}
 ,"kemoket" : {n:"けもケット"}
 ,"kemoket 1" : {n:"けもケット 1"}
@@ -19038,6 +19212,7 @@ var tags_ejdic = {
 ,"kansai! kemoket" : {n:"関西けもケット"}
 ,"kansai kemoket 10" : {n:"関西けもケット 10"}
 ,"kansai! kemoket 10" : {n:"関西けもケット 10"}
+,"関西けもケット10" : {n:"関西けもケット 10"}
 ,"kansai kemoket 2" : {n:"関西けもケット 2"}
 ,"kansai! kemoket 2" : {n:"関西けもケット 2"}
 ,"kansai kemoket 3" : {n:"関西けもケット 3"}
@@ -19060,10 +19235,13 @@ var tags_ejdic = {
 ,"kansai! kemoket 9" : {n:"関西けもケット 9"}
 ,"kansai!kemoket 9" : {n:"関西けもケット 9"}
 ,"juujin matsuri" : {n:"獣人祭"}
+,"juujinsai" : {n:"獣人祭"}
 ,"juujin matsuri 2" : {n:"獣人祭2"}
 ,"shinshun kemoket" : {n:"新春けもケット"}
 ,"shinshun kemoket 10" : {n:"新春けもケット 10"}
 ,"shinshun kemoket 11" : {n:"新春けもケット 11"}
+,"sjinshun kemoket 11" : {n:"新春けもケット 11"}
+,"shinshun kemoket 12" : {n:"新春けもケット 12"}
 ,"new year kemoket 2" : {n:"新春けもケット 2"}
 ,"shinshun kemoket 2" : {n:"新春けもケット 2"}
 ,"shinsun kemoket 2" : {n:"新春けもケット 2"}
@@ -19074,6 +19252,7 @@ var tags_ejdic = {
 ,"shinshun kemoket 5" : {n:"新春けもケット 5"}
 ,"shinshun kemoket 6" : {n:"新春けもケット 6"}
 ,"shinshun kemoket 8" : {n:"新春けもケット 8"}
+,"新春けもケット8" : {n:"新春けもケット 8"}
 ,"shinshun kemoket 9" : {n:"新春けもケット 9"}
 ,"furrymosa" : {n:"furrymosa"}
 ,"furrymosa 2" : {n:"furrymosa 2"}
@@ -19191,6 +19370,8 @@ var tags_ejdic = {
 ,"shotafes 19" : {n:"ショタフェス19"}
 ,"shotafes 2" : {n:"ショタフェス2"}
 ,"shotafes 20" : {n:"ショタフェス20"}
+,"shotafes 21" : {n:"ショタフェス21"}
+,"shotafes 22" : {n:"ショタフェス22"}
 ,"shotafes 3" : {n:"ショタフェス3"}
 ,"shotafes 4" : {n:"ショタフェス4"}
 ,"shotafes 5" : {n:"ショタフェス5"}
@@ -19266,13 +19447,17 @@ var tags_ejdic = {
 ,"sht2023 haru" : {n:"SHT2023春"}
 ,"sht2024 aki" : {n:"SHT2024秋"}
 ,"sht2024 haru" : {n:"SHT2024春"}
+,"sht 2025 haru" : {n:"SHT2025春"}
 ,"sht2025 haru" : {n:"SHT2025春"}
 ,"super heroine time 2025 haru" : {n:"SHT2025春"}
+,"sht 2026 haru" : {n:"SHT2026春"}
+,"super heroine time 2026 haru" : {n:"SHT2026春"}
 ,"twinkle mirage 10" : {n:"TWINKLE MIRAGE 10"}
 ,"twinkle mirage 11" : {n:"TWINKLE MIRAGE 11"}
 ,"twinkle mirage 13" : {n:"TWINKLE MIRAGE 13"}
 ,"twinkle mirage 14" : {n:"TWINKLE MIRAGE 14"}
 ,"twinkle mirage 22" : {n:"TWINKLE MIRAGE 22"}
+,"twinkle mirage 23" : {n:"TWINKLE MIRAGE 23"}
 ,"twinkle mirage 3" : {n:"TWINKLE MIRAGE 3"}
 ,"twinkle mirage 5" : {n:"TWINKLE MIRAGE 5"}
 ,"twinkle mirage5" : {n:"TWINKLE MIRAGE 5"}
@@ -19290,6 +19475,11 @@ var tags_ejdic = {
 ,"tosan matsuri 2013" : {n:"都産祭 2013"}
 ,"tosan matsuri 2017" : {n:"都産祭 2017"}
 ,"tosan matsuri 2022" : {n:"都産祭 2022"}
+,"boost !" : {n:"ブースト！"}
+,"boost!" : {n:"ブースト！"}
+,"boost! 3" : {n:"ブースト！3"}
+,"boost! 4" : {n:"ブースト！4"}
+,"boost!4" : {n:"ブースト！4"}
 ,"booket 10" : {n:"ブーケット10"}
 ,"booket 11" : {n:"ブーケット11"}
 ,"booket 13" : {n:"ブーケット13"}
@@ -19422,6 +19612,8 @@ var tags_ejdic = {
 ,"puniket 49" : {n:"ぷにケット 49"}
 ,"puniket 5" : {n:"ぷにケット 5"}
 ,"puniket 50" : {n:"ぷにケット 50"}
+,"puniket 51" : {n:"ぷにケット 51"}
+,"puniket 52" : {n:"ぷにケット 52"}
 ,"puniket 6" : {n:"ぷにケット 6"}
 ,"puniket 7" : {n:"ぷにケット 7"}
 ,"puniket 8" : {n:"ぷにケット 8"}
@@ -19437,16 +19629,19 @@ var tags_ejdic = {
 ,"boys parade" : {n:"ぼーいず☆パレード"}
 ,"boys parade 2" : {n:"ぼーいず☆パレード 2"}
 ,"boys parade 3" : {n:"ぼーいず☆パレード 3"}
+,"boys parade3" : {n:"ぼーいず☆パレード 3"}
 ,"boys parade 4" : {n:"ぼーいず☆パレード 4"}
 ,"boys parade 5" : {n:"ぼーいず☆パレード 5"}
 ,"boys parade 6" : {n:"ぼーいず☆パレード 6"}
 ,"boys parade 7" : {n:"ぼーいず☆パレード 7"}
+,"boys parade osaka 3" : {n:"ぼーいず☆パレード 大阪3"}
 ,"boys parade osaka 4" : {n:"ぼーいず☆パレード 大阪4"}
 ,"boys parade in nagoya" : {n:"ぼーいず☆パレード 名古屋"}
 ,"dai-2-kai pocharism" : {n:"第二回ぽちゃリズム"}
 ,"nikuket" : {n:"にくけっと"}
 ,"nikuket 10" : {n:"にくけっと10"}
 ,"nikuket 12" : {n:"にくけっと12"}
+,"nikuket 15" : {n:"にくけっと15"}
 ,"nikuket 2" : {n:"にくけっと2"}
 ,"nikuket 3" : {n:"にくけっと3"}
 ,"nikuket 9" : {n:"にくけっと9"}
@@ -19494,6 +19689,7 @@ var tags_ejdic = {
 ,"junction box 16" : {n:"Junction Box 16"}
 ,"junction box16" : {n:"Junction Box 16"}
 ,"junction box 17" : {n:"Junction Box 17"}
+,"junction box26" : {n:"Junction Box 26"}
 ,"junction box 3" : {n:"Junction Box 3"}
 ,"junction box 4" : {n:"Junction Box 4"}
 ,"junction box 5" : {n:"Junction Box 5"}
@@ -19510,25 +19706,32 @@ var tags_ejdic = {
 ,"toon mix 11" : {n:"TOON MIX 11"}
 ,"toon mix 12" : {n:"TOON MIX 12"}
 ,"toon mix 15" : {n:"TOON MIX 15"}
+,"toon mix 16" : {n:"TOON MIX 16"}
 ,"toon mix 17" : {n:"TOON MIX 17"}
 ,"toon mix 18" : {n:"TOON MIX 18"}
 ,"toon mix 19" : {n:"TOON MIX 19"}
 ,"toon mix 2" : {n:"TOON MIX 2"}
+,"toon mix 21" : {n:"TOON MIX 21"}
+,"toon mix 22" : {n:"TOON MIX 22"}
 ,"toon mix 3" : {n:"TOON MIX 3"}
 ,"toonmix3" : {n:"TOON MIX 3"}
 ,"toon mix 4" : {n:"TOON MIX 4"}
 ,"toon mix 5" : {n:"TOON MIX 5"}
 ,"toon mix 6" : {n:"TOON MIX 6"}
 ,"toon mix 8" : {n:"TOON MIX 8"}
+,"unlimited ex" : {n:"UNLIMITED EX"}
 ,"unlimited ex 11" : {n:"UNLIMITED EX 11"}
 ,"unlimited ex 13" : {n:"UNLIMITED EX 13"}
+,"unlimited ex 14" : {n:"UNLIMITED EX 14"}
 ,"unlimited ex 16" : {n:"UNLIMITED EX 16"}
 ,"unlimited ex 18" : {n:"UNLIMITED EX 18"}
 ,"unlimited ex 19" : {n:"UNLIMITED EX 19"}
 ,"unlimited ex 2" : {n:"UNLIMITED EX 2"}
 ,"unlimited ex2" : {n:"UNLIMITED EX 2"}
+,"unlimited ex 20" : {n:"UNLIMITED EX 20"}
 ,"unlimited ex 3" : {n:"UNLIMITED EX 3"}
 ,"unlimited ex 5" : {n:"UNLIMITED EX 5"}
+,"unlimited ex5" : {n:"UNLIMITED EX 5"}
 ,"unlimited ex 6" : {n:"UNLIMITED EX 6"}
 ,"unlimited ex 7" : {n:"UNLIMITED EX 7"}
 ,"gijinka oukoku 10" : {n:"擬人化王国10"}
@@ -19658,6 +19861,7 @@ var tags_ejdic = {
 ,"j.garden 54" : {n:"J.GARDEN 54"}
 ,"j.garden 55" : {n:"J.GARDEN 55"}
 ,"j.garden 56" : {n:"J.GARDEN 56"}
+,"j.garden 58" : {n:"J.GARDEN 58"}
 ,"danmenzu comic" : {n:"だんめんずこみっく"}
 ,"danmenzu comic 01" : {n:"だんめんずこみっく 1"}
 ,"danmenzu comic 1" : {n:"だんめんずこみっく 1"}
@@ -19686,6 +19890,7 @@ var tags_ejdic = {
 ,"all star 24" : {n:"ALL STAR 24"}
 ,"all star 26" : {n:"ALL STAR 26"}
 ,"all star 27" : {n:"ALL STAR 27"}
+,"all star 28" : {n:"ALL STAR 28"}
 ,"all star 3" : {n:"ALL STAR 3"}
 ,"all star 4" : {n:"ALL STAR 4"}
 ,"all star 5" : {n:"ALL STAR 5"}
@@ -19909,8 +20114,10 @@ var tags_ejdic = {
 ,"jabjab maidoari! 12" : {n:"じゃぶじゃぶマイドアリ！ 12"}
 ,"jabjab maidoari! 13" : {n:"じゃぶじゃぶマイドアリ！ 13"}
 ,"jabjab maidoari! 14" : {n:"じゃぶじゃぶマイドアリ！ 14"}
+,"jabjab maidoari! 16" : {n:"じゃぶじゃぶマイドアリ！ 16"}
 ,"jabjab maidoari! 17" : {n:"じゃぶじゃぶマイドアリ！ 17"}
 ,"jabjab maidoari! 18" : {n:"じゃぶじゃぶマイドアリ！ 18"}
+,"jabjab maidoari! 19" : {n:"じゃぶじゃぶマイドアリ！ 19"}
 ,"jabjab maidoari! 2" : {n:"じゃぶじゃぶマイドアリ！ 2"}
 ,"jabjab maidoari! 3" : {n:"じゃぶじゃぶマイドアリ！ 3"}
 ,"jabjab maidoari! 4" : {n:"じゃぶじゃぶマイドアリ！ 4"}
@@ -19987,6 +20194,7 @@ var tags_ejdic = {
 ,"re:hunter 10" : {n:"Re:HUNTER 10"}
 ,"re:hunter 11" : {n:"Re:HUNTER 11"}
 ,"re:hunter 6" : {n:"Re:HUNTER 6"}
+,"re:hunter 09" : {n:"Re:HUNTER 9"}
 ,"rose of museum2" : {n:"ROSE OF MUSEUM 2"}
 ,"king of colors" : {n:"King of colors"}
 ,"king of colors ii" : {n:"King of colors 2"}
@@ -20024,6 +20232,7 @@ var tags_ejdic = {
 ,"zennin shuuketsu 2" : {n:"全忍集結 2"}
 ,"zennin shuuketsu 25" : {n:"全忍集結 25"}
 ,"zennin shuuketsu 3" : {n:"全忍集結 3"}
+,"zennin shuuketsu 31" : {n:"全忍集結 31"}
 ,"zennin shuuketsu 4" : {n:"全忍集結 4"}
 ,"zennin shuuketsu 5" : {n:"全忍集結 5"}
 ,"zennin shuuketsu 6" : {n:"全忍集結 6"}
@@ -20113,6 +20322,7 @@ var tags_ejdic = {
 ,"sougetsusai 53" : {n:"蒼月祭 53"}
 ,"sougetsusai 9" : {n:"蒼月祭 9"}
 ,"kimi no sentaku." : {n:"きみの選択。"}
+,"kimi no sentaku. 2" : {n:"きみの選択。2"}
 ,"kimi no sentaku.3" : {n:"きみの選択。3"}
 ,"kimi no sentaku. 4" : {n:"きみの選択。4"}
 ,"chou kimi no sentaku 2022" : {n:"超きみの選択。 2022"}
@@ -20228,6 +20438,7 @@ var tags_ejdic = {
 ,"the idolm@niax 8" : {n:"THE iDOLM@NIAX 8"}
 ,"the idolm@niax 9" : {n:"THE iDOLM@NIAX 9"}
 ,"the idolm@niax sp" : {n:"THE iDOLM@NIAX SP"}
+,"idle mystar 2008" : {n:"アイドルMySTAR 2008"}
 ,"idolmystar 2009" : {n:"アイドルMySTAR 2009"}
 ,"idol mystar! 2015" : {n:"アイドルMySTAR 2015"}
 ,"idol variety" : {n:"アイドルバラエティ"}
@@ -20279,6 +20490,7 @@ var tags_ejdic = {
 ,"utahime teien 39" : {n:"歌姫庭園39"}
 ,"utahime teien 4" : {n:"歌姫庭園4"}
 ,"utahime teien 40" : {n:"歌姫庭園40"}
+,"utahime teien 41" : {n:"歌姫庭園41"}
 ,"utahime teien 5" : {n:"歌姫庭園5"}
 ,"utahime teien 6" : {n:"歌姫庭園6"}
 ,"utahime teien 7" : {n:"歌姫庭園7"}
@@ -20291,6 +20503,9 @@ var tags_ejdic = {
 ,"shiny star festiv@l 06" : {n:"SHINY STAR FESTIV@L 06"}
 ,"shiny star festiv@l 07" : {n:"SHINY STAR FESTIV@L 07"}
 ,"shiny star festiv@l 08" : {n:"SHINY STAR FESTIV@L 08"}
+,"shiny star festiv@l 09" : {n:"SHINY STAR FESTIV@L 09"}
+,"shiny star festiv@l 10" : {n:"SHINY STAR FESTIV@L 10"}
+,"shiny star festiv@l10" : {n:"SHINY STAR FESTIV@L 10"}
 ,"kagayaki festiv@l 2021 fuyu" : {n:"SHINY STAR FESTIV@L 2021冬"}
 ,"super kagayaki festiv@l2020" : {n:"SUPER SHINY STAR FESTIV@L 2020"}
 ,"miraclefestiv@l!!" : {n:"MIRACLE FESTIV@L!!"}
@@ -20303,12 +20518,17 @@ var tags_ejdic = {
 ,"miracle festiv@l!! 18" : {n:"MIRACLE FESTIV@L!! 18"}
 ,"miracle festiv@l!! 26" : {n:"MIRACLE FESTIV@L!! 26"}
 ,"miraclefestiv@l!!3" : {n:"MIRACLE FESTIV@L!! 3"}
+,"miracle festiv@l!! 35" : {n:"MIRACLE FESTIV@L!! 35"}
+,"miracle festiv@l!! 37" : {n:"MIRACLE FESTIV@L!! 37"}
 ,"miraclefestiv@l!! 7" : {n:"MIRACLE FESTIV@L!! 7"}
 ,"miracle festiv@l!! 9" : {n:"MIRACLE FESTIV@L!! 9"}
 ,"miraclefestiv@l!!9" : {n:"MIRACLE FESTIV@L!! 9"}
 ,"miracle festiv@l!! kinkyuu summer2021" : {n:"MIRACLE FESTIV@L!! 緊急SUMMER2021"}
 ,"miraclefestiv@l!! kinkyuu summer2021" : {n:"MIRACLE FESTIV@L!! 緊急SUMMER2021"}
+,"passion! virtu@l stage!" : {n:"Passion! VIRTU@L STAGE!"}
 ,"passion! virtu@l stage! 3" : {n:"Passion! VIRTU@L STAGE! 3"}
+,"passion! virtu@l stage! 5" : {n:"Passion! VIRTU@L STAGE! 5"}
+,"passion! virtu@l stage! genchi 4th" : {n:"Passion! VIRTU@L STAGE! 現地4th"}
 ,"super miracle festiv@l!! 2018" : {n:"SUPER MIRACLE FESTIV@L!! 2018"}
 ,"super miracle festiv@l!! 2019" : {n:"SUPER MIRACLE FESTIV@L!! 2019"}
 ,"super miracle festiv@l!! 2025" : {n:"SUPER MIRACLE FESTIV@L!! 2025"}
@@ -20319,6 +20539,9 @@ var tags_ejdic = {
 ,"dramatic change osaka" : {n:"ドラマティックチェンジ 大阪"}
 ,"dramatic change osaka 2" : {n:"ドラマティックチェンジ 大阪2"}
 ,"gakuen star festiv@l" : {n:"学園スターフェスティバル"}
+,"gakuen star festival" : {n:"学園スターフェスティバル"}
+,"gakuen star festiv@l 02" : {n:"学園スターフェスティバル2"}
+,"gakuen star festival 2" : {n:"学園スターフェスティバル2"}
 ,"dear idol 2" : {n:"DEAR iDOL"}
 ,"aisubeki idol desushi!!" : {n:"愛スべきアイドルでスシ!!"}
 ,"aisubeki idol desushi!! 2sarame" : {n:"愛スべきアイドルでスシ!! 2皿目"}
@@ -20347,6 +20570,7 @@ var tags_ejdic = {
 ,"cinderella ☆ stage 11 step" : {n:"シンデレラ☆ステージ 11STEP"}
 ,"cinderella ☆ stage 12 step" : {n:"シンデレラ☆ステージ 12STEP"}
 ,"cinderella ☆ stage 13 step" : {n:"シンデレラ☆ステージ 13STEP"}
+,"cinderella ☆ stage 14 step" : {n:"シンデレラ☆ステージ 14STEP"}
 ,"cinderella ☆ stage 2 step" : {n:"シンデレラ☆ステージ 2STEP"}
 ,"cinderella ☆ stage 3 step" : {n:"シンデレラ☆ステージ 3STEP"}
 ,"cinderella stage 3step" : {n:"シンデレラ☆ステージ 3STEP"}
@@ -20400,6 +20624,7 @@ var tags_ejdic = {
 ,"another control" : {n:"アナザーコントロール"}
 ,"another control 10" : {n:"アナザーコントロール 10"}
 ,"another control 12" : {n:"アナザーコントロール 12"}
+,"アナザーコントロール12" : {n:"アナザーコントロール 12"}
 ,"another control 2" : {n:"アナザーコントロール 2"}
 ,"another control 23" : {n:"アナザーコントロール 23"}
 ,"another control 3" : {n:"アナザーコントロール 3"}
@@ -20411,12 +20636,14 @@ var tags_ejdic = {
 ,"another control 9" : {n:"アナザーコントロール 9"}
 ,"atelierfes10" : {n:"アトリエフェス10"}
 ,"atelierfes3" : {n:"アトリエフェス3"}
+,"atelierfes8" : {n:"アトリエフェス8"}
 ,"8 gatsu no himitsu kichi" : {n:"8月の秘密基地"}
 ,"minna de try 10" : {n:"みんなで☆トライ10"}
 ,"minna de try11 in ariake shard" : {n:"みんなで☆トライ11in有明シャード"}
 ,"minna de try12 in ariake shard" : {n:"みんなで☆トライ12in有明シャード"}
 ,"minna de try 14" : {n:"みんなで☆トライ14"}
 ,"minna de try 15 in ariake shard" : {n:"みんなで☆トライ15in有明シャード"}
+,"minna de try 18" : {n:"みんなで☆トライ18"}
 ,"minna de try 2 in menshou shard" : {n:"みんなで☆トライ2綿商シャード"}
 ,"minna de try 3 in kawaguchi shard" : {n:"みんなで☆トライ3川口シャード"}
 ,"minna de try 4 in ariake shard mini" : {n:"みんなで☆トライ4in有明シャードMINI"}
@@ -20478,9 +20705,11 @@ var tags_ejdic = {
 ,"super brilliant days 2023" : {n:"SUPER brilliant days 2023"}
 ,"super brilliant days 2023 natsu" : {n:"SUPER brilliant days 2023夏"}
 ,"super brilliant days 2024" : {n:"SUPER brilliant days 2024"}
+,"super brilliant days 2025" : {n:"SUPER brilliant days 2025"}
 ,"super brilliant days 25" : {n:"SUPER brilliant days 25"}
 ,"superbrilliantdays25" : {n:"SUPER brilliant days 25"}
 ,"brilliant days tandoku kouen 2019" : {n:"SUPER brilliant days 単独公演2019"}
+,"brilliant days tandokukoen 2019" : {n:"SUPER brilliant days 単独公演2019"}
 ,"yumeiro ★ symphony" : {n:"ゆめいろ★シンフォニー"}
 ,"yumeiro ★ symphony 2" : {n:"ゆめいろ★シンフォニー 2"}
 ,"yumeiro ★ symphony 3" : {n:"ゆめいろ★シンフォニー 3"}
@@ -20492,6 +20721,7 @@ var tags_ejdic = {
 ,"kimi ni okuru jounetsu no bouquet jb2023" : {n:"君に送る情熱のブーケ JB2023"}
 ,"kimi ni okuru jounetsu no buuke jb2023" : {n:"君に送る情熱のブーケ JB2023"}
 ,"kimi ni okuru jounetsu no bouquet jb2024" : {n:"君に送る情熱のブーケ JB2024"}
+,"kimi ni okuru jounetsu no bouquet seigan2025" : {n:"君に送る情熱のブーケ 星願2025"}
 ,"boku dake ni kikasete rinki no melody dr2021" : {n:"僕だけに聞かせて悋気のMelody DR2021"}
 ,"arishi hi yo, junzentare jb 2023" : {n:"在りし日よ、純然たれ JB2023"}
 ,"junjou karen na ii biyori 4" : {n:"純情可憐ないい日和 4"}
@@ -20612,6 +20842,7 @@ var tags_ejdic = {
 ,"kahou wa chou nete matsu 2017" : {n:"家宝は超寝て松2017"}
 ,"kahou wa chou nete matsu 2018" : {n:"家宝は超寝て松2018"}
 ,"kahou wa chou nete matsu 2019" : {n:"家宝は超寝て松2019"}
+,"kahou wa chou nete matsu 2021 natsumatsuri" : {n:"家宝は超寝て松2021夏祭り"}
 ,"kahou wa chou nete matsu 2022 natsuyasumi" : {n:"家宝は超寝て松2022夏休み"}
 ,"kahou wa chou nete matsu 25" : {n:"家宝は超寝て松25"}
 ,"kahou wa chou nete matsu kansai 2017" : {n:"家宝は超寝て松関西2017"}
@@ -20670,6 +20901,7 @@ var tags_ejdic = {
 ,"panzer vor! 42" : {n:"ぱんっあ☆ふぉー！ ４２"}
 ,"panzer vor! 44" : {n:"ぱんっあ☆ふぉー！ ４４"}
 ,"panzer vor! 46" : {n:"ぱんっあ☆ふぉー！ ４６"}
+,"panzer vor! 53" : {n:"ぱんっあ☆ふぉー！ ５３"}
 ,"panzer vor! 6" : {n:"ぱんっあ☆ふぉー！ ６"}
 ,"panzer vor! 7" : {n:"ぱんっあ☆ふぉー！ ７"}
 ,"panzer vor! 8" : {n:"ぱんっあ☆ふぉー！ ８"}
@@ -20705,6 +20937,7 @@ var tags_ejdic = {
 ,"graket 5" : {n:"グラケット5"}
 ,"graket 6" : {n:"グラケット6"}
 ,"graket 8" : {n:"グラケット8"}
+,"granblue market" : {n:"グランブルーマーケット"}
 ,"fata grande kikuusai" : {n:"ファータグランデ騎空祭"}
 ,"fata grande kikuusai 2" : {n:"ファータグランデ騎空祭2"}
 ,"zenkuu no chou hasha 2019" : {n:"全空の超覇者 2019"}
@@ -20794,6 +21027,11 @@ var tags_ejdic = {
 ,"golden blood 8" : {n:"Golden Blood 第8部"}
 ,"golden blood 9" : {n:"Golden Blood 第9部"}
 ,"golden blood nagoya" : {n:"Golden Blood 名古屋"}
+,"bokutachi shinkakei" : {n:"僕達シンカ系"}
+,"bokutachi shinkakei 2" : {n:"僕達シンカ系 2"}
+,"bokutachi shinkakei 3" : {n:"僕達シンカ系 3"}
+,"bokutachi shinkakei vg2025" : {n:"僕達シンカ系 VG2025"}
+,"bokutachi chou shinkakei 2019" : {n:"僕達超シンカ系 2019"}
 ,"sweet scramble" : {n:"SWEET SCRAMBLE"}
 ,"sweet scramble 2" : {n:"SWEET SCRAMBLE 2nd"}
 ,"sweet scramble 2nd" : {n:"SWEET SCRAMBLE 2nd"}
@@ -20905,12 +21143,16 @@ var tags_ejdic = {
 ,"tales link 11" : {n:"テイルズリンク11"}
 ,"tales link 15" : {n:"テイルズリンク15"}
 ,"tales link 17" : {n:"テイルズリンク17"}
+,"tales link 18" : {n:"テイルズリンク18"}
 ,"tales link 2" : {n:"テイルズリンク2"}
 ,"tales link 20" : {n:"テイルズリンク20"}
 ,"tales link 23" : {n:"テイルズリンク23"}
+,"tales link 25" : {n:"テイルズリンク25"}
 ,"tales link 27" : {n:"テイルズリンク27"}
+,"tales link 28" : {n:"テイルズリンク28"}
 ,"tales link 29" : {n:"テイルズリンク29"}
 ,"tales link 3" : {n:"テイルズリンク3"}
+,"tales link 31" : {n:"テイルズリンク31"}
 ,"tales link 4" : {n:"テイルズリンク4"}
 ,"tales link 5" : {n:"テイルズリンク5"}
 ,"テイルズリンク5" : {n:"テイルズリンク5"}
@@ -20926,9 +21168,11 @@ var tags_ejdic = {
 ,"digicolle11" : {n:"DIGIコレ11"}
 ,"digicolle7" : {n:"DIGIコレ7"}
 ,"chou digi colle 2023" : {n:"超DIGIコレ 2023"}
+,"zenkoku taikai gs vg 2025" : {n:"全国大会GS VG2025"}
 ,"zenkoku taikai gs ω 2023" : {n:"全国大会GS ω 2023"}
 ,"dai 12-kai zenkoku taikai gs" : {n:"第12回全国大会GS"}
 ,"dai 1-kai zenkoku taikai gs" : {n:"第1回全国大会GS"}
+,"dai 29-kai zenkoku taikai gs" : {n:"第29回全国大会GS"}
 ,"dai-8-kai zenkoku taikai gs" : {n:"第8回全国大会GS"}
 ,"ikebukuro crossroads × 12" : {n:"池袋クロスロード ×12"}
 ,"ikebukuro crossroads × 2" : {n:"池袋クロスロード ×2"}
@@ -20945,6 +21189,7 @@ var tags_ejdic = {
 ,"shoujo senryaku saizensen 02" : {n:"少女戦略最前線 02"}
 ,"shoujo senryaku saizensen 03" : {n:"少女戦略最前線 03"}
 ,"shoujo senryaku saizensen 04" : {n:"少女戦略最前線 04"}
+,"shoujo senryaku saizensen 05" : {n:"少女戦略最前線 05"}
 ,"shoujo senryaku saizensen revenge" : {n:"少女戦略最前線REVENGE"}
 ,"11-banme no yuusha" : {n:"11番目の勇者"}
 ,"11-banme no yuusha 3" : {n:"11番目の勇者 3"}
@@ -20974,6 +21219,7 @@ var tags_ejdic = {
 ,"sekai bishoku hakken! 8" : {n:"世界美食発見!8"}
 ,"#nijisousaku" : {n:"＃にじそうさく"}
 ,"#nijisousaku 10" : {n:"＃にじそうさく10"}
+,"#nijisousaku11" : {n:"＃にじそうさく11"}
 ,"#nijisousaku 2" : {n:"＃にじそうさく2"}
 ,"#nijisousaku 3" : {n:"＃にじそうさく3"}
 ,"#nijisousaku 4" : {n:"＃にじそうさく4"}
@@ -21044,6 +21290,7 @@ var tags_ejdic = {
 ,"welcome to hell's hotel gw2024" : {n:"WELCOME TO HELL'S HOTEL GW2024"}
 ,"welcome to hell's hotel haru 2024" : {n:"WELCOME TO HELL'S HOTEL 春2024"}
 ,"welcome to hell's hotel haru2024" : {n:"WELCOME TO HELL'S HOTEL 春2024"}
+,"welcome to super hell's hotel 2025" : {n:"WELCOME TO SUPER HELL'S HOTEL 2025"}
 ,"welcome to super hell's hotel 2025 fuyu" : {n:"WELCOME TO SUPER HELL'S HOTEL 2025冬"}
 ,"shitsuji toranoana!" : {n:"執事とらのあな！"}
 ,"shitsuji toranoana! 10" : {n:"執事とらのあな！10"}
@@ -21169,6 +21416,8 @@ var tags_ejdic = {
 ,"rainbow flavor 30" : {n:"レインボウフレーバー30"}
 ,"rainbow flavor 31" : {n:"レインボウフレーバー31"}
 ,"rainbow flavor 32" : {n:"レインボウフレーバー32"}
+,"rainbow flavor 34" : {n:"レインボウフレーバー34"}
+,"rainbow flavor 6" : {n:"レインボウフレーバー6"}
 ,"rainbow flavor 7" : {n:"レインボウフレーバー7"}
 ,"rainbow flavor 8" : {n:"レインボウフレーバー8"}
 ,"rainbow flavor 9" : {n:"レインボウフレーバー9"}
@@ -21201,6 +21450,10 @@ var tags_ejdic = {
 ,"prism jump 36" : {n:"プリズム☆ジャンプ36"}
 ,"prism jump 44" : {n:"プリズム☆ジャンプ44"}
 ,"prism jump 47" : {n:"プリズム☆ジャンプ47"}
+,"prism jump 48" : {n:"プリズム☆ジャンプ48"}
+,"prism jump 49" : {n:"プリズム☆ジャンプ49"}
+,"prism jump 50" : {n:"プリズム☆ジャンプ50"}
+,"prism jump 51" : {n:"プリズム☆ジャンプ51"}
 ,"prism jump 6" : {n:"プリズム☆ジャンプ6"}
 ,"priconne daihyakka 10" : {n:"プリコネ大百科10"}
 ,"priconne daihyakka 12" : {n:"プリコネ大百科12"}
@@ -21220,7 +21473,8 @@ var tags_ejdic = {
 ,"sensei no archive 11" : {n:"せんせーのアーカイブ 11"}
 ,"sensei no archive 12" : {n:"せんせーのアーカイブ 12"}
 ,"sensei no archive 13" : {n:"せんせーのアーカイブ 13"}
-,"せんせーのアーカイブ13" : {n:"せんせーのアーカイブ 13"}
+,"sensei no archive 14" : {n:"せんせーのアーカイブ 14"}
+,"sensei no archive 15" : {n:"せんせーのアーカイブ 15"}
 ,"sensei no archive 3" : {n:"せんせーのアーカイブ 3"}
 ,"sensei no archive 5" : {n:"せんせーのアーカイブ 5"}
 ,"sensei no archive 6" : {n:"せんせーのアーカイブ 6"}
@@ -21237,6 +21491,11 @@ var tags_ejdic = {
 ,"blue market 6" : {n:"ブルーマーケット6"}
 ,"blue market 7" : {n:"ブルーマーケット7"}
 ,"blue market 9" : {n:"ブルーマーケット9"}
+,"蔚藍檔案only" : {n:"蔚藍檔案ONLY"}
+,"蔚藍檔案only3" : {n:"蔚藍檔案ONLY 3"}
+,"baonly4" : {n:"蔚藍檔案ONLY 4"}
+,"blue archive only 4" : {n:"蔚藍檔案ONLY 4"}
+,"blue archive only 5" : {n:"蔚藍檔案ONLY 5"}
 ,"seishun no hakobune 2023 natsu" : {n:"青春の方舟 2023夏"}
 ,"seishun egoism" : {n:"青春エゴイズム"}
 ,"seishun egoism ~natsuyasumi~" : {n:"青春エゴイズム ～夏休み～"}
@@ -21274,7 +21533,6 @@ var tags_ejdic = {
 ,"phantom masquerade" : {n:"ファントム マスカレード"}
 ,"youkoso velvet room 2" : {n:"ようこそベルベットルームへ2"}
 ,"youkoso velvet room 3" : {n:"ようこそベルベットルームへ3"}
-,"idle mystar 2008" : {n:"アイドルMySTAR 2008"}
 ,"challe! 10" : {n:"チャレ！10"}
 ,"challe! 11" : {n:"チャレ！11"}
 ,"challe! 14" : {n:"チャレ！14"}
@@ -21290,9 +21548,12 @@ var tags_ejdic = {
 ,"challenger! 3" : {n:"チャレンジャー！3"}
 ,"challenger! 30" : {n:"チャレンジャー！30"}
 ,"challenger! 31" : {n:"チャレンジャー！31"}
+,"yume wa pocket no naka ni 2025 osaka" : {n:"夢はポケットの中に 2025大阪"}
 ,"yume wa pocket no naka ni 3" : {n:"夢はポケットの中に 3"}
 ,"yume wa pocket no naka ni 4" : {n:"夢はポケットの中に 4"}
 ,"yume wa pocket no naka ni 6" : {n:"夢はポケットの中に 6"}
+,"yume wa pocket no naka ni 7" : {n:"夢はポケットの中に 7"}
+,"yume wa pocket no naka ni 8" : {n:"夢はポケットの中に 8"}
 ,"bocchi the only!" : {n:"ぼっち・ざ・おんりー！"}
 ,"bocchi the only! #2" : {n:"ぼっち・ざ・おんりー！#2"}
 ,"bocchi the book! #2" : {n:"ぼっち・ざ・ぶっく！#2"}
@@ -21311,6 +21572,7 @@ var tags_ejdic = {
 ,"holokle 4th" : {n:"ホロクル 4th"}
 ,"holokle 5th" : {n:"ホロクル 5th"}
 ,"holokle 7th" : {n:"ホロクル 7th"}
+,"holokle 9th" : {n:"ホロクル 9th"}
 ,"holoket" : {n:"ホロケット"}
 ,"holoket 2nd" : {n:"ホロケット2nd"}
 ,"holoket 5th" : {n:"ホロケット5th"}
@@ -21464,6 +21726,8 @@ var tags_ejdic = {
 ,"bokura no love live! 45" : {n:"僕らのラブライブ！ 45"}
 ,"bokura no love live! 46" : {n:"僕らのラブライブ！ 46"}
 ,"bokura no love live! 47" : {n:"僕らのラブライブ！ 47"}
+,"bokura no love live! 48" : {n:"僕らのラブライブ！ 48"}
+,"bokura no love live! 49" : {n:"僕らのラブライブ！ 49"}
 ,"bokura no love live! 5" : {n:"僕らのラブライブ！ 5"}
 ,"bokura no love live! 6" : {n:"僕らのラブライブ！ 6"}
 ,"bokura no love live! 7" : {n:"僕らのラブライブ！ 7"}
@@ -21551,6 +21815,7 @@ var tags_ejdic = {
 ,"one→hundred 15" : {n:"ONE→HUNDRED 15"}
 ,"one→hundred 2" : {n:"ONE→HUNDRED 2"}
 ,"one→hundred 20" : {n:"ONE→HUNDRED 20"}
+,"one→hundred 23" : {n:"ONE→HUNDRED 23"}
 ,"one→hundred 25" : {n:"ONE→HUNDRED 25"}
 ,"one→hundred 29" : {n:"ONE→HUNDRED 29"}
 ,"one→hundred 3" : {n:"ONE→HUNDRED 3"}
@@ -21609,9 +21874,11 @@ var tags_ejdic = {
 ,"gunreibu shuho gunrei dai 6-gou" : {n:"軍令部酒保軍令第6号"}
 ,"gunreibu shuho goudou enshuu reiwa sannen touki" : {n:"軍令部酒保合同演習令和3年冬季"}
 ,"gunreibu shuho reiwa yonnen shuuki" : {n:"軍令部酒保令和4年秋季"}
+,"gunreibu shuho 2022 spring" : {n:"軍令部酒保令和4年春季"}
 ,"gunreibu shuho reiwa gonen shuuki" : {n:"軍令部酒保令和5年秋季"}
 ,"gunreibu shuho reiwa gonen shunki" : {n:"軍令部酒保令和5年春季"}
 ,"gunreibu shuho reiwa gonen fuyu" : {n:"軍令部酒保令和5年冬季"}
+,"gunreibu shuho reiwa nananen shuuki" : {n:"軍令部酒保令和7年秋季"}
 ,"gunreibu hamamatsuchou shuho" : {n:"軍令部浜松町酒保"}
 ,"gunreibu hamamatsu-chou shuho" : {n:"軍令部浜松町酒保"}
 ,"gunreibu hamamatsuchou shuho 2" : {n:"軍令部浜松町酒保 2"}
@@ -21653,6 +21920,7 @@ var tags_ejdic = {
 ,"houraigekisen! yo-i! & gunrei bu shuho goudou enshuu 2senme" : {n:"砲雷撃戦！よーい！ 軍令部酒保合同演習 二戦目"}
 ,"houraigekisen! yo-i! gunreibu shuho goudou enshuu shunki" : {n:"砲雷撃戦！よーい！ 軍令部酒保合同演習春季"}
 ,"houraigekisen! yo-i! 55senme" : {n:"砲雷撃戦！よーい！ 五十五戦目"}
+,"houraigekisen! yo-i! 55senme!" : {n:"砲雷撃戦！よーい！ 五十五戦目"}
 ,"houraigekisen! yo-i! 50senme" : {n:"砲雷撃戦！よーい！ 五十戦目"}
 ,"houraigekisen! yooi! 50 senme" : {n:"砲雷撃戦！よーい！ 五十戦目"}
 ,"houraigekisen! yo-i! 50senme&gunreibu shuho" : {n:"砲雷撃戦！よーい！ 五十戦目＆軍令部酒保"}
@@ -21741,6 +22009,7 @@ var tags_ejdic = {
 ,"nichirin kitan 30" : {n:"日輪鬼譚30"}
 ,"nichirin kitan 33" : {n:"日輪鬼譚33"}
 ,"nichirin kitan 4" : {n:"日輪鬼譚4"}
+,"nichirin kitan 44" : {n:"日輪鬼譚44"}
 ,"nichirin kitan 5" : {n:"日輪鬼譚5"}
 ,"nichirin kitan 6" : {n:"日輪鬼譚6"}
 ,"nichirin kitan 9" : {n:"日輪鬼譚9"}
@@ -21836,6 +22105,7 @@ var tags_ejdic = {
 ,"kami no eichi 6" : {n:"神ノ叡智 6"}
 ,"kami no eichi 8" : {n:"神ノ叡智 8"}
 ,"kami no eichi 9" : {n:"神ノ叡智 9"}
+,"kami no eichi sp2025" : {n:"神ノ叡智 SP2025"}
 ,"chojin no eichi 2022" : {n:"超神ノ叡智 2022"}
 ,"chojin no eichi 2023" : {n:"超神ノ叡智 2023"}
 ,"chou kami no eichi 2023" : {n:"超神ノ叡智 2023"}
@@ -21893,6 +22163,7 @@ var tags_ejdic = {
 ,"motenaishi meguriau 4 in kyoto" : {n:"モテないし巡り会う4 in京都"}
 ,"motenaishi sokubaikai suru 11" : {n:"モテないし即売会する 11"}
 ,"motenaishi sokubaikai suru 14" : {n:"モテないし即売会する 14"}
+,"motenaishi sokubaikai suru 17" : {n:"モテないし即売会する 17"}
 ,"motenaishi sokubaikai suru 2" : {n:"モテないし即売会する 2"}
 ,"motenaishi sokubaikai suru 3" : {n:"モテないし即売会する 3"}
 ,"motenaishi sokubaikai suru 4" : {n:"モテないし即売会する 4"}
@@ -22126,6 +22397,7 @@ var tags_ejdic = {
 ,"zesshou stage 20" : {n:"絶唱ステージ20"}
 ,"zesshou stage 21" : {n:"絶唱ステージ21"}
 ,"zesshou stage 22" : {n:"絶唱ステージ22"}
+,"zesshou stage 25" : {n:"絶唱ステージ25"}
 ,"zesshou stage 5" : {n:"絶唱ステージ5"}
 ,"zesshou stage 6" : {n:"絶唱ステージ6"}
 ,"zesshou stage 7" : {n:"絶唱ステージ7"}
@@ -22140,6 +22412,7 @@ var tags_ejdic = {
 ,"senka no toki 14" : {n:"閃華の刻 14"}
 ,"senka no toki 18" : {n:"閃華の刻 18"}
 ,"senka no toki 18 toshiosame" : {n:"閃華の刻 18 年納"}
+,"senka no toki 19 -hatsuyume-" : {n:"閃華の刻 19 初夢"}
 ,"senka no toki 2" : {n:"閃華の刻 2"}
 ,"senka no toki 22" : {n:"閃華の刻 22"}
 ,"senka no toki 23" : {n:"閃華の刻 23"}
@@ -22155,16 +22428,19 @@ var tags_ejdic = {
 ,"senka no toki 7" : {n:"閃華の刻 7"}
 ,"senka no toki 9" : {n:"閃華の刻 9"}
 ,"senka no toki 9 toshiosame" : {n:"閃華の刻 9 年納"}
+,"senka no toki enrai 2024" : {n:"閃華の刻 遠雷 2024"}
 ,"senka no toki hibana 11" : {n:"閃華の刻 火華 11"}
 ,"senka no toki hibana 2017" : {n:"閃華の刻 火華 2017"}
 ,"senka no toki hibana 2019" : {n:"閃華の刻 火華 2019"}
 ,"senka no toki hibana 2020" : {n:"閃華の刻 火華 2020"}
 ,"senka no toki hibana 2021" : {n:"閃華の刻 火華 2021"}
+,"senka no toki hibana 2024" : {n:"閃華の刻 火華 2024"}
 ,"senka no toki zan" : {n:"閃華の刻 斬"}
 ,"senka natsu taisai 2019" : {n:"閃華夏大祭  2019"}
 ,"senka no haru taisai" : {n:"閃華春大祭"}
 ,"senka no haru taisai 2017" : {n:"閃華春大祭 2017"}
 ,"senka haru taisai 2018" : {n:"閃華春大祭 2018"}
+,"senka haru taisai 2020" : {n:"閃華春大祭 2020"}
 ,"senka no haru taisai 2021" : {n:"閃華春大祭 2021"}
 ,"senka no haru taisai 2021 -osaka-" : {n:"閃華春大祭 2021 大阪"}
 ,"senka no haru taisai 2022" : {n:"閃華春大祭 2022"}
@@ -22180,6 +22456,7 @@ var tags_ejdic = {
 ,"chou senka no toki 2022 natsu" : {n:"超閃華の刻 2022夏"}
 ,"chou senka no toki 2023 natsu" : {n:"超閃華の刻 2023夏"}
 ,"chou senka no toki 2024" : {n:"超閃華の刻 2024"}
+,"chou senka no toki 2026 fuyu" : {n:"超閃華の刻 2026冬"}
 ,"chou senka no toki 25" : {n:"超閃華の刻 25"}
 ,"chou senka no toki kansai 2017" : {n:"超閃華の刻 関西 2017"}
 ,"chou senka no toki kansai 2018" : {n:"超閃華の刻 関西 2018"}
@@ -22258,6 +22535,7 @@ var tags_ejdic = {
 ,"tsuki no utage 4" : {n:"月の宴4"}
 ,"tsuki no utage 5" : {n:"月の宴5"}
 ,"tsuki no utage 6" : {n:"月の宴6"}
+,"tsuki no utage 7" : {n:"月の宴7"}
 ,"tsuki no utage 8" : {n:"月の宴8"}
 ,"tsuki no utage 9" : {n:"月の宴9"}
 ,"gensoukyou summit" : {n:"幻想郷サミット"}
@@ -22287,7 +22565,9 @@ var tags_ejdic = {
 ,"shuuki reitaisai 11" : {n:"第11回博麗神社秋季例大祭"}
 ,"reitaisai 11" : {n:"第11回博麗神社例大祭"}
 ,"例大祭11" : {n:"第11回博麗神社例大祭"}
+,"shuuki reitaisai 12" : {n:"第12回博麗神社秋季例大祭"}
 ,"reitaisai 12" : {n:"第12回博麗神社例大祭"}
+,"例大祭12" : {n:"第12回博麗神社例大祭"}
 ,"reitaisai 13" : {n:"第13回博麗神社例大祭"}
 ,"reitaisai 14" : {n:"第14回博麗神社例大祭"}
 ,"例大祭14" : {n:"第14回博麗神社例大祭"}
@@ -22339,6 +22619,7 @@ var tags_ejdic = {
 ,"kouroumu 19" : {n:"東方紅楼夢 19"}
 ,"kouroumu 2" : {n:"東方紅楼夢 2"}
 ,"kouroumu 20" : {n:"東方紅楼夢 20"}
+,"kouroumu 21" : {n:"東方紅楼夢 21"}
 ,"kouroumu 3" : {n:"東方紅楼夢 3"}
 ,"kouroumu 4" : {n:"東方紅楼夢 4"}
 ,"kouroumu 5" : {n:"東方紅楼夢 5"}
@@ -22351,6 +22632,7 @@ var tags_ejdic = {
 ,"touhou goudou event 2023 fuyu!" : {n:"東方合同イベント2023冬！"}
 ,"touhou goudou saiji 3" : {n:"東方合同祭事3"}
 ,"touhou goudou saiji 5" : {n:"東方合同祭事5"}
+,"touhou goudou saiji 8" : {n:"東方合同祭事8"}
 ,"touhou kamuisai 4" : {n:"東方神居祭4"}
 ,"touhou shinrenju" : {n:"東方神蓮珠"}
 ,"touhou suikansai" : {n:"東方睡姦祭"}
@@ -22360,6 +22642,7 @@ var tags_ejdic = {
 ,"suukeisai 1" : {n:"東方崇敬祭 1"}
 ,"suukeisai 2" : {n:"東方崇敬祭 2"}
 ,"suukeisai 4" : {n:"東方崇敬祭 4"}
+,"touhou sugee matsuri" : {n:"東方素芸祭"}
 ,"touhou sugei matsuri" : {n:"東方素芸祭"}
 ,"touhou tougenkyou" : {n:"東方桃源郷"}
 ,"touhou tougenkyou3" : {n:"東方桃源郷3"}
@@ -22379,6 +22662,7 @@ var tags_ejdic = {
 ,"meikasai 16" : {n:"東方名華祭16"}
 ,"meikasai 17" : {n:"東方名華祭17"}
 ,"meikasai 18" : {n:"東方名華祭18"}
+,"meikasai 19" : {n:"東方名華祭19"}
 ,"meikasai 2" : {n:"東方名華祭2"}
 ,"meikasai 8" : {n:"東方名華祭8"}
 ,"meikasai 9" : {n:"東方名華祭9"}
@@ -22478,6 +22762,7 @@ var tags_ejdic = {
 ,"koimari9" : {n:"恋のまほうは魔理沙におまかせ! 9"}
 ,"kageki no utage" : {n:"華激ノ宴"}
 ,"kageki no utage 3 final" : {n:"華激ノ宴3 Final"}
+,"kageki no utage 3+1" : {n:"華激ノ宴3+1"}
 ,"muteki no love prince" : {n:"無敵のLOVEプリンス"}
 ,"muteki no love prince osaka 2" : {n:"無敵のLOVEプリンス 大阪2"}
 ,"muteki no love prince 2" : {n:"無敵のLOVEプリンス2"}
@@ -22498,7 +22783,10 @@ var tags_ejdic = {
 ,"aru toshokan nite 11" : {n:"或る図書館にて11"}
 ,"aru toshokan nite 6" : {n:"或る図書館にて6"}
 ,"aru toshokan nite 8" : {n:"或る図書館にて8"}
+,"over the galaxias" : {n:"OVER the GALAXIAS"}
 ,"over the galaxias 4" : {n:"OVER the GALAXIAS 4"}
+,"over the galaxias 5" : {n:"OVER the GALAXIAS 5"}
+,"over the galaxias 7" : {n:"OVER the GALAXIAS 7"}
 ,"over the galaxias gw2024" : {n:"OVER the GALAXIAS GW2024"}
 ,"chokkyuu remember sp2024" : {n:"直球リメンバー SP2024"}
 ,"chou bokutachi ga iru machi" : {n:"超僕たちがいる街"}
@@ -22540,6 +22828,7 @@ var tags_ejdic = {
 ,"douyara deban no youda! 42" : {n:"どうやら出番のようだ! 42"}
 ,"douyara deban no youda! 43" : {n:"どうやら出番のようだ! 43"}
 ,"douyara deban no youda! 44" : {n:"どうやら出番のようだ! 44"}
+,"douyara deban no youda! 48" : {n:"どうやら出番のようだ! 48"}
 ,"douyara deban no youda! 5" : {n:"どうやら出番のようだ! 5"}
 ,"douyara deban no youda! 6" : {n:"どうやら出番のようだ! 6"}
 ,"douyara deban no youda! 7" : {n:"どうやら出番のようだ! 7"}
@@ -22555,6 +22844,7 @@ var tags_ejdic = {
 ,"douyara deban no youda! ultra 2023" : {n:"どうやら出番のようだ! ULTRA 2023"}
 ,"deban no youda! ultra 2023 natsu" : {n:"どうやら出番のようだ! ULTRA 2023夏"}
 ,"deban no youda! ultra 2024" : {n:"どうやら出番のようだ! ULTRA 2024"}
+,"deban no youda! ultra 2025" : {n:"どうやら出番のようだ! ULTRA 2025"}
 ,"hanjuku hero life" : {n:"半熟ヒーローライフ"}
 ,"hanjuku hero life west" : {n:"半熟ヒーローライフ WEST"}
 ,"hanjuku hero life hiroshima 18" : {n:"半熟ヒーローライフ 広島18"}
@@ -22578,6 +22868,8 @@ var tags_ejdic = {
 ,"sobazuki no kimi, sobakasu na boku dr2022" : {n:"そば好きの君、そばかすな僕 DR2022"}
 ,"sobazuki no kimi, sobakasu na boku jb2023" : {n:"そば好きの君、そばかすな僕 JB2023"}
 ,"sobazuki no kimi, sobakasu na boku hoshi ni negai o. 2022" : {n:"そば好きの君、そばかすな僕 星願2022"}
+,"tonari no nitro 3" : {n:"となりのニトロ 3"}
+,"tonari no nitro 4" : {n:"となりのニトロ 4"}
 ,"tonari no nitro dr2022" : {n:"となりのニトロ DR2022"}
 ,"tonari no nitro dr2023" : {n:"となりのニトロ DR2023"}
 ,"osananajimi ni goyoujin! 2" : {n:"幼馴染にご用心! 2"}
@@ -22585,12 +22877,14 @@ var tags_ejdic = {
 ,"osananajimi ni goyoujin! 4" : {n:"幼馴染にご用心! 4"}
 ,"osananajimi ni goyoujin! 6" : {n:"幼馴染にご用心! 6"}
 ,"osananajimi ni goyoujin! 7" : {n:"幼馴染にご用心! 7"}
+,"osananajimi ni goyoujin! 9" : {n:"幼馴染にご用心! 9"}
 ,"osananajimi ni goyoujin! dr2022" : {n:"幼馴染にご用心! DR2022"}
 ,"osananajimi ni goyoujin! dr2023" : {n:"幼馴染にご用心! DR2023"}
 ,"osananajimi ni goyoujin! jb2021" : {n:"幼馴染にご用心! JB2021"}
 ,"osananajimi ni goyoujin! jb2023" : {n:"幼馴染にご用心! JB2023"}
 ,"osananajimi ni goyoujin! jb2024" : {n:"幼馴染にご用心! JB2024"}
 ,"osananajimi ni goyoujin! hoshi ni negai o. 2022" : {n:"幼馴染にご用心! 星願2022"}
+,"osananajimi ni goyoushin! seigan 2025" : {n:"幼馴染にご用心! 星願2025"}
 ,"bakugoi dynamite!" : {n:"爆恋ダイナマイト!"}
 ,"bakugoi dynamite! 3" : {n:"爆恋ダイナマイト!3"}
 ,"bakugoi dynamite! 4" : {n:"爆恋ダイナマイト!4"}
@@ -22599,6 +22893,7 @@ var tags_ejdic = {
 ,"watashi no toshokan toshi keikaku! 2" : {n:"わたしの図書館都市計画！2"}
 ,"watashi no toshokan toshi keikaku! 3" : {n:"わたしの図書館都市計画！3"}
 ,"watashi no toshokan toshi keikaku! 4" : {n:"わたしの図書館都市計画！4"}
+,"youkoso akuma gakkou e" : {n:"ようこそ悪魔学校へ"}
 ,"youkoso akuma gakkou e 2" : {n:"ようこそ悪魔学校へ 2"}
 ,"youkoso akuma gakkou e 4" : {n:"ようこそ悪魔学校へ 4"}
 ,"youkoso akuma gakkou e 8" : {n:"ようこそ悪魔学校へ 8"}
@@ -22606,6 +22901,7 @@ var tags_ejdic = {
 ,"prism record" : {n:"プリズムレコード"}
 ,"prism record 10" : {n:"プリズムレコード10"}
 ,"prism record 11" : {n:"プリズムレコード11"}
+,"prism record 13" : {n:"プリズムレコード13"}
 ,"prism record 2" : {n:"プリズムレコード2"}
 ,"prism record 3" : {n:"プリズムレコード3"}
 ,"prism record 4" : {n:"プリズムレコード4"}
@@ -22729,7 +23025,9 @@ var tags_ejdic = {
 ,"himitsu no ura kagyou 34" : {n:"秘密の裏稼業 34"}
 ,"himitsu no ura kagyou 35" : {n:"秘密の裏稼業 35"}
 ,"himitsu no ura kagyou 4" : {n:"秘密の裏稼業 4"}
+,"himitsu no ura kagyou 46" : {n:"秘密の裏稼業 46"}
 ,"himitsu no ura kagyou 5" : {n:"秘密の裏稼業 5"}
+,"himitsu no ura kagyou 52" : {n:"秘密の裏稼業 52"}
 ,"himitsu no ura kagyou 6" : {n:"秘密の裏稼業 6"}
 ,"himitsu no ura kagyou 9" : {n:"秘密の裏稼業 9"}
 ,"chou kanochi o mezashite 2019" : {n:"超彼の地をめざして 2019"}
@@ -22760,6 +23058,8 @@ var tags_ejdic = {
 ,"ore no turn 17" : {n:"俺のターン 17"}
 ,"ore no turn 18" : {n:"俺のターン 18"}
 ,"ore no turn 2" : {n:"俺のターン 2"}
+,"ore no turn 20" : {n:"俺のターン 20"}
+,"ore no turn 2017" : {n:"俺のターン 2017"}
 ,"ore no turn 2019" : {n:"俺のターン 2019"}
 ,"ore no turn 3" : {n:"俺のターン 3"}
 ,"ore no turn 4" : {n:"俺のターン 4"}
@@ -22878,6 +23178,7 @@ var tags_ejdic = {
 ,"link☆duelmaker" : {n:"Link☆Duelmaker"}
 ,"link☆duelmaker10" : {n:"Link☆Duelmaker 10"}
 ,"link☆duelmaker11" : {n:"Link☆Duelmaker 11"}
+,"link⭐︎duelmaker12" : {n:"Link☆Duelmaker 12"}
 ,"link☆duelmaker3" : {n:"Link☆Duelmaker 3"}
 ,"link duelmaker 4" : {n:"Link☆Duelmaker 4"}
 ,"link☆duelmaker 4" : {n:"Link☆Duelmaker 4"}
@@ -22898,6 +23199,7 @@ var tags_ejdic = {
 ,"unmei o michibiku access code west" : {n:"運命を導くアクセスコードWEST"}
 ,"unmei o michibiku akusesukōdo west" : {n:"運命を導くアクセスコードWEST"}
 ,"visa wa omochi desu ka?" : {n:"査証はおもちですかぁ？"}
+,"visa wa omochi desu ka? 15" : {n:"査証はおもちですかぁ？15"}
 ,"visa wa omochi desu ka? 6" : {n:"査証はおもちですかぁ？6"}
 ,"visa wa omochi desu ka? 7" : {n:"査証はおもちですかぁ？7"}
 ,"visa wa omochi desu ka? 8" : {n:"査証はおもちですかぁ？8"}
@@ -22935,12 +23237,15 @@ var tags_ejdic = {
 ,"spark14" : {n:"COMIC CITY SPARK 14"}
 ,"spark15" : {n:"COMIC CITY SPARK 15"}
 ,"spark16" : {n:"COMIC CITY SPARK 16"}
+,"comic city spark 17" : {n:"COMIC CITY SPARK 17"}
 ,"spark17" : {n:"COMIC CITY SPARK 17"}
 ,"comic city spark 18" : {n:"COMIC CITY SPARK 18"}
 ,"spark18" : {n:"COMIC CITY SPARK 18"}
 ,"comic city spark 19" : {n:"COMIC CITY SPARK 19"}
 ,"spark19" : {n:"COMIC CITY SPARK 19"}
 ,"spark2" : {n:"COMIC CITY SPARK 2"}
+,"comic city spark 20" : {n:"COMIC CITY SPARK 20"}
+,"spark20" : {n:"COMIC CITY SPARK 20"}
 ,"spark23" : {n:"COMIC CITY SPARK 23"}
 ,"spark25" : {n:"COMIC CITY SPARK 25"}
 ,"spark26" : {n:"COMIC CITY SPARK 26"}
@@ -23071,6 +23376,7 @@ var tags_ejdic = {
 ,"comic city tokyo 149" : {n:"COMIC CITY 東京 149"}
 ,"cctokyo150" : {n:"COMIC CITY 東京 150"}
 ,"comic city tokyo 151" : {n:"COMIC CITY 東京 151"}
+,"comic city tokyo 152" : {n:"COMIC CITY 東京 152"}
 ,"cctokyo56" : {n:"COMIC CITY 東京 56"}
 ,"cctokyo89" : {n:"COMIC CITY 東京 89"}
 ,"cctokyo95" : {n:"COMIC CITY 東京 95"}
@@ -23128,6 +23434,7 @@ var tags_ejdic = {
 ,"good comic city 24" : {n:"GOOD COMIC CITY 24"}
 ,"good comic24 city 24" : {n:"GOOD COMIC CITY 24"}
 ,"good comic city 25" : {n:"GOOD COMIC CITY 25"}
+,"good comic city 26" : {n:"GOOD COMIC CITY 26"}
 ,"good comic city 27" : {n:"GOOD COMIC CITY 27"}
 ,"good comic city 28" : {n:"GOOD COMIC CITY 28"}
 ,"good comic city 29" : {n:"GOOD COMIC CITY 29"}
@@ -23209,6 +23516,7 @@ var tags_ejdic = {
 ,"super27" : {n:"SUPER COMIC CITY 27"}
 ,"super28" : {n:"SUPER COMIC CITY 28"}
 ,"scc28 -ki-" : {n:"SUPER COMIC CITY 28 -起-"}
+,"super28 -shou-" : {n:"SUPER COMIC CITY 28 -承-"}
 ,"super28 -ten-" : {n:"SUPER COMIC CITY 28 -転-"}
 ,"scc29" : {n:"SUPER COMIC CITY 29"}
 ,"super comic city 29" : {n:"SUPER COMIC CITY 29"}
@@ -23216,11 +23524,14 @@ var tags_ejdic = {
 ,"super3" : {n:"SUPER COMIC CITY 3"}
 ,"super comic city 30" : {n:"SUPER COMIC CITY 30"}
 ,"super30" : {n:"SUPER COMIC CITY 30"}
+,"super comic city 30 osaka" : {n:"SUPER COMIC CITY 30 大阪"}
 ,"super comic city 31" : {n:"SUPER COMIC CITY 31"}
 ,"super31" : {n:"SUPER COMIC CITY 31"}
 ,"scc32" : {n:"SUPER COMIC CITY 32"}
+,"super comic city 32" : {n:"SUPER COMIC CITY 32"}
 ,"super32" : {n:"SUPER COMIC CITY 32"}
 ,"super comic city 32 -day2-" : {n:"SUPER COMIC CITY 32 2日目"}
+,"super comic city 33" : {n:"SUPER COMIC CITY 33"}
 ,"super4" : {n:"SUPER COMIC CITY 4"}
 ,"super6" : {n:"SUPER COMIC CITY 6"}
 ,"super7" : {n:"SUPER COMIC CITY 7"}
@@ -23239,6 +23550,7 @@ var tags_ejdic = {
 ,"superkansai19" : {n:"SUPER COMIC CITY 関西 19"}
 ,"scc kansai 20" : {n:"SUPER COMIC CITY 関西 20"}
 ,"superkansai20" : {n:"SUPER COMIC CITY 関西 20"}
+,"scc関西21" : {n:"SUPER COMIC CITY 関西 21"}
 ,"superkansai21" : {n:"SUPER COMIC CITY 関西 21"}
 ,"superkansai22" : {n:"SUPER COMIC CITY 関西 22"}
 ,"superkansai23" : {n:"SUPER COMIC CITY 関西 23"}
@@ -23264,6 +23576,7 @@ var tags_ejdic = {
 ,"cwt29" : {n:"Comic World 台湾 29"}
 ,"cwt31" : {n:"Comic World 台湾 31"}
 ,"cwt32" : {n:"Comic World 台湾 32"}
+,"cw34" : {n:"Comic World 台湾 34"}
 ,"cwt35" : {n:"Comic World 台湾 35"}
 ,"cwt36" : {n:"Comic World 台湾 36"}
 ,"cwt37" : {n:"Comic World 台湾 37"}
@@ -23289,6 +23602,7 @@ var tags_ejdic = {
 ,"comic1☆15" : {n:"COMIC1☆15"}
 ,"comic1☆16" : {n:"COMIC1☆16"}
 ,"comic1☆17" : {n:"COMIC1☆17"}
+,"comic1☆18" : {n:"COMIC1☆18"}
 ,"comic1☆19" : {n:"COMIC1☆19"}
 ,"comic1☆02" : {n:"COMIC1☆2"}
 ,"comic1☆2" : {n:"COMIC1☆2"}
@@ -23301,6 +23615,8 @@ var tags_ejdic = {
 ,"comic1☆25" : {n:"COMIC1☆25"}
 ,"comic1☆26" : {n:"COMIC1☆26"}
 ,"comic1☆27" : {n:"COMIC1☆27"}
+,"comic 1☆ 28" : {n:"COMIC1☆28"}
+,"comic1☆28" : {n:"COMIC1☆28"}
 ,"comic1☆03" : {n:"COMIC1☆3"}
 ,"comic1☆3" : {n:"COMIC1☆3"}
 ,"(comic1☆4" : {n:"COMIC1☆4"}
@@ -23403,8 +23719,13 @@ var tags_ejdic = {
 ,"sc2024 summer" : {n:"サンクリ2024夏"}
 ,"sc2024 autumn" : {n:"サンクリ2024秋"}
 ,"sc2024 spring" : {n:"サンクリ2024春"}
+,"sc2025 in kyoto" : {n:"サンクリ2025 in京都"}
 ,"sc2025 summer" : {n:"サンクリ2025夏"}
+,"sc2025 autumn" : {n:"サンクリ2025秋"}
+,"sc2025 spring" : {n:"サンクリ2025春"}
+,"sc025 winter" : {n:"サンクリ2025冬"}
 ,"sc2025 winter" : {n:"サンクリ2025冬"}
+,"sc2026 spring" : {n:"サンクリ2026春"}
 ,"comic creation 21" : {n:"サンクリ21"}
 ,"sc21" : {n:"サンクリ21"}
 ,"comic creation 22" : {n:"サンクリ22"}
@@ -23559,7 +23880,10 @@ var tags_ejdic = {
 ,"ct44" : {n:"こみトレ44"}
 ,"comic treasure 45" : {n:"こみトレ45"}
 ,"ct45" : {n:"こみトレ45"}
+,"comic treasure 46" : {n:"こみトレ46"}
 ,"ct46" : {n:"こみトレ46"}
+,"comic treasure 47" : {n:"こみトレ47"}
+,"ct47" : {n:"こみトレ47"}
 ,"ct5" : {n:"こみトレ5"}
 ,"ct6" : {n:"こみトレ6"}
 ,"ct7" : {n:"こみトレ7"}
@@ -23589,7 +23913,10 @@ var tags_ejdic = {
 ,"c107" : {n:"C107"}
 ,"c11" : {n:"C11"}
 ,"c12" : {n:"C12"}
+,"c13" : {n:"C13"}
 ,"c14" : {n:"C14"}
+,"c17" : {n:"C17"}
+,"c18" : {n:"C18"}
 ,"c19" : {n:"C19"}
 ,"c21" : {n:"C21"}
 ,"c23" : {n:"C23"}
@@ -23660,6 +23987,7 @@ var tags_ejdic = {
 ,"c82" : {n:"C82"}
 ,"c83" : {n:"C83"}
 ,"c84" : {n:"C84"}
+,"comiket 83" : {n:"C84"}
 ,"c85" : {n:"C85"}
 ,"c86" : {n:"C86"}
 ,"c87" : {n:"C87"}
@@ -23763,10 +24091,13 @@ var tags_ejdic = {
 ,"comitia148" : {n:"コミティア 148"}
 ,"comitia149" : {n:"コミティア 149"}
 ,"comitia150" : {n:"コミティア 150"}
+,"コミティア150" : {n:"コミティア 150"}
 ,"comitia151" : {n:"コミティア 151"}
 ,"comitia152" : {n:"コミティア 152"}
 ,"comitia153" : {n:"コミティア 153"}
 ,"comitia154" : {n:"コミティア 154"}
+,"comitia155" : {n:"コミティア 155"}
+,"comitia156" : {n:"コミティア 156"}
 ,"comitia27" : {n:"コミティア 27"}
 ,"comitia29" : {n:"コミティア 29"}
 ,"comitia33" : {n:"コミティア 33"}
@@ -23827,10 +24158,12 @@ var tags_ejdic = {
 ,"kansai comitia45" : {n:"関西コミティア 45"}
 ,"kansai comitia48" : {n:"関西コミティア 48"}
 ,"kansai comitia56" : {n:"関西コミティア 56"}
+,"kansaicomitia61" : {n:"関西コミティア 61"}
 ,"関西comitia61" : {n:"関西コミティア 61"}
 ,"kansai comitia62" : {n:"関西コミティア 62"}
 ,"kansai comitia68" : {n:"関西コミティア 68"}
 ,"kansai comitia 71" : {n:"関西コミティア 71"}
+,"kansai comitia73" : {n:"関西コミティア 73"}
 ,"hokkaido comitia10" : {n:"北海道コミティア 10"}
 ,"hokkaido comitia 6" : {n:"北海道コミティア 6"}
 ,"hokkaidou comitia 8" : {n:"北海道コミティア 8"}
@@ -23912,7 +24245,7 @@ var tags_ejdic = {
 ,"pf28" : {n:"Petit Fancy 28"}
 ,"pf29" : {n:"Petit Fancy 29"}
 ,"pf30" : {n:"Petit Fancy 30"}
-,"pf40" : {n:"Petit Fancy 40"}
+,"pf42" : {n:"Petit Fancy 42"}
 ,"comic horizon 16" : {n:"Comic Horizon 16"}
 ,"comic horizon 16いつか一緒に輝いて－百合向only" : {n:"Comic Horizon 16"}
 ,"comic horizon 18 いつか一緒に輝いて－百合向only" : {n:"Comic Horizon 18"}
@@ -23957,6 +24290,7 @@ var tags_ejdic = {
 ,"ff43" : {n:"Fancy Frontier 43"}
 ,"ff44" : {n:"Fancy Frontier 44"}
 ,"ff45" : {n:"Fancy Frontier 45"}
+,"ff46" : {n:"Fancy Frontier 46"}
 ,"ff6" : {n:"Fancy Frontier 6"}
 ,"ff9" : {n:"Fancy Frontier 9"}
 ,"comic stream 1" : {n:"Comic Stream 1"}
@@ -23970,6 +24304,7 @@ var tags_ejdic = {
 ,"comic memories 03" : {n:"Comic Memories 3"}
 ,"comic generation" : {n:"Comic★Generation"}
 ,"gw chou doujinsai" : {n:"GW超同人祭"}
+,"gw chou doujin-sai" : {n:"GW超同人祭"}
 ,"jb2024" : {n:"JB2024"}
 ,"tokyo fes aug.2023" : {n:"TOKYO FES Aug. 2023"}
 ,"tokyo fes feb.2018" : {n:"TOKYO FES Feb. 2018"}
@@ -23980,6 +24315,8 @@ var tags_ejdic = {
 ,"tokyo fes feb.2024" : {n:"TOKYO FES Feb. 2024"}
 ,"tokyo fes jan.2019" : {n:"TOKYO FES Jan. 2019"}
 ,"tokyo fes jan.2025" : {n:"TOKYO FES Jan. 2025"}
+,"tokyo fes jan 2026" : {n:"TOKYO FES Jan. 2026"}
+,"tokyo fes jan.2026" : {n:"TOKYO FES Jan. 2026"}
 ,"tokyo fes jul.2019" : {n:"TOKYO FES Jul. 2019"}
 ,"tokyo fes jul.2021" : {n:"TOKYO FES Jul. 2021"}
 ,"tokyo fes jul.2024" : {n:"TOKYO FES Jul. 2024"}
@@ -23988,6 +24325,9 @@ var tags_ejdic = {
 ,"tokyo fes oct.2023" : {n:"TOKYO FES Oct. 2023"}
 ,"tokyo fes sep.2022" : {n:"TOKYO FES Sep. 2022"}
 ,"tokyo fes sep.2024" : {n:"TOKYO FES Sep. 2024"}
+,"tokyo fes sep 2025" : {n:"TOKYO FES Sep. 2025"}
+,"tokyo fes sep. 2025" : {n:"TOKYO FES Sep. 2025"}
+,"tokyo fes sep.2025" : {n:"TOKYO FES Sep. 2025"}
 ,"zenkoku3" : {n:"zenkoku 3"}
 ,"zenkoku4" : {n:"zenkoku 4"}
 ,"zenkoku5" : {n:"zenkoku 5"}
@@ -24002,6 +24342,7 @@ var tags_ejdic = {
 ,"hoshi ni negai o 2" : {n:"星願 2"}
 ,"hoshi ni nagai o. 2022" : {n:"星願 2022"}
 ,"hoshi ni negai o 2025" : {n:"星願 2025"}
+,"hoshinin egai wo 2025 - day 1 -" : {n:"星願 2025"}
 ,"area 27 soudatsu sensen" : {n:"エリア27争奪戦線"}
 };
 var chars_ejdic = {
@@ -24109,6 +24450,7 @@ var chars_ejdic = {
 ,"alexandrina sebastiane" : {v:"アレクサンドリナ・セバスチャン"}
 ,"alexis rhodes" : {v:"天上院明日香"}
 ,"algerie" : {v:"アルジェリー", m:{"azur lane" : "アルジェリー(MNF Algérie)"}}
+,"alhaitham" : {v:"アルハイゼン"}
 ,"alibaba saluja" : {v:"アリババ・サルージャ"}
 ,"alice liddell" : {v:"アリス・リデル"}
 ,"alice margatroid" : {v:"アリス・マーガトロイド"}
@@ -24121,12 +24463,14 @@ var chars_ejdic = {
 ,"allister" : {v:"アリスター", m:{"genshin impact" : "主人公(炎)", "pokemon" : "オニオン"}}
 ,"alsace" : {v:"アルザス", m:{"azur lane" : "アルザス(FFNF Alsace)"}}
 ,"altina orion" : {v:"アルティナ・オライオン"}
+,"alvitr" : {v:"アルヴィト(KMS Alvitr)"}
 ,"amagi" : {v:"天城", m:{"azur lane" : "天城(IJN Amagi)"}}
 ,"amagiri" : {v:"天霧"}
 ,"amamiya kokoro" : {v:"天宮こころ"}
 ,"amana osaki" : {v:"大崎甘奈"}
 ,"amanda" : {v:"アマンダ", m:{"pokemon" : "メグミ"}}
 ,"amane kanata" : {v:"天音かなた"}
+,"amate yuzuriha" : {v:"アマテ・ユズリハ"}
 ,"amatsukaze" : {v:"天津風"}
 ,"amazon" : {v:"アマゾン(HMS Amazon)"}
 ,"amber" : {v:"アンバー"}
@@ -24154,6 +24498,7 @@ var chars_ejdic = {
 ,"anna hiiragi" : {v:"柊杏奈"}
 ,"anna mochizuki" : {v:"望月杏奈"}
 ,"anna yamada" : {v:"山田杏奈"}
+,"anna yanami" : {v:"八奈見杏菜"}
 ,"anne takamaki" : {v:"高巻杏"}
 ,"annie leonhart" : {v:"アニ・レオンハート"}
 ,"annihilape" : {v:"コノヨザル"}
@@ -24198,6 +24543,7 @@ var chars_ejdic = {
 ,"arisu tachibana" : {v:"橘ありす"}
 ,"arizona" : {v:"アリゾナ(USS Arizona)"}
 ,"ark royal" : {v:"アーク・ロイヤル", m:{"kantai collection" : "Ark Royal(アークロイヤル)", "azur lane" : "アーク・ロイヤル(HMS Ark Royal)"}}
+,"arkhangelsk" : {v:"アルハンゲリスク(SN Arkhangelsk)"}
 ,"arle nadja" : {v:"アルル・ナジャ"}
 ,"arlecchino" : {v:"アルレッキーノ"}
 ,"armarouge" : {v:"グレンアルマ"}
@@ -24215,6 +24561,7 @@ var chars_ejdic = {
 ,"asahi" : {v:"朝日", m:{"shin megami tensei" : "アサヒ"}}
 ,"asahi serizawa" : {v:"芹沢あさひ"}
 ,"asakaze" : {v:"朝風"}
+,"asami gondou" : {v:"権藤アサミ"}
 ,"asanagi" : {v:"朝凪(IJN Asanagi)"}
 ,"asashimo" : {v:"朝霜"}
 ,"asashio" : {v:"朝潮", m:{"azur lane" : "朝潮(IJN Asashio)"}}
@@ -24290,6 +24637,7 @@ var chars_ejdic = {
 ,"barnaby brooks jr." : {v:"バーナビー・ブルックスJr."}
 ,"barry" : {v:"バリー", m:{"pokemon" : "ジュン"}}
 ,"basculegion" : {v:"イダイトウ"}
+,"bataan" : {v:"バターン(USS Bataan)"}
 ,"batai" : {v:"蒲公英(馬岱)"}
 ,"bayleef" : {v:"ベイリーフ"}
 ,"bayonetta" : {v:"ベヨネッタ"}
@@ -24393,6 +24741,7 @@ var chars_ejdic = {
 ,"cassandra alexandra" : {v:"カサンドラ・アレクサンドル"}
 ,"caster" : {v:"キャスター", m:{"fate stay night" : "メディア(キャスター)", "fate hollow ataraxia" : "メディア(キャスター)", "fate zero" : "ジル・ド・レェ(キャスター)", "fate extra" : "玉藻の前(キャスター)", "fate apocrypha" : "アヴィケブロン、シェイクスピア(キャスター)", "fate prototype" : "メディア(キャスター)"}}
 ,"castorice" : {v:"キャストリス"}
+,"caterpie" : {v:"キャタピー"}
 ,"cathy graham" : {v:"キャシー・グラハム"}
 ,"cattleya" : {v:"カトレア"}
 ,"catura" : {v:"シャトラ"}
@@ -24439,6 +24788,7 @@ var chars_ejdic = {
 ,"chie sasaki" : {v:"佐々木千枝"}
 ,"chie satonaka" : {v:"里中千枝"}
 ,"chieko honda" : {v:"本田智恵子"}
+,"chien-pao" : {v:"パオジアン"}
 ,"chieri ogata" : {v:"緒方智絵里"}
 ,"chifuyu orimura" : {v:"織斑千冬"}
 ,"chiharu mihara" : {v:"三原千春"}
@@ -24450,6 +24800,7 @@ var chars_ejdic = {
 ,"chii" : {v:"ちぃ"}
 ,"chika fujiwara" : {v:"藤原千花"}
 ,"chika itou" : {v:"伊藤千佳"}
+,"chika komari" : {v:"小鞠知花"}
 ,"chika misumi" : {v:"三角千歌"}
 ,"chika takami" : {v:"高海千歌"}
 ,"chika yokoyama" : {v:"横山千佳"}
@@ -24514,10 +24865,12 @@ var chars_ejdic = {
 ,"clarice" : {v:"クラリス"}
 ,"clarisse" : {v:"クラリス"}
 ,"clavell" : {v:"クラベル"}
+,"clefable" : {v:"ピクシー"}
 ,"clefairy" : {v:"ピッピ"}
 ,"clemont" : {v:"クレモント", m:{"pokemon" : "シトロン"}}
 ,"cleric" : {v:"僧侶"}
 ,"cleveland" : {v:"クリーブランド", m:{"azur lane" : "クリーブランド(USS Cleveland)"}}
+,"clodsire" : {v:"ドオー"}
 ,"clorinde" : {v:"クロリンデ"}
 ,"cloud strife" : {v:"クラウド・ストライフ"}
 ,"clownpiece" : {v:"クラウンピース"}
@@ -24546,6 +24899,7 @@ var chars_ejdic = {
 ,"cotaro yazawa" : {v:"矢澤虎太郎"}
 ,"courtney" : {v:"コートニー", m:{"pokemon" : "カガリ"}}
 ,"cow girl" : {v:"牛飼娘"}
+,"cradily" : {v:"ユレイドル"}
 ,"crawdaunt" : {v:"シザリガー"}
 ,"cress" : {v:"クレス", m:{"pokemon" : "コーン"}}
 ,"cresselia" : {v:"クレセリア"}
@@ -24670,6 +25024,7 @@ var chars_ejdic = {
 ,"dendra" : {v:"デンドラ", m:{"pokemon" : "キハダ"}}
 ,"denji" : {v:"デンジ"}
 ,"denver" : {v:"デンバー(USS Denver)"}
+,"deoxys" : {v:"デオキシス"}
 ,"deutschland" : {v:"ドイッチュラント", m:{"azur lane" : "ドイッチュラント(KMS Deutschland)"}}
 ,"dewgong" : {v:"ジュゴン"}
 ,"dewott" : {v:"フタチマル"}
@@ -24684,6 +25039,7 @@ var chars_ejdic = {
 ,"dizzy" : {v:"ディズィー", m:{"animal crossing" : "ヒュージ"}}
 ,"djeeta" : {v:"ジータ"}
 ,"doctor" : {v:"ドクター"}
+,"dola" : {v:"ドーラ"}
 ,"dondozo" : {v:"ヘイラッシャ"}
 ,"doremi harukaze" : {v:"春風どれみ"}
 ,"doremy sweet" : {v:"ドレミー・スイート"}
@@ -24710,6 +25066,7 @@ var chars_ejdic = {
 ,"dusknoir" : {v:"ヨノワール"}
 ,"dustox" : {v:"ドクケイル"}
 ,"dusty" : {v:"ルイン"}
+,"eagle" : {v:"イーグル(HMS Eagle)"}
 ,"eas" : {v:"イース(東せつな)"}
 ,"echidna" : {v:"エキドナ", m:{"queens blade" : "歴戦の傭兵エキドナ"}}
 ,"echo" : {v:"エコー", m:{"azur lane" : "エコー(HMS Echo)"}}
@@ -24761,6 +25118,7 @@ var chars_ejdic = {
 ,"ena ayase" : {v:"綾瀬恵那"}
 ,"enamorus" : {v:"ラブトロス"}
 ,"england" : {v:"イングランド"}
+,"enoko mitsugashira" : {v:"三頭慧ノ子"}
 ,"entei" : {v:"エンテイ"}
 ,"enterprise" : {v:"エンタープライズ", m:{"azur lane" : "エンタープライズ(USS Enterprise)"}}
 ,"erasa" : {v:"イレーザ"}
@@ -24816,6 +25174,7 @@ var chars_ejdic = {
 ,"fate testarossa" : {v:"フェイト・テスタロッサ"}
 ,"fei yuen" : {v:"飛雲", m:{"azur lane" : "飛雲(ROC Fei Yuen)"}}
 ,"felicia" : {v:"フェリシア"}
+,"felix schultz" : {v:"フィリックス・シュルツ(KMS Felix Schultz)"}
 ,"fennekin" : {v:"フォッコ"}
 ,"fennel" : {v:"マコモ"}
 ,"feower" : {v:"カトル"}
@@ -24892,6 +25251,7 @@ var chars_ejdic = {
 ,"fuuka ayase" : {v:"綾瀬風香"}
 ,"fuuko kurasaki" : {v:"倉崎楓子(スカイ・レイカー)"}
 ,"fuutarou uesugi" : {v:"上杉風太郎"}
+,"fuwawa abyssgard" : {v:"フワワ・アビスガード"}
 ,"fuyuko mayuzumi" : {v:"黛冬優子"}
 ,"fuyutsuki" : {v:"冬月", m:{"neon genesis evangelion" : "冬月コウゾウ"}}
 ,"gabby" : {v:"マリ"}
@@ -24923,6 +25283,7 @@ var chars_ejdic = {
 ,"genjii" : {v:"玄爺"}
 ,"genjyo sanzo" : {v:"玄奘三蔵"}
 ,"gentoku ryuubi" : {v:"桃香(劉備 玄徳)"}
+,"geodude" : {v:"イシツブテ"}
 ,"georgia" : {v:"ジョージア", m:{"pokemon" : "ラングレー", "azur lane" : "ジョージア(USS Georgia)"}}
 ,"gertrud barkhorn" : {v:"ゲルトルート・バルクホルン"}
 ,"ghislaine dedoldia" : {v:"ギレーヌ・デドルディア"}
@@ -24940,6 +25301,7 @@ var chars_ejdic = {
 ,"glaceon" : {v:"グレイシア"}
 ,"glacia" : {v:"プリム"}
 ,"gladion" : {v:"グラジオ"}
+,"glastrier" : {v:"ブリザポス"}
 ,"gliscor" : {v:"グライオン"}
 ,"gloria" : {v:"グロリア", m:{"pokemon" : "ユウリ", "animal crossing" : "スワンソン"}}
 ,"glorious" : {v:"グロリアス", m:{"azur lane" : "グロリアス(HMS Glorious)"}}
@@ -25084,12 +25446,14 @@ var chars_ejdic = {
 ,"heles" : {v:"ヘルエス"}
 ,"heliolisk" : {v:"エレザード"}
 ,"henrietta de tristain" : {v:"アンリエッタ・ド・トリステイン"}
+,"herdier" : {v:"ハーデリア"}
 ,"hermione" : {v:"ハーマイオニー", m:{"azur lane" : "ハーマイオニー(HMS Hermione)"}}
 ,"hero" : {v:"ヒーロー(HMS Hero)", m:{"dragon quest iii" : "勇者", "dragon quest" : "勇者", "etrian odyssey" : "ヒーロー", "goblin slayer" : "ゴブリンスレイヤー", "omori" : "ヒロ"}}
 ,"hestia" : {v:"ヘスティア"}
 ,"hex maniac" : {v:"オカルトマニア"}
 ,"heywood l.e." : {v:"Heywood L.E.(ヘイウッド)"}
 ,"hibari" : {v:"ヒバリ", m:{"one piece" : "ひばり", "senran kagura" : "雲雀", "river city girls" : "ひばり"}}
+,"hibari hanakoganei" : {v:"放虎原ひばり"}
 ,"hibiki" : {v:"響", m:{"azur lane" : "響(IJN Hibiki)", "gundam build fighters try" : "ヒビキ"}}
 ,"hibiki ganaha" : {v:"我那覇響"}
 ,"hibiki nekozuka" : {v:"猫塚ヒビキ"}
@@ -25367,6 +25731,7 @@ var chars_ejdic = {
 ,"kai nishijima" : {v:"西島櫂"}
 ,"kaito" : {v:"KAITO", m:{"ajin" : "海斗"}}
 ,"kajika" : {v:"鰍"}
+,"kaju nukumizu" : {v:"温水佳樹"}
 ,"kakashi hatake" : {v:"はたけカカシ"}
 ,"kakei mihaya" : {v:"掛居美早(ブラッド・レパード)"}
 ,"kako" : {v:"加古", m:{"azur lane" : "加古(IJN Kako)"}}
@@ -25412,6 +25777,7 @@ var chars_ejdic = {
 ,"karamatsu matsuno" : {v:"松野カラ松"}
 ,"karen" : {v:"カレン", m:{"pokemon" : "カリン"}}
 ,"karen araragi" : {v:"阿良々木火憐"}
+,"karen himemiya" : {v:"姫宮華恋"}
 ,"karen hojo" : {v:"北条加蓮"}
 ,"karen shinomiya" : {v:"篠宮可憐"}
 ,"kari kamiya" : {v:"八神ヒカリ"}
@@ -25444,6 +25810,7 @@ var chars_ejdic = {
 ,"kazagumo" : {v:"風雲", m:{"azur lane" : "風雲(IJN Kazagumo)"}}
 ,"kazama iroha" : {v:"風真いろは"}
 ,"kazari uiharu" : {v:"初春飾利"}
+,"kazuhiko nukumizu" : {v:"温水和彦"}
 ,"kazuma ikezawa" : {v:"池沢佳主馬"}
 ,"kazuma satou" : {v:"佐藤和真"}
 ,"kazumi asakura" : {v:"朝倉和美"}
@@ -25457,6 +25824,7 @@ var chars_ejdic = {
 ,"kei" : {v:"ケイ"}
 ,"kei kusanagi" : {v:"草薙桂"}
 ,"kei shirogane" : {v:"白銀圭"}
+,"kei tendou" : {v:"天童ケイ"}
 ,"keiichi maebara" : {v:"前原圭一"}
 ,"keiichi morisato" : {v:"森里螢一"}
 ,"keika kiyotaki" : {v:"清滝桂香"}
@@ -25590,6 +25958,7 @@ var chars_ejdic = {
 ,"krillin" : {v:"クリリン"}
 ,"kris" : {v:"クリス"}
 ,"krista lenz" : {v:"クリスタ・レンズ"}
+,"krokorok" : {v:"ワルビル"}
 ,"kronshtadt" : {v:"クロンシュタット", m:{"azur lane" : "クロンシュタット(SN Kronshtadt)"}}
 ,"krystal" : {v:"クリスタル"}
 ,"ku fei" : {v:"古菲"}
@@ -25646,6 +26015,7 @@ var chars_ejdic = {
 ,"lanzhu zhong" : {v:"鐘嵐珠"}
 ,"laplus darknesss" : {v:"ラプラス・ダークネス"}
 ,"lapras" : {v:"ラプラス"}
+,"larry" : {v:"アオキ(セキネ)"}
 ,"latias" : {v:"ラティアス"}
 ,"latifa fleuranza" : {v:"ラティファ・フルーランザ"}
 ,"latios" : {v:"ラティオス"}
@@ -25664,6 +26034,7 @@ var chars_ejdic = {
 ,"leina vance" : {v:"レイナ・ヴァンス"}
 ,"leipzig" : {v:"ライプツィヒ", m:{"azur lane" : "ライプツィヒ(KMS Leipzig)"}}
 ,"lelouch vi britannia" : {v:"ルルーシュ・ランペルージ"}
+,"lemon yakishio" : {v:"焼塩檸檬"}
 ,"len kagamine" : {v:"鏡音レン"}
 ,"lenora" : {v:"レノラ", m:{"pokemon" : "アロエ"}}
 ,"leon" : {v:"レオン", m:{"the idolmaster" : "玲音", "pokemon" : "ダンデ"}}
@@ -25779,6 +26150,7 @@ var chars_ejdic = {
 ,"maki konuri" : {v:"小塗マキ"}
 ,"maki nishikino" : {v:"西木野真姫"}
 ,"maki shijo" : {v:"四条眞妃"}
+,"maki zenin" : {v:"禪院真希"}
 ,"makie sasaki" : {v:"佐々木まき絵"}
 ,"makigumo" : {v:"巻雲"}
 ,"makiko oriotorai" : {v:"オリオトライ・真喜子"}
@@ -26051,12 +26423,15 @@ var chars_ejdic = {
 ,"mizuki kawashima" : {v:"川島瑞樹"}
 ,"mizuki makabe" : {v:"真壁瑞希"}
 ,"mochizuki" : {v:"望月"}
+,"mococo abyssgard" : {v:"モココ・アビスガード"}
 ,"moe kazekura" : {v:"風倉モエ"}
+,"moeha fujiwara" : {v:"藤原萌葉"}
 ,"mogador" : {v:"モガドール", m:{"kantai collection" : "Mogador(モガドール)", "azur lane" : "モガドール(MNF Mogador)"}}
 ,"mogami" : {v:"最上", m:{"azur lane" : "最上(IJN Mogami)"}}
 ,"momiji akiizumi" : {v:"秋泉モミジ"}
 ,"momiji inubashiri" : {v:"犬走椛"}
 ,"momo" : {v:"モモ", m:{"xenosaga" : "モモ(M.O.M.O.)", "idolish7" : "百"}}
+,"momo ayase" : {v:"綾瀬桃"}
 ,"momo chiyoda" : {v:"千代田桃"}
 ,"momo kawashima" : {v:"河嶋桃"}
 ,"momo velia deviluke" : {v:"モモ・ベリア・デビルーク"}
@@ -26220,6 +26595,7 @@ var chars_ejdic = {
 ,"nier" : {v:"ニーア"}
 ,"nightingale" : {v:"ナイチンゲール"}
 ,"nihilego" : {v:"ウツロイド"}
+,"niizuki" : {v:"新月(IJN Niizuki)"}
 ,"nijika ijichi" : {v:"伊地知虹夏"}
 ,"nikki" : {v:"クニミ"}
 ,"niko" : {v:"ニコ"}
@@ -26304,6 +26680,7 @@ var chars_ejdic = {
 ,"orange pekoe" : {v:"オレンジペコ"}
 ,"orihime inoue" : {v:"井上織姫"}
 ,"ortega" : {v:"オルティガ"}
+,"orthworm" : {v:"ミミズズ"}
 ,"osaka" : {v:"春日歩(大阪)"}
 ,"osakabehime" : {v:"刑部姫"}
 ,"oshawott" : {v:"ミジュマル"}
@@ -26333,6 +26710,7 @@ var chars_ejdic = {
 ,"passionlip" : {v:"パッションリップ"}
 ,"patchouli knowledge" : {v:"パチュリー・ノーレッジ"}
 ,"pawmi" : {v:"パモ"}
+,"pawmot" : {v:"パーモット"}
 ,"payila" : {v:"ハイラ"}
 ,"pecharunt" : {v:"モモワロウ"}
 ,"pecorine" : {v:"ぺコリーヌ"}
@@ -26428,6 +26806,7 @@ var chars_ejdic = {
 ,"raku ichijou" : {v:"一条楽"}
 ,"ralts" : {v:"ラルトス"}
 ,"ram" : {v:"ラム"}
+,"rampardos" : {v:"ラムパルド"}
 ,"ran mouri" : {v:"毛利蘭"}
 ,"ran yakumo" : {v:"八雲藍"}
 ,"rana" : {v:"ラナ", m:{"mega man star force" : "ラーナ", "langrisser" : "ラーナ"}}
@@ -26856,11 +27235,13 @@ var chars_ejdic = {
 ,"shioriko mifune" : {v:"三船栞子"}
 ,"shirabe tsukuyomi" : {v:"月読調"}
 ,"shirakami fubuki" : {v:"白上フブキ"}
+,"shirakumo" : {v:"白雲"}
 ,"shiranui" : {v:"不知火", m:{"azur lane" : "不知火(IJN Shiranui)"}}
 ,"shiranui flare" : {v:"不知火フレア"}
 ,"shiranui mizuki" : {v:"水城不知火"}
 ,"shiratsuyu" : {v:"白露", m:{"azur lane" : "白露(IJN Shiratsuyu)"}}
 ,"shirayuki" : {v:"白雪", m:{"azur lane" : "白雪(IJN Shirayuki)"}}
+,"shirayuki tomoe" : {v:"白雪巴"}
 ,"shirley fenette" : {v:"シャーリー・フェネット"}
 ,"shirogane noel" : {v:"白銀ノエル"}
 ,"shiroko sunaookami" : {v:"砂狼シロコ"}
@@ -26972,6 +27353,7 @@ var chars_ejdic = {
 ,"squirtle" : {v:"ゼニガメ"}
 ,"st. louis" : {v:"セントルイス(USS St.Louis)"}
 ,"stanly" : {v:"スタンリー(USS Stanly)"}
+,"stantler" : {v:"オドシシ"}
 ,"star sapphire" : {v:"スターサファイア"}
 ,"stark" : {v:"シュタルク"}
 ,"starmie" : {v:"スターミー"}
@@ -26982,6 +27364,7 @@ var chars_ejdic = {
 ,"steven stone" : {v:"ツワブキダイゴ"}
 ,"stheno" : {v:"ステンノ"}
 ,"stocking anarchy" : {v:"アナーキー・ストッキング"}
+,"strasbourg" : {v:"ストラスブール(MNF Strasbourg)"}
 ,"sturm" : {v:"スツルム"}
 ,"subaru nagayoshi" : {v:"永吉昴"}
 ,"subaru nakajima" : {v:"スバル・ナカジマ"}
@@ -27025,6 +27408,7 @@ var chars_ejdic = {
 ,"swanna" : {v:"スワンナ"}
 ,"swiftsure" : {v:"スウィフトシュア", m:{"azur lane" : "スウィフトシュア(HMS Swiftsure)"}}
 ,"swirlix" : {v:"ペロッパフ"}
+,"swoobat" : {v:"ココロモリ"}
 ,"sword maiden" : {v:"剣の乙女"}
 ,"syaoran li" : {v:"李小狼"}
 ,"sylveon" : {v:"ニンフィア"}
@@ -27115,6 +27499,7 @@ var chars_ejdic = {
 ,"theseus" : {v:"シーシュース(HMS Theseus)"}
 ,"thievul" : {v:"フォクスライ"}
 ,"tia halibel" : {v:"ティア・ハリベル"}
+,"tiara basori" : {v:"馬剃天愛星"}
 ,"ticonderoga" : {v:"タイコンデロガ", m:{"azur lane" : "タイコンデロガ(USS Ticonderoga)"}}
 ,"tien" : {v:"エッセル"}
 ,"tierno" : {v:"ティエルノ"}
@@ -27163,6 +27548,7 @@ var chars_ejdic = {
 ,"torchic" : {v:"アチャモ"}
 ,"tori aoi" : {v:"葵・トーリ"}
 ,"toriel" : {v:"トリエル"}
+,"torkoal" : {v:"コータス"}
 ,"torracat" : {v:"ニャヒート"}
 ,"torricelli" : {v:"トリチェリ", m:{"azur lane" : "トリチェリ(RN Torricelli)"}}
 ,"toru asakura" : {v:"浅倉透"}
@@ -27230,6 +27616,7 @@ var chars_ejdic = {
 ,"u-556" : {v:"U-556", m:{"azur lane" : "U-556(KMS U-556)"}}
 ,"u-81" : {v:"U-81(KMS U-81)"}
 ,"u-96" : {v:"U-96(KMS U-96)"}
+,"ubel" : {v:"ユーベル"}
 ,"ui hirasawa" : {v:"平沢憂"}
 ,"ui kozeki" : {v:"古関ウイ"}
 ,"ukuru" : {v:"鵜来"}
@@ -27270,6 +27657,7 @@ var chars_ejdic = {
 ,"uzuki shimamura" : {v:"島村卯月"}
 ,"vajra" : {v:"ヴァジラ"}
 ,"valerie" : {v:"バレリー", m:{"pokemon" : "マーシュ"}}
+,"valiant" : {v:"ヴァリアント(Valiant)", m:{"azur lane" : "ヴァリアント(HMS Valiant)"}}
 ,"valkyrie" : {v:"ヴァルキリー", m:{"fate grand order" : "ワルキューレ", "valkyrie no bouken" : "ワルキューレ", "ufo princess valkyrie" : "ワるきゅーレ", "galzoo island" : "バルキリー"}}
 ,"vampire" : {v:"ヴァンパイア", m:{"azur lane" : "ヴァンパイア(HMS Vampire)", "etrian odyssey" : "闇の眷属"}}
 ,"vanguard" : {v:"ヴァンガード(HMS Vanguard)"}
@@ -27297,12 +27685,14 @@ var chars_ejdic = {
 ,"villager" : {v:"村人"}
 ,"villetta nu" : {v:"ヴィレッタ・ヌゥ"}
 ,"viola" : {v:"ビオラ"}
+,"viper" : {v:"バイパー", m:{"street fighter" : "クリムゾン・ヴァイパー", "keroro gunsou" : "ヴァイパー", "kung fu panda" : "マスター・バイパー", "sentouin hakenshimasu" : "魔王バイパー", "valorant" : "Viper"}}
 ,"vira" : {v:"ヴィーラ", m:{"punishing gray raven" : "ヴィラ"}}
 ,"virizion" : {v:"ビリジオン"}
 ,"vista-tan" : {v:"Vistaたん"}
 ,"vita" : {v:"ヴィータ", m:{"honkai gakuen" : "ヴィタ"}}
 ,"vittorio veneto" : {v:"ヴィットリオ・ヴェネト", m:{"azur lane" : "ヴィットリオ・ヴェネト(RN Vittorio Veneto)"}}
 ,"vivi nefertari" : {v:"ネフェルタリ・ビビ"}
+,"vivian banshee" : {v:"ビビアン・バンシー"}
 ,"vivio takamachi" : {v:"高町ヴィヴィオ"}
 ,"volcanion" : {v:"ボルケニオン"}
 ,"volga" : {v:"ヴォルガ", m:{"azur lane" : "ヴォルガ(SN Volga)"}}
@@ -27352,10 +27742,13 @@ var chars_ejdic = {
 ,"winona" : {v:"ウィノナ", m:{"pokemon" : "ナギ"}}
 ,"winry rockbell" : {v:"ウィンリィ・ロックベル"}
 ,"wise" : {v:"ワイズ", m:{"zenless zone zero" : "アキラ"}}
+,"wishiwashi" : {v:"ヨワシ"}
 ,"wiz" : {v:"ウィズ"}
 ,"wizard" : {v:"魔法使い"}
 ,"wobbuffet" : {v:"ソーナンス"}
 ,"wo-class" : {v:"ヲ級"}
+,"wooloo" : {v:"ウールー"}
+,"wooper" : {v:"ウパー"}
 ,"wriggle nightbug" : {v:"リグル・ナイトバグ"}
 ,"wu zetian" : {v:"武則天"}
 ,"wugtrio" : {v:"ウミトリオ"}
@@ -27365,6 +27758,7 @@ var chars_ejdic = {
 ,"xiao" : {v:"魈"}
 ,"xp-tan" : {v:"XPたん"}
 ,"xuanzang" : {v:"玄奘三蔵"}
+,"xurkitree" : {v:"デンジュモク"}
 ,"yachie kicchou" : {v:"吉弔八千慧"}
 ,"yae miko" : {v:"八重神子"}
 ,"yahagi" : {v:"矢矧"}
@@ -27473,7 +27867,7 @@ var chars_ejdic = {
 ,"yuni shingyouji" : {v:"真行寺由仁(ユニ)"}
 ,"yuniko kouzuki" : {v:"上月由仁子(スカーレット・レイン)"}
 ,"yunyun" : {v:"ゆんゆん"}
-,"yura" : {v:"由良", m:{"azur lane" : "由良(IJN Yura)"}}
+,"yura" : {v:"ゆら", m:{"kantai collection" : "由良", "azur lane" : "由良(IJN Yura)"}}
 ,"yuri" : {v:"ユリ", m:{"yu-gi-oh arc-v" : "ユーリ", "harvest moon" : "ユーリ"}}
 ,"yuri sakazaki" : {v:"ユリ・サカザキ"}
 ,"yurika misumaru" : {v:"ミスマル・ユリカ"}
@@ -27527,6 +27921,7 @@ var chars_ejdic = {
 ,"zangoose" : {v:"ザングース"}
 ,"zanmu nippaku" : {v:"日白残無"}
 ,"zara" : {v:"Zara(ザラ)", m:{"azur lane" : "ザラ(RN Zara)"}}
+,"zarude" : {v:"ザルード"}
 ,"zazie rainyday" : {v:"ザジ・レイニーデイ"}
 ,"zebstrika" : {v:"ゼブライカ"}
 ,"zekrom" : {v:"ゼクロム"}
