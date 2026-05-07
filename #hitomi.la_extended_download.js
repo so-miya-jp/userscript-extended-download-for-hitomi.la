@@ -521,6 +521,8 @@ if (typeof download_gallery != 'undefined') {
 		switch(type) {
 		case 'doujinshi':
 		case 'artist CG':
+		case 'image set':
+		case 'anime':
 			if ( groups.length > 0 ) {
 				filename += "[" + selectArray(groups, "group").join("、") + "]";
 			}
